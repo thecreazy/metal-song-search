@@ -4,14 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "script:downloadSong": "node ./scripts/downloadSongInformation.js"
+    "script:downloadSong": "node ./scripts/downloadSongInformation.js",
+    "script:uploadIntoRedis": "node ./scripts/uploadIntoRedis.js"
   },
   "author": "thecreazy <canella_riccardo@icloud.com>",
   "license": "ISC",
   "dependencies": {
+    "@node-redis/json": "^1.0.2",
     "axios": "^0.27.2",
     "better-logging": "^5.0.0",
     "csv-parser": "^3.0.0",
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "redis": "^4.1.0"
   }
 }

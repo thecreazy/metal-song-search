@@ -26,7 +26,7 @@ const startProcessing = async (songList) => {
             trackLyrics: lyrics,
             trackInfo: track,
           };
-        if (track) fs.writeFileSync(filePath, JSON.stringify(finalInfo, null, 4));  
+        if (lyrics) fs.writeFileSync(filePath, JSON.stringify(finalInfo, null, 4));  
         await delay(100);
         if(track) console.info(`finished for ${song.SONG} - ${song.ARTIST}`)
         if(!track) console.error(`error for ${song.SONG} - ${song.ARTIST} - ${track.id}`)
