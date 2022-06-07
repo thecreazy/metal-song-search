@@ -15,8 +15,24 @@ app.get('/', (_, res) => {
 
 app.get('/search', async (req, res) => {
     const { q } = req.query;
-    const response = await redis.search(q);
-    res.json(response).status(200);
+    if(!q) return res.json({}).status(404);
+    try{
+        const response = await redis.search(q);
+        return res.json(response).status(200);
+    }catch(e){
+        return res.json({}).status(500);
+    } 
+})
+
+app.get('/stats', async (_, res) => {
+    try{
+        const stats = await redis.stats();
+        return res.json(stats).status(200);
+    }catch(e){
+        console.log(e)
+        return res.json({error: true, stack: e.message}).status(500);
+    }
+   
 })
 
 app.listen(config.port, () => console.log(`BFF listening on port ${config.port}`));

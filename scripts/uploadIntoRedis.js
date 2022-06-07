@@ -3,6 +3,7 @@ const fs = require('fs');
 
 require('better-logging')(console);
 
+require('dotenv').config();
 const redis = require("./redis/index");
 
 const main = async () => {
