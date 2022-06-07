@@ -5,20 +5,22 @@ const client = redis.createClient({
 });
 
 const PREFIX_SEARCH = "metalmusic:jsondata"
+const INDEX_NAME= "idx:metalmusic";
 
 const enableClient = async () => {
     await client.connect();
-    // await client.ft.create('idx:metalmusic', {
-    //         "$.lyrics": redis.SchemaFieldTypes.TEXT,
-    //         "$.name": redis.SchemaFieldTypes.TEXT,
-    //         "$.artists.name": redis.SchemaFieldTypes.TEXT,
-    //         "$.album.name": redis.SchemaFieldTypes.TEXT,
-    //         "$.duration": redis.SchemaFieldTypes.NUMERIC,
-    //     }, {
-    //       ON: 'JSON',
-    //       PREFIX: PREFIX_SEARCH
-    //     }
-    //   );
+    await client.ft.dropIndex(INDEX_NAME);
+    await client.ft.create(INDEX_NAME, {
+            "$.lyrics": redis.SchemaFieldTypes.TEXT,
+            "$.name": redis.SchemaFieldTypes.TEXT,
+            "$.artists.name": redis.SchemaFieldTypes.TEXT,
+            "$.album.name": redis.SchemaFieldTypes.TEXT,
+            "$.duration": redis.SchemaFieldTypes.NUMERIC,
+        }, {
+          ON: 'JSON',
+          PREFIX: PREFIX_SEARCH
+        }
+      );
 }
 
 enableClient();
@@ -29,11 +31,16 @@ module.exports.addInfo = async (data) => {
 }
 
 module.exports.search = async (q) => {
-    return await client.ft.search('idx:metalmusic',q);
+    return await client.ft.search(INDEX_NAME,q, {
+        LIMIT: {
+            from: 0,
+            size: 5
+        }
+    });
 }
 
 module.exports.stats = async () =>{
-    return await client.ft.aggregate('idx:metalmusic', '*', {
+    return await client.ft.aggregate(INDEX_NAME, '*', {
         STEPS: [{
           type: redis.AggregateSteps.GROUPBY,
           REDUCE: [{
@@ -54,3 +61,4 @@ module.exports.stats = async () =>{
         }],
     })
 }
+
