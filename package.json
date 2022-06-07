@@ -8,7 +8,7 @@
     "script:uploadIntoRedis": "node ./scripts/uploadIntoRedis.js",
     "start": "node ./src/api/index.js",
     "app:dev": "npx parcel src/web/index.html",
-    "app:build": "rm -R docs && npx parcel build src/web/index.html --dist-dir docs/"
+    "app:build": "rm -R docs && npx parcel build src/web/index.html --dist-dir docs/ --public-url https://thecreazy.github.io/metal-song-search/"
   },
   "author": "thecreazy <canella_riccardo@icloud.com>",
   "license": "ISC",
