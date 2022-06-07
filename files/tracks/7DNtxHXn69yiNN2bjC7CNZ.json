@@ -1,0 +1,226 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Hang man coming better run to save your",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kids, your wives, your lives, your babies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hang the wire round the necks of liars alright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rain man on fire from the hells of Hades",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I see your face inside the blazes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hang'em higher come breathe the fire all night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh run, run Daddy got a shotgun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On your knees tonight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And never return",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh run, run Daddy's riding shotgun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On your knees to die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The devil's begging to burn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You better run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hang high your burning man of prey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're gonna burn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ooh, hang your burning man and pray",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You never live to see him burn again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The seed you sow coming home to hate you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Breathe your greed is there non to save you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hang the liar red with fire alright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A great seal to kneel for domination",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kill thir king you think they'd save you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give me fire and kill the liar all night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ash to ash, dust to be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Face in flames, your effagee",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The night time sky and see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The burning man's a liar",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1499971",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3BVkDHWRvLJEyKdvhLbjsq",
+                    "id": "3BVkDHWRvLJEyKdvhLbjsq",
+                    "name": "W.A.S.P.",
+                    "type": "artist",
+                    "uri": "spotify:artist:3BVkDHWRvLJEyKdvhLbjsq"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0LaB2JfGkJQqpZwGeNEEP7"
+            },
+            "href": "https://api.spotify.com/v1/albums/0LaB2JfGkJQqpZwGeNEEP7",
+            "id": "0LaB2JfGkJQqpZwGeNEEP7",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273989e5269651e5e785dc883d5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02989e5269651e5e785dc883d5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851989e5269651e5e785dc883d5",
+                    "width": 64
+                }
+            ],
+            "name": "Dominator",
+            "release_date": "2007",
+            "release_date_precision": "year",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:0LaB2JfGkJQqpZwGeNEEP7"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+                },
+                "href": "https://api.spotify.com/v1/artists/3BVkDHWRvLJEyKdvhLbjsq",
+                "id": "3BVkDHWRvLJEyKdvhLbjsq",
+                "name": "W.A.S.P.",
+                "type": "artist",
+                "uri": "spotify:artist:3BVkDHWRvLJEyKdvhLbjsq"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 279120,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ATN261560104"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7DNtxHXn69yiNN2bjC7CNZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7DNtxHXn69yiNN2bjC7CNZ",
+        "id": "7DNtxHXn69yiNN2bjC7CNZ",
+        "is_local": false,
+        "name": "The Burning Man",
+        "popularity": 22,
+        "preview_url": "https://p.scdn.co/mp3-preview/22965c16728d0048f26de2d348ec71cd77e62f32?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:7DNtxHXn69yiNN2bjC7CNZ"
+    }
+}

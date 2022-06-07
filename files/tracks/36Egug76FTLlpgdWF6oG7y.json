@@ -1,0 +1,316 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Behind the wheel just went along",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm tired of hearing the same old song",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I rule the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No end in sight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I think I'm going insane, oh yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Engines grind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I hit the red line",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm movin' fast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forget the past",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm burning tread",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Twenty four hours ago",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Got to escape",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't take any more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I grabbed my suitcase",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And kicked down the door",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've got blood shot eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hypnotized",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel no pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Engines grind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I hit the red line",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm movin' fast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forget the past",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm burning tread",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Twenty four hours ago",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Engines grind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I hit the red line",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm movin' fast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forget the past",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm burning tread",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Twenty four hours ago",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Twenty four hours ago",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "552760",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "compilation",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3N1B1g6JtIgd6ClRkzD4yT",
+                    "id": "3N1B1g6JtIgd6ClRkzD4yT",
+                    "name": "Savatage",
+                    "type": "artist",
+                    "uri": "spotify:artist:3N1B1g6JtIgd6ClRkzD4yT"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3n5R8CXLZJRFDPsbgXIGrh"
+            },
+            "href": "https://api.spotify.com/v1/albums/3n5R8CXLZJRFDPsbgXIGrh",
+            "id": "3n5R8CXLZJRFDPsbgXIGrh",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27358a545761fda376a3a67ada6",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0258a545761fda376a3a67ada6",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485158a545761fda376a3a67ada6",
+                    "width": 64
+                }
+            ],
+            "name": "Still the Orchestra Plays - Greatest Hits, Vol. 1 & 2",
+            "release_date": "2010-03-19",
+            "release_date_precision": "day",
+            "total_tracks": 23,
+            "type": "album",
+            "uri": "spotify:album:3n5R8CXLZJRFDPsbgXIGrh"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
+                },
+                "href": "https://api.spotify.com/v1/artists/3N1B1g6JtIgd6ClRkzD4yT",
+                "id": "3N1B1g6JtIgd6ClRkzD4yT",
+                "name": "Savatage",
+                "type": "artist",
+                "uri": "spotify:artist:3N1B1g6JtIgd6ClRkzD4yT"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 295906,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEH840900481"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/36Egug76FTLlpgdWF6oG7y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/36Egug76FTLlpgdWF6oG7y",
+        "id": "36Egug76FTLlpgdWF6oG7y",
+        "is_local": false,
+        "name": "24 Hours Ago",
+        "popularity": 7,
+        "preview_url": "https://p.scdn.co/mp3-preview/55e23fbecd2ec8b01113ed284fe8ece511429a77?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:36Egug76FTLlpgdWF6oG7y"
+    }
+}

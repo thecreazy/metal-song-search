@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I just can't believe my ears, some music out these days",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The human factor has diminished, in oh so many ways",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fancy footwork gets top bill and I'll put on such a show",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One more Midi cable and my band is ready to go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One more moneymaker and I'm set for life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stealing from others will make my future bright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One, make some money; two, overexpose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sincerity is felt much more when the human factor shows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When the human factor shows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I just need a sample cause no one says it's wrong",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's so easy to rip-off using someone else's songs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everybody wants to be a star in modern days",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But if I don't have talent then I'll just get by this way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Changing programs faster than I dare to say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Musicians all make mistakes who needs them anyway?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One, make some money; two, overexpose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sincerity is felt much more when the human factor shows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When the human factor shows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I just heard a song today I think I'll use a part",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Incorporate it my own way and that is just the start",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll change the lyrics that they wrote to satisfy my needs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I wrote the book. Two easy steps. \"How to succeed.\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I just can't believe my ears, some music out these days",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The human factor has diminished, in oh so many ways",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fancy footwork gets top bill and I'll put on such a show",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One more Midi cable and my band is ready to go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One more moneymaker and I'm set for life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stealing from others will make my future bright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One, make some money; two, overexpose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sincerity is felt much more when the human factor shows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When the human factor shows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When the human factor shows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When the human factor shows",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "70394684",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0exvkfkATkqWOJgugTjJhP",
+                    "id": "0exvkfkATkqWOJgugTjJhP",
+                    "name": "Metal Church",
+                    "type": "artist",
+                    "uri": "spotify:artist:0exvkfkATkqWOJgugTjJhP"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7o2HUQeuKW8neb7NtQ1vRo"
+            },
+            "href": "https://api.spotify.com/v1/albums/7o2HUQeuKW8neb7NtQ1vRo",
+            "id": "7o2HUQeuKW8neb7NtQ1vRo",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d4d987e4d07aac06c4db70a5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d4d987e4d07aac06c4db70a5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d4d987e4d07aac06c4db70a5",
+                    "width": 64
+                }
+            ],
+            "name": "Classic Live",
+            "release_date": "2017-04-28",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:7o2HUQeuKW8neb7NtQ1vRo"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+                },
+                "href": "https://api.spotify.com/v1/artists/0exvkfkATkqWOJgugTjJhP",
+                "id": "0exvkfkATkqWOJgugTjJhP",
+                "name": "Metal Church",
+                "type": "artist",
+                "uri": "spotify:artist:0exvkfkATkqWOJgugTjJhP"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 337838,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "TCACY1738025"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3dL040gPUGKyn823AlUbPS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3dL040gPUGKyn823AlUbPS",
+        "id": "3dL040gPUGKyn823AlUbPS",
+        "is_local": false,
+        "name": "The Human Factor (Live)",
+        "popularity": 3,
+        "preview_url": "https://p.scdn.co/mp3-preview/c6e9b1263d24577dd6271d151524260cde5ff33a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:3dL040gPUGKyn823AlUbPS"
+    }
+}

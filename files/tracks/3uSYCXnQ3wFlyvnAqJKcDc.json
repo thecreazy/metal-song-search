@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "A pall of dust rises from the east",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Four riders approaching - horses underneath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Each man has his hadn on his gun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As the sleeping village rose to meet the sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't want those kids in this place",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What they have done is a disgrace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too much evil in their eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shoot first, then ask why",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Black Jack Tillin' was looking for killing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quick draw McGraw was ready to draw",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And nobody stood a chance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As the undertaker took his stance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't want those killers in this town",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death and destruction all around",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too much evil in their eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shoot first and then ask why",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The man in black pointed his gun to the corner",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And smiled for ther parents who would mourn her",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Killer rode out of town",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their murdered victims twisted on the ground",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1970609",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "single",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1MZ8NERIuOS610KBhr6yna",
+                    "id": "1MZ8NERIuOS610KBhr6yna",
+                    "name": "Tygers Of Pan Tang",
+                    "type": "artist",
+                    "uri": "spotify:artist:1MZ8NERIuOS610KBhr6yna"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/543KbAw4GeaDdYEDdLuWIh"
+            },
+            "href": "https://api.spotify.com/v1/albums/543KbAw4GeaDdYEDdLuWIh",
+            "id": "543KbAw4GeaDdYEDdLuWIh",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e828408da369c220c97ccb7d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e828408da369c220c97ccb7d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e828408da369c220c97ccb7d",
+                    "width": 64
+                }
+            ],
+            "name": "A New Heartbeat",
+            "release_date": "2022-04-22",
+            "release_date_precision": "day",
+            "total_tracks": 4,
+            "type": "album",
+            "uri": "spotify:album:543KbAw4GeaDdYEDdLuWIh"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna"
+                },
+                "href": "https://api.spotify.com/v1/artists/1MZ8NERIuOS610KBhr6yna",
+                "id": "1MZ8NERIuOS610KBhr6yna",
+                "name": "Tygers Of Pan Tang",
+                "type": "artist",
+                "uri": "spotify:artist:1MZ8NERIuOS610KBhr6yna"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 336343,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DKQ4A2103304"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3uSYCXnQ3wFlyvnAqJKcDc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3uSYCXnQ3wFlyvnAqJKcDc",
+        "id": "3uSYCXnQ3wFlyvnAqJKcDc",
+        "is_local": false,
+        "name": "Killers - 2022",
+        "popularity": 21,
+        "preview_url": "https://p.scdn.co/mp3-preview/ff611b7c99873b4d974b63e26068257d73ae0004?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3uSYCXnQ3wFlyvnAqJKcDc"
+    }
+}

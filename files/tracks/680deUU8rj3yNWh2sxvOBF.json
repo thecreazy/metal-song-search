@@ -1,0 +1,266 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Ten heavy feet walks the bloodsoiled ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With rhythm these five warriors march",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No matter how much the bleeding wounds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From enemy swordcuts hurts to the bone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The revenge they sought",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Was taken in blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No mercy was showed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No mercy was showed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They ignore the pain that hammerlike pounds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From falls, off slain horses, to the ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No signs of weakness, no signs of weariness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Not even a glimpse of remorse in their eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They slew men ruthless, fed the wolves with flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And now they leave this land side by side",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now they're headed home",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Five swordsmen who fought repentlessly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their story will be told",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of five brave men, endlessly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All sorrow is left",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For the women to bare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The children cries",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They'll live in fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No man was spared",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No house or farm remains",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No christian woman unraped",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their church consumed by flames",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "By flames",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their church consumed by flames",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their steel shines red with enemy blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It sings of victory granted by the gods",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And as they return",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bleeding but proud",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The horizon burns",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the song is ringing loud",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "555606",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3pulcT2wt7FEG10lQlqDJL",
+                    "id": "3pulcT2wt7FEG10lQlqDJL",
+                    "name": "Amon Amarth",
+                    "type": "artist",
+                    "uri": "spotify:artist:3pulcT2wt7FEG10lQlqDJL"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3Wo97FdnYr8I0ya1nMdKeT"
+            },
+            "href": "https://api.spotify.com/v1/albums/3Wo97FdnYr8I0ya1nMdKeT",
+            "id": "3Wo97FdnYr8I0ya1nMdKeT",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27396397eb0d8ccb1e57b3934e4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0296397eb0d8ccb1e57b3934e4",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485196397eb0d8ccb1e57b3934e4",
+                    "width": 64
+                }
+            ],
+            "name": "Once Sent From The Golden Hall (Bonus Edition)",
+            "release_date": "1997",
+            "release_date_precision": "year",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:3Wo97FdnYr8I0ya1nMdKeT"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+                },
+                "href": "https://api.spotify.com/v1/artists/3pulcT2wt7FEG10lQlqDJL",
+                "id": "3pulcT2wt7FEG10lQlqDJL",
+                "name": "Amon Amarth",
+                "type": "artist",
+                "uri": "spotify:artist:3pulcT2wt7FEG10lQlqDJL"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 475853,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USMBR0906293"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/680deUU8rj3yNWh2sxvOBF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/680deUU8rj3yNWh2sxvOBF",
+        "id": "680deUU8rj3yNWh2sxvOBF",
+        "is_local": false,
+        "name": "Victorious March",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/71b2ed91cef9254deef97e3da29c0c9466abca95?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:680deUU8rj3yNWh2sxvOBF"
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "You know I'm bad, the times I've had",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've got a bad reputation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't care, I get my share",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't feel no deprivation, I don't",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The more I get, the better it is",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I like it fine, I like a little whizz",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Treat 'em like ladies, that's a fact",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know the chase is better than the catch, you know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The silver tongued Devil, demon letch",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know just what I'm doing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I like a little innocent bitch",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know I ain't just screwing, I ain't",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I love you baby, know you're too much",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I like it fine, I feel your touch",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But your appearance don't hold no class",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know the chase is better than the catch, you know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A little beauty, I love you madly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come on home with me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know you're hot, I know what you've got",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know I wanna shake your tree, they know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come on, honey, touch me right there",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come on, honey, don't you get scared",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come on, honey, let me get you in the sack",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know the chase is better than the catch, you know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All right!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come on-on-on!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me hear ya",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me hear ya",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me hear ya",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me hear ya",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can't hear ya",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can't hear ya",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can't hear ya, can't hear!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "457176",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                    "id": "1DFr97A9HnbV3SKTJFu62M",
+                    "name": "Motörhead",
+                    "type": "artist",
+                    "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+            },
+            "href": "https://api.spotify.com/v1/albums/3rxF05Aux0QTrN533Kjc91",
+            "id": "3rxF05Aux0QTrN533Kjc91",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27392063103a9c8608d8bf59e38",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0292063103a9c8608d8bf59e38",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485192063103a9c8608d8bf59e38",
+                    "width": 64
+                }
+            ],
+            "name": "Ace of Spades (Expanded Edition)",
+            "release_date": "1980-11-08",
+            "release_date_precision": "day",
+            "total_tracks": 27,
+            "type": "album",
+            "uri": "spotify:album:3rxF05Aux0QTrN533Kjc91"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                },
+                "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                "id": "1DFr97A9HnbV3SKTJFu62M",
+                "name": "Motörhead",
+                "type": "artist",
+                "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 256986,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE0502021"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1NoJzyzXzZWHGRVYxlM5u6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1NoJzyzXzZWHGRVYxlM5u6",
+        "id": "1NoJzyzXzZWHGRVYxlM5u6",
+        "is_local": false,
+        "name": "The Chase Is Better Than the Catch",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/430a402287496c3bf30ad411a6f1c0a9b4055ea7?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:1NoJzyzXzZWHGRVYxlM5u6"
+    }
+}

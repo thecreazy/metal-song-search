@@ -1,0 +1,261 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "\"Welcome to the fall\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome millennium, the fall of planet hate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome the end my friend, all the world's the stage",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome to the future, the world is black no turning",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From the consequence of ignorance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome to the fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beyond within, enact, enable",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Create the past, non-existent fables",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome to the fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tension, delirium, growing everyday",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another suicide shocks the world again, I watch in apathy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bleed until tomorrow, whosoever does not believe in me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome to the fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beyond within, enact, enable",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Create the past, non-existent fables",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome to the fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can I bring you down again, can I make you feel?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can I lift you up into the dreaming trip sureal?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can I taste the future shock, spit out all the games?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Do you know my name, do you know my number?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cracking under strange constrictions, Mr. Ordinary Visionary",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Solo T.C.)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Solo J.L.)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome millennium, the fall of planet hate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome the end my friend, all the world's the stage",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome to the future, the world is black no turning",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From the consequence of ignorance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beyond within, enact, enable",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Create the past, nonexistent fables",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beyond within, enact, enable",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Create the past, nonexistent fables",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome to the fall of one man's sanity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1111718",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1wUArE0NhHB8M1bU2WSplY",
+                    "id": "1wUArE0NhHB8M1bU2WSplY",
+                    "name": "Nevermore",
+                    "type": "artist",
+                    "uri": "spotify:artist:1wUArE0NhHB8M1bU2WSplY"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0C3puNFNfpDwVHEZNU4Shx"
+            },
+            "href": "https://api.spotify.com/v1/albums/0C3puNFNfpDwVHEZNU4Shx",
+            "id": "0C3puNFNfpDwVHEZNU4Shx",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fe2ee926021aeba3577c251a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fe2ee926021aeba3577c251a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851fe2ee926021aeba3577c251a",
+                    "width": 64
+                }
+            ],
+            "name": "Dreaming Neon Black",
+            "release_date": "1999-07-13",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:0C3puNFNfpDwVHEZNU4Shx"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY"
+                },
+                "href": "https://api.spotify.com/v1/artists/1wUArE0NhHB8M1bU2WSplY",
+                "id": "1wUArE0NhHB8M1bU2WSplY",
+                "name": "Nevermore",
+                "type": "artist",
+                "uri": "spotify:artist:1wUArE0NhHB8M1bU2WSplY"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 311933,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40489102"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2QXUgQylQxN4N37yXQVoYp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2QXUgQylQxN4N37yXQVoYp",
+        "id": "2QXUgQylQxN4N37yXQVoYp",
+        "is_local": false,
+        "name": "Beyond Within",
+        "popularity": 22,
+        "preview_url": "https://p.scdn.co/mp3-preview/55a2a28b7ab1c166fd41b6c7344539647e39f024?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2QXUgQylQxN4N37yXQVoYp"
+    }
+}

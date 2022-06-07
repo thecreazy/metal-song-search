@@ -1,0 +1,226 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "It is 1999",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The human race has to face it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They are confronted with the truth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's secret, mysterious",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A surgeon said it in the news",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The human race is dying",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But the result is no disease",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Searching for you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metal heart, metal heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They found it everywhere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metal heart, metal heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lifeless piece of steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The scaring fact was even told",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Total confusion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They found the same nightmare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heartbeats, timebombs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metal heart, metal heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Unplugged they're dying",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metal heart, metal heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Unplugged they die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metal heart, metal heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They found it everywhere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metal heart, metal heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lifeless piece of steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metal heart, metal heart, metal heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Unplugged they're dying",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metal heart, metal heart",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "88034229",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3JDIAtVrJdQ7GFOX26LYpv",
+                    "id": "3JDIAtVrJdQ7GFOX26LYpv",
+                    "name": "Accept",
+                    "type": "artist",
+                    "uri": "spotify:artist:3JDIAtVrJdQ7GFOX26LYpv"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3aNoUWVxh05ahM2uHaEhKp"
+            },
+            "href": "https://api.spotify.com/v1/albums/3aNoUWVxh05ahM2uHaEhKp",
+            "id": "3aNoUWVxh05ahM2uHaEhKp",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ce182066116ba4cd8b0a9cfc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ce182066116ba4cd8b0a9cfc",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ce182066116ba4cd8b0a9cfc",
+                    "width": 64
+                }
+            ],
+            "name": "Metal Heart",
+            "release_date": "1985-05-24",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:3aNoUWVxh05ahM2uHaEhKp"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+                },
+                "href": "https://api.spotify.com/v1/artists/3JDIAtVrJdQ7GFOX26LYpv",
+                "id": "3JDIAtVrJdQ7GFOX26LYpv",
+                "name": "Accept",
+                "type": "artist",
+                "uri": "spotify:artist:3JDIAtVrJdQ7GFOX26LYpv"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 323666,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM18500740"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4f73ikIdf3E1r89cRzo7e6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4f73ikIdf3E1r89cRzo7e6",
+        "id": "4f73ikIdf3E1r89cRzo7e6",
+        "is_local": false,
+        "name": "Metal Heart",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/566854634d33e9a3f2ed9c0073b31186a6a1acdd?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4f73ikIdf3E1r89cRzo7e6"
+    }
+}

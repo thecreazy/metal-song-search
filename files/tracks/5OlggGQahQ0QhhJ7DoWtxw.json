@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "A wind carries your scent",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To those who will find you out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A storm forces you down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To seek shelter from the rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your trail leads to a mine of cyanide and gold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A free falling darkness leads you to yourself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am low to the ground again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have the future bearing on down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I run with the starlight to the end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The tail of the echo subsides",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Now oath breaker sinks low x2)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So I crawl through the hailstones",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My eyes fixed on my return",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Now oath breaker sinks low x2)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time brings them all home",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the eye of every storm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "589137",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1KHydwFySZY3YcWyo2q2dF",
+                    "id": "1KHydwFySZY3YcWyo2q2dF",
+                    "name": "Neurosis",
+                    "type": "artist",
+                    "uri": "spotify:artist:1KHydwFySZY3YcWyo2q2dF"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7hQOYyeg2J1n93TkR1EZgJ"
+            },
+            "href": "https://api.spotify.com/v1/albums/7hQOYyeg2J1n93TkR1EZgJ",
+            "id": "7hQOYyeg2J1n93TkR1EZgJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27308dbe1ba60449c3bfecb633c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0208dbe1ba60449c3bfecb633c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485108dbe1ba60449c3bfecb633c",
+                    "width": 64
+                }
+            ],
+            "name": "The Eye of Every Storm",
+            "release_date": "2004-06-29",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:7hQOYyeg2J1n93TkR1EZgJ"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+                },
+                "href": "https://api.spotify.com/v1/artists/1KHydwFySZY3YcWyo2q2dF",
+                "id": "1KHydwFySZY3YcWyo2q2dF",
+                "name": "Neurosis",
+                "type": "artist",
+                "uri": "spotify:artist:1KHydwFySZY3YcWyo2q2dF"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 716693,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4JA0400034"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5OlggGQahQ0QhhJ7DoWtxw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5OlggGQahQ0QhhJ7DoWtxw",
+        "id": "5OlggGQahQ0QhhJ7DoWtxw",
+        "is_local": false,
+        "name": "The Eye of Every Storm",
+        "popularity": 16,
+        "preview_url": "https://p.scdn.co/mp3-preview/b84d4d8506632bc927c47f4997ec2a4305dbe531?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5OlggGQahQ0QhhJ7DoWtxw"
+    }
+}

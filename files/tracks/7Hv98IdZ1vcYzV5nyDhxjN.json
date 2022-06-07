@@ -1,0 +1,261 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "No way out of your misery",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alone in pain and agony",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lay depressed and hollow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One thought in your mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No Tomorrow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And then you had made up your mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And thought it was your time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You left this world without shedding a tear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Without hope, without fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So you thought you'd just put your head into the noose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And let it all go... and so you did",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh yeah, you did",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now you come haunting every night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Calling my name until I",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wake up feeling this sorrow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One thought in my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will follow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll drink the booze to depress myself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then I take the rope and express myself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll leave this world without shedding a tear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Without hope, without fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I think I'll just put my head into the noose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And let it all go... and so I will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I think I'll just put my head into the noose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And let it all go... and so I will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh yeah, I will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll take the rope, just like you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And wherever you are, I'll be too",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I think I'll just put my head into the noose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And let it all go... and so I will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I think I'll just put my head into the noose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And let it all go... and so I will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh yeah, I will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1112316",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5jQPKWBobu6cJwGSbbqgCk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5jQPKWBobu6cJwGSbbqgCk",
+                    "id": "5jQPKWBobu6cJwGSbbqgCk",
+                    "name": "Sentenced",
+                    "type": "artist",
+                    "uri": "spotify:artist:5jQPKWBobu6cJwGSbbqgCk"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1cfDM1wSKKvPVqdT5wbKy9"
+            },
+            "href": "https://api.spotify.com/v1/albums/1cfDM1wSKKvPVqdT5wbKy9",
+            "id": "1cfDM1wSKKvPVqdT5wbKy9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273905e300bc4801aae0dd76717",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02905e300bc4801aae0dd76717",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851905e300bc4801aae0dd76717",
+                    "width": 64
+                }
+            ],
+            "name": "Down",
+            "release_date": "1997-07-13",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:1cfDM1wSKKvPVqdT5wbKy9"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5jQPKWBobu6cJwGSbbqgCk"
+                },
+                "href": "https://api.spotify.com/v1/artists/5jQPKWBobu6cJwGSbbqgCk",
+                "id": "5jQPKWBobu6cJwGSbbqgCk",
+                "name": "Sentenced",
+                "type": "artist",
+                "uri": "spotify:artist:5jQPKWBobu6cJwGSbbqgCk"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 241266,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40484602"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7Hv98IdZ1vcYzV5nyDhxjN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7Hv98IdZ1vcYzV5nyDhxjN",
+        "id": "7Hv98IdZ1vcYzV5nyDhxjN",
+        "is_local": false,
+        "name": "Noose",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/bc432901eacf72542cc34f69e12d090ce3eefe9e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7Hv98IdZ1vcYzV5nyDhxjN"
+    }
+}

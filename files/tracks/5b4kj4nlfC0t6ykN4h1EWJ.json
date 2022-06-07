@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I have got to change my ways",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause I'm losing my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have got to stop drinking",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause I'm dying inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel twice as old as I am",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And it's getting worse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm in the palm of habit's hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can't escape the curse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There is nothing that I can do",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have no self control",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have let myself become dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have ruined my soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Every time I wake up sick",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I say never again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But then opportunity knocks",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I'm wasted my friend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can't control my addiction",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've tried time and time again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm losing all my friends and lovers",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alcohol knows it's gonna win",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now I have lost everything",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I really don't care",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everybody that I have known",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Has out cast me here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Drinking has wasted my life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I'm dying inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel twice as old as I am",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've lost what left of my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can't control my addiction",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've tried time and time again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm losing all my friends and lovers",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alcohol knows it's gonna win",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2089101",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/64yj4wx5kNH3NTUW0ghyxn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/64yj4wx5kNH3NTUW0ghyxn",
+                    "id": "64yj4wx5kNH3NTUW0ghyxn",
+                    "name": "Saint Vitus",
+                    "type": "artist",
+                    "uri": "spotify:artist:64yj4wx5kNH3NTUW0ghyxn"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6CyKigkGRtW3xTDZczqlRC"
+            },
+            "href": "https://api.spotify.com/v1/albums/6CyKigkGRtW3xTDZczqlRC",
+            "id": "6CyKigkGRtW3xTDZczqlRC",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733142971bf80e21bdb95e5d50",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023142971bf80e21bdb95e5d50",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513142971bf80e21bdb95e5d50",
+                    "width": 64
+                }
+            ],
+            "name": "Born Too Late",
+            "release_date": "1987",
+            "release_date_precision": "year",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:6CyKigkGRtW3xTDZczqlRC"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/64yj4wx5kNH3NTUW0ghyxn"
+                },
+                "href": "https://api.spotify.com/v1/artists/64yj4wx5kNH3NTUW0ghyxn",
+                "id": "64yj4wx5kNH3NTUW0ghyxn",
+                "name": "Saint Vitus",
+                "type": "artist",
+                "uri": "spotify:artist:64yj4wx5kNH3NTUW0ghyxn"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 444313,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USA370539048"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5b4kj4nlfC0t6ykN4h1EWJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5b4kj4nlfC0t6ykN4h1EWJ",
+        "id": "5b4kj4nlfC0t6ykN4h1EWJ",
+        "is_local": false,
+        "name": "Dying Inside",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/380bce5766918e4becc0d6c9a8d67b3195c81419?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5b4kj4nlfC0t6ykN4h1EWJ"
+    }
+}

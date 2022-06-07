@@ -1,0 +1,226 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I get all numb",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When she sings that \"It's over\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Such a strange numb",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And it brings my knees to the earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And God bless you all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For the song you sang us",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're the same numb",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When you sing \"It's over\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Such a strange numb",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It could bring back peace to the Earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So God bless you all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For the song you sang us all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For the hearts you break",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Every time you moan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I get all numb",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're the same numb",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And it brings our knees to the earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So God bless you all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For the song you sang us all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For the hearts you break",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Every time you moan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And God bless you all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On the Earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "88794",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH",
+                    "id": "6Ghvu1VvMGScGpOUJBAHNH",
+                    "name": "Deftones",
+                    "type": "artist",
+                    "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP"
+            },
+            "href": "https://api.spotify.com/v1/albums/6252G7bGCVijXlqAjtjeDP",
+            "id": "6252G7bGCVijXlqAjtjeDP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c09a38cf054085b18eeb88ae",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c09a38cf054085b18eeb88ae",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c09a38cf054085b18eeb88ae",
+                    "width": 64
+                }
+            ],
+            "name": "Deftones",
+            "release_date": "2003-05-19",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:6252G7bGCVijXlqAjtjeDP"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+                },
+                "href": "https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH",
+                "id": "6Ghvu1VvMGScGpOUJBAHNH",
+                "name": "Deftones",
+                "type": "artist",
+                "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 257813,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USMV20300027"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1gzWd0ILFaCoHUfQSkCIvl",
+        "id": "1gzWd0ILFaCoHUfQSkCIvl",
+        "is_local": false,
+        "name": "Minerva",
+        "popularity": 59,
+        "preview_url": "https://p.scdn.co/mp3-preview/cab3548fb274c65ecf028a3568780c6cbecfc24c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1gzWd0ILFaCoHUfQSkCIvl"
+    }
+}

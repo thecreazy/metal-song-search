@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Scrambled signals on the radio",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Orders are given to attack",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flames light the sky from over the hill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No time for turning back",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Well, the blood lust runs cold inside my veins",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Twisting tormenting my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel a scream from deep inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It lets me know I'm the killin' kind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gonna yell, unleash this demon rage",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scream, I'm a tiger in a cage",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yell, I'm on the prowl again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scream",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A soldier on the streets somewhere in L.A.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Preparing this night for the attack",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Swinging chains and switchblade knives",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feel the nails in my baseball bat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Well, I love to fight, I love to screw",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feel my heat begin to rise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't walk the street at night, my friend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Or you're in for a surprise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Playing on the sheets of untold sin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who can tell what the darkness withholds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spread your wings and we can fly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bodies ready to explode",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Touch me, thrill me, you can scratch me, love",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Get me in your stranglehold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Well, you make me moan, I'll make you yell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Passions uncontrolled, uncontrolled",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "539399",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2JR4c1UoM1JGxm4wIJ27v1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2JR4c1UoM1JGxm4wIJ27v1",
+                    "id": "2JR4c1UoM1JGxm4wIJ27v1",
+                    "name": "Jag Panzer",
+                    "type": "artist",
+                    "uri": "spotify:artist:2JR4c1UoM1JGxm4wIJ27v1"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3hPCZTIpDH9trdWcirCnGW"
+            },
+            "href": "https://api.spotify.com/v1/albums/3hPCZTIpDH9trdWcirCnGW",
+            "id": "3hPCZTIpDH9trdWcirCnGW",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a5f4c341cd5cbb8416196bf8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a5f4c341cd5cbb8416196bf8",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a5f4c341cd5cbb8416196bf8",
+                    "width": 64
+                }
+            ],
+            "name": "Ample Destruction",
+            "release_date": "1984",
+            "release_date_precision": "year",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:3hPCZTIpDH9trdWcirCnGW"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2JR4c1UoM1JGxm4wIJ27v1"
+                },
+                "href": "https://api.spotify.com/v1/artists/2JR4c1UoM1JGxm4wIJ27v1",
+                "id": "2JR4c1UoM1JGxm4wIJ27v1",
+                "name": "Jag Panzer",
+                "type": "artist",
+                "uri": "spotify:artist:2JR4c1UoM1JGxm4wIJ27v1"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 182360,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBDHC1247001"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1mvF5DyiiSUF9DHo9VJRea"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1mvF5DyiiSUF9DHo9VJRea",
+        "id": "1mvF5DyiiSUF9DHo9VJRea",
+        "is_local": false,
+        "name": "Licensed to Kill",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/da4efb371bc7629dfb20c218bf2a4217072875d2?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1mvF5DyiiSUF9DHo9VJRea"
+    }
+}

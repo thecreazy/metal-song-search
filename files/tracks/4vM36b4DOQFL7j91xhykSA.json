@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Gotta bar lean, I'm looking mean",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I need a drink, I've gotta drink to think",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You say I'm drunk but that's me in the mirror",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Looking for a fight who says \"...\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come and hit me, falling to the ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Knee me in the groin, won't make a sound",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Head over heels for a fight with you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm gonna teach you a trick or two",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(CHORUS:)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know in my life, I've been a fighting man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hard times hit me, now I'm going down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know in my life, I've been a fighting man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hard times hit me, now I'm going",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now I'm going down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Back to the wall and out for the count",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rock and reel, do you know how I feel?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Swim in swinging I'm blind as an eel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't you push cause I'm coming back",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You come and hit me, falling to the ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Knee me in the groin, won't make a sound",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Head over heels for a fight with you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm gonna teach you a trick or two",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(REPEAT CHORUS)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(SOLO)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know in my life, I've been a fighting man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hard times hit me, now I'm going down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know in my life, I've been a fighting man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hard times hit me, now I'm going down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(REPEAT CHORUS)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2985632",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0s4JwoiTHqruatpqAR0IZ7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0s4JwoiTHqruatpqAR0IZ7",
+                    "id": "0s4JwoiTHqruatpqAR0IZ7",
+                    "name": "Samson",
+                    "type": "artist",
+                    "uri": "spotify:artist:0s4JwoiTHqruatpqAR0IZ7"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4iA3HD1PnRMaVmcXv4uYlT"
+            },
+            "href": "https://api.spotify.com/v1/albums/4iA3HD1PnRMaVmcXv4uYlT",
+            "id": "4iA3HD1PnRMaVmcXv4uYlT",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e034a022d99785297615a996",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e034a022d99785297615a996",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e034a022d99785297615a996",
+                    "width": 64
+                }
+            ],
+            "name": "Head On (Bonus Tracks Edition)",
+            "release_date": "1980-06-27",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:4iA3HD1PnRMaVmcXv4uYlT"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0s4JwoiTHqruatpqAR0IZ7"
+                },
+                "href": "https://api.spotify.com/v1/artists/0s4JwoiTHqruatpqAR0IZ7",
+                "id": "0s4JwoiTHqruatpqAR0IZ7",
+                "name": "Samson",
+                "type": "artist",
+                "uri": "spotify:artist:0s4JwoiTHqruatpqAR0IZ7"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 278946,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE8000061"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4vM36b4DOQFL7j91xhykSA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4vM36b4DOQFL7j91xhykSA",
+        "id": "4vM36b4DOQFL7j91xhykSA",
+        "is_local": false,
+        "name": "Hard Times",
+        "popularity": 18,
+        "preview_url": "https://p.scdn.co/mp3-preview/826b41797d336aeb091b74359c1f76d7f4b0d848?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4vM36b4DOQFL7j91xhykSA"
+    }
+}

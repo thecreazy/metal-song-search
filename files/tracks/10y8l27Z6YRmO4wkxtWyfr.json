@@ -1,0 +1,201 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Confront me unholy ones",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bastard saints scorn of the earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I summon thee now poison me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death under will burn in my soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Exalt me enemies of the lamb",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Intrude - We are of one",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Under will, I walk the path of sin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With your spells I die again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Raise me from mortal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My will be your will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My words speak your words",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your pains raise me to bliss",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What of this anger now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Received to lance your enemy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel the energy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The poison moves in me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I spill blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scorn of the earth, I witness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In rapture I'm born again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scorn of the light, I bear scorn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In rapture I'm reborn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "712894",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/35jmO5o3AhUV70kiR7u4Nw",
+                    "id": "35jmO5o3AhUV70kiR7u4Nw",
+                    "name": "Morbid Angel",
+                    "type": "artist",
+                    "uri": "spotify:artist:35jmO5o3AhUV70kiR7u4Nw"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2zcm0oh6wOoWR2IbZ9p41c"
+            },
+            "href": "https://api.spotify.com/v1/albums/2zcm0oh6wOoWR2IbZ9p41c",
+            "id": "2zcm0oh6wOoWR2IbZ9p41c",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736c829775bb2f68cd0c570e9f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026c829775bb2f68cd0c570e9f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516c829775bb2f68cd0c570e9f",
+                    "width": 64
+                }
+            ],
+            "name": "Covenant (Full Dynamic Range Edition)",
+            "release_date": "1993",
+            "release_date_precision": "year",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2zcm0oh6wOoWR2IbZ9p41c"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw"
+                },
+                "href": "https://api.spotify.com/v1/artists/35jmO5o3AhUV70kiR7u4Nw",
+                "id": "35jmO5o3AhUV70kiR7u4Nw",
+                "name": "Morbid Angel",
+                "type": "artist",
+                "uri": "spotify:artist:35jmO5o3AhUV70kiR7u4Nw"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 258826,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBPB1302991"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/10y8l27Z6YRmO4wkxtWyfr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/10y8l27Z6YRmO4wkxtWyfr",
+        "id": "10y8l27Z6YRmO4wkxtWyfr",
+        "is_local": false,
+        "name": "Rapture",
+        "popularity": 30,
+        "preview_url": "https://p.scdn.co/mp3-preview/d98dde9a4c8a43d59615af38d0ecb5f8bc74af18?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:10y8l27Z6YRmO4wkxtWyfr"
+    }
+}

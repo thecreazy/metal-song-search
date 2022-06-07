@@ -1,0 +1,176 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I'm waiting for your hands",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To fold around my wrist",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm mellowing in warm grass",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the scent of you I've missed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And blue is representing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The draft in my heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm wandering through thin skies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the transparent air I've missed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pale is my face",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You might want to colour",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "While I breathe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm following large drops of rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With my eyes on the sight of you I've missed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pale is my face",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You might want to colour",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "While I breathe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "991192",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2kO6zjt4a1OIqxOERhliEX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2kO6zjt4a1OIqxOERhliEX",
+                    "id": "2kO6zjt4a1OIqxOERhliEX",
+                    "name": "The Gathering",
+                    "type": "artist",
+                    "uri": "spotify:artist:2kO6zjt4a1OIqxOERhliEX"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0K2KgF0f6iq35vApuNfxXS"
+            },
+            "href": "https://api.spotify.com/v1/albums/0K2KgF0f6iq35vApuNfxXS",
+            "id": "0K2KgF0f6iq35vApuNfxXS",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273618eb0955a86a89b34f6f2f3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02618eb0955a86a89b34f6f2f3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851618eb0955a86a89b34f6f2f3",
+                    "width": 64
+                }
+            ],
+            "name": "Nighttime Birds",
+            "release_date": "1997-07-13",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:0K2KgF0f6iq35vApuNfxXS"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2kO6zjt4a1OIqxOERhliEX"
+                },
+                "href": "https://api.spotify.com/v1/artists/2kO6zjt4a1OIqxOERhliEX",
+                "id": "2kO6zjt4a1OIqxOERhliEX",
+                "name": "The Gathering",
+                "type": "artist",
+                "uri": "spotify:artist:2kO6zjt4a1OIqxOERhliEX"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 224493,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40586803"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5gUtyxw5vCc4vsoTHcN0SU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5gUtyxw5vCc4vsoTHcN0SU",
+        "id": "5gUtyxw5vCc4vsoTHcN0SU",
+        "is_local": false,
+        "name": "The May Song",
+        "popularity": 23,
+        "preview_url": "https://p.scdn.co/mp3-preview/45ea4c6d140bd19632fd4e4dc5aec00430d4e20b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5gUtyxw5vCc4vsoTHcN0SU"
+    }
+}

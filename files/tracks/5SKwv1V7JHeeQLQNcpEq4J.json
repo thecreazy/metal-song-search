@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Leech of power wanting more as you feed - never satisfied",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Crowned usurper wasting time and our wealth - you must go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And we'll see him falling now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Christian ruler die!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "See you falling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kingslayer rise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All false methods you're arrogant and vain - above the law",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your blood is feeble a failing line of heirs - down you go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And we'll see him falling now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Christian ruler die!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "See you falling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kingslayer rise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kingslayer rise!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And we'll see him falling now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Christian ruler die!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "See you falling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kingslayer rise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "2. Nine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nine, nine days of pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Been discovering",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nine, reborn again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wisdom filling him",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wield the sword",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hanged, by free will doomed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Trusting just in strength",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hanged, rewarded soon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Growing tall again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wield the sword",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "3058578",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7GTkjp7qsfmx8iJzBUQLmN",
+                    "id": "7GTkjp7qsfmx8iJzBUQLmN",
+                    "name": "Grand Magus",
+                    "type": "artist",
+                    "uri": "spotify:artist:7GTkjp7qsfmx8iJzBUQLmN"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4eVVPwjekJ8QzmfBMuZpBh"
+            },
+            "href": "https://api.spotify.com/v1/albums/4eVVPwjekJ8QzmfBMuZpBh",
+            "id": "4eVVPwjekJ8QzmfBMuZpBh",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a184452b6b3be86b5cdb97df",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a184452b6b3be86b5cdb97df",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a184452b6b3be86b5cdb97df",
+                    "width": 64
+                }
+            ],
+            "name": "Wolf's Return",
+            "release_date": "2005-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:4eVVPwjekJ8QzmfBMuZpBh"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN"
+                },
+                "href": "https://api.spotify.com/v1/artists/7GTkjp7qsfmx8iJzBUQLmN",
+                "id": "7GTkjp7qsfmx8iJzBUQLmN",
+                "name": "Grand Magus",
+                "type": "artist",
+                "uri": "spotify:artist:7GTkjp7qsfmx8iJzBUQLmN"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 250213,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBMLU0506001"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5SKwv1V7JHeeQLQNcpEq4J"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5SKwv1V7JHeeQLQNcpEq4J",
+        "id": "5SKwv1V7JHeeQLQNcpEq4J",
+        "is_local": false,
+        "name": "Kingslayer",
+        "popularity": 16,
+        "preview_url": "https://p.scdn.co/mp3-preview/8ae099c0f936ef6cf0697193f42075279c0508dc?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5SKwv1V7JHeeQLQNcpEq4J"
+    }
+}

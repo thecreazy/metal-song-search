@@ -1,0 +1,196 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "The tales that speak of frost and fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Frost Monstreme and the Fire Divine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The frost preserves and the fire destroys",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like pouring rain on the sands of time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel it burning and I feel the freeze",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The frost, the fire, it burns inside of me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The tales that speak of frost and fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The guardian angels and the demons of night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The power preserves and the Beast will destroy us",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like gathering darkness in the circle of light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel it burning and I feel the freeze",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The frost, the fire, it burns inside of me, yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel it burning and I feel the freeze",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The frost, the fire, it burns inside of me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The tales that speak of frost and fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tales of all the souls that fell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Words that burn and words that chill us",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like laughter kinding in the heart of Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel it burning and I feel the freeze",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The frost, the fire, it burns inside of me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It burns inside of me, it burns inside of me",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "551193",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2qOoh1ofQZoX9XMXglJDcR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2qOoh1ofQZoX9XMXglJDcR",
+                    "id": "2qOoh1ofQZoX9XMXglJDcR",
+                    "name": "Cirith Ungol",
+                    "type": "artist",
+                    "uri": "spotify:artist:2qOoh1ofQZoX9XMXglJDcR"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0KEpIiXOoXV2iSffa9hgYl"
+            },
+            "href": "https://api.spotify.com/v1/albums/0KEpIiXOoXV2iSffa9hgYl",
+            "id": "0KEpIiXOoXV2iSffa9hgYl",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ae52852f532c85a17ae8ffb9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ae52852f532c85a17ae8ffb9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ae52852f532c85a17ae8ffb9",
+                    "width": 64
+                }
+            ],
+            "name": "Frost and Fire",
+            "release_date": "1980-04-01",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:0KEpIiXOoXV2iSffa9hgYl"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2qOoh1ofQZoX9XMXglJDcR"
+                },
+                "href": "https://api.spotify.com/v1/artists/2qOoh1ofQZoX9XMXglJDcR",
+                "id": "2qOoh1ofQZoX9XMXglJDcR",
+                "name": "Cirith Ungol",
+                "type": "artist",
+                "uri": "spotify:artist:2qOoh1ofQZoX9XMXglJDcR"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 215333,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USMBR0401023"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4wLznMeMZkruAYugFgT7ig"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4wLznMeMZkruAYugFgT7ig",
+        "id": "4wLznMeMZkruAYugFgT7ig",
+        "is_local": false,
+        "name": "Frost and Fire",
+        "popularity": 27,
+        "preview_url": "https://p.scdn.co/mp3-preview/f0888d020979dbe6648653b7097218d9a2069a94?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4wLznMeMZkruAYugFgT7ig"
+    }
+}

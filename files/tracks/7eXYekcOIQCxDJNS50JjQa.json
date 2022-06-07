@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Visions cupped within the flower",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deadly petals with strange power",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Faces shine a deadly smile",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look upon you at your trial",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chill and numbs from head to toe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Icy sun with frosty glow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Words that glow read \"to your sorrow\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Words that glow read, \"no tomorrow\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feel your spirit rise with the breeze",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feel your body falling onto it's knees",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take your walk of remorse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Turns your body to a corpse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Turns your body to a corpse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Turns your body to a corpse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sleeping wall of remorse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Turns your body to a corpse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now from darkness, there springs light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wall of sleep is cool and bright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wall of sleep is lying broken",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sun shines in, you have awoken",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "212088",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                    "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                    "name": "Black Sabbath",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2T6jeELx5BqH4GMLObBy10"
+            },
+            "href": "https://api.spotify.com/v1/albums/2T6jeELx5BqH4GMLObBy10",
+            "id": "2T6jeELx5BqH4GMLObBy10",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731311a92b0ca83a5154c5a5e7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021311a92b0ca83a5154c5a5e7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511311a92b0ca83a5154c5a5e7",
+                    "width": 64
+                }
+            ],
+            "name": "Black Sabbath (2009 Remastered Version)",
+            "release_date": "1970-02-13",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:2T6jeELx5BqH4GMLObBy10"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                "name": "Black Sabbath",
+                "type": "artist",
+                "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 218400,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE7000078"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7eXYekcOIQCxDJNS50JjQa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7eXYekcOIQCxDJNS50JjQa",
+        "id": "7eXYekcOIQCxDJNS50JjQa",
+        "is_local": false,
+        "name": "Behind the Wall of Sleep",
+        "popularity": 44,
+        "preview_url": "https://p.scdn.co/mp3-preview/4fa7b9feec1d665f97c8549b90882c6496b009f6?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7eXYekcOIQCxDJNS50JjQa"
+    }
+}

@@ -1,0 +1,276 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "[Altus/White]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's got to be a solution",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There must be a cure",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Something to get me through this confusion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What will it take to set me free?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The time that's passed is full of frustration",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So much to tell, but no words to say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've suffered enough and my dues are paid",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No turning back now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm on my way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When I look back I see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A time of misery",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "At times it seemed that it would never end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[Chorus:]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Life is a gamble",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No matter how you play the game",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Roll the dice and take your chances",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Win or lose it doesn't matter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause there's no escape",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When you're a prisoner of fate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anything is possible",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But nothing is ever really sure",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Not always knowing what's wrong or right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your only choice is to decide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I stand alone in the pouring rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I just had to say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Capture the moment before it's gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've got the strength to carry on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I was condemned to feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This pain that's so unreal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The chains that bind me are behind me know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[Repeat Chorus]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Once I was lost in the abyss",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No longer could I go on like this",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[Repeat Chorus]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Prisoners of fate [4x]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2421929",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3VD3oXiELCSHXzR4XXnlaF",
+                    "id": "3VD3oXiELCSHXzR4XXnlaF",
+                    "name": "Heathen",
+                    "type": "artist",
+                    "uri": "spotify:artist:3VD3oXiELCSHXzR4XXnlaF"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7rgm2haPSrRA2jQM4c0gMj"
+            },
+            "href": "https://api.spotify.com/v1/albums/7rgm2haPSrRA2jQM4c0gMj",
+            "id": "7rgm2haPSrRA2jQM4c0gMj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273cf25f62d62a92176dd02892b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02cf25f62d62a92176dd02892b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851cf25f62d62a92176dd02892b",
+                    "width": 64
+                }
+            ],
+            "name": "Victims Of Deception",
+            "release_date": "1991-03-26",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:7rgm2haPSrRA2jQM4c0gMj"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
+                },
+                "href": "https://api.spotify.com/v1/artists/3VD3oXiELCSHXzR4XXnlaF",
+                "id": "3VD3oXiELCSHXzR4XXnlaF",
+                "name": "Heathen",
+                "type": "artist",
+                "uri": "spotify:artist:3VD3oXiELCSHXzR4XXnlaF"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 381093,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA320989169"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6xDEl8G2QY4B9b9lKBs3ty"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6xDEl8G2QY4B9b9lKBs3ty",
+        "id": "6xDEl8G2QY4B9b9lKBs3ty",
+        "is_local": false,
+        "name": "Prisoners of Fate",
+        "popularity": 14,
+        "preview_url": "https://p.scdn.co/mp3-preview/a04459f595e3a39662eb3c593e47f18c2e4927f5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6xDEl8G2QY4B9b9lKBs3ty"
+    }
+}

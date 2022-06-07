@@ -1,0 +1,201 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Today is just another day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of my life too short to live",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I should have some kind of meaning",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A destiny to believe in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Before I go to sleep",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I find some pictures of a time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When everything was still so fine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Although the years have passed by",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will give it all I have inside, everything",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm away lost in my thoughts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everyday my life goes by",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "At the speed of light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm away lost in my thoughts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everyday my life goes by",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm away lost in my thoughts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everyday my life goes by",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "At the speed of",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "At the speed of",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "At the speed of light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "847677",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1O8CSXsPwEqxcoBE360PPO",
+                    "id": "1O8CSXsPwEqxcoBE360PPO",
+                    "name": "Stratovarius",
+                    "type": "artist",
+                    "uri": "spotify:artist:1O8CSXsPwEqxcoBE360PPO"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1BUQMTwWjadjppsJsSjXh5"
+            },
+            "href": "https://api.spotify.com/v1/albums/1BUQMTwWjadjppsJsSjXh5",
+            "id": "1BUQMTwWjadjppsJsSjXh5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734f4648db0d1cbcbfe3922506",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024f4648db0d1cbcbfe3922506",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514f4648db0d1cbcbfe3922506",
+                    "width": 64
+                }
+            ],
+            "name": "Episode (Original Version)",
+            "release_date": "1996-08-29",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:1BUQMTwWjadjppsJsSjXh5"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+                },
+                "href": "https://api.spotify.com/v1/artists/1O8CSXsPwEqxcoBE360PPO",
+                "id": "1O8CSXsPwEqxcoBE360PPO",
+                "name": "Stratovarius",
+                "type": "artist",
+                "uri": "spotify:artist:1O8CSXsPwEqxcoBE360PPO"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 183266,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEA249916010"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5UQiOGk3n63zuv4LgNRFX7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5UQiOGk3n63zuv4LgNRFX7",
+        "id": "5UQiOGk3n63zuv4LgNRFX7",
+        "is_local": false,
+        "name": "Speed of Light",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/c0b24b4ef0ae592347da86b50192aacce9f5d787?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5UQiOGk3n63zuv4LgNRFX7"
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Tåken tetner",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mørket faller",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ondskap Slumrer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Skogen kaller",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Her ute I Dyrets domene",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gjennom en dyster, Gusten Skog",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Engler løper, engler flyr",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vekk fra min egen kikegaard",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jeg star under en kald vind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Taken letter fra englers flukt",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jeg drikker fra Manens Kalde",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bleke lys og hylder Satans sol",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "En Grusom Ondskap siver inn og fyller kropp og sjel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "En himmel av Daudinger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tortur og Hat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tåken tetner",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mørket faller",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ondskap Slumrer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Skogen kaller",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "La meg for evig tjene de toogsytti evig falne",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I den Kolde Mørke brønn av de Slue sorte",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Verdig utropes jeg som den Uhellige treenighets Skald",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Når helvete en gang kaller, er det ingen vei tilbake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tåken tetner",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mørket faller",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ondskap Slumrer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Skogen kaller",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1741542",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "no",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7kWnE981vITXDnAD2cZmCV",
+                    "id": "7kWnE981vITXDnAD2cZmCV",
+                    "name": "Darkthrone",
+                    "type": "artist",
+                    "uri": "spotify:artist:7kWnE981vITXDnAD2cZmCV"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4a4g7PAi7KRsCQykBFqE5E"
+            },
+            "href": "https://api.spotify.com/v1/albums/4a4g7PAi7KRsCQykBFqE5E",
+            "id": "4a4g7PAi7KRsCQykBFqE5E",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27314162dce63b77ff4d37a25d3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0214162dce63b77ff4d37a25d3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485114162dce63b77ff4d37a25d3",
+                    "width": 64
+                }
+            ],
+            "name": "Transilvanian Hunger",
+            "release_date": "1994-02-17",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:4a4g7PAi7KRsCQykBFqE5E"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
+                },
+                "href": "https://api.spotify.com/v1/artists/7kWnE981vITXDnAD2cZmCV",
+                "id": "7kWnE981vITXDnAD2cZmCV",
+                "name": "Darkthrone",
+                "type": "artist",
+                "uri": "spotify:artist:7kWnE981vITXDnAD2cZmCV"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 268000,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "GBCQV9400017"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7Czf5bOiY3WpghLvxuD6Zs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7Czf5bOiY3WpghLvxuD6Zs",
+        "id": "7Czf5bOiY3WpghLvxuD6Zs",
+        "is_local": false,
+        "name": "Skald Au Satans Sol - Studio",
+        "popularity": 30,
+        "preview_url": "https://p.scdn.co/mp3-preview/18f613ddb748bfb1510485c1e57f55ed417cf84c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7Czf5bOiY3WpghLvxuD6Zs"
+    }
+}

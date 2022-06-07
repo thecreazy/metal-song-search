@@ -1,0 +1,196 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Hail to the Queen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of Victory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Her holy war was England's shame",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She was no fiend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of heresy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Put to the death by evil's flame",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[CHORUS]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another victim",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of Christianity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ecclesiastic fire from Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Divine the victim",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No sanctuary",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Her sacred soul she would not sell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Faithful her ways",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through all her days",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Enlightened child of Tree and Stone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Born of the slaved",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All France she saved",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Conquering Angels of Orleans",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[CHORUS]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1615169",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1qt7m48wpniTuMJ2YsVBI5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1qt7m48wpniTuMJ2YsVBI5",
+                    "id": "1qt7m48wpniTuMJ2YsVBI5",
+                    "name": "Manilla Road",
+                    "type": "artist",
+                    "uri": "spotify:artist:1qt7m48wpniTuMJ2YsVBI5"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4qOXZ0Ac6tY0HHXYILTUO6"
+            },
+            "href": "https://api.spotify.com/v1/albums/4qOXZ0Ac6tY0HHXYILTUO6",
+            "id": "4qOXZ0Ac6tY0HHXYILTUO6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736cb418e18e1cfb211d4b1591",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026cb418e18e1cfb211d4b1591",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516cb418e18e1cfb211d4b1591",
+                    "width": 64
+                }
+            ],
+            "name": "The Deluge",
+            "release_date": "2015-10-02",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:4qOXZ0Ac6tY0HHXYILTUO6"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1qt7m48wpniTuMJ2YsVBI5"
+                },
+                "href": "https://api.spotify.com/v1/artists/1qt7m48wpniTuMJ2YsVBI5",
+                "id": "1qt7m48wpniTuMJ2YsVBI5",
+                "name": "Manilla Road",
+                "type": "artist",
+                "uri": "spotify:artist:1qt7m48wpniTuMJ2YsVBI5"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 191000,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEA311502096"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5NLL7RHoRYvRwphn2Pd73b"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5NLL7RHoRYvRwphn2Pd73b",
+        "id": "5NLL7RHoRYvRwphn2Pd73b",
+        "is_local": false,
+        "name": "Divine Victim",
+        "popularity": 15,
+        "preview_url": "https://p.scdn.co/mp3-preview/0b8475a15c82b7e0f8e760e19eab40ab8326f2d2?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:5NLL7RHoRYvRwphn2Pd73b"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "On that day, that day of birth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the morning, the dawn of time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It down to rest a moment",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When a song came to my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As I sat there I could feel it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From within the magic came",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With my voice the mountains rose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With my breath came lovely air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With my tears the rain fell down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With the rain came the sea",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With my blessing the first rose spread out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With my feelings innocence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In solitude, a song was born",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "By magic our dreams were living on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A heart of light wasfound, it brought delight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To my soul, My faith had made me whole... again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With my song the sun was born",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Out of darkness giving light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From my heart came love and joy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And all the beauty you could find",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With my tears the rain fell down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With the rain came the sea",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blessing the first rose spread out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feelings innocence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In passion I saw the light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A soul filled with harmony",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The creation of a new world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My anthem my symphony",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I sat there to watch the daw",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All the birds began to sing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I left my song to rise and grow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It was time for me to go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "559086",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7zDtfSB0AOZWhpuAHZIOw5",
+                    "id": "7zDtfSB0AOZWhpuAHZIOw5",
+                    "name": "Candlemass",
+                    "type": "artist",
+                    "uri": "spotify:artist:7zDtfSB0AOZWhpuAHZIOw5"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0C8EEyZ2dlEyqhcppwICpf"
+            },
+            "href": "https://api.spotify.com/v1/albums/0C8EEyZ2dlEyqhcppwICpf",
+            "id": "0C8EEyZ2dlEyqhcppwICpf",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736ed718071a6addf514377029",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026ed718071a6addf514377029",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516ed718071a6addf514377029",
+                    "width": 64
+                }
+            ],
+            "name": "Tales Of Creation",
+            "release_date": "1989",
+            "release_date_precision": "year",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:0C8EEyZ2dlEyqhcppwICpf"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5"
+                },
+                "href": "https://api.spotify.com/v1/artists/7zDtfSB0AOZWhpuAHZIOw5",
+                "id": "7zDtfSB0AOZWhpuAHZIOw5",
+                "name": "Candlemass",
+                "type": "artist",
+                "uri": "spotify:artist:7zDtfSB0AOZWhpuAHZIOw5"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 413680,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCQV0701040"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0Dp8UkIpYuKoeBHTdZVBbf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Dp8UkIpYuKoeBHTdZVBbf",
+        "id": "0Dp8UkIpYuKoeBHTdZVBbf",
+        "is_local": false,
+        "name": "A Tale Of Creation",
+        "popularity": 21,
+        "preview_url": "https://p.scdn.co/mp3-preview/60ba8ff5e576941867bdea07b32dc7294b0107e4?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0Dp8UkIpYuKoeBHTdZVBbf"
+    }
+}

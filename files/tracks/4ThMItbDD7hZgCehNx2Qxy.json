@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Enter young man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome, cast your dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll show you what you feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Walk, but keep the road I've paved",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Know of nothing else",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I, the one to guide your mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I breed in stealth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am master, soon you'll see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shape your world what you'll be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Follow me or choose to bleed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Read my book, memorize",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Disregard your mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You may see only through my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Save me, someone's come to change me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Misled, delusions color real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Black and white, they'll never paint me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never see until you feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will keep my own time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What's yours is really mine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I won't let you swallow me, your doctrines will not shine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rebellion is your pestilence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll never be confined",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forever you shall yield to me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anarchy divine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Save me, someone's come to change me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Misled, delusions color real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Black and white, they'll never paint me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never see until you feel, Never",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "553940",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4S6URhg3PMKnCv9clR4ejE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4S6URhg3PMKnCv9clR4ejE",
+                    "id": "4S6URhg3PMKnCv9clR4ejE",
+                    "name": "Fates Warning",
+                    "type": "artist",
+                    "uri": "spotify:artist:4S6URhg3PMKnCv9clR4ejE"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3PPwiETWlN696CrVOlMRsF"
+            },
+            "href": "https://api.spotify.com/v1/albums/3PPwiETWlN696CrVOlMRsF",
+            "id": "3PPwiETWlN696CrVOlMRsF",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27393fc2d417e59c4356a510a5f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0293fc2d417e59c4356a510a5f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485193fc2d417e59c4356a510a5f",
+                    "width": 64
+                }
+            ],
+            "name": "No Exit",
+            "release_date": "1988",
+            "release_date_precision": "year",
+            "total_tracks": 6,
+            "type": "album",
+            "uri": "spotify:album:3PPwiETWlN696CrVOlMRsF"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4S6URhg3PMKnCv9clR4ejE"
+                },
+                "href": "https://api.spotify.com/v1/artists/4S6URhg3PMKnCv9clR4ejE",
+                "id": "4S6URhg3PMKnCv9clR4ejE",
+                "name": "Fates Warning",
+                "type": "artist",
+                "uri": "spotify:artist:4S6URhg3PMKnCv9clR4ejE"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 226160,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USMBR1309961"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4ThMItbDD7hZgCehNx2Qxy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4ThMItbDD7hZgCehNx2Qxy",
+        "id": "4ThMItbDD7hZgCehNx2Qxy",
+        "is_local": false,
+        "name": "Anarchy Divine",
+        "popularity": 17,
+        "preview_url": "https://p.scdn.co/mp3-preview/689d9d0f866d135356117736d2baa716ede2f2d1?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4ThMItbDD7hZgCehNx2Qxy"
+    }
+}

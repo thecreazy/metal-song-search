@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "[Altus/White]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Masses form into religion to fulfill their lives",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seeking answers in the bible, hear their helpless cries",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mindlessly, no thought, they follow false prophets of the flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Depend on the spirit of the One to grant their every wish",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[Pre-Chorus:]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's not too late to change your fate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You must control your own mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're the only one that can release you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's yourself you've got to find",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[Chorus:]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fools give money to the church to earn their place with God",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In our eyes it's contradiction and religious fraud",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hypnotized by what they say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your mind is under their control",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hypnotized you will obey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your fate will soon be called",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You must make your own decision of what you think is real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your soul was given on to you and not for these thieves to steal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't be fooled by these hypnotic forces, they will rob you blind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There is no excuse for their actions",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Making a mockery of mankind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[Repeat Pre-Chorus & Chorus]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Masses form into religion to fulfill their lives",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seeking answers in the bible, hear their helpless cries",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't be fooled by these hypnotic forces, they will rob you blind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There is no excuse for their actions",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Making a mockery of mankind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[Repeat Pre-Chorus & Chorus]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2421917",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3VD3oXiELCSHXzR4XXnlaF",
+                    "id": "3VD3oXiELCSHXzR4XXnlaF",
+                    "name": "Heathen",
+                    "type": "artist",
+                    "uri": "spotify:artist:3VD3oXiELCSHXzR4XXnlaF"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7rgm2haPSrRA2jQM4c0gMj"
+            },
+            "href": "https://api.spotify.com/v1/albums/7rgm2haPSrRA2jQM4c0gMj",
+            "id": "7rgm2haPSrRA2jQM4c0gMj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273cf25f62d62a92176dd02892b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02cf25f62d62a92176dd02892b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851cf25f62d62a92176dd02892b",
+                    "width": 64
+                }
+            ],
+            "name": "Victims Of Deception",
+            "release_date": "1991-03-26",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:7rgm2haPSrRA2jQM4c0gMj"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
+                },
+                "href": "https://api.spotify.com/v1/artists/3VD3oXiELCSHXzR4XXnlaF",
+                "id": "3VD3oXiELCSHXzR4XXnlaF",
+                "name": "Heathen",
+                "type": "artist",
+                "uri": "spotify:artist:3VD3oXiELCSHXzR4XXnlaF"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 514799,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329717904"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0dGxUm0SZYqc1ojUyTFjgA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0dGxUm0SZYqc1ojUyTFjgA",
+        "id": "0dGxUm0SZYqc1ojUyTFjgA",
+        "is_local": false,
+        "name": "Hypnotized",
+        "popularity": 22,
+        "preview_url": "https://p.scdn.co/mp3-preview/15087d9e777a6082bf5f879fba48f6b5647bcdf1?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0dGxUm0SZYqc1ojUyTFjgA"
+    }
+}

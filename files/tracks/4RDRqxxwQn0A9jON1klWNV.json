@@ -1,0 +1,226 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "With the curse of death he stands",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the darkness cold and black",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Looking over the lands preparing his attack",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hunger nagging at his belt",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spreading his wings far and wide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To sail across the countryside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The impaler is known to everyone around",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He'll sneak into your room at night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And feast without a sound",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He's a mysterious figure in black",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Roaming the city bringing death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pestilence from rats invaders by the score",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Plaguing the people with disease",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Running scared nowhere to go and nowhere to hide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Running through the woods and over the countryside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Must escape this nightmare, put an end to this dream",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let us come together, put an end to all his schemes.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nosferatu is his name and he's spreading his curse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cross the land, feel his eyes take your soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heed my words, run if you can (Repeat)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Taste of blood upon his teeth the beast is ready for to fly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Soaring to his victory, she is virgin fare, I can taste her in my mouth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now he's in her parlor bending for a feast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Looking up in wonder she seduced the evil beast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Oh, stay all night with me and you can have your way\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Morning brings the sunlight and his ashes blow away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "539420",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2JR4c1UoM1JGxm4wIJ27v1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2JR4c1UoM1JGxm4wIJ27v1",
+                    "id": "2JR4c1UoM1JGxm4wIJ27v1",
+                    "name": "Jag Panzer",
+                    "type": "artist",
+                    "uri": "spotify:artist:2JR4c1UoM1JGxm4wIJ27v1"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3hPCZTIpDH9trdWcirCnGW"
+            },
+            "href": "https://api.spotify.com/v1/albums/3hPCZTIpDH9trdWcirCnGW",
+            "id": "3hPCZTIpDH9trdWcirCnGW",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a5f4c341cd5cbb8416196bf8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a5f4c341cd5cbb8416196bf8",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a5f4c341cd5cbb8416196bf8",
+                    "width": 64
+                }
+            ],
+            "name": "Ample Destruction",
+            "release_date": "1984",
+            "release_date_precision": "year",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:3hPCZTIpDH9trdWcirCnGW"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2JR4c1UoM1JGxm4wIJ27v1"
+                },
+                "href": "https://api.spotify.com/v1/artists/2JR4c1UoM1JGxm4wIJ27v1",
+                "id": "2JR4c1UoM1JGxm4wIJ27v1",
+                "name": "Jag Panzer",
+                "type": "artist",
+                "uri": "spotify:artist:2JR4c1UoM1JGxm4wIJ27v1"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 265546,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBDHC1247003"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4RDRqxxwQn0A9jON1klWNV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4RDRqxxwQn0A9jON1klWNV",
+        "id": "4RDRqxxwQn0A9jON1klWNV",
+        "is_local": false,
+        "name": "Symphony of Terror",
+        "popularity": 16,
+        "preview_url": "https://p.scdn.co/mp3-preview/d0b02dedeac037395e77e58545658425b4f225d5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4RDRqxxwQn0A9jON1klWNV"
+    }
+}

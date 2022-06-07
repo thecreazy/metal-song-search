@@ -1,0 +1,206 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I was born in the cemetery",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Under the sign of the moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Raised from my grave by the dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I was made a mercenary",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the legions of Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now I'm king of pain, I'm insane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know my only pleasure",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is to hear you cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'd love to hear you cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'd love to feel you die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I'll be the first to watch your funeral",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I'll be the last to leave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'd love to hear you cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And when you're down beyond the ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll dig up your body again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And make love to shame",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh lady, cry and say goodbye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh lady, cry and say goodbye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've gotta say goodbye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause I will eat your mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "553170",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0W8edGiwAsv6HXF0Kyc2V9",
+                    "id": "0W8edGiwAsv6HXF0Kyc2V9",
+                    "name": "Mercyful Fate",
+                    "type": "artist",
+                    "uri": "spotify:artist:0W8edGiwAsv6HXF0Kyc2V9"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1hxG9oE767xQ4MLsEU5u58"
+            },
+            "href": "https://api.spotify.com/v1/albums/1hxG9oE767xQ4MLsEU5u58",
+            "id": "1hxG9oE767xQ4MLsEU5u58",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732047927ddb02a89e8ec1dd30",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022047927ddb02a89e8ec1dd30",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512047927ddb02a89e8ec1dd30",
+                    "width": 64
+                }
+            ],
+            "name": "Melissa",
+            "release_date": "1983-10-30",
+            "release_date_precision": "day",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:1hxG9oE767xQ4MLsEU5u58"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9"
+                },
+                "href": "https://api.spotify.com/v1/artists/0W8edGiwAsv6HXF0Kyc2V9",
+                "id": "0W8edGiwAsv6HXF0Kyc2V9",
+                "name": "Mercyful Fate",
+                "type": "artist",
+                "uri": "spotify:artist:0W8edGiwAsv6HXF0Kyc2V9"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 284960,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329780544"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5pH1BecbNktYDbYw0XCEWn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5pH1BecbNktYDbYw0XCEWn",
+        "id": "5pH1BecbNktYDbYw0XCEWn",
+        "is_local": false,
+        "name": "Evil",
+        "popularity": 50,
+        "preview_url": "https://p.scdn.co/mp3-preview/0bfdb823e9750172a4d31d497e582ee5b013899b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5pH1BecbNktYDbYw0XCEWn"
+    }
+}

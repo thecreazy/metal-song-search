@@ -1,0 +1,211 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Abigail, I know you're in control of her brain, Abigail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I know that you're the one that's speaking through her, Abigail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Miriam, can you hear me?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am alive inside your wife",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Miriam's dead, I am her head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am alive inside your wife",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Miriam's dead, I am her head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Abigail, don't you think I know what you've done, Abigail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll get a priest",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He will know how to get her soul back",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, Jonathan, this is Miriam",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our time is out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Remember the stairs, the only way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Abigail, nothing I can do but give in, Abigail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Follow me to the crypt",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Abigail, you aught to be reborn where you died, Abigail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jonathan, I agree, yes, I do",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am alive inside your wife",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Miriam's dead, I am her head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Soon I'll be free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "552127",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5i0ph60TnwTlIGrOZAmcZa",
+                    "id": "5i0ph60TnwTlIGrOZAmcZa",
+                    "name": "King Diamond",
+                    "type": "artist",
+                    "uri": "spotify:artist:5i0ph60TnwTlIGrOZAmcZa"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7zIqyMrapcp7QWM12NkjaD"
+            },
+            "href": "https://api.spotify.com/v1/albums/7zIqyMrapcp7QWM12NkjaD",
+            "id": "7zIqyMrapcp7QWM12NkjaD",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273644f8cb3dca356921a3bb4e7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02644f8cb3dca356921a3bb4e7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851644f8cb3dca356921a3bb4e7",
+                    "width": 64
+                }
+            ],
+            "name": "Abigail",
+            "release_date": "1987-10-21",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:7zIqyMrapcp7QWM12NkjaD"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+                },
+                "href": "https://api.spotify.com/v1/artists/5i0ph60TnwTlIGrOZAmcZa",
+                "id": "5i0ph60TnwTlIGrOZAmcZa",
+                "name": "King Diamond",
+                "type": "artist",
+                "uri": "spotify:artist:5i0ph60TnwTlIGrOZAmcZa"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 290693,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329780499"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1nGUPxgKc1wmWfi8OkCCic"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1nGUPxgKc1wmWfi8OkCCic",
+        "id": "1nGUPxgKc1wmWfi8OkCCic",
+        "is_local": false,
+        "name": "Abigail",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/10da38d384768d700c2e8cfdb1a8d84a9c8ecf52?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:1nGUPxgKc1wmWfi8OkCCic"
+    }
+}

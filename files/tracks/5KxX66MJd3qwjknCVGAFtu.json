@@ -1,0 +1,251 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "If you see me flashing by",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Do not stop me, do not try",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause I'm a motorcycle man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I get my kicks just when I can",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motorcycle man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motorcycle man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can beat your street machine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're taking risks, that's what we mean",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause I'm a motorcycle man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We get our kicks just when we can",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When we can",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motorcycle man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motorcycle...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If you see me riding by",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Do not stop me, do not try",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause I'm a motorcycle man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I get my kicks just when I can",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When I can",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motorcycle man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motorcycle man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motorcycle, motorcycle",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motorcycle man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can beat your street machine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm taking risks, that's what I mean",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause I'm a motorcycle man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We get our kicks just when we can",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When we can",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motorcycle man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motorcycle man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motorcycle, motorcycle",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motorcycle man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1685731",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/71vVmHeNgCVSa5SVmfvscU",
+                    "id": "71vVmHeNgCVSa5SVmfvscU",
+                    "name": "Saxon",
+                    "type": "artist",
+                    "uri": "spotify:artist:71vVmHeNgCVSa5SVmfvscU"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6EGEGr4oY0PsV6yGBxeQ8J"
+            },
+            "href": "https://api.spotify.com/v1/albums/6EGEGr4oY0PsV6yGBxeQ8J",
+            "id": "6EGEGr4oY0PsV6yGBxeQ8J",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732910519edbe59770831f77ed",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022910519edbe59770831f77ed",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512910519edbe59770831f77ed",
+                    "width": 64
+                }
+            ],
+            "name": "Wheels of Steel (2009 Remastered Version)",
+            "release_date": "1980",
+            "release_date_precision": "year",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:6EGEGr4oY0PsV6yGBxeQ8J"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU"
+                },
+                "href": "https://api.spotify.com/v1/artists/71vVmHeNgCVSa5SVmfvscU",
+                "id": "71vVmHeNgCVSa5SVmfvscU",
+                "name": "Saxon",
+                "type": "artist",
+                "uri": "spotify:artist:71vVmHeNgCVSa5SVmfvscU"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 238643,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GB01A0900046"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5KxX66MJd3qwjknCVGAFtu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5KxX66MJd3qwjknCVGAFtu",
+        "id": "5KxX66MJd3qwjknCVGAFtu",
+        "is_local": false,
+        "name": "Motorcycle Man - 2009 Remastered Version",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/451648084f9f422fa507af1e3106378c3255ecf1?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5KxX66MJd3qwjknCVGAFtu"
+    }
+}

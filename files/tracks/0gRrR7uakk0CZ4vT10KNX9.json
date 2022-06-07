@@ -1,0 +1,146 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "What heals our snow-blind weary eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When all stars are slain by fiery skies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And every word upon your spiraling cross",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is but a misled sun, a bitter loss",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inject us out of here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All i asked for was a little love",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But from my hands flew the maiden dove",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "While clouds like cotton snowwhite sheep",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Still calm beside their shepherd sleep",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inject us out of here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "309286",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5SwHKKNKYToC1YzWVNWAIN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5SwHKKNKYToC1YzWVNWAIN",
+                    "id": "5SwHKKNKYToC1YzWVNWAIN",
+                    "name": "Tiamat",
+                    "type": "artist",
+                    "uri": "spotify:artist:5SwHKKNKYToC1YzWVNWAIN"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6bzx2e98d5v60qKUvQdTQj"
+            },
+            "href": "https://api.spotify.com/v1/albums/6bzx2e98d5v60qKUvQdTQj",
+            "id": "6bzx2e98d5v60qKUvQdTQj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273690d811ab0676ba751bcd840",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02690d811ab0676ba751bcd840",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851690d811ab0676ba751bcd840",
+                    "width": 64
+                }
+            ],
+            "name": "A Deeper Kind of Slumber",
+            "release_date": "1997-07-13",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:6bzx2e98d5v60qKUvQdTQj"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5SwHKKNKYToC1YzWVNWAIN"
+                },
+                "href": "https://api.spotify.com/v1/artists/5SwHKKNKYToC1YzWVNWAIN",
+                "id": "5SwHKKNKYToC1YzWVNWAIN",
+                "name": "Tiamat",
+                "type": "artist",
+                "uri": "spotify:artist:5SwHKKNKYToC1YzWVNWAIN"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 231826,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40488001"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0gRrR7uakk0CZ4vT10KNX9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0gRrR7uakk0CZ4vT10KNX9",
+        "id": "0gRrR7uakk0CZ4vT10KNX9",
+        "is_local": false,
+        "name": "Cold Seed",
+        "popularity": 31,
+        "preview_url": "https://p.scdn.co/mp3-preview/ef4767f242cf1f875b87cac6f7523a65f53efdb2?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0gRrR7uakk0CZ4vT10KNX9"
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "We barely remember",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who or what came before this precious moment",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are choosing to be here, right now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hold on, stay inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This holy reality",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This holy experience",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Choosing to be here in...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This body, this body holding me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Be my reminder here that I am not alone in...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This body, this body holding me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feeling eternal, this pain is an illusion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alive!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In this holy reality",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In this holy experience",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Choosing to be here in...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This body, this body holding me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Be my reminder here that I am not alone in...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This body, this body holding me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feeling eternal, all this pain is an illusion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Twirling 'round with this familiar parable",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spinning, weaving 'round each new experience",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Recognize this as a holy gift and",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Celebrate this chance to be alive and breathing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A chance to be alive and breathing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This body holding me reminds me of my own mortality",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Embrace this moment, remember",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are eternal, all this pain is an illusion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "148503",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2yEwvVSSSUkcLeSTNyHKh8",
+                    "id": "2yEwvVSSSUkcLeSTNyHKh8",
+                    "name": "TOOL",
+                    "type": "artist",
+                    "uri": "spotify:artist:2yEwvVSSSUkcLeSTNyHKh8"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+            },
+            "href": "https://api.spotify.com/v1/albums/5l5m1hnH4punS1GQXgEi3T",
+            "id": "5l5m1hnH4punS1GQXgEi3T",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ca41a947c13b78749c4953b1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ca41a947c13b78749c4953b1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ca41a947c13b78749c4953b1",
+                    "width": 64
+                }
+            ],
+            "name": "Lateralus",
+            "release_date": "2001-05-15",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:5l5m1hnH4punS1GQXgEi3T"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+                },
+                "href": "https://api.spotify.com/v1/artists/2yEwvVSSSUkcLeSTNyHKh8",
+                "id": "2yEwvVSSSUkcLeSTNyHKh8",
+                "name": "TOOL",
+                "type": "artist",
+                "uri": "spotify:artist:2yEwvVSSSUkcLeSTNyHKh8"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 363680,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USVR10100015"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1vxu8vMNshg5J8z3oA7QJZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1vxu8vMNshg5J8z3oA7QJZ",
+        "id": "1vxu8vMNshg5J8z3oA7QJZ",
+        "is_local": false,
+        "name": "Parabola",
+        "popularity": 61,
+        "preview_url": "https://p.scdn.co/mp3-preview/f85d92bbfc25f1a61458ca16e771a72627d2bab5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1vxu8vMNshg5J8z3oA7QJZ"
+    }
+}

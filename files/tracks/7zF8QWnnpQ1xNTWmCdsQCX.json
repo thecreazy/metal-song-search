@@ -1,0 +1,171 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Straight line",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feel it burst liver and lung",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Long and strong",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Til she spills her black blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Center down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vast the head, body and tail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shatter life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Physeter catodon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Culture vulture",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Elephant graveyard",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Culture vulture",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Engage monster",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wreaking vengeance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Assault with all martial rage",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sail on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1968857",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Dvfqq39HxvCJ3GvfeIFuT",
+                    "id": "1Dvfqq39HxvCJ3GvfeIFuT",
+                    "name": "Mastodon",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b"
+            },
+            "href": "https://api.spotify.com/v1/albums/6khFoLWnJZDQvZ7Pijym3b",
+            "id": "6khFoLWnJZDQvZ7Pijym3b",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27300388d66c87c2c0033849bfd",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0200388d66c87c2c0033849bfd",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485100388d66c87c2c0033849bfd",
+                    "width": 64
+                }
+            ],
+            "name": "Leviathan",
+            "release_date": "2004-08-31",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:6khFoLWnJZDQvZ7Pijym3b"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+                },
+                "href": "https://api.spotify.com/v1/artists/1Dvfqq39HxvCJ3GvfeIFuT",
+                "id": "1Dvfqq39HxvCJ3GvfeIFuT",
+                "name": "Mastodon",
+                "type": "artist",
+                "uri": "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 183013,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US2640462205"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7zF8QWnnpQ1xNTWmCdsQCX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7zF8QWnnpQ1xNTWmCdsQCX",
+        "id": "7zF8QWnnpQ1xNTWmCdsQCX",
+        "is_local": false,
+        "name": "Iron Tusk",
+        "popularity": 44,
+        "preview_url": "https://p.scdn.co/mp3-preview/679b014f3d0d2caf5cef0645052a232813aa78e7?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:7zF8QWnnpQ1xNTWmCdsQCX"
+    }
+}

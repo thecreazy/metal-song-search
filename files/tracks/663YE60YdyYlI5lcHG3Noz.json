@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Alright now!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Won't you listen?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When I first met you, didn't realize",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can't forget you or your surprise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You introduced me to my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And left me wanting you and your kind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I love you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, you know it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My life was empty, forever on a down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Until you took me, showed me around",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My life is free now, my life is clear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I love you sweet leaf, though you can't hear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, yeah baby!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come on now, try it out!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Straight people don't know what you're about",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They put you down and shut you out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You gave to me a new belief",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And soon the world will love you sweet leaf",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, yeah baby!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come on now, try it out!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, yeah!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "212311",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                    "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                    "name": "Black Sabbath",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5"
+            },
+            "href": "https://api.spotify.com/v1/albums/3kBG6q0aXKxzn01wKTwZr5",
+            "id": "3kBG6q0aXKxzn01wKTwZr5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b7ec2b4b9c76b3b737990a42",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b7ec2b4b9c76b3b737990a42",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b7ec2b4b9c76b3b737990a42",
+                    "width": 64
+                }
+            ],
+            "name": "Master of Reality (2009 Remastered Version)",
+            "release_date": "1971-07-21",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:3kBG6q0aXKxzn01wKTwZr5"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                "name": "Black Sabbath",
+                "type": "artist",
+                "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 303253,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE7100082"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/663YE60YdyYlI5lcHG3Noz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/663YE60YdyYlI5lcHG3Noz",
+        "id": "663YE60YdyYlI5lcHG3Noz",
+        "is_local": false,
+        "name": "Sweet Leaf",
+        "popularity": 54,
+        "preview_url": "https://p.scdn.co/mp3-preview/08d7b23a18adf7972fc62d8ddac1150a60c4f7d5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:663YE60YdyYlI5lcHG3Noz"
+    }
+}

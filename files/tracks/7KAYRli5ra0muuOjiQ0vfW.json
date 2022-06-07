@@ -1,0 +1,171 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Fear of tomorrow - we're waiting for the final crash",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The lost illusion - there ain't no light for us to see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our gods commandments - we once forgot and threw away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Humiliating - our lifes on earth will fade away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A hopeless challenge - we're on our knees",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time's getting nearer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We thought we were wise but we cannot survive on this earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We challenged nature - we made it fall instead of rise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our mighty empire - is surely built on sinkin' ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A hopeless challenge - we're on our knees",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time's getting nearer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We thought we were wise but we cannot survive on this earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Innocent dreams turned to nightmare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Palace of glass, turned to dust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Day turned to night, don't you care",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Life turned to death, forever lost.",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "3501276",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6N62Sla6F2uuEzNALo6720",
+                    "id": "6N62Sla6F2uuEzNALo6720",
+                    "name": "Artillery",
+                    "type": "artist",
+                    "uri": "spotify:artist:6N62Sla6F2uuEzNALo6720"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5FYyro0Iockho1CpMAs7Qu"
+            },
+            "href": "https://api.spotify.com/v1/albums/5FYyro0Iockho1CpMAs7Qu",
+            "id": "5FYyro0Iockho1CpMAs7Qu",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732e40c6e0a51a450b87fe66eb",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022e40c6e0a51a450b87fe66eb",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512e40c6e0a51a450b87fe66eb",
+                    "width": 64
+                }
+            ],
+            "name": "Terror Squad",
+            "release_date": "1987-04-24",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:5FYyro0Iockho1CpMAs7Qu"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720"
+                },
+                "href": "https://api.spotify.com/v1/artists/6N62Sla6F2uuEzNALo6720",
+                "id": "6N62Sla6F2uuEzNALo6720",
+                "name": "Artillery",
+                "type": "artist",
+                "uri": "spotify:artist:6N62Sla6F2uuEzNALo6720"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 249733,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DK9P51500201"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7KAYRli5ra0muuOjiQ0vfW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7KAYRli5ra0muuOjiQ0vfW",
+        "id": "7KAYRli5ra0muuOjiQ0vfW",
+        "is_local": false,
+        "name": "The Challenge",
+        "popularity": 13,
+        "preview_url": "https://p.scdn.co/mp3-preview/b6218a45b544c321a996fd5119a6191a9aeadeb9?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7KAYRli5ra0muuOjiQ0vfW"
+    }
+}

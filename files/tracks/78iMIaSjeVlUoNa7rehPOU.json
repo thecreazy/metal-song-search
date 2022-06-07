@@ -1,0 +1,186 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I don't wanna feel no more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's easier to keep fallin'",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Imitations are pale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Emptiness, all tomorrows haunted by your ghost",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lay down, black gives way to blue",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lay down, I'll remember you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fading out by design",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Consciously avoiding changes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Curtain's drawn, now it's done",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Silencing all tomorrows, forcing a goodbye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lay down, black gives way to blue",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lay down, I'll remember you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "100577",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+                    "id": "64tNsm6TnZe2zpcMVMOoHL",
+                    "name": "Alice In Chains",
+                    "type": "artist",
+                    "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2vkLky2qG0rziUk0eOsIZ9"
+            },
+            "href": "https://api.spotify.com/v1/albums/2vkLky2qG0rziUk0eOsIZ9",
+            "id": "2vkLky2qG0rziUk0eOsIZ9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273777f349834457f80787871d2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02777f349834457f80787871d2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851777f349834457f80787871d2",
+                    "width": 64
+                }
+            ],
+            "name": "Black Gives Way To Blue",
+            "release_date": "2009-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:2vkLky2qG0rziUk0eOsIZ9"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+                },
+                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+                "id": "64tNsm6TnZe2zpcMVMOoHL",
+                "name": "Alice In Chains",
+                "type": "artist",
+                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 183560,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USVI20900300"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/78iMIaSjeVlUoNa7rehPOU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/78iMIaSjeVlUoNa7rehPOU",
+        "id": "78iMIaSjeVlUoNa7rehPOU",
+        "is_local": false,
+        "name": "Black Gives Way To Blue",
+        "popularity": 47,
+        "preview_url": null,
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:78iMIaSjeVlUoNa7rehPOU"
+    }
+}

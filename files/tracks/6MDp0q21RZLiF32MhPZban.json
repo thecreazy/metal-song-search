@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "This liquid vision of euphoria",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Living a life on borrowed time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Paying the price of immortality",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Desperately avoiding our fate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lead me through the halls of tortured souls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alone, forlorn, human dignity dethroned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forevermore, a life never ending",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time stands still as the immortals keep on breeding",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The future is locked within us",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All we need is the key",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Crying at the fountain of youth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eternal life is killing me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Triumphant in chariots they ride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On this arena of the undead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anoher lap of honour for the vacant galleries",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lead me through the halls of tortured souls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alone, forlorn, human dignity dethroned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forevermore, a life never ending",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time stands still as the immortals keep on breeding",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The future is locked within us",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All we need is the key",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Crying at the fountain of youth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eternal life is killing me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The future is locked within us",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All we need is the key",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Crying at the fountain of youth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eternal life is killing me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "990394",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0DCw6lHkzh9t7f8Hb4Z0Sx",
+                    "id": "0DCw6lHkzh9t7f8Hb4Z0Sx",
+                    "name": "Arch Enemy",
+                    "type": "artist",
+                    "uri": "spotify:artist:0DCw6lHkzh9t7f8Hb4Z0Sx"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4qwaehBoGexegfX44egeEE"
+            },
+            "href": "https://api.spotify.com/v1/albums/4qwaehBoGexegfX44egeEE",
+            "id": "4qwaehBoGexegfX44egeEE",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d3d3e68a2070a22093a3f6a6",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d3d3e68a2070a22093a3f6a6",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d3d3e68a2070a22093a3f6a6",
+                    "width": 64
+                }
+            ],
+            "name": "Burning Bridges (Reissue)",
+            "release_date": "2009-07-13",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:4qwaehBoGexegfX44egeEE"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+                },
+                "href": "https://api.spotify.com/v1/artists/0DCw6lHkzh9t7f8Hb4Z0Sx",
+                "id": "0DCw6lHkzh9t7f8Hb4Z0Sx",
+                "name": "Arch Enemy",
+                "type": "artist",
+                "uri": "spotify:artist:0DCw6lHkzh9t7f8Hb4Z0Sx"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 222040,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40497601"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6MDp0q21RZLiF32MhPZban"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6MDp0q21RZLiF32MhPZban",
+        "id": "6MDp0q21RZLiF32MhPZban",
+        "is_local": false,
+        "name": "The Immortal",
+        "popularity": 21,
+        "preview_url": "https://p.scdn.co/mp3-preview/363da2980fef4bcd93360ea75a80eba7f9289e84?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6MDp0q21RZLiF32MhPZban"
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "An offering of reasons",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We put them all and play",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A covering of treasons",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That one by one we let slip away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A solitary dancer so lost upon her stage",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have seen you on the edge of dawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Felt you there before you were born",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Balanced your dreams upon the edge of thorns",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I don't think about you anymore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A study made of winter of summers long ago",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And dreams that use to glitter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Safely now hidden under snow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And so we end the chapter and let the stage lights fade",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have seen you on the edge of dawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Felt you there before you were born",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Balanced your dreams upon the edge of thorns",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I don't think about you anymore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have seen you on the edge of dawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Felt you there before you were born",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Balanced your dreams upon the edge of thorns",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I don't think about you anymore, anymore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't think about you anymore, anymore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't think about you, I don't think about you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't think about you, I don't think about you anymore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anymore, anymore, yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "552810",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3N1B1g6JtIgd6ClRkzD4yT",
+                    "id": "3N1B1g6JtIgd6ClRkzD4yT",
+                    "name": "Savatage",
+                    "type": "artist",
+                    "uri": "spotify:artist:3N1B1g6JtIgd6ClRkzD4yT"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4A5NBtITpBxtxA6Fcp0xqB"
+            },
+            "href": "https://api.spotify.com/v1/albums/4A5NBtITpBxtxA6Fcp0xqB",
+            "id": "4A5NBtITpBxtxA6Fcp0xqB",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273df389fd5138d90c0b184d807",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02df389fd5138d90c0b184d807",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851df389fd5138d90c0b184d807",
+                    "width": 64
+                }
+            ],
+            "name": "Edge of Thorns (Bonus Track Edition)",
+            "release_date": "1993",
+            "release_date_precision": "year",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:4A5NBtITpBxtxA6Fcp0xqB"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
+                },
+                "href": "https://api.spotify.com/v1/artists/3N1B1g6JtIgd6ClRkzD4yT",
+                "id": "3N1B1g6JtIgd6ClRkzD4yT",
+                "name": "Savatage",
+                "type": "artist",
+                "uri": "spotify:artist:3N1B1g6JtIgd6ClRkzD4yT"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 356160,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEH841000160"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2JjRySKmXZGHRyCHOyhDr9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2JjRySKmXZGHRyCHOyhDr9",
+        "id": "2JjRySKmXZGHRyCHOyhDr9",
+        "is_local": false,
+        "name": "Edge of Thorns",
+        "popularity": 46,
+        "preview_url": "https://p.scdn.co/mp3-preview/8e88366c89f6436e23c1387a858874877a7bb6b2?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2JjRySKmXZGHRyCHOyhDr9"
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Treachery with a smile, etched",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Upon its face",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A face of red, but a heart of",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stone cold black",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Servants of two masters, the",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Congregation splits",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Serving sexuals rituals, true back",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Biters",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pirates in pinstripe, admired by",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The many in their hour of",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Weakness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All ways stand, with their backs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Religious fanatics, muttering",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Righteousness on sacred ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The armor of religion like foil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Across a bed of nails",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Conscience, burning, lives held,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hostage to heaven",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Symbolic bullshit, hung around",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The necks, of the weak",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Silver and gold, just trinkets of",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deception",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One mans faith, becomes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another mans evil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't deny the power of inner",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Strength, right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "551139",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1P2DRfEZ7OPvTKXxUxxuRc"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1P2DRfEZ7OPvTKXxUxxuRc",
+                    "id": "1P2DRfEZ7OPvTKXxUxxuRc",
+                    "name": "Grip Inc.",
+                    "type": "artist",
+                    "uri": "spotify:artist:1P2DRfEZ7OPvTKXxUxxuRc"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/52FC0g42uB3NTwD6PFpSm8"
+            },
+            "href": "https://api.spotify.com/v1/albums/52FC0g42uB3NTwD6PFpSm8",
+            "id": "52FC0g42uB3NTwD6PFpSm8",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a8c3705ff7296041684d08a4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a8c3705ff7296041684d08a4",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a8c3705ff7296041684d08a4",
+                    "width": 64
+                }
+            ],
+            "name": "Power of Inner Strength",
+            "release_date": "1995-03-07",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:52FC0g42uB3NTwD6PFpSm8"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1P2DRfEZ7OPvTKXxUxxuRc"
+                },
+                "href": "https://api.spotify.com/v1/artists/1P2DRfEZ7OPvTKXxUxxuRc",
+                "id": "1P2DRfEZ7OPvTKXxUxxuRc",
+                "name": "Grip Inc.",
+                "type": "artist",
+                "uri": "spotify:artist:1P2DRfEZ7OPvTKXxUxxuRc"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 237333,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "TCABL1367320"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7lzlVPxvm0nJdttIyBCxiB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7lzlVPxvm0nJdttIyBCxiB",
+        "id": "7lzlVPxvm0nJdttIyBCxiB",
+        "is_local": false,
+        "name": "Hostage to Heaven",
+        "popularity": 31,
+        "preview_url": "https://p.scdn.co/mp3-preview/1be36b75bb2a010258d26bc228cf267686a0a8c6?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7lzlVPxvm0nJdttIyBCxiB"
+    }
+}

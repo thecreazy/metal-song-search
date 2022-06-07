@@ -1,0 +1,181 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "We stand encircled by wing and fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our deepest ties return and turn upon us",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The shrouded reason, the bleeding answer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The human plague in womb",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bring clouds of war",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let us rest",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our future breed is the last",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the conscience waits",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dreams of the new sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're blood in the dust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Given to the Rising",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through this we claw roots",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of trees in the world of iron",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our father's steps fueled the boiling sea",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The wretched harvest reaped by the hands of dawning",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our pain cannot forgive the silent machine of the fatal flaw in man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That brings us to the end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "589079",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1KHydwFySZY3YcWyo2q2dF",
+                    "id": "1KHydwFySZY3YcWyo2q2dF",
+                    "name": "Neurosis",
+                    "type": "artist",
+                    "uri": "spotify:artist:1KHydwFySZY3YcWyo2q2dF"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3elPgTmE3fvI0ETPIvtczl"
+            },
+            "href": "https://api.spotify.com/v1/albums/3elPgTmE3fvI0ETPIvtczl",
+            "id": "3elPgTmE3fvI0ETPIvtczl",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273104d2bc01b8a305dbb911d72",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02104d2bc01b8a305dbb911d72",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851104d2bc01b8a305dbb911d72",
+                    "width": 64
+                }
+            ],
+            "name": "Given to the Rising",
+            "release_date": "2007-05-21",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:3elPgTmE3fvI0ETPIvtczl"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+                },
+                "href": "https://api.spotify.com/v1/artists/1KHydwFySZY3YcWyo2q2dF",
+                "id": "1KHydwFySZY3YcWyo2q2dF",
+                "name": "Neurosis",
+                "type": "artist",
+                "uri": "spotify:artist:1KHydwFySZY3YcWyo2q2dF"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 535666,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4JA0700020"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4X4jNeOmnL1XjazuZNieKV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4X4jNeOmnL1XjazuZNieKV",
+        "id": "4X4jNeOmnL1XjazuZNieKV",
+        "is_local": false,
+        "name": "Given to the Rising",
+        "popularity": 13,
+        "preview_url": "https://p.scdn.co/mp3-preview/b9ae57ef730bae2b3a100baccab86bfdaf9ec16c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4X4jNeOmnL1XjazuZNieKV"
+    }
+}

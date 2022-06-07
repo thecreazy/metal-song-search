@@ -1,0 +1,206 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "It's so cold inside on this summer night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Black clouds in the sky dancing before my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm losing track of time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's the eye of the witch",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's the eye of the witch, yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thunder bring the rain, penetrate my brain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am no more the same, that special night has come again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Losing track of time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's the eye of the witch, yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(The eye)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(The eye)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(The eye)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another glass of wine to heat blood of mine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And as I look inside, the necklace called the eye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm going back in time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's the eye of the witch",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's the eye of the witch, yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(The eye)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(The eye)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(The eye)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "552160",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5i0ph60TnwTlIGrOZAmcZa",
+                    "id": "5i0ph60TnwTlIGrOZAmcZa",
+                    "name": "King Diamond",
+                    "type": "artist",
+                    "uri": "spotify:artist:5i0ph60TnwTlIGrOZAmcZa"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1r0rcxsNTKQDrYGqcqqANU"
+            },
+            "href": "https://api.spotify.com/v1/albums/1r0rcxsNTKQDrYGqcqqANU",
+            "id": "1r0rcxsNTKQDrYGqcqqANU",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d85f700a67891318b07cedcd",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d85f700a67891318b07cedcd",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d85f700a67891318b07cedcd",
+                    "width": 64
+                }
+            ],
+            "name": "The Eye",
+            "release_date": "1990-10-30",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:1r0rcxsNTKQDrYGqcqqANU"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+                },
+                "href": "https://api.spotify.com/v1/artists/5i0ph60TnwTlIGrOZAmcZa",
+                "id": "5i0ph60TnwTlIGrOZAmcZa",
+                "name": "King Diamond",
+                "type": "artist",
+                "uri": "spotify:artist:5i0ph60TnwTlIGrOZAmcZa"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 227533,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329780481"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5MPaIRE54vfKOedIuEXhGJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5MPaIRE54vfKOedIuEXhGJ",
+        "id": "5MPaIRE54vfKOedIuEXhGJ",
+        "is_local": false,
+        "name": "Eye of the Witch",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/0f495fc8c07a3c570eafd2f194e20bb73be12e0a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5MPaIRE54vfKOedIuEXhGJ"
+    }
+}

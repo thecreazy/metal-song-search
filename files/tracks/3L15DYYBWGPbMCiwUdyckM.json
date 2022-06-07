@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Teacher of endless grace was born in india",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A modest shopkeeper living in the seat of bombay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He raised a family, a common, simple life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Until he met his master through grace opened eternal eyes.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spirit opened wide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heart held in his hands",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quantum mystic arise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Without education his grasp of truth was deep",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A fearless lion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Delivering souls from ageless sleep",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Though he lived in poverty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "His wealth was limitless",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Past and future abandoned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To eternal living presence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spirit opened wide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heart held in his hands",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quantum mystic arise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "His message to this world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Still resounds for all time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The unreal never lived",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the real does not ever die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beyond all birth and death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The real is timeless",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Open the shutter of the mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And it will be flooded with light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spirit opened wide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heart held in his hands",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quantum mystic arise",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2719645",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1hiIe6hmDchjc246cpoAOM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1hiIe6hmDchjc246cpoAOM",
+                    "id": "1hiIe6hmDchjc246cpoAOM",
+                    "name": "YOB",
+                    "type": "artist",
+                    "uri": "spotify:artist:1hiIe6hmDchjc246cpoAOM"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3aG7loVxjL7TM0drtRRiW8"
+            },
+            "href": "https://api.spotify.com/v1/albums/3aG7loVxjL7TM0drtRRiW8",
+            "id": "3aG7loVxjL7TM0drtRRiW8",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27348fac9bcd553b35ffecb7610",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0248fac9bcd553b35ffecb7610",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485148fac9bcd553b35ffecb7610",
+                    "width": 64
+                }
+            ],
+            "name": "The Unreal Never Lived",
+            "release_date": "2005-08-23",
+            "release_date_precision": "day",
+            "total_tracks": 4,
+            "type": "album",
+            "uri": "spotify:album:3aG7loVxjL7TM0drtRRiW8"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1hiIe6hmDchjc246cpoAOM"
+                },
+                "href": "https://api.spotify.com/v1/artists/1hiIe6hmDchjc246cpoAOM",
+                "id": "1hiIe6hmDchjc246cpoAOM",
+                "name": "YOB",
+                "type": "artist",
+                "uri": "spotify:artist:1hiIe6hmDchjc246cpoAOM"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 658600,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USMBR0502747"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3L15DYYBWGPbMCiwUdyckM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3L15DYYBWGPbMCiwUdyckM",
+        "id": "3L15DYYBWGPbMCiwUdyckM",
+        "is_local": false,
+        "name": "Quantum Mystic",
+        "popularity": 17,
+        "preview_url": "https://p.scdn.co/mp3-preview/5343e5d202a3d9bb277db625b57f460b806a8dfa?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3L15DYYBWGPbMCiwUdyckM"
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "A young maiden with a demon in her soul,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A twisted mind with secrets to unfold.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "An innocent face, a deceiving smile,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Under no suspicion, servant to Belial.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The axe came down... Blood all around...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She lurks possessed, without a sound,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Butchers her Dam when no one is around.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The next day her Sire feels her wrath,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She has no remorse in her merciless bloodbath.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[CHORUS]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She's Miss Lizzy, she feels no pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The axe came down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She's Miss Lizzy, she strikes again,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The axe came down... Blood all around",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[REFRAIN]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lizzy Borden took an axe, gave her mother forty whacks,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When she saw what she had done, she gave her father forty-one.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[REPEAT REFRAIN]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[REPEAT REFRAIN]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now before the jury with a solemn face,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "These legendary murders... she left not a trace.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lizzy found it so simple to take their lives,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Today she walks free... Axe by her side...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[CHORUS]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She took an axe.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "555806",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1ApBh0VSoxRjjT3kFQZrpz",
+                    "id": "1ApBh0VSoxRjjT3kFQZrpz",
+                    "name": "Flotsam & Jetsam",
+                    "type": "artist",
+                    "uri": "spotify:artist:1ApBh0VSoxRjjT3kFQZrpz"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1lXN7Nj1wGSQiPfGjCZHhf"
+            },
+            "href": "https://api.spotify.com/v1/albums/1lXN7Nj1wGSQiPfGjCZHhf",
+            "id": "1lXN7Nj1wGSQiPfGjCZHhf",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27387f90177d4152a09eee584a7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0287f90177d4152a09eee584a7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485187f90177d4152a09eee584a7",
+                    "width": 64
+                }
+            ],
+            "name": "Doomsday for the Deceiver",
+            "release_date": "1986",
+            "release_date_precision": "year",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:1lXN7Nj1wGSQiPfGjCZHhf"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+                },
+                "href": "https://api.spotify.com/v1/artists/1ApBh0VSoxRjjT3kFQZrpz",
+                "id": "1ApBh0VSoxRjjT3kFQZrpz",
+                "name": "Flotsam & Jetsam",
+                "type": "artist",
+                "uri": "spotify:artist:1ApBh0VSoxRjjT3kFQZrpz"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 314800,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USMBR0400919"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5O5ZTXFW4i6duZ7re1Rdmq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5O5ZTXFW4i6duZ7re1Rdmq",
+        "id": "5O5ZTXFW4i6duZ7re1Rdmq",
+        "is_local": false,
+        "name": "She Took an Axe",
+        "popularity": 16,
+        "preview_url": "https://p.scdn.co/mp3-preview/e42ed0852de2894b1f14ee00571522a997deee3e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5O5ZTXFW4i6duZ7re1Rdmq"
+    }
+}

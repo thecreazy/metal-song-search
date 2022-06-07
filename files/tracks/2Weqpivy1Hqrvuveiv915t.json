@@ -1,0 +1,186 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Defile your life with religions",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And sell your soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You put all trust in your holy man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You may deny it's illusion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just worthless rules",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You turn away when you think you can",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Corrupting life with suppression",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The safest way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You wash your hands in your piety",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The winds have turned in your favour",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your time is here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A congregation on a massive scale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But when the night finally falls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And when the truth finally dawns",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just like the oar strikes the water",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But when the night finally falls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yeah when the truth finally dawns",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just like the oar strikes the water.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "3058581",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7GTkjp7qsfmx8iJzBUQLmN",
+                    "id": "7GTkjp7qsfmx8iJzBUQLmN",
+                    "name": "Grand Magus",
+                    "type": "artist",
+                    "uri": "spotify:artist:7GTkjp7qsfmx8iJzBUQLmN"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0vsxMVYYmYERJrQenjlkGm"
+            },
+            "href": "https://api.spotify.com/v1/albums/0vsxMVYYmYERJrQenjlkGm",
+            "id": "0vsxMVYYmYERJrQenjlkGm",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f96e2ba87dce81ce2d25dbf9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f96e2ba87dce81ce2d25dbf9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f96e2ba87dce81ce2d25dbf9",
+                    "width": 64
+                }
+            ],
+            "name": "Iron Will",
+            "release_date": "2008-06-09",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:0vsxMVYYmYERJrQenjlkGm"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN"
+                },
+                "href": "https://api.spotify.com/v1/artists/7GTkjp7qsfmx8iJzBUQLmN",
+                "id": "7GTkjp7qsfmx8iJzBUQLmN",
+                "name": "Grand Magus",
+                "type": "artist",
+                "uri": "spotify:artist:7GTkjp7qsfmx8iJzBUQLmN"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 193826,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBMLU0811301"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2Weqpivy1Hqrvuveiv915t"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Weqpivy1Hqrvuveiv915t",
+        "id": "2Weqpivy1Hqrvuveiv915t",
+        "is_local": false,
+        "name": "Like The Oar Strikes The Water",
+        "popularity": 18,
+        "preview_url": "https://p.scdn.co/mp3-preview/4b9a79e35bb363e9174f147cfcd91ebcee840cad?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Weqpivy1Hqrvuveiv915t"
+    }
+}

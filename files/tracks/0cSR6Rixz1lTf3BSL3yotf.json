@@ -1,0 +1,176 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "If the powers that be tell you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There never were three wise men",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then you'd better believe it's true",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They won't ask you to come again.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the cage the ringmaster cracks",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He puts you through all your tricks",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then the lions are on your back",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're runnin' out but then you slip",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shout it out, give 'em Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shout it out, give 'em Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Happy sat in the back seat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But the manager shows you the door",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then you're picked up for walkin' the street",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's too much you can't take anymore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shout it out, give 'em Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shout it out, give 'em Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "7307766",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4sWMI7YTP9rDfT7ebSsj2S"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4sWMI7YTP9rDfT7ebSsj2S",
+                    "id": "4sWMI7YTP9rDfT7ebSsj2S",
+                    "name": "Witchfynde",
+                    "type": "artist",
+                    "uri": "spotify:artist:4sWMI7YTP9rDfT7ebSsj2S"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0mRmhkjK6j7FFMQTn1PDRM"
+            },
+            "href": "https://api.spotify.com/v1/albums/0mRmhkjK6j7FFMQTn1PDRM",
+            "id": "0mRmhkjK6j7FFMQTn1PDRM",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27358f37e0c89a6bc35ff4253ef",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0258f37e0c89a6bc35ff4253ef",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485158f37e0c89a6bc35ff4253ef",
+                    "width": 64
+                }
+            ],
+            "name": "Give 'Em Hell",
+            "release_date": "1980-02-05",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:0mRmhkjK6j7FFMQTn1PDRM"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4sWMI7YTP9rDfT7ebSsj2S"
+                },
+                "href": "https://api.spotify.com/v1/artists/4sWMI7YTP9rDfT7ebSsj2S",
+                "id": "4sWMI7YTP9rDfT7ebSsj2S",
+                "name": "Witchfynde",
+                "type": "artist",
+                "uri": "spotify:artist:4sWMI7YTP9rDfT7ebSsj2S"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 243200,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBLY8000087"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0cSR6Rixz1lTf3BSL3yotf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0cSR6Rixz1lTf3BSL3yotf",
+        "id": "0cSR6Rixz1lTf3BSL3yotf",
+        "is_local": false,
+        "name": "Give 'Em Hell",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/df5fbbd08928f0238b8dc6be5c4377758b12aafc?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0cSR6Rixz1lTf3BSL3yotf"
+    }
+}

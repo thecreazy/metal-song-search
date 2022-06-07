@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "A bout of deep depression",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't seem to move it forward",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My lying eyes lie awake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Not sure what I am after",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I never died before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't live what happened yesterday",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I never stoned the crow, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flip through endless stories",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A life of a hand-written pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one can share this hurt that is mine, mine, mine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I never died before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't be what happened yesterday",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I shouldn't stone the crow, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ride on!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Same old city (same old city)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Same old day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No matter how I try",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No matter what I say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm blamed, I'm shamed, I'm judged unfairly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So now I've died before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It feels as bad as yesterday",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I never stoned the crow, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You too have died before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I thought I'm stoned as yesterday",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I never stoned the crow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stoned the crow, no, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "814521",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1m0B9ak05G0jqDY4ACLhQu",
+                    "id": "1m0B9ak05G0jqDY4ACLhQu",
+                    "name": "DOWN",
+                    "type": "artist",
+                    "uri": "spotify:artist:1m0B9ak05G0jqDY4ACLhQu"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg"
+            },
+            "href": "https://api.spotify.com/v1/albums/04BvRPJwuDeuJ3DhbAw9Wg",
+            "id": "04BvRPJwuDeuJ3DhbAw9Wg",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bd53947ce705d95e0fa3852d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bd53947ce705d95e0fa3852d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851bd53947ce705d95e0fa3852d",
+                    "width": 64
+                }
+            ],
+            "name": "Nola",
+            "release_date": "1995-08-29",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:04BvRPJwuDeuJ3DhbAw9Wg"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu"
+                },
+                "href": "https://api.spotify.com/v1/artists/1m0B9ak05G0jqDY4ACLhQu",
+                "id": "1m0B9ak05G0jqDY4ACLhQu",
+                "name": "DOWN",
+                "type": "artist",
+                "uri": "spotify:artist:1m0B9ak05G0jqDY4ACLhQu"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 282506,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USEE10182808"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7DuRbuweGD2cpGN74cpPAF",
+        "id": "7DuRbuweGD2cpGN74cpPAF",
+        "is_local": false,
+        "name": "Stone the Crow",
+        "popularity": 56,
+        "preview_url": "https://p.scdn.co/mp3-preview/9e1297644f9f738806c3801d9bf40aefdd456ccf?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:7DuRbuweGD2cpGN74cpPAF"
+    }
+}

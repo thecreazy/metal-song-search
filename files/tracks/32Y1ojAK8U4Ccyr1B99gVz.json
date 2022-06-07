@@ -1,0 +1,266 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Fly with me on a starlit sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll set you free, yes, it can be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A dream unchased is a life at waste",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never let them conquer your pride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our love is warm here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like the image of a distant sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This star will always shine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And never ever fade away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fly on silverwing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fly with me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stay free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Silverwing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seeking truths in spirit skies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Which one of you will guide me tonight?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The milky way tastes sour",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Has heaven lost its power?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So let us set sail on this sea of dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The moon gets lost in the morning sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just let the spinning wheel spin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And let your life begin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fly on silverwing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fly with me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stay free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Silverwing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fly on silverwing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fly with me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stay free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Silverwing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Silverwing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "990373",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0DCw6lHkzh9t7f8Hb4Z0Sx",
+                    "id": "0DCw6lHkzh9t7f8Hb4Z0Sx",
+                    "name": "Arch Enemy",
+                    "type": "artist",
+                    "uri": "spotify:artist:0DCw6lHkzh9t7f8Hb4Z0Sx"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4qwaehBoGexegfX44egeEE"
+            },
+            "href": "https://api.spotify.com/v1/albums/4qwaehBoGexegfX44egeEE",
+            "id": "4qwaehBoGexegfX44egeEE",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d3d3e68a2070a22093a3f6a6",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d3d3e68a2070a22093a3f6a6",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d3d3e68a2070a22093a3f6a6",
+                    "width": 64
+                }
+            ],
+            "name": "Burning Bridges (Reissue)",
+            "release_date": "2009-07-13",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:4qwaehBoGexegfX44egeEE"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+                },
+                "href": "https://api.spotify.com/v1/artists/0DCw6lHkzh9t7f8Hb4Z0Sx",
+                "id": "0DCw6lHkzh9t7f8Hb4Z0Sx",
+                "name": "Arch Enemy",
+                "type": "artist",
+                "uri": "spotify:artist:0DCw6lHkzh9t7f8Hb4Z0Sx"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 246866,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40497604"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/32Y1ojAK8U4Ccyr1B99gVz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/32Y1ojAK8U4Ccyr1B99gVz",
+        "id": "32Y1ojAK8U4Ccyr1B99gVz",
+        "is_local": false,
+        "name": "Silverwing",
+        "popularity": 30,
+        "preview_url": "https://p.scdn.co/mp3-preview/3f4c9892397603d4ac55122323600c050705311b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:32Y1ojAK8U4Ccyr1B99gVz"
+    }
+}

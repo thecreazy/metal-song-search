@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Tired of dull ages, I walk the same ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Collecting the tragedies still",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hollow ambitions in a hollow mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Carried my cross to the hill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And how I lust for the dance and the fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deep of the nectarine sunset to drink",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spill me the wind and its fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To steal of the colors",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm the moonshield",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shattered hope became my guide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And grief and pain my friends",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A brother pact in blood-ink penned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Declared my silent end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Naked and dying under worlds of silent stone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Reaching for the moonshield that once upon us shone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Naked and dying under worlds of silent stone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Reaching for the moonshield that once upon us shone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "How I lust for the dance and the fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deep of the nectarine sunset to drink",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spill me the wind and its fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To steal of the colors",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm the... I'm the... I'm the...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm the moonshield",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "862775",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/57ylwQTnFnIhJh4nu4rxCs",
+                    "id": "57ylwQTnFnIhJh4nu4rxCs",
+                    "name": "In Flames",
+                    "type": "artist",
+                    "uri": "spotify:artist:57ylwQTnFnIhJh4nu4rxCs"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1oupMKdNzd7u1isqbtM4so"
+            },
+            "href": "https://api.spotify.com/v1/albums/1oupMKdNzd7u1isqbtM4so",
+            "id": "1oupMKdNzd7u1isqbtM4so",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737b967d82647ad3a36a098334",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027b967d82647ad3a36a098334",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517b967d82647ad3a36a098334",
+                    "width": 64
+                }
+            ],
+            "name": "The Jester Race (Black Ash-Inheritance Version)",
+            "release_date": "1996-02-20",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:1oupMKdNzd7u1isqbtM4so"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+                },
+                "href": "https://api.spotify.com/v1/artists/57ylwQTnFnIhJh4nu4rxCs",
+                "id": "57ylwQTnFnIhJh4nu4rxCs",
+                "name": "In Flames",
+                "type": "artist",
+                "uri": "spotify:artist:57ylwQTnFnIhJh4nu4rxCs"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 301666,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED830162801"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3gqdwcfzDsJvuPQ8oSZCxq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3gqdwcfzDsJvuPQ8oSZCxq",
+        "id": "3gqdwcfzDsJvuPQ8oSZCxq",
+        "is_local": false,
+        "name": "Moonshield",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/e338c09fc743f09c337c3669422567dd302c5738?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3gqdwcfzDsJvuPQ8oSZCxq"
+    }
+}

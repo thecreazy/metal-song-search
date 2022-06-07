@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "A crowded Main street, the scene was set",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They check out the view, turn the radio on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Open the case, assemble the gun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wait at the ready, for the president's run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The world was shocked that fateful day (*)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A young man's life was blown away, away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dallas, 1 p.m., 1 p.m.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "White hot lead, in the back of the head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Screaming confusion, shots rip the air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cadillac racing, cops on the run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They couldn't believe the president's hit",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The shooting's done, assassins run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is he dead, no one will say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Around the world, the news was flashed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We sat and watched your tragic history",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Repeat *)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The world was shocked",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In Dallas, 1 p.m.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We sat and watched",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tragic history",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The world was shocked",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In Dallas, 1 p.m.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "10557346",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/71vVmHeNgCVSa5SVmfvscU",
+                    "id": "71vVmHeNgCVSa5SVmfvscU",
+                    "name": "Saxon",
+                    "type": "artist",
+                    "uri": "spotify:artist:71vVmHeNgCVSa5SVmfvscU"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/31rQ8a12b01IJ2tTFcM1bW"
+            },
+            "href": "https://api.spotify.com/v1/albums/31rQ8a12b01IJ2tTFcM1bW",
+            "id": "31rQ8a12b01IJ2tTFcM1bW",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733b04b52a505c04c6ecc7e870",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023b04b52a505c04c6ecc7e870",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513b04b52a505c04c6ecc7e870",
+                    "width": 64
+                }
+            ],
+            "name": "Strong Arm of the Law (2009 Remastered Version)",
+            "release_date": "1980",
+            "release_date_precision": "year",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:31rQ8a12b01IJ2tTFcM1bW"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU"
+                },
+                "href": "https://api.spotify.com/v1/artists/71vVmHeNgCVSa5SVmfvscU",
+                "id": "71vVmHeNgCVSa5SVmfvscU",
+                "name": "Saxon",
+                "type": "artist",
+                "uri": "spotify:artist:71vVmHeNgCVSa5SVmfvscU"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 389735,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GB01A0900067"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5LbSYBg95bl4Yup6CWCRay"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5LbSYBg95bl4Yup6CWCRay",
+        "id": "5LbSYBg95bl4Yup6CWCRay",
+        "is_local": false,
+        "name": "Dallas 1PM - 2009 Remastered Version",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/f3518e09698d6ae8da2d3c7d99442ea2bdd45f25?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5LbSYBg95bl4Yup6CWCRay"
+    }
+}

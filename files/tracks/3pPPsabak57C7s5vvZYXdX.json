@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Oh no, here it comes again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't remember when we came so close to love before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hold on, good things never last",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nothing's in the past, it always seems to come again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Again and again, again and again, again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cry out, to legions of the brave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time again to save us from the jackals of the street",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ride out, protectors of the realm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Captain's at the helm, sail across the sea of lights",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Circles and rings, dragons and kings",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Weaving a charm and a spell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blessed by the night, holy and bright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Called by the toll of the bell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bloodied angels fast descending",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Moving on a never-bending light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Phantom figures free forever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Out of shadows, shining ever-bright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Neon Knights",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Neon Knights",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cry out, to legions of the brave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time again to save us from the jackals of the street",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ride out, protectors of the realm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Captain's at the helm, sail across the sea of lights",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Again and again, again and again and again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Neon Knights",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Neon Knights",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Neon Knights",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "212226",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                    "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                    "name": "Black Sabbath",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6SQi2QhRzKSOUHKbuzlqnt"
+            },
+            "href": "https://api.spotify.com/v1/albums/6SQi2QhRzKSOUHKbuzlqnt",
+            "id": "6SQi2QhRzKSOUHKbuzlqnt",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736e251a69eecae8feb5744ea4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026e251a69eecae8feb5744ea4",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516e251a69eecae8feb5744ea4",
+                    "width": 64
+                }
+            ],
+            "name": "Heaven & Hell (Deluxe Edition)",
+            "release_date": "1980-04-25",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:6SQi2QhRzKSOUHKbuzlqnt"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                "name": "Black Sabbath",
+                "type": "artist",
+                "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 231693,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBUM70900395"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3pPPsabak57C7s5vvZYXdX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3pPPsabak57C7s5vvZYXdX",
+        "id": "3pPPsabak57C7s5vvZYXdX",
+        "is_local": false,
+        "name": "Neon Knights - 2009 Remaster",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/b45e2bb5560064213083f8c503ec22f0d206c493?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3pPPsabak57C7s5vvZYXdX"
+    }
+}

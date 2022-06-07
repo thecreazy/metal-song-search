@@ -1,0 +1,186 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Live by the sword and help to contain the helpless minds of you all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die by my hand in pools of blood, clutch yourself as you fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mindless tyranny, forgotten victims, children slaughtered in vain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Raping the maids, in which they serve only the words of the Lord",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die by the sword",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die by the sword",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Satan watches all of us, smiles as some do his bidding",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Try to escape the grasp of my hand, and your life will no longer exist",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hear our cry, save us from the Hell in which we live",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We turn our heads toward the sky and listen for the steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die by the sword",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die by the sword",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Watch as flowers decay on the cryptic life that died",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The wisdom of the wizards is only a nurtured lie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Black knights of Hell's domain walk upon the dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Satanas sits upon the blood on which he feeds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die by the sword",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die by the sword",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "531896",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk",
+                    "id": "1IQ2e1buppatiN1bxUVkrk",
+                    "name": "Slayer",
+                    "type": "artist",
+                    "uri": "spotify:artist:1IQ2e1buppatiN1bxUVkrk"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3D6BriGykla1Qi2YzeoE7X"
+            },
+            "href": "https://api.spotify.com/v1/albums/3D6BriGykla1Qi2YzeoE7X",
+            "id": "3D6BriGykla1Qi2YzeoE7X",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27309f13998cfda5cdaf484f051",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0209f13998cfda5cdaf484f051",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485109f13998cfda5cdaf484f051",
+                    "width": 64
+                }
+            ],
+            "name": "Show No Mercy",
+            "release_date": "1983-12-03",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:3D6BriGykla1Qi2YzeoE7X"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+                },
+                "href": "https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk",
+                "id": "1IQ2e1buppatiN1bxUVkrk",
+                "name": "Slayer",
+                "type": "artist",
+                "uri": "spotify:artist:1IQ2e1buppatiN1bxUVkrk"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216933,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USMBR1309931"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4JDFs0oRsOKAu8mQEkSFbQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4JDFs0oRsOKAu8mQEkSFbQ",
+        "id": "4JDFs0oRsOKAu8mQEkSFbQ",
+        "is_local": false,
+        "name": "Die by the Sword",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/d663f465c3dd7be1be2078637a8d4080386b1ee6?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4JDFs0oRsOKAu8mQEkSFbQ"
+    }
+}

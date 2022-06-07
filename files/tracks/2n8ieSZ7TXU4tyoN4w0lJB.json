@@ -1,0 +1,77 @@
+{
+    "trackInfo": {
+        "album": {
+            "album_type": "compilation",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3JhICthppsMf2n4S8ExJoj"
+            },
+            "href": "https://api.spotify.com/v1/albums/3JhICthppsMf2n4S8ExJoj",
+            "id": "3JhICthppsMf2n4S8ExJoj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fd9b7e49eb75372714cf39ea",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fd9b7e49eb75372714cf39ea",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851fd9b7e49eb75372714cf39ea",
+                    "width": 64
+                }
+            ],
+            "name": "Metal For Kids",
+            "release_date": "2022-05-25",
+            "release_date_precision": "day",
+            "total_tracks": 29,
+            "type": "album",
+            "uri": "spotify:album:3JhICthppsMf2n4S8ExJoj"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO"
+                },
+                "href": "https://api.spotify.com/v1/artists/2OgUPVlWYgGBGMefZgGvCO",
+                "id": "2OgUPVlWYgGBGMefZgGvCO",
+                "name": "Queensrÿche",
+                "type": "artist",
+                "uri": "spotify:artist:2OgUPVlWYgGBGMefZgGvCO"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 473493,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USCA20600199"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2n8ieSZ7TXU4tyoN4w0lJB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2n8ieSZ7TXU4tyoN4w0lJB",
+        "id": "2n8ieSZ7TXU4tyoN4w0lJB",
+        "is_local": false,
+        "name": "Eyes Of A Stranger - Live At Hammersmith Odeon, London, England/1990",
+        "popularity": 0,
+        "preview_url": null,
+        "track_number": 15,
+        "type": "track",
+        "uri": "spotify:track:2n8ieSZ7TXU4tyoN4w0lJB"
+    }
+}

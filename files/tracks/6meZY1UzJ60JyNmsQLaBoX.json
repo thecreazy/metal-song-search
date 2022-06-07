@@ -1,0 +1,251 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Machines made for killing at mach speed and more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sleek in design and loaded for war",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sidewinding missiles, heat-seeks and sparrows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Strafing squadrons cause havoc and terror",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Winged Assassins - Seek their prey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Camouflage colours impair observation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Insignia painted depicting its nation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Defying detection at low altitude",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Penetrate, attack, evade and elude",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Soaring death - Taking lives",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No escape - Widows weep",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Winged Assassins - Seek their prey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Radar is sweeping and scanning the skies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Searching out targets with infrared eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Enemy forces appear on the screen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Computers lock in, all systems are green",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Formation - Orders, permission to arm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Closing in - To make the kill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Trigger in hand, blood lust in his heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The pilot is ready to play out his part",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Underwing stores await a demand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Releasing the arsenal upon his command",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Soaring death - Taking lives",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No escape - Widows weep",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Permission is given to unleash the power",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rockets home in, strike and devour",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wreckage falls helpless rolling in flames",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another life wasted in some general's games",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Task complete - Honours awaiting heroes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Painted scrap - Awarding murder",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Winged Assassins - Seek their prey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "560140",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0maNhqGx60ucjS4UaAH6cP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0maNhqGx60ucjS4UaAH6cP",
+                    "id": "0maNhqGx60ucjS4UaAH6cP",
+                    "name": "Anvil",
+                    "type": "artist",
+                    "uri": "spotify:artist:0maNhqGx60ucjS4UaAH6cP"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2JBtXhIEZzDfbAPNuxWtTW"
+            },
+            "href": "https://api.spotify.com/v1/albums/2JBtXhIEZzDfbAPNuxWtTW",
+            "id": "2JBtXhIEZzDfbAPNuxWtTW",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b81d4380e92422d835512549",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b81d4380e92422d835512549",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b81d4380e92422d835512549",
+                    "width": 64
+                }
+            ],
+            "name": "Forged in Fire",
+            "release_date": "1983-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2JBtXhIEZzDfbAPNuxWtTW"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0maNhqGx60ucjS4UaAH6cP"
+                },
+                "href": "https://api.spotify.com/v1/artists/0maNhqGx60ucjS4UaAH6cP",
+                "id": "0maNhqGx60ucjS4UaAH6cP",
+                "name": "Anvil",
+                "type": "artist",
+                "uri": "spotify:artist:0maNhqGx60ucjS4UaAH6cP"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 227493,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "CAU118301141"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6meZY1UzJ60JyNmsQLaBoX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6meZY1UzJ60JyNmsQLaBoX",
+        "id": "6meZY1UzJ60JyNmsQLaBoX",
+        "is_local": false,
+        "name": "Winged Assassins",
+        "popularity": 16,
+        "preview_url": "https://p.scdn.co/mp3-preview/b50e8ea4e85403dfdef4c0fb8898dcfdbeb7b892?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:6meZY1UzJ60JyNmsQLaBoX"
+    }
+}

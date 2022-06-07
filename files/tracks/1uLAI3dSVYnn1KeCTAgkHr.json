@@ -1,0 +1,251 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I cannot sleep at night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That's what the day is for anyway",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And as the clock strikes midnight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I hear them dancing at the graves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Singing to my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Killing the pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sleepless nights",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sleepless nights",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I cannot sleep at night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That's what the day is for anyway",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And as the clock strikes midnight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who only they can let us meet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Even though she's dead now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I cannot see her again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sleepless nights",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sleepless nights",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I cannot sleep at night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will do anything to see Missy again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then let us make you an eternal deal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You will attend to the graves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You'll give us the house back and keep in mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That we only come here at night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So we made the deal under the starry night and",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Amon belongs to them now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel the dawn coming my way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And as the sun breaks up the dark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can't hear them dance no more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There is no voices",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Killing the pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "552221",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5i0ph60TnwTlIGrOZAmcZa",
+                    "id": "5i0ph60TnwTlIGrOZAmcZa",
+                    "name": "King Diamond",
+                    "type": "artist",
+                    "uri": "spotify:artist:5i0ph60TnwTlIGrOZAmcZa"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3soSRzbPLtJEstj20sQTnK"
+            },
+            "href": "https://api.spotify.com/v1/albums/3soSRzbPLtJEstj20sQTnK",
+            "id": "3soSRzbPLtJEstj20sQTnK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739d066a1fad421f4f38105ad1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029d066a1fad421f4f38105ad1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519d066a1fad421f4f38105ad1",
+                    "width": 64
+                }
+            ],
+            "name": "Conspiracy",
+            "release_date": "1989-08-21",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:3soSRzbPLtJEstj20sQTnK"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+                },
+                "href": "https://api.spotify.com/v1/artists/5i0ph60TnwTlIGrOZAmcZa",
+                "id": "5i0ph60TnwTlIGrOZAmcZa",
+                "name": "King Diamond",
+                "type": "artist",
+                "uri": "spotify:artist:5i0ph60TnwTlIGrOZAmcZa"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 305933,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329780502"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1uLAI3dSVYnn1KeCTAgkHr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1uLAI3dSVYnn1KeCTAgkHr",
+        "id": "1uLAI3dSVYnn1KeCTAgkHr",
+        "is_local": false,
+        "name": "Sleepless Nights",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/fe98904bfa8c6505b9d9fce92aca83ac3bb80d86?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1uLAI3dSVYnn1KeCTAgkHr"
+    }
+}

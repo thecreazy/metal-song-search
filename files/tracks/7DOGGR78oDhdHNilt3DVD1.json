@@ -1,0 +1,171 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "You hear the snake on the radio,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You say the singer really makes you go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't you see what you're doing to me,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're driving me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Axe crazy!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've got to know now I've got to be sure,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can't give when you're asking for more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You scream blood and you're gunning for me,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't you see you're driving me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Axe crazy!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Solo)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now I'm back I'm a dangerous force,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fallen victim to life's evil course",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm a madman so watch out for me,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Got my six string I've gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Axe crazy!",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "7230482",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2eXoEyhoSxGu7BFgHYLZiI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2eXoEyhoSxGu7BFgHYLZiI",
+                    "id": "2eXoEyhoSxGu7BFgHYLZiI",
+                    "name": "Jaguar",
+                    "type": "artist",
+                    "uri": "spotify:artist:2eXoEyhoSxGu7BFgHYLZiI"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0mLIhdT0zwMgQxMQEyEB6k"
+            },
+            "href": "https://api.spotify.com/v1/albums/0mLIhdT0zwMgQxMQEyEB6k",
+            "id": "0mLIhdT0zwMgQxMQEyEB6k",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730373865d11f3139dd55f417a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020373865d11f3139dd55f417a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510373865d11f3139dd55f417a",
+                    "width": 64
+                }
+            ],
+            "name": "Power Games",
+            "release_date": "1983-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:0mLIhdT0zwMgQxMQEyEB6k"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2eXoEyhoSxGu7BFgHYLZiI"
+                },
+                "href": "https://api.spotify.com/v1/artists/2eXoEyhoSxGu7BFgHYLZiI",
+                "id": "2eXoEyhoSxGu7BFgHYLZiI",
+                "name": "Jaguar",
+                "type": "artist",
+                "uri": "spotify:artist:2eXoEyhoSxGu7BFgHYLZiI"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 171640,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE8200095"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7DOGGR78oDhdHNilt3DVD1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7DOGGR78oDhdHNilt3DVD1",
+        "id": "7DOGGR78oDhdHNilt3DVD1",
+        "is_local": false,
+        "name": "Axe Crazy",
+        "popularity": 24,
+        "preview_url": "https://p.scdn.co/mp3-preview/ac849665e9669dbf8f857e6cf2d65db9d6fe3a36?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:7DOGGR78oDhdHNilt3DVD1"
+    }
+}

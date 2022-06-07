@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Coming home from sacrifice to meet our long-nosed wives",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rifles in the twisted canyons summon their surprise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Waking up the silent breeze puts shivers in their hearts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Crazed to death by casualties the calvary departs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are the red men",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feathers-in-our-head men",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Down among the deadmen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "UM-POW-WOW!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In bitter stars that cast their shrine upon the wilderness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rabid eyes of shamen flood the moon's descending crest",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Creeping in clairvoyance painted savaged are drawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lost in dire sacrifice to dance and die at dawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are the red men",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feathers-in-our-head men",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Down among the deadmen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "UM-POW-WOW!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I was born to walk on the plains",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I was born to run in the hills",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I was tough enough to spawn and die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Towards summer's end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And as you walk through the arid wilderness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You can hear my battle cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We were torn from shackles and chains",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We were born to run in the hills",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We were tough enough to spawn and die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Towards summer's end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And as you walk through the arid wilderness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You can hear my battle cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2527381",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0VV7GNAJSRtAvWULgtRXCn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0VV7GNAJSRtAvWULgtRXCn",
+                    "id": "0VV7GNAJSRtAvWULgtRXCn",
+                    "name": "The Lord Weird Slough Feg",
+                    "type": "artist",
+                    "uri": "spotify:artist:0VV7GNAJSRtAvWULgtRXCn"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6WELwbunK5vYuwofgJ8Y7c"
+            },
+            "href": "https://api.spotify.com/v1/albums/6WELwbunK5vYuwofgJ8Y7c",
+            "id": "6WELwbunK5vYuwofgJ8Y7c",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273285350f494deb33ec0f2e00c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02285350f494deb33ec0f2e00c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851285350f494deb33ec0f2e00c",
+                    "width": 64
+                }
+            ],
+            "name": "Down Among the Deadman",
+            "release_date": "2001-03-01",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:6WELwbunK5vYuwofgJ8Y7c"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0VV7GNAJSRtAvWULgtRXCn"
+                },
+                "href": "https://api.spotify.com/v1/artists/0VV7GNAJSRtAvWULgtRXCn",
+                "id": "0VV7GNAJSRtAvWULgtRXCn",
+                "name": "The Lord Weird Slough Feg",
+                "type": "artist",
+                "uri": "spotify:artist:0VV7GNAJSRtAvWULgtRXCn"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 363893,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USA561235336"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0LXef4o8UjEH1vIf8A3nIU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0LXef4o8UjEH1vIf8A3nIU",
+        "id": "0LXef4o8UjEH1vIf8A3nIU",
+        "is_local": false,
+        "name": "Warriors Dawn",
+        "popularity": 15,
+        "preview_url": "https://p.scdn.co/mp3-preview/2e3577fd4f9d0b13ddcc805a7c1fb1c4e8a44963?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0LXef4o8UjEH1vIf8A3nIU"
+    }
+}

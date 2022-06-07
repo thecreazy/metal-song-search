@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Nuo valkoiset kentät tätä maata hallitsevat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jään välkehtiessä hiljaa itkevät",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kaiken kuolevaisen ajat muistavat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Halki pohjoisen kirkas taivas siintää",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metsän huuruun saattaa kylmällä sateellaan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tähdet taakseen kätkee, meren tuleen sytyttää",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ukkosellaan vuoriakin vavisuttaa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Päivät seisauttaen öisin raivoten",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kauan ovat pilvet kulkeneet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rauhatta vetten päällä velloneet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jos taivaankannen liekki nyt roudan sulattaa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Meitä vain riepottaa virta mukanaan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nuo valkoiset kentät yötä häikäisevät",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hiljaiset jättiläiset jäästä ja kivestä",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Maan kylmän kauniin saa tuuli hajottaa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ja ikuinen virta lumena sataa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lakeudet ainiaan vailla asujaa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tahtoonsa jääkylmä tuuli maan kauniin taivuttaa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kaukana viima pilviä ajaa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kallioihin suruisat säkeensä kirjoittaa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Taivas eksyttää väsyneen vaeltajan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jonka valkoinen tyhjyys lopulta maahan kaataa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Niin kiroavat jättiläiset jäästä ja kivestä",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ei tästä kukaan käy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vaikka puut tuhkaksi palaisivat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vaikka ranta karkaisi veden taa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ei tätä maata voi ihminen omistaa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1668332",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "fi",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4PdaU6ArZ8JTZvCX9ZWuTI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4PdaU6ArZ8JTZvCX9ZWuTI",
+                    "id": "4PdaU6ArZ8JTZvCX9ZWuTI",
+                    "name": "Moonsorrow",
+                    "type": "artist",
+                    "uri": "spotify:artist:4PdaU6ArZ8JTZvCX9ZWuTI"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1eA4WMFDDMX791aoy02XPf"
+            },
+            "href": "https://api.spotify.com/v1/albums/1eA4WMFDDMX791aoy02XPf",
+            "id": "1eA4WMFDDMX791aoy02XPf",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f8453b9c83d41dfc2f5024bf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f8453b9c83d41dfc2f5024bf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f8453b9c83d41dfc2f5024bf",
+                    "width": 64
+                }
+            ],
+            "name": "Verisäkeet",
+            "release_date": "2010-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:1eA4WMFDDMX791aoy02XPf"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4PdaU6ArZ8JTZvCX9ZWuTI"
+                },
+                "href": "https://api.spotify.com/v1/artists/4PdaU6ArZ8JTZvCX9ZWuTI",
+                "id": "4PdaU6ArZ8JTZvCX9ZWuTI",
+                "name": "Moonsorrow",
+                "type": "artist",
+                "uri": "spotify:artist:4PdaU6ArZ8JTZvCX9ZWuTI"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 1168346,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "FIUM71000257"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/52AQa7FPIDzaQ7OSJUIiuX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/52AQa7FPIDzaQ7OSJUIiuX",
+        "id": "52AQa7FPIDzaQ7OSJUIiuX",
+        "is_local": false,
+        "name": "Jotunheim",
+        "popularity": 26,
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:52AQa7FPIDzaQ7OSJUIiuX"
+    }
+}

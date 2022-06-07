@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "The clouds roll in one by one",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the shapes seem to spell out caution",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Many worries in my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Without too many options",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I take a trip to soothe the pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And get away from the problem",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm near, sign reads clear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's plain inside your cranium",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look at the speed you ran",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're just a nervous man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too much for your own hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Delirious Nomad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I find no end to this",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Paranoid, well, perhaps a bit",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I am a spy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Loneliest guy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With no one to lean on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look at the speed you ran",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're just a nervous man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too much for your own hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Delirious Nomad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look at the seed you plant",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now you're a newborn man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pounding with your right hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Delirious Nomad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Delirious Nomad",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "560232",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4ug41UGuMZzlV2hJOrOqHN",
+                    "id": "4ug41UGuMZzlV2hJOrOqHN",
+                    "name": "Armored Saint",
+                    "type": "artist",
+                    "uri": "spotify:artist:4ug41UGuMZzlV2hJOrOqHN"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5LWCvZOGvnTbUaH8e8B0Aa"
+            },
+            "href": "https://api.spotify.com/v1/albums/5LWCvZOGvnTbUaH8e8B0Aa",
+            "id": "5LWCvZOGvnTbUaH8e8B0Aa",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734eccea8bdd209059c5661f66",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024eccea8bdd209059c5661f66",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514eccea8bdd209059c5661f66",
+                    "width": 64
+                }
+            ],
+            "name": "Delirious Nomad",
+            "release_date": "1985-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:5LWCvZOGvnTbUaH8e8B0Aa"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN"
+                },
+                "href": "https://api.spotify.com/v1/artists/4ug41UGuMZzlV2hJOrOqHN",
+                "id": "4ug41UGuMZzlV2hJOrOqHN",
+                "name": "Armored Saint",
+                "type": "artist",
+                "uri": "spotify:artist:4ug41UGuMZzlV2hJOrOqHN"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 239693,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USCH39500043"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4fNqvVPx2YQeF4e72tW9C8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4fNqvVPx2YQeF4e72tW9C8",
+        "id": "4fNqvVPx2YQeF4e72tW9C8",
+        "is_local": false,
+        "name": "Nervous Man",
+        "popularity": 17,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4fNqvVPx2YQeF4e72tW9C8"
+    }
+}

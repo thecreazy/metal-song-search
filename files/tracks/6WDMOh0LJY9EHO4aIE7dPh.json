@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Don't look at me as if i didn't know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your vanity is all you ever show",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What you believe and advocate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fanatic dogma recycled from yesterday",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Got a master plan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Genocide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't understand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "People of the lie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You are to me a waste of flesh and blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'd love to see you buried in the mud",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And when you die no one will shed a tear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So pass me by don't need your hatred here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Got a master plan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Genocide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't understand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "People of the lie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Prejudice, intolerance, eye for an eye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You cannot hide behind those empty claims",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your racist pride is nothing but a game",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you will lose for right is on the side",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of those who choose to fight for humankind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Got a master plan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Genocide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't understand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "People of the lie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You can't believe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "People of the lie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't be deceived",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "People of the lie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "580793",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3BM0EaYmkKWuPmmHFUTQHv",
+                    "id": "3BM0EaYmkKWuPmmHFUTQHv",
+                    "name": "Kreator",
+                    "type": "artist",
+                    "uri": "spotify:artist:3BM0EaYmkKWuPmmHFUTQHv"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1S7SXhbh0x64DyXQVfACJk"
+            },
+            "href": "https://api.spotify.com/v1/albums/1S7SXhbh0x64DyXQVfACJk",
+            "id": "1S7SXhbh0x64DyXQVfACJk",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f97152941372049e5d94477f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f97152941372049e5d94477f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f97152941372049e5d94477f",
+                    "width": 64
+                }
+            ],
+            "name": "Coma of Souls",
+            "release_date": "1990-11-06",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:1S7SXhbh0x64DyXQVfACJk"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+                },
+                "href": "https://api.spotify.com/v1/artists/3BM0EaYmkKWuPmmHFUTQHv",
+                "id": "3BM0EaYmkKWuPmmHFUTQHv",
+                "name": "Kreator",
+                "type": "artist",
+                "uri": "spotify:artist:3BM0EaYmkKWuPmmHFUTQHv"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 195880,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE0615345"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6WDMOh0LJY9EHO4aIE7dPh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6WDMOh0LJY9EHO4aIE7dPh",
+        "id": "6WDMOh0LJY9EHO4aIE7dPh",
+        "is_local": false,
+        "name": "People of the Lie",
+        "popularity": 44,
+        "preview_url": "https://p.scdn.co/mp3-preview/94dfda0b2d64445a0ddc209db01220f215ac5e3b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6WDMOh0LJY9EHO4aIE7dPh"
+    }
+}

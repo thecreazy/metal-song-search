@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "[Words and music by Devin Townsend]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus, here lies my brother",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tortured and blown",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stretch for the heavens and go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...I watch him go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Here it comes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus was a poor boy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus was a poor boy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's just a spring clean for the May queen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm coming home",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And this one's for the life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This one's for the funeral in the rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And if only for tonight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This one's for the funeral in the rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The day's gone and the year's gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I don't know when I'm coming home",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can't hold on to what I've had",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When what I've had",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's nothing left at all...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So this one's for the life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This one's for the funeral in the rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And if only for tonight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Close your eyes and try to sleep again...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A world away, you turn away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm wide awake, and I don't need your home",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tell me why he went, it seems to be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "An element to this mystery",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's so cold today, so I get away, and I'm left behind with nothing but words...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1430760",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6uejjWIOshliv2Ho0OJAQN",
+                    "id": "6uejjWIOshliv2Ho0OJAQN",
+                    "name": "Devin Townsend",
+                    "type": "artist",
+                    "uri": "spotify:artist:6uejjWIOshliv2Ho0OJAQN"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7hjBb9Z7o4KO5AMYi5xm66"
+            },
+            "href": "https://api.spotify.com/v1/albums/7hjBb9Z7o4KO5AMYi5xm66",
+            "id": "7hjBb9Z7o4KO5AMYi5xm66",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27319f4e2c5f71b7e3fd7ce5764",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0219f4e2c5f71b7e3fd7ce5764",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485119f4e2c5f71b7e3fd7ce5764",
+                    "width": 64
+                }
+            ],
+            "name": "Ocean Machine",
+            "release_date": "1997-07-16",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:7hjBb9Z7o4KO5AMYi5xm66"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+                },
+                "href": "https://api.spotify.com/v1/artists/6uejjWIOshliv2Ho0OJAQN",
+                "id": "6uejjWIOshliv2Ho0OJAQN",
+                "name": "Devin Townsend",
+                "type": "artist",
+                "uri": "spotify:artist:6uejjWIOshliv2Ho0OJAQN"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 486066,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBDHC0910810"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/73Z4v4uDvjdwCcKPNTGZ7V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/73Z4v4uDvjdwCcKPNTGZ7V",
+        "id": "73Z4v4uDvjdwCcKPNTGZ7V",
+        "is_local": false,
+        "name": "Funeral",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/8fec3efa5d30b2476e77945e72de3d1a0e2efabd?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:73Z4v4uDvjdwCcKPNTGZ7V"
+    }
+}

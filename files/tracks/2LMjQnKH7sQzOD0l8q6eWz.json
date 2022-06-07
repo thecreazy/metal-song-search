@@ -1,0 +1,251 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Don't stay; run away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He has ordered assassination",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't stay; run away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The henchmen are gathered and waiting",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't stay; run away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your role as usurper is found out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't stay; run away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tsarina has warned of the danger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's your own fault",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That is what we wanted",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's your own fault",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This is where we lay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "By the light of the moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You must escape into the deep black of the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fight the devil inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Enemies poison deep within my second sight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wasting valuable time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ride the tides of blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Illumination",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beauties sudden hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shattered crown",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stretching arms up high",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're on our way now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Leave the Czar to die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spiraling up through the crack in the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Leaving material world behind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I see your face in constellations",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The martyr is ending his life for mine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "11609277",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Dvfqq39HxvCJ3GvfeIFuT",
+                    "id": "1Dvfqq39HxvCJ3GvfeIFuT",
+                    "name": "Mastodon",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg"
+            },
+            "href": "https://api.spotify.com/v1/albums/2W2nqEKXWBorbq5yvm3jZg",
+            "id": "2W2nqEKXWBorbq5yvm3jZg",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ac79283ccb6d08af31fd33d8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ac79283ccb6d08af31fd33d8",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ac79283ccb6d08af31fd33d8",
+                    "width": 64
+                }
+            ],
+            "name": "Crack the Skye",
+            "release_date": "2009",
+            "release_date_precision": "year",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:2W2nqEKXWBorbq5yvm3jZg"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+                },
+                "href": "https://api.spotify.com/v1/artists/1Dvfqq39HxvCJ3GvfeIFuT",
+                "id": "1Dvfqq39HxvCJ3GvfeIFuT",
+                "name": "Mastodon",
+                "type": "artist",
+                "uri": "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 654293,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USRE10900191"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2LMjQnKH7sQzOD0l8q6eWz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2LMjQnKH7sQzOD0l8q6eWz",
+        "id": "2LMjQnKH7sQzOD0l8q6eWz",
+        "is_local": false,
+        "name": "The Czar: Usurper / Escape / Martyr / Spiral",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/a0e1ad4867c8140b503707f617a476404613ee00?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2LMjQnKH7sQzOD0l8q6eWz"
+    }
+}

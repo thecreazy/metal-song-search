@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "If you like to gamble, I tell you I'm your man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You win some, lose some, it's all the same to me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The pleasure is to play, it makes no difference what you say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't share your greed, the only card I need is",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Ace of Spades",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Ace of Spades",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Playing for the high one, dancing with the devil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Going with the flow, it's all a game to me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seven or eleven, snake eyes watching you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Double up or quit, double stake or split",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Ace of Spades",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Ace of Spades",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know I'm born to lose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And gambling's for fools",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But that's the way I like it, baby",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't wanna live forever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And don't forget the joker",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pushing up the ante, I know you've got to see me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Read 'em and weep, the dead man's hand again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I see it in your eyes, take one look and die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The only thing you see, you know it's gonna be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Ace of Spades",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Ace of Spades",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "456766",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                    "id": "1DFr97A9HnbV3SKTJFu62M",
+                    "name": "Motörhead",
+                    "type": "artist",
+                    "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91"
+            },
+            "href": "https://api.spotify.com/v1/albums/3rxF05Aux0QTrN533Kjc91",
+            "id": "3rxF05Aux0QTrN533Kjc91",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27392063103a9c8608d8bf59e38",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0292063103a9c8608d8bf59e38",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485192063103a9c8608d8bf59e38",
+                    "width": 64
+                }
+            ],
+            "name": "Ace of Spades (Expanded Edition)",
+            "release_date": "1980-11-08",
+            "release_date_precision": "day",
+            "total_tracks": 27,
+            "type": "album",
+            "uri": "spotify:album:3rxF05Aux0QTrN533Kjc91"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                },
+                "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                "id": "1DFr97A9HnbV3SKTJFu62M",
+                "name": "Motörhead",
+                "type": "artist",
+                "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 166920,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE8000033"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6EPRKhUOdiFSQwGBRBbvsZ",
+        "id": "6EPRKhUOdiFSQwGBRBbvsZ",
+        "is_local": false,
+        "name": "Ace of Spades",
+        "popularity": 73,
+        "preview_url": "https://p.scdn.co/mp3-preview/026a43acbab7c107131c5171c22538934184c4a3?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6EPRKhUOdiFSQwGBRBbvsZ"
+    }
+}

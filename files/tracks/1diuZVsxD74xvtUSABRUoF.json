@@ -1,0 +1,286 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Hand of fate is moving",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the finger points to you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He knocks you to your feet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And so what are you gonna do?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your tongue was frozen now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've got something to say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The piper at the gates of dawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is calling you his way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You watch the world exploding every single night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dancing in the sun a newborn in the light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Say goodbye to gravity and say goodbye to death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hello to eternity and live for every breath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your time will come, your time will come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your time will come, your time will come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The ferryman wants his money",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You ain't gonna give it back",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He can push his own boat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As you set up off the track",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nothing you can contemplate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Will ever be the same",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Every second is a new spark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sets the universe aflame",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You watch the world exploding every single night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dancing in the sun a newborn in the light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Brothers and their fathers joining hands and make a chain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The shadow of the wicker man is rising up again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your time will come, your time will come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your time will come, your time will come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your time will come, your time will come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your time will come, your time will come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your time will come, your time will come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your time will come, your time will come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Whoa, whoa, whoa, whoa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Whoa, whoa, whoa, whoa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Whoa, whoa, whoa, whoa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Whoa, whoa, whoa, whoa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Whoa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "89746965",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6mdiAmATAx73kdxrNrnlao",
+                    "id": "6mdiAmATAx73kdxrNrnlao",
+                    "name": "Iron Maiden",
+                    "type": "artist",
+                    "uri": "spotify:artist:6mdiAmATAx73kdxrNrnlao"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
+            },
+            "href": "https://api.spotify.com/v1/albums/1hDF0QPIHVTnSJtxyQVguB",
+            "id": "1hDF0QPIHVTnSJtxyQVguB",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e1c50403652529dccf16f84c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e1c50403652529dccf16f84c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e1c50403652529dccf16f84c",
+                    "width": 64
+                }
+            ],
+            "name": "Brave New World (2015 Remaster)",
+            "release_date": "2000",
+            "release_date_precision": "year",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:1hDF0QPIHVTnSJtxyQVguB"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+                },
+                "href": "https://api.spotify.com/v1/artists/6mdiAmATAx73kdxrNrnlao",
+                "id": "6mdiAmATAx73kdxrNrnlao",
+                "name": "Iron Maiden",
+                "type": "artist",
+                "uri": "spotify:artist:6mdiAmATAx73kdxrNrnlao"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 275253,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCHB1800102"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1diuZVsxD74xvtUSABRUoF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1diuZVsxD74xvtUSABRUoF",
+        "id": "1diuZVsxD74xvtUSABRUoF",
+        "is_local": false,
+        "name": "The Wicker Man - 2015 Remaster",
+        "popularity": 58,
+        "preview_url": "https://p.scdn.co/mp3-preview/a7683ce1147a2f774f5bde6b5f05880655ccaeea?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1diuZVsxD74xvtUSABRUoF"
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "The media loves the latest tragic suicide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They exploit it, then package it and profit from the people who die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look at the world, look at the hell, look at the hate that we've made",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look at the final product, a world in slow decay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm told that all your seeds are black",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've learned the question is unanswered and opaque",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're witnessing a famine of the innocent",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Did they die for religion or the government?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Because if your god won't do, their god will starve you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look at the world, look at the hell, look at the hate that we've made",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look at the final product, a world in slow decay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm told that all your seeds are black",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've learned the question is unanswered and opaque",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There are those that believe the world is ending again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That impending armageddon is inevitable and waiting",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've told that all your seas are black",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've learned the question is unanswered and opaque",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We live in a time of revolution",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We swim the silent seas of sanity gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1111736",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1wUArE0NhHB8M1bU2WSplY",
+                    "id": "1wUArE0NhHB8M1bU2WSplY",
+                    "name": "Nevermore",
+                    "type": "artist",
+                    "uri": "spotify:artist:1wUArE0NhHB8M1bU2WSplY"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0qWyN9Kpv8oCmCkDRYkvYH"
+            },
+            "href": "https://api.spotify.com/v1/albums/0qWyN9Kpv8oCmCkDRYkvYH",
+            "id": "0qWyN9Kpv8oCmCkDRYkvYH",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27350388c1dd29ccaeca54b7453",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0250388c1dd29ccaeca54b7453",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485150388c1dd29ccaeca54b7453",
+                    "width": 64
+                }
+            ],
+            "name": "This Godless Endeavor",
+            "release_date": "2005-07-13",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:0qWyN9Kpv8oCmCkDRYkvYH"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY"
+                },
+                "href": "https://api.spotify.com/v1/artists/1wUArE0NhHB8M1bU2WSplY",
+                "id": "1wUArE0NhHB8M1bU2WSplY",
+                "name": "Nevermore",
+                "type": "artist",
+                "uri": "spotify:artist:1wUArE0NhHB8M1bU2WSplY"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 261906,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40521002"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3UndvK7yHCUkywR8yhndhx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3UndvK7yHCUkywR8yhndhx",
+        "id": "3UndvK7yHCUkywR8yhndhx",
+        "is_local": false,
+        "name": "Final Product",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/02daebb64658ee15cae3a1dcfc051eed8af92dfa?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3UndvK7yHCUkywR8yhndhx"
+    }
+}

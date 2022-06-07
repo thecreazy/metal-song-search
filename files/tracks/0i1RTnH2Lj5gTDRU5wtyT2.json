@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Over the mountain, take me across the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Something in my vision, something deep inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where did I wander, where do you think I wandered to",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've seen life's magic astral plane I travel through",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I heard them tell me that this land of dreams was now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I told them I had ridden shooting stars",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And said I'd show them how",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Over and over, always tried to get away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Living in a daydream, only place I had to stay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fever of a breakout burning in me miles wide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "People around me talking to the walls inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I heard them tell me that this land of dreams was now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I told them I had ridden shooting stars",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And said I'd show them how",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't need no astrology, it's inside of you and me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You don't need a ticket to fly with me, I'm free, yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Over and under, in between the ups and downs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mind on a carpet, magic ride goes round and round",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Over the mountain, kissing silver inlaid clouds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Watching my body disappear into the crowd",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't need no astrology, it's inside of you and me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You don't need a ticket to fly with me, I'm free, yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "51007",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6ZLTlhejhndI4Rh53vYhrY",
+                    "id": "6ZLTlhejhndI4Rh53vYhrY",
+                    "name": "Ozzy Osbourne",
+                    "type": "artist",
+                    "uri": "spotify:artist:6ZLTlhejhndI4Rh53vYhrY"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4xiRrFE0Gq4Si9mAfPB3hZ"
+            },
+            "href": "https://api.spotify.com/v1/albums/4xiRrFE0Gq4Si9mAfPB3hZ",
+            "id": "4xiRrFE0Gq4Si9mAfPB3hZ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273cb21faf4229aff3992ed479f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02cb21faf4229aff3992ed479f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851cb21faf4229aff3992ed479f",
+                    "width": 64
+                }
+            ],
+            "name": "Diary Of A Madman",
+            "release_date": "1981-11-07",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:4xiRrFE0Gq4Si9mAfPB3hZ"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+                },
+                "href": "https://api.spotify.com/v1/artists/6ZLTlhejhndI4Rh53vYhrY",
+                "id": "6ZLTlhejhndI4Rh53vYhrY",
+                "name": "Ozzy Osbourne",
+                "type": "artist",
+                "uri": "spotify:artist:6ZLTlhejhndI4Rh53vYhrY"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 271520,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM11002856"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0i1RTnH2Lj5gTDRU5wtyT2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0i1RTnH2Lj5gTDRU5wtyT2",
+        "id": "0i1RTnH2Lj5gTDRU5wtyT2",
+        "is_local": false,
+        "name": "Over the Mountain",
+        "popularity": 55,
+        "preview_url": "https://p.scdn.co/mp3-preview/59f201432827ca65b5390ddaec81bb95437143aa?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0i1RTnH2Lj5gTDRU5wtyT2"
+    }
+}

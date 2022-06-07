@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Do you feel what I feel, see what I see, hear what I hear?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There is a line you must draw between your dream world and reality",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Do you live my life or share the breath I breathe?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lies feed your judgement of others",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Behold how the blind lead each other",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The philosopher",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know so much about nothing at all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ideas that fall under shadows of theories that stand tall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thoughts that grow narrow upon being verbally released",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your mind is not your own",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What sounds more mentally stimulating is how you make your choice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So you preach about how I'm supposed to be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yet you don't know your own sexuality",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lies feed your judgement of others",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Behold how the blind lead each other",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The philosopher",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know so much about nothing at all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "862648",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4f5V3PQ66nIrBCqugJtaGn",
+                    "id": "4f5V3PQ66nIrBCqugJtaGn",
+                    "name": "Death",
+                    "type": "artist",
+                    "uri": "spotify:artist:4f5V3PQ66nIrBCqugJtaGn"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/03AlBfN3i9KUlXbSAPmjO6"
+            },
+            "href": "https://api.spotify.com/v1/albums/03AlBfN3i9KUlXbSAPmjO6",
+            "id": "03AlBfN3i9KUlXbSAPmjO6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273922d2c84652edb9cf1f2f9a7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02922d2c84652edb9cf1f2f9a7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851922d2c84652edb9cf1f2f9a7",
+                    "width": 64
+                }
+            ],
+            "name": "Individual Thought Patterns",
+            "release_date": "2011-10-25",
+            "release_date_precision": "day",
+            "total_tracks": 21,
+            "type": "album",
+            "uri": "spotify:album:03AlBfN3i9KUlXbSAPmjO6"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+                },
+                "href": "https://api.spotify.com/v1/artists/4f5V3PQ66nIrBCqugJtaGn",
+                "id": "4f5V3PQ66nIrBCqugJtaGn",
+                "name": "Death",
+                "type": "artist",
+                "uri": "spotify:artist:4f5V3PQ66nIrBCqugJtaGn"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 253106,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US2641117111"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7zKweXON2KcgXizqUcu7lf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7zKweXON2KcgXizqUcu7lf",
+        "id": "7zKweXON2KcgXizqUcu7lf",
+        "is_local": false,
+        "name": "The Philosopher",
+        "popularity": 46,
+        "preview_url": "https://p.scdn.co/mp3-preview/87db52629a5f07eb1d2d1d7bed815fcfa0333a03?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:7zKweXON2KcgXizqUcu7lf"
+    }
+}

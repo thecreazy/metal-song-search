@@ -1,0 +1,206 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Opium, desire or will?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inspiration bound from an elegant seed.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Subversion, through smoke i foresee,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Erotic motions of lesser gods in ecstasy.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Opium, bring me forth another dream.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spawn worlds of flesh and wrath,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Litte jewels of atrocity.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Opium, I sleep in debauchery,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And burn with you,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When you burn in Me.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Opium, we fantasize,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As we fuse with your root,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You are a strange flower,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are your strangest fruit.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Opium, it burns in me and you.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Opium, it burns for me and for you.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Por isso tomo ópio. É um remédio.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sou um convalescente do Momento.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Moro no rés do chão do Pensamento",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "E ver passar a vida faz-me tédio.\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "416766",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/17bYSQ9ZRnreVnJjE5X2x6",
+                    "id": "17bYSQ9ZRnreVnJjE5X2x6",
+                    "name": "Moonspell",
+                    "type": "artist",
+                    "uri": "spotify:artist:17bYSQ9ZRnreVnJjE5X2x6"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4thu6q31sKfNKgzEGrHEe2"
+            },
+            "href": "https://api.spotify.com/v1/albums/4thu6q31sKfNKgzEGrHEe2",
+            "id": "4thu6q31sKfNKgzEGrHEe2",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733368496d573ad0f4691e7385",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023368496d573ad0f4691e7385",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513368496d573ad0f4691e7385",
+                    "width": 64
+                }
+            ],
+            "name": "Irreligious",
+            "release_date": "1997",
+            "release_date_precision": "year",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:4thu6q31sKfNKgzEGrHEe2"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
+                },
+                "href": "https://api.spotify.com/v1/artists/17bYSQ9ZRnreVnJjE5X2x6",
+                "id": "17bYSQ9ZRnreVnJjE5X2x6",
+                "name": "Moonspell",
+                "type": "artist",
+                "uri": "spotify:artist:17bYSQ9ZRnreVnJjE5X2x6"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 166840,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40482302"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/08uVRkAnmSjUY2FUh6Iu0K"
+        },
+        "href": "https://api.spotify.com/v1/tracks/08uVRkAnmSjUY2FUh6Iu0K",
+        "id": "08uVRkAnmSjUY2FUh6Iu0K",
+        "is_local": false,
+        "name": "Opium",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/6ac9c6bf2d37644720cc6d30cb94eb30656b6ab9?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:08uVRkAnmSjUY2FUh6Iu0K"
+    }
+}

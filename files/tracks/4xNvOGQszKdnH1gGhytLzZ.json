@@ -1,0 +1,166 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "And sister, do not pray for me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There is no forgiveness here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just the longest and the darkest night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And my peoples end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And brother, many a crooked day we spent",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Telling tales and making myths",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And sharpening our tongues",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yet doing little but growing old",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I was never a religious man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So why should I put my faith in you?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You burned your bridges a long time ago",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm a Heathen, searching for his soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "903594",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0BZr6WHaejNA63uhZZZZek"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0BZr6WHaejNA63uhZZZZek",
+                    "id": "0BZr6WHaejNA63uhZZZZek",
+                    "name": "Primordial",
+                    "type": "artist",
+                    "uri": "spotify:artist:0BZr6WHaejNA63uhZZZZek"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5u0yFJtLyGyqh3NO68qr8n"
+            },
+            "href": "https://api.spotify.com/v1/albums/5u0yFJtLyGyqh3NO68qr8n",
+            "id": "5u0yFJtLyGyqh3NO68qr8n",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27314752685b7c431006048e1d6",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0214752685b7c431006048e1d6",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485114752685b7c431006048e1d6",
+                    "width": 64
+                }
+            ],
+            "name": "To the Nameless Dead",
+            "release_date": "2007-11-16",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:5u0yFJtLyGyqh3NO68qr8n"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0BZr6WHaejNA63uhZZZZek"
+                },
+                "href": "https://api.spotify.com/v1/artists/0BZr6WHaejNA63uhZZZZek",
+                "id": "0BZr6WHaejNA63uhZZZZek",
+                "name": "Primordial",
+                "type": "artist",
+                "uri": "spotify:artist:0BZr6WHaejNA63uhZZZZek"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 355600,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USMBR0705444"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4xNvOGQszKdnH1gGhytLzZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4xNvOGQszKdnH1gGhytLzZ",
+        "id": "4xNvOGQszKdnH1gGhytLzZ",
+        "is_local": false,
+        "name": "Gallows Hymn",
+        "popularity": 32,
+        "preview_url": "https://p.scdn.co/mp3-preview/38861f1944918c70d3e5ed625b848bc76d9934df?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4xNvOGQszKdnH1gGhytLzZ"
+    }
+}

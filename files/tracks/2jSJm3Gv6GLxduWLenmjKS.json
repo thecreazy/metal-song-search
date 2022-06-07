@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "You move like I want to",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To see like your eyes do",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are downstairs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where no one can see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "New life break away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tonight, I feel like more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tonight I",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You make the water warm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You taste foreign",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I know you can see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The cord break away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause tonight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel like more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tonight, I feel like more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Feel like more)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tonight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You breathed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then you stopped",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I breathed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then dried you off",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And tonight I feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feel like more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, tonight I feel like",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feel like more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tonight, I feel like more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feel like more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tonight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "88717",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH",
+                    "id": "6Ghvu1VvMGScGpOUJBAHNH",
+                    "name": "Deftones",
+                    "type": "artist",
+                    "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+            },
+            "href": "https://api.spotify.com/v1/albums/5LEXck3kfixFaA3CqVE7bC",
+            "id": "5LEXck3kfixFaA3CqVE7bC",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025c53799f473fa3e1a48c00ed",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515c53799f473fa3e1a48c00ed",
+                    "width": 64
+                }
+            ],
+            "name": "White Pony",
+            "release_date": "2000-05-16",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:5LEXck3kfixFaA3CqVE7bC"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+                },
+                "href": "https://api.spotify.com/v1/artists/6Ghvu1VvMGScGpOUJBAHNH",
+                "id": "6Ghvu1VvMGScGpOUJBAHNH",
+                "name": "Deftones",
+                "type": "artist",
+                "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 255373,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USMV20000031"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2jSJm3Gv6GLxduWLenmjKS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2jSJm3Gv6GLxduWLenmjKS",
+        "id": "2jSJm3Gv6GLxduWLenmjKS",
+        "is_local": false,
+        "name": "Digital Bath",
+        "popularity": 63,
+        "preview_url": "https://p.scdn.co/mp3-preview/1a6e0fd01248a87b7d170b4bc12e91d8c8651de9?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2jSJm3Gv6GLxduWLenmjKS"
+    }
+}

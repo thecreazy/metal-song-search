@@ -1,0 +1,281 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Built from blind faith",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Passed down from self-induced fantasy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Turn a page to justify",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Conjuring power, it opens wide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On your seventh day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is that how it's done?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Twisting your eyes to perceive all that you want",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To assume from ignorance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inflicting wounds with your cross-turned dagger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inside crystal mountain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Evil takes its form",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inside crystal mountain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Commandments are reborn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All the traps are set to confine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All who get in the way of the divine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In sight and in mind of the hypocrite",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A slave to the curse forever confined",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shatter the myth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't cut yourself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On your words against dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Made of steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stronger than any faith",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That inflicts pain and fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is that how it's done?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Twisting your eyes to perceive all that you want",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To assume from ignorance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inflicting wounds with your cross-turned dagger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inside crystal mountain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Evil takes its form",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inside crystal mountain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Commandments are reborn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "862564",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4f5V3PQ66nIrBCqugJtaGn",
+                    "id": "4f5V3PQ66nIrBCqugJtaGn",
+                    "name": "Death",
+                    "type": "artist",
+                    "uri": "spotify:artist:4f5V3PQ66nIrBCqugJtaGn"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1QgFthItpbxvMXlgGjvhBR"
+            },
+            "href": "https://api.spotify.com/v1/albums/1QgFthItpbxvMXlgGjvhBR",
+            "id": "1QgFthItpbxvMXlgGjvhBR",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273014e93e47bf1dc746cab4930",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02014e93e47bf1dc746cab4930",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851014e93e47bf1dc746cab4930",
+                    "width": 64
+                }
+            ],
+            "name": "Symbolic (Remastered Version)",
+            "release_date": "1995-03-19",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:1QgFthItpbxvMXlgGjvhBR"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+                },
+                "href": "https://api.spotify.com/v1/artists/4f5V3PQ66nIrBCqugJtaGn",
+                "id": "4f5V3PQ66nIrBCqugJtaGn",
+                "name": "Death",
+                "type": "artist",
+                "uri": "spotify:artist:4f5V3PQ66nIrBCqugJtaGn"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 307426,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329501700"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0ItAcLSkUiePOmFGun3cSe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ItAcLSkUiePOmFGun3cSe",
+        "id": "0ItAcLSkUiePOmFGun3cSe",
+        "is_local": false,
+        "name": "Crystal Mountain",
+        "popularity": 48,
+        "preview_url": "https://p.scdn.co/mp3-preview/e9c9f9feb2fe69479d24415eb1b4a92be5998796?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0ItAcLSkUiePOmFGun3cSe"
+    }
+}

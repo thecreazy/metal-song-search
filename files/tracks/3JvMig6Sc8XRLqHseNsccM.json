@@ -1,0 +1,201 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Misty morning, clouds in the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Without warning, the wizard walks by",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Casting his shadow, weaving his spell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Funny clothes, tinkling bell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never talking",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just keeps walking",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spreading his magic",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Evil power disappears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Demons worry when the wizard is near",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He turns tears into joy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everyone's happy when the wizard walks by",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never talking",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just keeps walking",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spreading his magic",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sun is shining, clouds have gone by",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All the people give a happy sigh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He has passed by, giving his sign",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Left all the people feeling so fine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never talking",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just keeps walking",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spreading his magic.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "212341",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                    "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                    "name": "Black Sabbath",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2T6jeELx5BqH4GMLObBy10"
+            },
+            "href": "https://api.spotify.com/v1/albums/2T6jeELx5BqH4GMLObBy10",
+            "id": "2T6jeELx5BqH4GMLObBy10",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731311a92b0ca83a5154c5a5e7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021311a92b0ca83a5154c5a5e7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511311a92b0ca83a5154c5a5e7",
+                    "width": 64
+                }
+            ],
+            "name": "Black Sabbath (2009 Remastered Version)",
+            "release_date": "1970-02-13",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:2T6jeELx5BqH4GMLObBy10"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                "name": "Black Sabbath",
+                "type": "artist",
+                "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 260640,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE7000077"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3JvMig6Sc8XRLqHseNsccM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3JvMig6Sc8XRLqHseNsccM",
+        "id": "3JvMig6Sc8XRLqHseNsccM",
+        "is_local": false,
+        "name": "The Wizard",
+        "popularity": 53,
+        "preview_url": "https://p.scdn.co/mp3-preview/416af18ed69aab90608ee06271064bd51309ac08?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3JvMig6Sc8XRLqHseNsccM"
+    }
+}

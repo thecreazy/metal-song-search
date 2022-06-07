@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Is this a citadel, is this a prison cell?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who sits at my right hand now, who's watching me now?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who made us live this way, when do I get my say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Automation turns us into human beings now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tripping over faces, humanity has fallen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Huddled into doorways on the streets at dawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The power of the sun keeps us moving on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spinning ever faster",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The city never sleeps, the echoes of the footfalls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Already in the past",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Every dawn arrives the gathering of the tribes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shattered waves of people breaking over city walls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never out of touch, but always on your own",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Trapped inside the logic of your own communication zone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What deals have been done, who's under the gun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stay one step ahead of the next in line",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The power of the sun, it keeps us moving on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spinning ever faster",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The city never sleeps, the echoes of the footfalls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Already in the past",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The cameras never lie, the ghost of you and I",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Already in the past",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inside a picture frame, we'll vanish once again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now the dawn is coming fast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The power of the sun, it keeps us moving on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spinning ever faster",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The city never sleeps, the echoes of the footfalls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Already in the past",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "776384",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7Iffw1nP3NjCWkRIx3Ily9",
+                    "id": "7Iffw1nP3NjCWkRIx3Ily9",
+                    "name": "Bruce Dickinson",
+                    "type": "artist",
+                    "uri": "spotify:artist:7Iffw1nP3NjCWkRIx3Ily9"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6Jpi0RF8aCFeVj9JtNPlRY"
+            },
+            "href": "https://api.spotify.com/v1/albums/6Jpi0RF8aCFeVj9JtNPlRY",
+            "id": "6Jpi0RF8aCFeVj9JtNPlRY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a0631efff71f41a0c06ac03b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a0631efff71f41a0c06ac03b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a0631efff71f41a0c06ac03b",
+                    "width": 64
+                }
+            ],
+            "name": "Tyranny of Souls",
+            "release_date": "2005-05-23",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:6Jpi0RF8aCFeVj9JtNPlRY"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+                },
+                "href": "https://api.spotify.com/v1/artists/7Iffw1nP3NjCWkRIx3Ily9",
+                "id": "7Iffw1nP3NjCWkRIx3Ily9",
+                "name": "Bruce Dickinson",
+                "type": "artist",
+                "uri": "spotify:artist:7Iffw1nP3NjCWkRIx3Ily9"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 209706,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCUF0500084"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4Q63WIWmr6btTjM9Tq4Ejc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Q63WIWmr6btTjM9Tq4Ejc",
+        "id": "4Q63WIWmr6btTjM9Tq4Ejc",
+        "is_local": false,
+        "name": "Power of the Sun",
+        "popularity": 20,
+        "preview_url": "https://p.scdn.co/mp3-preview/cbdc913a8b5ed298eec6fab425c71fc978732950?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4Q63WIWmr6btTjM9Tq4Ejc"
+    }
+}

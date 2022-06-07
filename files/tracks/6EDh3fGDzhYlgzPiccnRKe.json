@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Break down the walls of forever.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pull down hard on the lever.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let them know that you can turn the key.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Though they try to hold us down.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Turn it up, that chainsaw sound.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I just love to see my parents flee.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So you see that they're all going nowhere.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everybody's staring into space.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Start the fire.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bring down the hammer.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Start start the fire.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burning on forever.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now I see the storm clouds a coming.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can you feel the juice, it's a hummin'.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feed the power cables into me.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a ship that's built for destruction.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm a metal man of construction.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I'll fire my cannons, one by one.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So you see that they're all going nowhere.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everybody's staring into space.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Start the fire.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bring down the hammer.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Start start the fire.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burning on forever.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So you see that they're all going nowhere.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everybody's staring into space.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Start the fire.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bring down the hammer.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Start start the fire.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burning on forever.",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1665238",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0exvkfkATkqWOJgugTjJhP",
+                    "id": "0exvkfkATkqWOJgugTjJhP",
+                    "name": "Metal Church",
+                    "type": "artist",
+                    "uri": "spotify:artist:0exvkfkATkqWOJgugTjJhP"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ"
+            },
+            "href": "https://api.spotify.com/v1/albums/32nLLpycunqmJfnF3EEfNJ",
+            "id": "32nLLpycunqmJfnF3EEfNJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730bc1378c46a0c092f3d33ac7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020bc1378c46a0c092f3d33ac7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510bc1378c46a0c092f3d33ac7",
+                    "width": 64
+                }
+            ],
+            "name": "The Dark",
+            "release_date": "1986-09-30",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:32nLLpycunqmJfnF3EEfNJ"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+                },
+                "href": "https://api.spotify.com/v1/artists/0exvkfkATkqWOJgugTjJhP",
+                "id": "0exvkfkATkqWOJgugTjJhP",
+                "name": "Metal Church",
+                "type": "artist",
+                "uri": "spotify:artist:0exvkfkATkqWOJgugTjJhP"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 225800,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USEE10140228"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6EDh3fGDzhYlgzPiccnRKe",
+        "id": "6EDh3fGDzhYlgzPiccnRKe",
+        "is_local": false,
+        "name": "Start the Fire",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/57b2f176d652a0c1e2689e7f5fb9845cdea72ee8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6EDh3fGDzhYlgzPiccnRKe"
+    }
+}

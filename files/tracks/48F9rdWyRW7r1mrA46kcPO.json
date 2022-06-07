@@ -1,0 +1,126 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Through fiction we saw The Birth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of Futures Yet to come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yet in Fiction lay the Bones",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ugly in their nakedness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yet under this Mortal Sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We cannot hide Ourselves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "55203698",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2vsXeWGC8rILp3rpSN2Fyk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2vsXeWGC8rILp3rpSN2Fyk",
+                    "id": "2vsXeWGC8rILp3rpSN2Fyk",
+                    "name": "ISIS",
+                    "type": "artist",
+                    "uri": "spotify:artist:2vsXeWGC8rILp3rpSN2Fyk"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4YVSY6TwnXWH7Jz4olWO1e"
+            },
+            "href": "https://api.spotify.com/v1/albums/4YVSY6TwnXWH7Jz4olWO1e",
+            "id": "4YVSY6TwnXWH7Jz4olWO1e",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b48140642b176311d2e7e641",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b48140642b176311d2e7e641",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b48140642b176311d2e7e641",
+                    "width": 64
+                }
+            ],
+            "name": "Panopticon (Remastered)",
+            "release_date": "2004-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:4YVSY6TwnXWH7Jz4olWO1e"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2vsXeWGC8rILp3rpSN2Fyk"
+                },
+                "href": "https://api.spotify.com/v1/artists/2vsXeWGC8rILp3rpSN2Fyk",
+                "id": "2vsXeWGC8rILp3rpSN2Fyk",
+                "name": "ISIS",
+                "type": "artist",
+                "uri": "spotify:artist:2vsXeWGC8rILp3rpSN2Fyk"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 552514,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "QMDA71483995"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/48F9rdWyRW7r1mrA46kcPO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/48F9rdWyRW7r1mrA46kcPO",
+        "id": "48F9rdWyRW7r1mrA46kcPO",
+        "is_local": false,
+        "name": "In Fiction - Remastered",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/8910a9c2489e4b0145c5985e219cce9fda7dba16?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:48F9rdWyRW7r1mrA46kcPO"
+    }
+}

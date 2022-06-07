@@ -1,0 +1,261 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Lend me your steel-bearing hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So I may reign the jewel throne",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My soul feels the gods' demand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As the lost kings uphold my side",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blood and sand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mark their way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The usurper's tears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Guide my sword",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fantasia slept in my thoughts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As I was a son of infinity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The emperor, forgotten, rests in my dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As, back to the wall, I start my conquest",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blood and sand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mark their way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The usurper's tears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Guide my sword",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Innocence and wrath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now lie far beyond",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As we cross the deserts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To reach the fortress' gates",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tragic serenades",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are whispered in the wind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As eyes in fury",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Grant us our strength",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(They're) throning on the dignity of might",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But the successor is to enter the hall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "False truth saw them climbing the steps",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I remain the jewel throne's choice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blood and sand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mark their way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The usurper's tears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Guide my sword",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1223146",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4ZISAmHmQUDCpv8xydqeKG",
+                    "id": "4ZISAmHmQUDCpv8xydqeKG",
+                    "name": "Celtic Frost",
+                    "type": "artist",
+                    "uri": "spotify:artist:4ZISAmHmQUDCpv8xydqeKG"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7kNXhhELbmzx4fPoBLv1B8"
+            },
+            "href": "https://api.spotify.com/v1/albums/7kNXhhELbmzx4fPoBLv1B8",
+            "id": "7kNXhhELbmzx4fPoBLv1B8",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d972e23074da09f75edaef12",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d972e23074da09f75edaef12",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d972e23074da09f75edaef12",
+                    "width": 64
+                }
+            ],
+            "name": "To Mega Therion",
+            "release_date": "1985-10-27",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:7kNXhhELbmzx4fPoBLv1B8"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG"
+                },
+                "href": "https://api.spotify.com/v1/artists/4ZISAmHmQUDCpv8xydqeKG",
+                "id": "4ZISAmHmQUDCpv8xydqeKG",
+                "name": "Celtic Frost",
+                "type": "artist",
+                "uri": "spotify:artist:4ZISAmHmQUDCpv8xydqeKG"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 204933,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEA249918002"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/76oZbv21kFpWIHhSf3UQDd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/76oZbv21kFpWIHhSf3UQDd",
+        "id": "76oZbv21kFpWIHhSf3UQDd",
+        "is_local": false,
+        "name": "The Usurper",
+        "popularity": 31,
+        "preview_url": "https://p.scdn.co/mp3-preview/d50e3ee9c0bdb1b2cdf9f683dd5f1e55ddf0c8fd?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:76oZbv21kFpWIHhSf3UQDd"
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Man's done, Babylon, eat the fruit divine,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wasted labyrinth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Snake's tounge, lies sung, master of disguise,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Poison conqueror",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "War torn, plague born, live in ancient wrath,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Executioner",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shapeshift, lives sift, pain in the child's eyes,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Last rite spoken - Devilution",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Web spun, death comes, bring the blackened tide,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rising war god",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blood lit planet awakes the lurking time,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Raging maelstrom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Arcane macabre diety arrives",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spewing hellfire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Twisted acrid abominating guise,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Promised vengeance - Devilution",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dark king suffering, know the elder's toll,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deceiving millions",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Men hung, pain comes, worship me or die,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As you lie broken",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "End all wars call, stand your ground and try,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hopeless victim",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Man's done, Babylon, eat the fruit divine,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wasted labyrinth - Devilution",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "921987",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1eiIIImNeUj3vpaocWqoOf",
+                    "id": "1eiIIImNeUj3vpaocWqoOf",
+                    "name": "High On Fire",
+                    "type": "artist",
+                    "uri": "spotify:artist:1eiIIImNeUj3vpaocWqoOf"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2Fez8YmdKDD9732QTBeJzt"
+            },
+            "href": "https://api.spotify.com/v1/albums/2Fez8YmdKDD9732QTBeJzt",
+            "id": "2Fez8YmdKDD9732QTBeJzt",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273cbe8eed715cf460579093a08",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02cbe8eed715cf460579093a08",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851cbe8eed715cf460579093a08",
+                    "width": 64
+                }
+            ],
+            "name": "Blessed Black Wings",
+            "release_date": "2005-02-01",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:2Fez8YmdKDD9732QTBeJzt"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf"
+                },
+                "href": "https://api.spotify.com/v1/artists/1eiIIImNeUj3vpaocWqoOf",
+                "id": "1eiIIImNeUj3vpaocWqoOf",
+                "name": "High On Fire",
+                "type": "artist",
+                "uri": "spotify:artist:1eiIIImNeUj3vpaocWqoOf"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 286520,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US2640562001"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4G6WFRNNCLjPigQthVSZJS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4G6WFRNNCLjPigQthVSZJS",
+        "id": "4G6WFRNNCLjPigQthVSZJS",
+        "is_local": false,
+        "name": "Devilution",
+        "popularity": 27,
+        "preview_url": "https://p.scdn.co/mp3-preview/fe4ca62a1da3300cb6f7b8e339516462f0ea943d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4G6WFRNNCLjPigQthVSZJS"
+    }
+}

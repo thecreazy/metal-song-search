@@ -1,0 +1,181 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "The texture of the soul is a liquid,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That casts a vermillion flood.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From a wound carved as an oath,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It fills the river bank a sanguine fog.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "These arms were meant to be lost,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hacked, severed and forgotten.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The texture of time is a whisper,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That echoes across the flood.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Its hymn resonates from tree to tree,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through every sullen bough it sings.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "These boughs were said to be lost,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Torn, unearthed and broken.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Earth to flesh, flesh to wood,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cast these limbs into the water.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flesh to wood, wood to stone,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cast this stone into the water.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1914417",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Meu28o8P5z9Zjm6NTGihT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Meu28o8P5z9Zjm6NTGihT",
+                    "id": "3Meu28o8P5z9Zjm6NTGihT",
+                    "name": "Agalloch",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Meu28o8P5z9Zjm6NTGihT"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2PIBrpGRMIcmYtt4aiN4xv"
+            },
+            "href": "https://api.spotify.com/v1/albums/2PIBrpGRMIcmYtt4aiN4xv",
+            "id": "2PIBrpGRMIcmYtt4aiN4xv",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f780fa8f8e93259ac6a7f352",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f780fa8f8e93259ac6a7f352",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f780fa8f8e93259ac6a7f352",
+                    "width": 64
+                }
+            ],
+            "name": "Ashes Against The Grain",
+            "release_date": "2006-08-15",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:2PIBrpGRMIcmYtt4aiN4xv"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3Meu28o8P5z9Zjm6NTGihT"
+                },
+                "href": "https://api.spotify.com/v1/artists/3Meu28o8P5z9Zjm6NTGihT",
+                "id": "3Meu28o8P5z9Zjm6NTGihT",
+                "name": "Agalloch",
+                "type": "artist",
+                "uri": "spotify:artist:3Meu28o8P5z9Zjm6NTGihT"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 591306,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US2420607001"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/62udu2Wo8jTlKtWpsZByBM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/62udu2Wo8jTlKtWpsZByBM",
+        "id": "62udu2Wo8jTlKtWpsZByBM",
+        "is_local": false,
+        "name": "Limbs",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/45af5ca184129824062f70eff32219e631b3ed83?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:62udu2Wo8jTlKtWpsZByBM"
+    }
+}

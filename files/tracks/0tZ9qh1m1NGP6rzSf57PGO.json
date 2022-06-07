@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I want them to know it's me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's on my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll point the finger at me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's on my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give it all to you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then I'll be closer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smiling with the mouth of the ocean",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I'll wave to you with the arms of the mountain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I see you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will let you shout no more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's on my head (it's on my head)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll pick you up from the floor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's on my head (it's on my head)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll let you even the score",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's on my head (it's on my head)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give it all to you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then I'll be closer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smiling with the mouth of the ocean",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I'll wave to you with the arms of the mountain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I see you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give the same to me then I'll be closer, closer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give the same to me then I'll be closer, closer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smiling with the mouth of the ocean",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I'll wave to you with the arms of the mountain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give the same to me then I'll be closer, closer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give the same to me then I'll be closer, closer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "62814158",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6GbCJZrI318Ybm8mY36Of5",
+                    "id": "6GbCJZrI318Ybm8mY36Of5",
+                    "name": "Faith No More",
+                    "type": "artist",
+                    "uri": "spotify:artist:6GbCJZrI318Ybm8mY36Of5"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/42uSfP4HXXGZn6kE3dZadO"
+            },
+            "href": "https://api.spotify.com/v1/albums/42uSfP4HXXGZn6kE3dZadO",
+            "id": "42uSfP4HXXGZn6kE3dZadO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273464b3661ebe755ff3117c7e8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02464b3661ebe755ff3117c7e8",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851464b3661ebe755ff3117c7e8",
+                    "width": 64
+                }
+            ],
+            "name": "Album of the Year (2016 Remaster; Deluxe Edition)",
+            "release_date": "1997",
+            "release_date_precision": "year",
+            "total_tracks": 20,
+            "type": "album",
+            "uri": "spotify:album:42uSfP4HXXGZn6kE3dZadO"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+                },
+                "href": "https://api.spotify.com/v1/artists/6GbCJZrI318Ybm8mY36Of5",
+                "id": "6GbCJZrI318Ybm8mY36Of5",
+                "name": "Faith No More",
+                "type": "artist",
+                "uri": "spotify:artist:6GbCJZrI318Ybm8mY36Of5"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216200,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAHT1600165"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0tZ9qh1m1NGP6rzSf57PGO"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0tZ9qh1m1NGP6rzSf57PGO",
+        "id": "0tZ9qh1m1NGP6rzSf57PGO",
+        "is_local": false,
+        "name": "Ashes to Ashes - 2016 Remaster",
+        "popularity": 53,
+        "preview_url": "https://p.scdn.co/mp3-preview/4bd05736d7badfc149ffc02e6bc280b9ddeed445?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0tZ9qh1m1NGP6rzSf57PGO"
+    }
+}

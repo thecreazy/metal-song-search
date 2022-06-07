@@ -1,0 +1,286 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "It would be wrong to ask you why",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Because I know what goes inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is only half of what comes out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Isn't that what it's about, it's about,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To remind us we're alive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To remind us we're not blind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In that big, black hole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Comfortable",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Digging the grave, I got it made",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let something in, or throw something out?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You left the door open wide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know you have a reason why",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That knot is better left untied",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I just went and undid mine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It takes some time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the shadow is so big",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It takes the sun out of the day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the feeling goes away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When you close the door",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Comfortable",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Digging the grave, I got it made",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let something in, or throw something out?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You left the door open wide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Digging the grave, I got it made",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Comfortable",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Digging the grave, I got it made",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let something in, or throw something out?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You left the door open wide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And it's out of this world, comfortable",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Out of this world, comfortable",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Out of this world, comfortable",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Out of this world, comfortable",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "148906",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6GbCJZrI318Ybm8mY36Of5",
+                    "id": "6GbCJZrI318Ybm8mY36Of5",
+                    "name": "Faith No More",
+                    "type": "artist",
+                    "uri": "spotify:artist:6GbCJZrI318Ybm8mY36Of5"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/198GsVgwHgoas39b8TcPYp"
+            },
+            "href": "https://api.spotify.com/v1/albums/198GsVgwHgoas39b8TcPYp",
+            "id": "198GsVgwHgoas39b8TcPYp",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739f3275c4cce1a239d37a7024",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029f3275c4cce1a239d37a7024",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519f3275c4cce1a239d37a7024",
+                    "width": 64
+                }
+            ],
+            "name": "King for a Day, Fool for a Lifetime",
+            "release_date": "1995-04-25",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:198GsVgwHgoas39b8TcPYp"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+                },
+                "href": "https://api.spotify.com/v1/artists/6GbCJZrI318Ybm8mY36Of5",
+                "id": "6GbCJZrI318Ybm8mY36Of5",
+                "name": "Faith No More",
+                "type": "artist",
+                "uri": "spotify:artist:6GbCJZrI318Ybm8mY36Of5"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 183800,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBANC9500009"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5qQxqHhrMzDdEFOtcAYNk2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5qQxqHhrMzDdEFOtcAYNk2",
+        "id": "5qQxqHhrMzDdEFOtcAYNk2",
+        "is_local": false,
+        "name": "Digging the Grave",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/9e448f839fe2e9655a885f85cb69c72d9ef330ef?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:5qQxqHhrMzDdEFOtcAYNk2"
+    }
+}

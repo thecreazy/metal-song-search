@@ -1,0 +1,176 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Silence we hunt for the queen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sign of the cross and pray in between",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look by the light of the day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She's hiding till dark waiting to play, hey, hey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Something's taken a child and it all must end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time to be killing the dragon again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Silence we'll hunt for the lord",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He takes crimson and gold, gave ice to the cold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh to be never afraid",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of wolves at the door, howling for more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "More's been empty for years and it all must end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time to be killing the dragon again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kneel and behold your new king",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Digital dreams and wonderful things to tease you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Small gods with electrical hearts and it all will end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time to be killing the dragon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "214390",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4CYeVo5iZbtYGBN4Isc3n6",
+                    "id": "4CYeVo5iZbtYGBN4Isc3n6",
+                    "name": "Dio",
+                    "type": "artist",
+                    "uri": "spotify:artist:4CYeVo5iZbtYGBN4Isc3n6"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2de1fHKLJ3o6bDkCjIwcJ6"
+            },
+            "href": "https://api.spotify.com/v1/albums/2de1fHKLJ3o6bDkCjIwcJ6",
+            "id": "2de1fHKLJ3o6bDkCjIwcJ6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273cc1a446fc923bca9d4cb5277",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02cc1a446fc923bca9d4cb5277",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851cc1a446fc923bca9d4cb5277",
+                    "width": 64
+                }
+            ],
+            "name": "Killing the Dragon",
+            "release_date": "2002-05-21",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2de1fHKLJ3o6bDkCjIwcJ6"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+                },
+                "href": "https://api.spotify.com/v1/artists/4CYeVo5iZbtYGBN4Isc3n6",
+                "id": "4CYeVo5iZbtYGBN4Isc3n6",
+                "name": "Dio",
+                "type": "artist",
+                "uri": "spotify:artist:4CYeVo5iZbtYGBN4Isc3n6"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 265466,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USNEG1201801"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6yiBYc8pxpNmSEvBeQIcxt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6yiBYc8pxpNmSEvBeQIcxt",
+        "id": "6yiBYc8pxpNmSEvBeQIcxt",
+        "is_local": false,
+        "name": "Killing The Dragon",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/9d14e6da5dd33799f26bfc09a0b8f95efe69ce34?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6yiBYc8pxpNmSEvBeQIcxt"
+    }
+}

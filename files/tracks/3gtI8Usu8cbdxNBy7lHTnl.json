@@ -1,0 +1,201 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Failure - reaching out to greet me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I will never fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Aversion - has filled my inner being",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I will never crawl",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Obsession - I never fell the pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Redemption - I will rise again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Again and again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Iron will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll never give in or surrender",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Iron will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Remind me to always remember",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hatred - it used to feel so easy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Turn away when they call",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Craving - driven by the strong need",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alone against them all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Aggression - fuelled by burning hate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vengeance - I will rise again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Again and again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Iron will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll never give in or surrender",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Iron will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Remind me to always remember",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "3058576",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7GTkjp7qsfmx8iJzBUQLmN",
+                    "id": "7GTkjp7qsfmx8iJzBUQLmN",
+                    "name": "Grand Magus",
+                    "type": "artist",
+                    "uri": "spotify:artist:7GTkjp7qsfmx8iJzBUQLmN"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0vsxMVYYmYERJrQenjlkGm"
+            },
+            "href": "https://api.spotify.com/v1/albums/0vsxMVYYmYERJrQenjlkGm",
+            "id": "0vsxMVYYmYERJrQenjlkGm",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f96e2ba87dce81ce2d25dbf9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f96e2ba87dce81ce2d25dbf9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f96e2ba87dce81ce2d25dbf9",
+                    "width": 64
+                }
+            ],
+            "name": "Iron Will",
+            "release_date": "2008-06-09",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:0vsxMVYYmYERJrQenjlkGm"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN"
+                },
+                "href": "https://api.spotify.com/v1/artists/7GTkjp7qsfmx8iJzBUQLmN",
+                "id": "7GTkjp7qsfmx8iJzBUQLmN",
+                "name": "Grand Magus",
+                "type": "artist",
+                "uri": "spotify:artist:7GTkjp7qsfmx8iJzBUQLmN"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 301346,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBMLU0811304"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3gtI8Usu8cbdxNBy7lHTnl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3gtI8Usu8cbdxNBy7lHTnl",
+        "id": "3gtI8Usu8cbdxNBy7lHTnl",
+        "is_local": false,
+        "name": "Iron Will",
+        "popularity": 16,
+        "preview_url": "https://p.scdn.co/mp3-preview/1d64fa73bcd9b1804d1df94eafbbd82465157673?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3gtI8Usu8cbdxNBy7lHTnl"
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Through silver in blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We stand judged not by",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eyes of flesh, when",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Transit times cross",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Prey vision consumed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bleeding one",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bleed alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Breeding love",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Windstorm promised",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The teeth strained",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eyes see glory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rings end in slow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death wash out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your wound, rings",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "End in slow death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't crawl seek his burn of war",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When the fallout comes he is fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "589144",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "compilation",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2lW6wArcGFBPo5IGo1NNWC"
+            },
+            "href": "https://api.spotify.com/v1/albums/2lW6wArcGFBPo5IGo1NNWC",
+            "id": "2lW6wArcGFBPo5IGo1NNWC",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273395d4ded9835bce4dbcf2156",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02395d4ded9835bce4dbcf2156",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851395d4ded9835bce4dbcf2156",
+                    "width": 64
+                }
+            ],
+            "name": "Relapse 30 Year Anniversary Sampler",
+            "release_date": "2020-12-21",
+            "release_date_precision": "day",
+            "total_tracks": 238,
+            "type": "album",
+            "uri": "spotify:album:2lW6wArcGFBPo5IGo1NNWC"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+                },
+                "href": "https://api.spotify.com/v1/artists/1KHydwFySZY3YcWyo2q2dF",
+                "id": "1KHydwFySZY3YcWyo2q2dF",
+                "name": "Neurosis",
+                "type": "artist",
+                "uri": "spotify:artist:1KHydwFySZY3YcWyo2q2dF"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 731866,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US2649693801"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4hyo0sb7NsmPxOaCezgtHg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4hyo0sb7NsmPxOaCezgtHg",
+        "id": "4hyo0sb7NsmPxOaCezgtHg",
+        "is_local": false,
+        "name": "Through Silver in Blood",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/e460832e89d259e9be7c1f46f6c45cb476ea1f59?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 17,
+        "type": "track",
+        "uri": "spotify:track:4hyo0sb7NsmPxOaCezgtHg"
+    }
+}

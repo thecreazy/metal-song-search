@@ -1,0 +1,201 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "What do I see on the icy plains",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The desolate one, it's my terrain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The wind it blows cold, howling my name",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am the king, the king of this waste",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't you see this barren land lain to waste",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ravaged, scorched, yet frozen from your neglect",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am the formless one, I came to save",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You are the chosen ones, you'll be my slaves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I stand on the glacier above it all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Watching them crumble, watching them crawl",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Iced Earth has risen, nature will fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death and destruction mark them or fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can you feel the madness here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Drawing you all too near",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Earth, fire, water and air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Save yourselves from despair",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are together now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Crush the cowards, do it now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "End the light, end the one",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We have come to save the young",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So on an on the story goes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Destroying yourselves, the pain it shows",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "762428",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3KEixcRfBS5K3E91Vn1Kdy",
+                    "id": "3KEixcRfBS5K3E91Vn1Kdy",
+                    "name": "Iced Earth",
+                    "type": "artist",
+                    "uri": "spotify:artist:3KEixcRfBS5K3E91Vn1Kdy"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5CBvoUfVeMDO9x3h8YwLBG"
+            },
+            "href": "https://api.spotify.com/v1/albums/5CBvoUfVeMDO9x3h8YwLBG",
+            "id": "5CBvoUfVeMDO9x3h8YwLBG",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a0262fc5d2ff4a7adb443285",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a0262fc5d2ff4a7adb443285",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a0262fc5d2ff4a7adb443285",
+                    "width": 64
+                }
+            ],
+            "name": "Iced Earth",
+            "release_date": "1990",
+            "release_date_precision": "year",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:5CBvoUfVeMDO9x3h8YwLBG"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy"
+                },
+                "href": "https://api.spotify.com/v1/artists/3KEixcRfBS5K3E91Vn1Kdy",
+                "id": "3KEixcRfBS5K3E91Vn1Kdy",
+                "name": "Iced Earth",
+                "type": "artist",
+                "uri": "spotify:artist:3KEixcRfBS5K3E91Vn1Kdy"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 323106,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40501401"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0qvVCoMBNAxIA1GFBKmfR8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0qvVCoMBNAxIA1GFBKmfR8",
+        "id": "0qvVCoMBNAxIA1GFBKmfR8",
+        "is_local": false,
+        "name": "Iced Earth",
+        "popularity": 23,
+        "preview_url": "https://p.scdn.co/mp3-preview/ca6cbab5e5ccdc33f5961613f10e8bb3ddddccd0?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0qvVCoMBNAxIA1GFBKmfR8"
+    }
+}

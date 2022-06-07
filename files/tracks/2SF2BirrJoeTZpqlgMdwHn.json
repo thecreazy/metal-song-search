@@ -1,0 +1,301 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Help me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Protect me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Get me out of this place",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No chance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No hope",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the rat race",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They don't care",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They don't see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where you've been",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They don't wanna know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That you can't cope",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With anything...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, yeah, yes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No 'easy come, easy go'",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Not too fast, not too slow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Must get up, but you're pulled back down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If you mess around with fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're gonna get yourself burnt...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hit it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Break it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kick down the door",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If you want some",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You'll get some",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of the action",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They still laugh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "At your part",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In their play",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They hide the truth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ain't no cure",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For a messed up youth...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't stand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't change",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The social gangland",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All stick together",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You will never",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Break their wall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They don't care",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They don't see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where you've been",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just don't wanna know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That you can't cope",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With anything...",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1970599",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1MZ8NERIuOS610KBhr6yna",
+                    "id": "1MZ8NERIuOS610KBhr6yna",
+                    "name": "Tygers Of Pan Tang",
+                    "type": "artist",
+                    "uri": "spotify:artist:1MZ8NERIuOS610KBhr6yna"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/735Usw12Mtol0gD6JpDkZg"
+            },
+            "href": "https://api.spotify.com/v1/albums/735Usw12Mtol0gD6JpDkZg",
+            "id": "735Usw12Mtol0gD6JpDkZg",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273306140e443d0a7b8976e4ccf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02306140e443d0a7b8976e4ccf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851306140e443d0a7b8976e4ccf",
+                    "width": 64
+                }
+            ],
+            "name": "Spellbound",
+            "release_date": "1981-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:735Usw12Mtol0gD6JpDkZg"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna"
+                },
+                "href": "https://api.spotify.com/v1/artists/1MZ8NERIuOS610KBhr6yna",
+                "id": "1MZ8NERIuOS610KBhr6yna",
+                "name": "Tygers Of Pan Tang",
+                "type": "artist",
+                "uri": "spotify:artist:1MZ8NERIuOS610KBhr6yna"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 220626,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUM70970029"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2SF2BirrJoeTZpqlgMdwHn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2SF2BirrJoeTZpqlgMdwHn",
+        "id": "2SF2BirrJoeTZpqlgMdwHn",
+        "is_local": false,
+        "name": "Gangland",
+        "popularity": 34,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2SF2BirrJoeTZpqlgMdwHn"
+    }
+}

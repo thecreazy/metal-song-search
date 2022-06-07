@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Will you go to heaven",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Will you land in hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are the things you're praying for",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The things that serve you well?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Did you get satisfaction",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Have you paid the price",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can you look me in the eye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Say you found paradise?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Betrayal, you are what you choose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Betrayal, got everything to loose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Betrayal, one day you'll know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Betrayal, you reap what you sow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sell your soul for mercy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heed the reapers call",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Waiting for that heart attack",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your back's against the wall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stealing from tomorrow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is no way to live",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But when you've got no future",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then there's nothing left to give",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Betrayal, you are what you choose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Betrayal, got everything to loose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Betrayal, one day you'll know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Betrayal, you reap what you sow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So when you get to heaven",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When you land in hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are the things you're praying for",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The things that serve you well?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Betrayal, you are what you choose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Betrayal, got everything to loose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Betrayal, one day you'll know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Betrayal, you reap what you sow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "924876",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0kq4QvLGV5t1ZoE6ittrLQ",
+                    "id": "0kq4QvLGV5t1ZoE6ittrLQ",
+                    "name": "Halford",
+                    "type": "artist",
+                    "uri": "spotify:artist:0kq4QvLGV5t1ZoE6ittrLQ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/39W4fsdUoQS1mnEgq49x5F"
+            },
+            "href": "https://api.spotify.com/v1/albums/39W4fsdUoQS1mnEgq49x5F",
+            "id": "39W4fsdUoQS1mnEgq49x5F",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273073b149baafa8d44a873b8f4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02073b149baafa8d44a873b8f4",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851073b149baafa8d44a873b8f4",
+                    "width": 64
+                }
+            ],
+            "name": "Crucible",
+            "release_date": "2002",
+            "release_date_precision": "year",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:39W4fsdUoQS1mnEgq49x5F"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0kq4QvLGV5t1ZoE6ittrLQ"
+                },
+                "href": "https://api.spotify.com/v1/artists/0kq4QvLGV5t1ZoE6ittrLQ",
+                "id": "0kq4QvLGV5t1ZoE6ittrLQ",
+                "name": "Halford",
+                "type": "artist",
+                "uri": "spotify:artist:0kq4QvLGV5t1ZoE6ittrLQ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 184080,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USFM80630001"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4hNK3KZ5OLWuQ1XjItP7v1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4hNK3KZ5OLWuQ1XjItP7v1",
+        "id": "4hNK3KZ5OLWuQ1XjItP7v1",
+        "is_local": false,
+        "name": "Betrayal",
+        "popularity": 25,
+        "preview_url": "https://p.scdn.co/mp3-preview/cb43e723ecab2fced392a50ab3b1d0dd453c2c6a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4hNK3KZ5OLWuQ1XjItP7v1"
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Long you both laid in the sun's yellow stare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On the edge with eyes rolled back in the waves we calling him",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As he teetered on the edge",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The waves were calling him",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He had seen it, felt it's might, bent under",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Washing away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He thinks of you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everything slows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lights flashing through",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The water flies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Over his head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You are me now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As you lay on my bed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The water flies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Over his head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You are me now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As you lay on my bed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This is what he'd always known",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The promise of greater beyond the water's final horizon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1329060",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2vsXeWGC8rILp3rpSN2Fyk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2vsXeWGC8rILp3rpSN2Fyk",
+                    "id": "2vsXeWGC8rILp3rpSN2Fyk",
+                    "name": "ISIS",
+                    "type": "artist",
+                    "uri": "spotify:artist:2vsXeWGC8rILp3rpSN2Fyk"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2pzdk4kk4ujAuSFhkYv50o"
+            },
+            "href": "https://api.spotify.com/v1/albums/2pzdk4kk4ujAuSFhkYv50o",
+            "id": "2pzdk4kk4ujAuSFhkYv50o",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a63a5ce29dfcc0b64d1b6841",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a63a5ce29dfcc0b64d1b6841",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a63a5ce29dfcc0b64d1b6841",
+                    "width": 64
+                }
+            ],
+            "name": "Oceanic (Remastered)",
+            "release_date": "2002-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:2pzdk4kk4ujAuSFhkYv50o"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2vsXeWGC8rILp3rpSN2Fyk"
+                },
+                "href": "https://api.spotify.com/v1/artists/2vsXeWGC8rILp3rpSN2Fyk",
+                "id": "2vsXeWGC8rILp3rpSN2Fyk",
+                "name": "ISIS",
+                "type": "artist",
+                "uri": "spotify:artist:2vsXeWGC8rILp3rpSN2Fyk"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 481585,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USV351474207"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2iWZGvTHsJr4IFtcbe1KUD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2iWZGvTHsJr4IFtcbe1KUD",
+        "id": "2iWZGvTHsJr4IFtcbe1KUD",
+        "is_local": false,
+        "name": "The Beginning and the End",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/9185c03580a1ebac1df4d00a59d899ecdfd3b4b5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2iWZGvTHsJr4IFtcbe1KUD"
+    }
+}

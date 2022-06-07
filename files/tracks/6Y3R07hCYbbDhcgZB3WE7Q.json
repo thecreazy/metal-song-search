@@ -1,0 +1,281 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Jesus was a talker",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Out of place New Yorker",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hung out on the boulevard",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sellin' nickel candies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Saving all his quarters",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bought himself a cheap guitar",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Started playing' bars",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The kids came in their cars",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You'd hear them shouting at the stage",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Chorus)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus saves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus saves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus started changin'",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Things got really strange",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He saw his tee shirts everywhere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Started missing shows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The band came down to blows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But Jesus He no longer cared",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Things got out of hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And so he quit the band",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But still the critics they would rave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus saves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus saves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Her him cut through the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On your late night radio waves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So the dice were cast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Today became the past",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And Jesus He just disappeared",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Headed for New York",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Or so his label thought",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And there he gave away the years",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Last seen drinking wine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beneath a flashing sign",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Promising salvation to strays",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus saves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus saves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Her Him cut through the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On your late night radio waves",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "552837",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3N1B1g6JtIgd6ClRkzD4yT",
+                    "id": "3N1B1g6JtIgd6ClRkzD4yT",
+                    "name": "Savatage",
+                    "type": "artist",
+                    "uri": "spotify:artist:3N1B1g6JtIgd6ClRkzD4yT"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT"
+            },
+            "href": "https://api.spotify.com/v1/albums/5bMMMSrjV78gkbhxarBbWT",
+            "id": "5bMMMSrjV78gkbhxarBbWT",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733ac25821bb901bb68639b201",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023ac25821bb901bb68639b201",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513ac25821bb901bb68639b201",
+                    "width": 64
+                }
+            ],
+            "name": "Streets - A Rock Opera (2011 Edition)",
+            "release_date": "2011-02-25",
+            "release_date_precision": "day",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:5bMMMSrjV78gkbhxarBbWT"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT"
+                },
+                "href": "https://api.spotify.com/v1/artists/3N1B1g6JtIgd6ClRkzD4yT",
+                "id": "3N1B1g6JtIgd6ClRkzD4yT",
+                "name": "Savatage",
+                "type": "artist",
+                "uri": "spotify:artist:3N1B1g6JtIgd6ClRkzD4yT"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 313600,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEH821100007"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6Y3R07hCYbbDhcgZB3WE7Q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Y3R07hCYbbDhcgZB3WE7Q",
+        "id": "6Y3R07hCYbbDhcgZB3WE7Q",
+        "is_local": false,
+        "name": "Jesus Saves",
+        "popularity": 21,
+        "preview_url": "https://p.scdn.co/mp3-preview/322f3f5feadda43d3828d87fe017438d66158a18?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6Y3R07hCYbbDhcgZB3WE7Q"
+    }
+}

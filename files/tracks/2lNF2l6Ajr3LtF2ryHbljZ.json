@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "The pain lingers on beyond these castle walls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The red death is taking them all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "While the king and his court dance the night away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "At the masquerade",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The hour of midnight grows near",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Masque of the red death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one is safe from the poisonous plague",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That you breed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dance while you may in the dark of the room",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With the stranger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Laugh while you may, laugh at the danger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is this a message from god",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Or fate guiding hideous hands?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Won't you show us your face",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Masque of the red death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one is safe from the poisonous plague",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That you breed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Masque of the red death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one is saved, no one remembers your name",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On and on, one by one we fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Into the bleeding arms of the stranger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ripping the masque from your face",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel your disease running",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through my veins",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A new king of death threatens us all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Masque of the red death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one is safe from the poisonous plague",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That you breed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Masque of the red death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The price that you pay for your lust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "May be your life",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2053035",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2B73nUiRlcSwjTyVaIAwhR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2B73nUiRlcSwjTyVaIAwhR",
+                    "id": "2B73nUiRlcSwjTyVaIAwhR",
+                    "name": "Crimson Glory",
+                    "type": "artist",
+                    "uri": "spotify:artist:2B73nUiRlcSwjTyVaIAwhR"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/56bcFRxzSlIMmVEhpw1WqI"
+            },
+            "href": "https://api.spotify.com/v1/albums/56bcFRxzSlIMmVEhpw1WqI",
+            "id": "56bcFRxzSlIMmVEhpw1WqI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273940f8127b4839428ecb07ef5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02940f8127b4839428ecb07ef5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851940f8127b4839428ecb07ef5",
+                    "width": 64
+                }
+            ],
+            "name": "Transcendence",
+            "release_date": "1988",
+            "release_date_precision": "year",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:56bcFRxzSlIMmVEhpw1WqI"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2B73nUiRlcSwjTyVaIAwhR"
+                },
+                "href": "https://api.spotify.com/v1/artists/2B73nUiRlcSwjTyVaIAwhR",
+                "id": "2B73nUiRlcSwjTyVaIAwhR",
+                "name": "Crimson Glory",
+                "type": "artist",
+                "uri": "spotify:artist:2B73nUiRlcSwjTyVaIAwhR"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 252800,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA328999996"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2lNF2l6Ajr3LtF2ryHbljZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2lNF2l6Ajr3LtF2ryHbljZ",
+        "id": "2lNF2l6Ajr3LtF2ryHbljZ",
+        "is_local": false,
+        "name": "Masque of the Red Death",
+        "popularity": 15,
+        "preview_url": "https://p.scdn.co/mp3-preview/c35edc16cd1713e774cb681f2a4c5833e2edbfa3?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2lNF2l6Ajr3LtF2ryHbljZ"
+    }
+}

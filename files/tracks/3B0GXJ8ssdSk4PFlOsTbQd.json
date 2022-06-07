@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Young hearts are born with grief",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Will pay the penalty of truth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A season of our stolen youth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shall teach old hearts to break",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It feels like I've been here before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Here, where the animals lay down to die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So we stand alone on a distant shore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our broken spirits in rags and tatters",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With our broken spirits in rags and tatters",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With nerve and muscle and heart and brains",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They are lost to Ireland, they are lost in vain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So you pause and you can almost hear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The sounds, they echo down through the ages",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The creak of the burial cart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Here in humiliation and sorrow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Not mixed with indignation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Someone is driven to exclaim",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh god, that bread should be so dear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And human flesh so cheap",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our young hearts are born with such grief",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And we have paid the penalty of truth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A season of our stolen youth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shall teach our hearts to break",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It feels like I've been here before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Here, where the animals lay down to die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So we stood alone on a distant shore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Broken spirits in rags and tatters",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our broken spirits in rags and tatters",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "903615",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0BZr6WHaejNA63uhZZZZek"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0BZr6WHaejNA63uhZZZZek",
+                    "id": "0BZr6WHaejNA63uhZZZZek",
+                    "name": "Primordial",
+                    "type": "artist",
+                    "uri": "spotify:artist:0BZr6WHaejNA63uhZZZZek"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5JfBGmC3ICqSvy0RleiOlV"
+            },
+            "href": "https://api.spotify.com/v1/albums/5JfBGmC3ICqSvy0RleiOlV",
+            "id": "5JfBGmC3ICqSvy0RleiOlV",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bea52f6dacc4aab2e9e8ad08",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bea52f6dacc4aab2e9e8ad08",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851bea52f6dacc4aab2e9e8ad08",
+                    "width": 64
+                }
+            ],
+            "name": "The Gathering Wilderness",
+            "release_date": "2005-02-07",
+            "release_date_precision": "day",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:5JfBGmC3ICqSvy0RleiOlV"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0BZr6WHaejNA63uhZZZZek"
+                },
+                "href": "https://api.spotify.com/v1/artists/0BZr6WHaejNA63uhZZZZek",
+                "id": "0BZr6WHaejNA63uhZZZZek",
+                "name": "Primordial",
+                "type": "artist",
+                "uri": "spotify:artist:0BZr6WHaejNA63uhZZZZek"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 598146,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USMBR0501806"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3B0GXJ8ssdSk4PFlOsTbQd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3B0GXJ8ssdSk4PFlOsTbQd",
+        "id": "3B0GXJ8ssdSk4PFlOsTbQd",
+        "is_local": false,
+        "name": "The Coffin Ships",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/cbb7f200a45b0cc6e53cbc055ad9db66ab96c65d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3B0GXJ8ssdSk4PFlOsTbQd"
+    }
+}

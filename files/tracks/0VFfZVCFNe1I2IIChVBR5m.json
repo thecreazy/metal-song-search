@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "We've taken too much for granted",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And all the time it had grown",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From techno seeds we first planted",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Evolved a mind of its own",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Marching in the streets",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dragging iron feet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Laser beaming hearts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ripping men apart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From off I've seen my perfection",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where we could do as we please",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In secrecy this infection",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Was spreading like a disease",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hiding underground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Knowing we'd be found",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fearing for our lives",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Reaped by robot's scythes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metal gods",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metal gods",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metal gods",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metal gods",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Machines are taking all over",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With mankind in their command",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In time they'd like to discover",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "How they can make their demand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Better be the slaves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To their wicked ways",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But meeting with our death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Engulfed in molten breath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "243566",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2tRsMl4eGxwoNabM08Dm4I",
+                    "id": "2tRsMl4eGxwoNabM08Dm4I",
+                    "name": "Judas Priest",
+                    "type": "artist",
+                    "uri": "spotify:artist:2tRsMl4eGxwoNabM08Dm4I"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
+            },
+            "href": "https://api.spotify.com/v1/albums/5bqtZRbUZUxUps8mrO9tGY",
+            "id": "5bqtZRbUZUxUps8mrO9tGY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273be0e5ebab8c61469b1ff9f62",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02be0e5ebab8c61469b1ff9f62",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851be0e5ebab8c61469b1ff9f62",
+                    "width": 64
+                }
+            ],
+            "name": "British Steel",
+            "release_date": "1980",
+            "release_date_precision": "year",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:5bqtZRbUZUxUps8mrO9tGY"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+                },
+                "href": "https://api.spotify.com/v1/artists/2tRsMl4eGxwoNabM08Dm4I",
+                "id": "2tRsMl4eGxwoNabM08Dm4I",
+                "name": "Judas Priest",
+                "type": "artist",
+                "uri": "spotify:artist:2tRsMl4eGxwoNabM08Dm4I"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 238293,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBBN8002006"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0VFfZVCFNe1I2IIChVBR5m"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0VFfZVCFNe1I2IIChVBR5m",
+        "id": "0VFfZVCFNe1I2IIChVBR5m",
+        "is_local": false,
+        "name": "Metal Gods",
+        "popularity": 51,
+        "preview_url": "https://p.scdn.co/mp3-preview/e24ae2554573926ab65deda3625fae52b6fe1759?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0VFfZVCFNe1I2IIChVBR5m"
+    }
+}

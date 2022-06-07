@@ -1,0 +1,271 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Gather the wind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Though the wind won't help you fly at all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your back's to the wall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chain the sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And it tears away to face you as you run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You run, you run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Behind the smile",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's danger and a promise to be told",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You'll never get old, ha",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Life's fantasy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To be locked away and still to think you're free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're free, we're free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So live for today",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tomorrow never comes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die young, die young",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't you see the writing in the air?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die young, gonna die young",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Someone stopped the fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gather the wind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Though the wind won't help you fly at all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your back is to the wall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then chain the sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And it tears away to face you as you run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You run, you run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So live for today",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tomorrow never comes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die young, young",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die young, die young",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die young, die young, young",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die young, die young, die young",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die young, die young, die young, die young",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "212125",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                    "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                    "name": "Black Sabbath",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0Dj2B19o99FcJii6aPvMTr"
+            },
+            "href": "https://api.spotify.com/v1/albums/0Dj2B19o99FcJii6aPvMTr",
+            "id": "0Dj2B19o99FcJii6aPvMTr",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731714d5e8b43f9e63572d550d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021714d5e8b43f9e63572d550d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511714d5e8b43f9e63572d550d",
+                    "width": 64
+                }
+            ],
+            "name": "Heaven & Hell",
+            "release_date": "1980-04-25",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:0Dj2B19o99FcJii6aPvMTr"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                "name": "Black Sabbath",
+                "type": "artist",
+                "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 282240,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBUM70900391"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7BdnjZouQp8hC76pccrUDp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7BdnjZouQp8hC76pccrUDp",
+        "id": "7BdnjZouQp8hC76pccrUDp",
+        "is_local": false,
+        "name": "Die Young - 2009 Remaster",
+        "popularity": 46,
+        "preview_url": "https://p.scdn.co/mp3-preview/bd8c3cfe967a1e73e9fd147c0038fe799e30f343?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:7BdnjZouQp8hC76pccrUDp"
+    }
+}

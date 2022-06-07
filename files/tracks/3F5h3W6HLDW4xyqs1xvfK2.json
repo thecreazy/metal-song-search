@@ -1,0 +1,161 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "When all is withered and torn,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And all has perished and fallen,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "These great wooden doors shall remain closed. . .",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When the heart is a grave filled with blood,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the soul is a cold and haunted shall of lost hope.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When the voice of pride has been silenced,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And dignity's fires are but cinders,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": ". . .their grandeur shall remain untainted.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It is this grandeur that protects the spirit within,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From the plight of this broken world, from the wounds in her song.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I wish to die with my will and spirit intact,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The will that inspired me to write these words.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seek not the fallen to unlock these wooden doors.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1914414",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Meu28o8P5z9Zjm6NTGihT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Meu28o8P5z9Zjm6NTGihT",
+                    "id": "3Meu28o8P5z9Zjm6NTGihT",
+                    "name": "Agalloch",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Meu28o8P5z9Zjm6NTGihT"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7hOOJDRbH3we1P0iT2z1Hg"
+            },
+            "href": "https://api.spotify.com/v1/albums/7hOOJDRbH3we1P0iT2z1Hg",
+            "id": "7hOOJDRbH3we1P0iT2z1Hg",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ac5a3d24a0d86ac8d838bd47",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ac5a3d24a0d86ac8d838bd47",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ac5a3d24a0d86ac8d838bd47",
+                    "width": 64
+                }
+            ],
+            "name": "The Mantle",
+            "release_date": "2002",
+            "release_date_precision": "year",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:7hOOJDRbH3we1P0iT2z1Hg"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3Meu28o8P5z9Zjm6NTGihT"
+                },
+                "href": "https://api.spotify.com/v1/artists/3Meu28o8P5z9Zjm6NTGihT",
+                "id": "3Meu28o8P5z9Zjm6NTGihT",
+                "name": "Agalloch",
+                "type": "artist",
+                "uri": "spotify:artist:3Meu28o8P5z9Zjm6NTGihT"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 371200,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US2420502804"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3F5h3W6HLDW4xyqs1xvfK2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3F5h3W6HLDW4xyqs1xvfK2",
+        "id": "3F5h3W6HLDW4xyqs1xvfK2",
+        "is_local": false,
+        "name": "I Am The Wooden Doors",
+        "popularity": 27,
+        "preview_url": "https://p.scdn.co/mp3-preview/ee226316aef771250ccc0c221f5abe80d7d5fc56?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3F5h3W6HLDW4xyqs1xvfK2"
+    }
+}

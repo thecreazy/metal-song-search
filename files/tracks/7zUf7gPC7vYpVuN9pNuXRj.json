@@ -1,0 +1,186 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I am awaiting the sunrise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gazing modestly through the coldest morning",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Once it came you lied",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Embracing us over autumn's proud treetops",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I stand motionless",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the parade of falling rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your voice I cannot hear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As I am falling again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Devotion eludes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And in sadness I lumber",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In my own ashes I am standing without a soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She wept and whispered",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We walked into the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Am I to bid you farewell?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Why can't you see that I try",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When every tear I shed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is for you?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1050236",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0ybFZ2Ab08V8hueghSXm6E",
+                    "id": "0ybFZ2Ab08V8hueghSXm6E",
+                    "name": "Opeth",
+                    "type": "artist",
+                    "uri": "spotify:artist:0ybFZ2Ab08V8hueghSXm6E"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7mov9rVPoOWLi2mksFx5ex"
+            },
+            "href": "https://api.spotify.com/v1/albums/7mov9rVPoOWLi2mksFx5ex",
+            "id": "7mov9rVPoOWLi2mksFx5ex",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27359418a31727bbb5707911ba1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0259418a31727bbb5707911ba1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485159418a31727bbb5707911ba1",
+                    "width": 64
+                }
+            ],
+            "name": "Morningrise",
+            "release_date": "1996-06-24",
+            "release_date_precision": "day",
+            "total_tracks": 6,
+            "type": "album",
+            "uri": "spotify:album:7mov9rVPoOWLi2mksFx5ex"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+                },
+                "href": "https://api.spotify.com/v1/artists/0ybFZ2Ab08V8hueghSXm6E",
+                "id": "0ybFZ2Ab08V8hueghSXm6E",
+                "name": "Opeth",
+                "type": "artist",
+                "uri": "spotify:artist:0ybFZ2Ab08V8hueghSXm6E"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 654413,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBADD0405405"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7zUf7gPC7vYpVuN9pNuXRj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7zUf7gPC7vYpVuN9pNuXRj",
+        "id": "7zUf7gPC7vYpVuN9pNuXRj",
+        "is_local": false,
+        "name": "To Bid You Farewell",
+        "popularity": 49,
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:7zUf7gPC7vYpVuN9pNuXRj"
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Ah! Ah! Ah! Ah!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I believe them bones are me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Some say we're born into the grave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel so alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gonna end up a big ol' pile of them bones",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ah! Ah! Ahh!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dust rise right on over my time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Empty fossil of the new scene",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel so alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gonna end up a big ol' pile of them bones",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Toll due, bad dream come true",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I lie dead gone under red sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel so alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gonna end up a big ol' pile of them",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel so alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gonna end up a big ol' pile of them",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel so alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gonna end up a big ol' pile of them bones",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "135103394",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+                    "id": "64tNsm6TnZe2zpcMVMOoHL",
+                    "name": "Alice In Chains",
+                    "type": "artist",
+                    "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+            },
+            "href": "https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM",
+            "id": "58NXIEYqmq5dQHg9nV9duM",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27331ea2c36c5da3979177127b1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0231ea2c36c5da3979177127b1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485131ea2c36c5da3979177127b1",
+                    "width": 64
+                }
+            ],
+            "name": "Dirt",
+            "release_date": "1992-09-29",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+                },
+                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+                "id": "64tNsm6TnZe2zpcMVMOoHL",
+                "name": "Alice In Chains",
+                "type": "artist",
+                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 149466,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM19200799"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4A065x9kJt955eGVqf813g"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4A065x9kJt955eGVqf813g",
+        "id": "4A065x9kJt955eGVqf813g",
+        "is_local": false,
+        "name": "Them Bones",
+        "popularity": 66,
+        "preview_url": "https://p.scdn.co/mp3-preview/704dca40c20df272ba4aed1cd4c716dae9d65bbf?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4A065x9kJt955eGVqf813g"
+    }
+}

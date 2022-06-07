@@ -1,0 +1,101 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Church of hell arises from the spell to destroy the god of light.The priests predict the arrive of the most repugnant godApocalyptic war. Demons and warrior attack by his command.Black machine and metal blade are his right hand to win.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chorus: He comes to burn the sky, His troops are ready to fight.The darling Satan son. The jackal warlock is born.Bestial rape of death. Drink the purest blood.The sacrifice of God, left's start the beginning of the end.Hell fire into your mind and desire total death in earth.Black arrows he will cast to finish with the virgin lies.(Chorus)Seeking the last revenge.Kill with power all the feeble ones.The cross will fall down to the rising of hell reign.Black angel will take the sky and earth.",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "8135842",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0eFHyxbByjkMEBK3uumeaW",
+                    "id": "0eFHyxbByjkMEBK3uumeaW",
+                    "name": "Witchtrap",
+                    "type": "artist",
+                    "uri": "spotify:artist:0eFHyxbByjkMEBK3uumeaW"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3mRYPnKpzRjPk06wyVb61c"
+            },
+            "href": "https://api.spotify.com/v1/albums/3mRYPnKpzRjPk06wyVb61c",
+            "id": "3mRYPnKpzRjPk06wyVb61c",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730e0d5c725461a429e9652ed5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020e0d5c725461a429e9652ed5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510e0d5c725461a429e9652ed5",
+                    "width": 64
+                }
+            ],
+            "name": "Sorceress Bitch",
+            "release_date": "2002-10-04",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:3mRYPnKpzRjPk06wyVb61c"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0eFHyxbByjkMEBK3uumeaW"
+                },
+                "href": "https://api.spotify.com/v1/artists/0eFHyxbByjkMEBK3uumeaW",
+                "id": "0eFHyxbByjkMEBK3uumeaW",
+                "name": "Witchtrap",
+                "type": "artist",
+                "uri": "spotify:artist:0eFHyxbByjkMEBK3uumeaW"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 231013,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "uscgh1643387"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6qOQhi43DQ4d5tEZzaFKTn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6qOQhi43DQ4d5tEZzaFKTn",
+        "id": "6qOQhi43DQ4d5tEZzaFKTn",
+        "is_local": false,
+        "name": "Black Angel",
+        "popularity": 6,
+        "preview_url": "https://p.scdn.co/mp3-preview/d0bb137f9035348d6ff13cfb5b27f6098ea35238?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:6qOQhi43DQ4d5tEZzaFKTn"
+    }
+}

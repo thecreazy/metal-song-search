@@ -1,0 +1,271 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Blue skies, once upon a dream",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All eyes never in between",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then into the garden came the spider",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"I'm here for you,\" said the spider to the fly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And when I'm through, you can open up your eyes to see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your world on fire, and the liar won't let go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Atom and Evil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One more promise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We can tame the sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And then we'll shine forever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Someday you can cry for everyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We'll burn when you were clever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Expand your mind, we've got a place for you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just make believe that one and one are always two",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When into the parlor comes the spider",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just say NO!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Atom and Evil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Falling's easy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rising will never be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So we must rise together",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Here are the changes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Powerful harmony",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But then there's no forever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Atom and Evil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Maybe if we cry together",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Maybe if we cry as one",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The tears will fall to chill the fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And keep everyone from",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Atom and Evil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Atom and Evil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Atom and Evil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Atom and Evil!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "5641629",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4UjiBRkTw9VmvDZiJZKPJ7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4UjiBRkTw9VmvDZiJZKPJ7",
+                    "id": "4UjiBRkTw9VmvDZiJZKPJ7",
+                    "name": "Heaven & Hell",
+                    "type": "artist",
+                    "uri": "spotify:artist:4UjiBRkTw9VmvDZiJZKPJ7"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/49z8GQTJCQBXVT81k0gXzV"
+            },
+            "href": "https://api.spotify.com/v1/albums/49z8GQTJCQBXVT81k0gXzV",
+            "id": "49z8GQTJCQBXVT81k0gXzV",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273db5e77e2099acf7dc12962dd",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02db5e77e2099acf7dc12962dd",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851db5e77e2099acf7dc12962dd",
+                    "width": 64
+                }
+            ],
+            "name": "The Devil You Know",
+            "release_date": "2009-04-28",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:49z8GQTJCQBXVT81k0gXzV"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4UjiBRkTw9VmvDZiJZKPJ7"
+                },
+                "href": "https://api.spotify.com/v1/artists/4UjiBRkTw9VmvDZiJZKPJ7",
+                "id": "4UjiBRkTw9VmvDZiJZKPJ7",
+                "name": "Heaven & Hell",
+                "type": "artist",
+                "uri": "spotify:artist:4UjiBRkTw9VmvDZiJZKPJ7"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 315160,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USRH10901695"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7zgog2CYK46rNzeDvczmi7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7zgog2CYK46rNzeDvczmi7",
+        "id": "7zgog2CYK46rNzeDvczmi7",
+        "is_local": false,
+        "name": "Atom and Evil",
+        "popularity": 27,
+        "preview_url": "https://p.scdn.co/mp3-preview/42410d265a490d370b047d76fdf2d9fe84386e58?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7zgog2CYK46rNzeDvczmi7"
+    }
+}

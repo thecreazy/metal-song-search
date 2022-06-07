@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Stay away white magician",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Young lovers and mourning wife",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're not welcome on our land",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So I speak for the dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[SOLO: M.DENNER]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Magic circles drawn after midnight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Around graves to be opened",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He'll ask the wand to raise a body",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He'll ask the questions and",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He'll burn the remains",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's desecration of souls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In their holy lair",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[SOLO: M.DENNER]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Copulation in the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Two shadows upon a grave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Screams of pleasure,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Screams of pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Young lovers you must be insane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's desecration of souls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In their holy lair",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So I say again stay away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's desecration of souls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[SOLO: H.SHERMANN, M.DENNER]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dying flowers upon the grave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of a husband who's lost his maid",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She's there on duty and the tears she cries",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They don't belong where the flowers lie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's desecration of souls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In their holy lair",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So I say again stay away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's desecration of souls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[SOLO: M.DENNER]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "553164",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0W8edGiwAsv6HXF0Kyc2V9",
+                    "id": "0W8edGiwAsv6HXF0Kyc2V9",
+                    "name": "Mercyful Fate",
+                    "type": "artist",
+                    "uri": "spotify:artist:0W8edGiwAsv6HXF0Kyc2V9"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6gADLDKOjcXTFrfE5Xp3HA"
+            },
+            "href": "https://api.spotify.com/v1/albums/6gADLDKOjcXTFrfE5Xp3HA",
+            "id": "6gADLDKOjcXTFrfE5Xp3HA",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734fd0c84a79418987c8a16d50",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024fd0c84a79418987c8a16d50",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514fd0c84a79418987c8a16d50",
+                    "width": 64
+                }
+            ],
+            "name": "Don't Break the Oath",
+            "release_date": "1984-09-07",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:6gADLDKOjcXTFrfE5Xp3HA"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9"
+                },
+                "href": "https://api.spotify.com/v1/artists/0W8edGiwAsv6HXF0Kyc2V9",
+                "id": "0W8edGiwAsv6HXF0Kyc2V9",
+                "name": "Mercyful Fate",
+                "type": "artist",
+                "uri": "spotify:artist:0W8edGiwAsv6HXF0Kyc2V9"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 296826,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329780537"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3md2Aihy6QiIeZDob9wXvh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3md2Aihy6QiIeZDob9wXvh",
+        "id": "3md2Aihy6QiIeZDob9wXvh",
+        "is_local": false,
+        "name": "Desecration of Souls",
+        "popularity": 32,
+        "preview_url": "https://p.scdn.co/mp3-preview/3d8f6c4d648c8af93040a27d2887491b9e245382?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3md2Aihy6QiIeZDob9wXvh"
+    }
+}

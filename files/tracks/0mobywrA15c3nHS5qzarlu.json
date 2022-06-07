@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Away out in Egypt in the valley of kings",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where the mummified pharaohs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pretend dead in their sleep",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't touch, never ever steal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Unless you're in for the kill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Or you'll be hit by the curse of the pharaohs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yes you'll be hit and the curse is on you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now if you're breakin' the seals",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And disturbing the peace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then you're startin' up a curse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bringin' evil disease",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't touch, never ever steal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Unless you're in for the kill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Or you'll be hit by the curse of the pharaohs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yes you'll be hit and the curse is on you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The curse of the pharaohs can be so deadly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Or just destroying your future",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Takin' it all shady",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't touch, never ever steal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Unless you're in for the kill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Or you'll be hit by the curse of the pharaohs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yes you'll be hit and the curse is on you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "553155",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0W8edGiwAsv6HXF0Kyc2V9",
+                    "id": "0W8edGiwAsv6HXF0Kyc2V9",
+                    "name": "Mercyful Fate",
+                    "type": "artist",
+                    "uri": "spotify:artist:0W8edGiwAsv6HXF0Kyc2V9"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1hxG9oE767xQ4MLsEU5u58"
+            },
+            "href": "https://api.spotify.com/v1/albums/1hxG9oE767xQ4MLsEU5u58",
+            "id": "1hxG9oE767xQ4MLsEU5u58",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732047927ddb02a89e8ec1dd30",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022047927ddb02a89e8ec1dd30",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512047927ddb02a89e8ec1dd30",
+                    "width": 64
+                }
+            ],
+            "name": "Melissa",
+            "release_date": "1983-10-30",
+            "release_date_precision": "day",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:1hxG9oE767xQ4MLsEU5u58"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9"
+                },
+                "href": "https://api.spotify.com/v1/artists/0W8edGiwAsv6HXF0Kyc2V9",
+                "id": "0W8edGiwAsv6HXF0Kyc2V9",
+                "name": "Mercyful Fate",
+                "type": "artist",
+                "uri": "spotify:artist:0W8edGiwAsv6HXF0Kyc2V9"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 237106,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329780545"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0mobywrA15c3nHS5qzarlu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0mobywrA15c3nHS5qzarlu",
+        "id": "0mobywrA15c3nHS5qzarlu",
+        "is_local": false,
+        "name": "Curse of the Pharaohs",
+        "popularity": 46,
+        "preview_url": "https://p.scdn.co/mp3-preview/178310facf27d0fd36d012dbf97ff000ef315533?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0mobywrA15c3nHS5qzarlu"
+    }
+}

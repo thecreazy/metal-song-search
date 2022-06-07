@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Written in the waters...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Voice of the dead)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Our shadows seep into the dusk",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like cranes that melt into the pool;",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A black lake in which they descend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pale ghosts caress the nidstång in the dark,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Its face scarred by the ages,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Its curse sent with heathen breath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To poison the waters of the black lake.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are... we are the faces below the ripples,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A deep sorrow travelled through the woods,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And found a home in our humble grave.\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Voice of the niðstång)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"I've sent this peril...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the world; this peril shall spread all sorrows,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you are but gods",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Watching from below at the base of the totem",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the black temple of the Earth.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am... I am the silence inside the tomb,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You created the stars,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And gave birth to all the heavens;",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The darkness of space and time,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So go... go to the nightside end below.\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where have all the noble cranes gone?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where have all the stags disappeared to?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Piled below in the tomb of this burdened pool,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A curse to those who corrupt these sacred woods,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A curse to those who taste this solemn water.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No unhallowed breath shall seal a fate before me,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Join the drowned in the silence of the black lake's womb,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Accursed... written in the waters...",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "9538428",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Meu28o8P5z9Zjm6NTGihT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Meu28o8P5z9Zjm6NTGihT",
+                    "id": "3Meu28o8P5z9Zjm6NTGihT",
+                    "name": "Agalloch",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Meu28o8P5z9Zjm6NTGihT"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/69dtvmEbd0xejAVrqOuzDO"
+            },
+            "href": "https://api.spotify.com/v1/albums/69dtvmEbd0xejAVrqOuzDO",
+            "id": "69dtvmEbd0xejAVrqOuzDO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27309e2f5817b7c7db07afa640b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0209e2f5817b7c7db07afa640b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485109e2f5817b7c7db07afa640b",
+                    "width": 64
+                }
+            ],
+            "name": "Marrow of the Spirit",
+            "release_date": "2010-11-23",
+            "release_date_precision": "day",
+            "total_tracks": 6,
+            "type": "album",
+            "uri": "spotify:album:69dtvmEbd0xejAVrqOuzDO"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3Meu28o8P5z9Zjm6NTGihT"
+                },
+                "href": "https://api.spotify.com/v1/artists/3Meu28o8P5z9Zjm6NTGihT",
+                "id": "3Meu28o8P5z9Zjm6NTGihT",
+                "name": "Agalloch",
+                "type": "artist",
+                "uri": "spotify:artist:3Meu28o8P5z9Zjm6NTGihT"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 1054373,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "QMPKX1615725"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5pEjSUkEOaWAItvstJd4tr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5pEjSUkEOaWAItvstJd4tr",
+        "id": "5pEjSUkEOaWAItvstJd4tr",
+        "is_local": false,
+        "name": "Black Lake Niðstång",
+        "popularity": 22,
+        "preview_url": "https://p.scdn.co/mp3-preview/b255a48d2c9659dbcde1f0c70ed1a31a55c9b61f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5pEjSUkEOaWAItvstJd4tr"
+    }
+}

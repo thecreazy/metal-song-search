@@ -1,0 +1,206 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I close my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As fire swept clean the earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nothing left to strangle",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As the cords were torn from our hearts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Tired I blew out my last warning, the claws were ripping me apart\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As we emerged",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From darker dungeons",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Splendor of yellow hells",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Expanded swollen eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No words were said",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As fire swept clean the earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Would the mothers be crying?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If they saw torches in our hands?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"The wind, once able to conquer, captured as fire swept clean the earth\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A kiss was placed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Upon my cheek",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And all color came back",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Melting in solid blue tune",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I close my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As fire swept clean the earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nothing left to strangle",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As the cords were torn from our hearts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1834360",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2HmtB6wVRRi3z0JwZHtkiD",
+                    "id": "2HmtB6wVRRi3z0JwZHtkiD",
+                    "name": "Enslaved",
+                    "type": "artist",
+                    "uri": "spotify:artist:2HmtB6wVRRi3z0JwZHtkiD"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3uei5LFX4boIwVER1zdLD8"
+            },
+            "href": "https://api.spotify.com/v1/albums/3uei5LFX4boIwVER1zdLD8",
+            "id": "3uei5LFX4boIwVER1zdLD8",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b11b76df3a262a25ec91caed",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b11b76df3a262a25ec91caed",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b11b76df3a262a25ec91caed",
+                    "width": 64
+                }
+            ],
+            "name": "Below The Lights",
+            "release_date": "2003",
+            "release_date_precision": "year",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:3uei5LFX4boIwVER1zdLD8"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+                },
+                "href": "https://api.spotify.com/v1/artists/2HmtB6wVRRi3z0JwZHtkiD",
+                "id": "2HmtB6wVRRi3z0JwZHtkiD",
+                "name": "Enslaved",
+                "type": "artist",
+                "uri": "spotify:artist:2HmtB6wVRRi3z0JwZHtkiD"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 395400,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "FR6V80300844"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2Dc8EnIAU9n3o5hOahnwRK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Dc8EnIAU9n3o5hOahnwRK",
+        "id": "2Dc8EnIAU9n3o5hOahnwRK",
+        "is_local": false,
+        "name": "As Fire Swept Clean The Earth",
+        "popularity": 24,
+        "preview_url": "https://p.scdn.co/mp3-preview/1137b6d08d5a863aa95f8b69092f7951e87c69c2?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2Dc8EnIAU9n3o5hOahnwRK"
+    }
+}

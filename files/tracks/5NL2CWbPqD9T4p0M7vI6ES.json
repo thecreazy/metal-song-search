@@ -1,0 +1,196 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Katie was a kid, I guess she hid her thoughts from everyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Went to school at eight, she was never late",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Didn't know the meaning of fun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Every night Katie prayed to God above",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But her daddy gave her everything but love",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She woke up one day, said: \"I'm on my way\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Her mummy read the letter, It did say:",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"I'm on my way, I'm on my way\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Riding with the angels",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She's having fun fun fun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rode around and every boy in town tried to win her back",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It was no go, cause she rode with Joe, he was the leader of the pack",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "People ran for cover when they rolled to town",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The night was black, rain on the ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Engines scream, running too fast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They knew the ride would be there last",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They're on their way,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They're on their way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Riding with the angels",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She's having fun fun fun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2985678",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0s4JwoiTHqruatpqAR0IZ7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0s4JwoiTHqruatpqAR0IZ7",
+                    "id": "0s4JwoiTHqruatpqAR0IZ7",
+                    "name": "Samson",
+                    "type": "artist",
+                    "uri": "spotify:artist:0s4JwoiTHqruatpqAR0IZ7"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4etvCCdJPifFLvhNbZjvL7"
+            },
+            "href": "https://api.spotify.com/v1/albums/4etvCCdJPifFLvhNbZjvL7",
+            "id": "4etvCCdJPifFLvhNbZjvL7",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d91712069e86328ffae4d72f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d91712069e86328ffae4d72f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d91712069e86328ffae4d72f",
+                    "width": 64
+                }
+            ],
+            "name": "Shock Tactics (Bonus Track Edition)",
+            "release_date": "1981-05-01",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:4etvCCdJPifFLvhNbZjvL7"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0s4JwoiTHqruatpqAR0IZ7"
+                },
+                "href": "https://api.spotify.com/v1/artists/0s4JwoiTHqruatpqAR0IZ7",
+                "id": "0s4JwoiTHqruatpqAR0IZ7",
+                "name": "Samson",
+                "type": "artist",
+                "uri": "spotify:artist:0s4JwoiTHqruatpqAR0IZ7"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 223026,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE8100048"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5NL2CWbPqD9T4p0M7vI6ES"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5NL2CWbPqD9T4p0M7vI6ES",
+        "id": "5NL2CWbPqD9T4p0M7vI6ES",
+        "is_local": false,
+        "name": "Riding with the Angels",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/5585387337b493fd85ebc7125ebcaad461137b2f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5NL2CWbPqD9T4p0M7vI6ES"
+    }
+}

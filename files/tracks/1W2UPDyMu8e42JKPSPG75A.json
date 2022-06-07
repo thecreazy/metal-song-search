@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Rush faster on the one-way lane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The answers so silent",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rusty gods in their machine-mind armours",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Grind our souls in the millstone of time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The \"deathbed harvest\" is a dead man's banquet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of mold ridden bread and black, poisoned wine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And we go... our step so silent",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And we go... our blooded trace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Jester Race",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Calling our to the gathered masses",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their answers so silent",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And we go...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Embracing the tools of the neo-wolf age",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That speak of silence and silence alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Offering the tokens, the reliced idols",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the heirs of the newly raped ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inferior even to the transparent winds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lesser in the motion and sound",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And we go...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There is no trace of me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In their altered blueprints of life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gala impaled on their horns and lances",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The fumes from her body give chase",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As the strong of blind men savour the scent,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dream-dead from Prosaic and hate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "-Epilogue-",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Sunwind strokes the ElectroHeart,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ignition roars through the corridors,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stream launching the binary vessels\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vanities in extreme formations",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ride into tomorrow's rigid great face",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Machinery outlives the futile scripts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of our dying jester race",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "862819",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/57ylwQTnFnIhJh4nu4rxCs",
+                    "id": "57ylwQTnFnIhJh4nu4rxCs",
+                    "name": "In Flames",
+                    "type": "artist",
+                    "uri": "spotify:artist:57ylwQTnFnIhJh4nu4rxCs"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1oupMKdNzd7u1isqbtM4so"
+            },
+            "href": "https://api.spotify.com/v1/albums/1oupMKdNzd7u1isqbtM4so",
+            "id": "1oupMKdNzd7u1isqbtM4so",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737b967d82647ad3a36a098334",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027b967d82647ad3a36a098334",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517b967d82647ad3a36a098334",
+                    "width": 64
+                }
+            ],
+            "name": "The Jester Race (Black Ash-Inheritance Version)",
+            "release_date": "1996-02-20",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:1oupMKdNzd7u1isqbtM4so"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+                },
+                "href": "https://api.spotify.com/v1/artists/57ylwQTnFnIhJh4nu4rxCs",
+                "id": "57ylwQTnFnIhJh4nu4rxCs",
+                "name": "In Flames",
+                "type": "artist",
+                "uri": "spotify:artist:57ylwQTnFnIhJh4nu4rxCs"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 291266,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED830162807"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1W2UPDyMu8e42JKPSPG75A"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1W2UPDyMu8e42JKPSPG75A",
+        "id": "1W2UPDyMu8e42JKPSPG75A",
+        "is_local": false,
+        "name": "The Jester Race",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/acdedc9b247fc101974b2f141e98ff023248160b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1W2UPDyMu8e42JKPSPG75A"
+    }
+}

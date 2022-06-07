@@ -1,0 +1,201 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Here comes the circus now to steal your life away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Catch unwary children at their play",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Disturb what was a peaceful island of calm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A storm is coming on the horizon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The traveller begs for you his words to heed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To fear the evil thing that he proceeds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Recruiting evil in the autumn times of sin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A mad collection of broken men",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thunder ripping out across the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Draw the lighning out of my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "By the prickling of my thumbs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Something wicked this way comes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The house of mirrors is your place of play",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ten thousand faces driving you insane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A carnival of hate crawling through your mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A gripping fear that leaves you paralyzed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thunder ripping out across the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Draw the lighning out of my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "By the prickling of my thumbs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Something wicked this way comes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2422660",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2iu7W76DMacXn6hzAqmJJU",
+                    "id": "2iu7W76DMacXn6hzAqmJJU",
+                    "name": "Nuclear Assault",
+                    "type": "artist",
+                    "uri": "spotify:artist:2iu7W76DMacXn6hzAqmJJU"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4PQyDJXiPSJFQz3CT9ErWK"
+            },
+            "href": "https://api.spotify.com/v1/albums/4PQyDJXiPSJFQz3CT9ErWK",
+            "id": "4PQyDJXiPSJFQz3CT9ErWK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273186c6710672207fb139a7ee2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02186c6710672207fb139a7ee2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851186c6710672207fb139a7ee2",
+                    "width": 64
+                }
+            ],
+            "name": "Something Wicked",
+            "release_date": "1993-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:4PQyDJXiPSJFQz3CT9ErWK"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2iu7W76DMacXn6hzAqmJJU"
+                },
+                "href": "https://api.spotify.com/v1/artists/2iu7W76DMacXn6hzAqmJJU",
+                "id": "2iu7W76DMacXn6hzAqmJJU",
+                "name": "Nuclear Assault",
+                "type": "artist",
+                "uri": "spotify:artist:2iu7W76DMacXn6hzAqmJJU"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 281733,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USCA20801568"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1VTRnV3SF0uQmHTM2dqJMg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1VTRnV3SF0uQmHTM2dqJMg",
+        "id": "1VTRnV3SF0uQmHTM2dqJMg",
+        "is_local": false,
+        "name": "Something Wicked",
+        "popularity": 45,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1VTRnV3SF0uQmHTM2dqJMg"
+    }
+}

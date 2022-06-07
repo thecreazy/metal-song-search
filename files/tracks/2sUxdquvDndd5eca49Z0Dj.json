@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "\"Dust to dust\".'.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I gasp for air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I scream for sight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And fight against",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Torment and dread",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Calling the vengeance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I tear at the lid",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And promise to raise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From the dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "RAISE THE DEAD RAISE THE DEAD RAISE THE DEAD",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Black witch of beauty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All Hell's necromancers",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give me the powers of Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mistress of curse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Reapers and vultures",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Demons stand up",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And chime the bell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "AND RAISE THE DEAD RAISE THE DEAD RAISE THE DEAD",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hear the infernal legions plea... We shall rise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Suddenly powers comes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From within",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Muscles and mind are",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Filled with wrath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I burst out in frenzy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Powers of Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And break up the",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tomb and the dark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "AND RAISE FROM THE DEAD RAISE THE DEAD",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "RAISE THE DEAD",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "904616",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6rBvjnvdsRxFRSrq1StGOM",
+                    "id": "6rBvjnvdsRxFRSrq1StGOM",
+                    "name": "Bathory",
+                    "type": "artist",
+                    "uri": "spotify:artist:6rBvjnvdsRxFRSrq1StGOM"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2DUPn8yWUidZ1l3HQwExMD"
+            },
+            "href": "https://api.spotify.com/v1/albums/2DUPn8yWUidZ1l3HQwExMD",
+            "id": "2DUPn8yWUidZ1l3HQwExMD",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27336528610777ac76fad7c8280",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0236528610777ac76fad7c8280",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485136528610777ac76fad7c8280",
+                    "width": 64
+                }
+            ],
+            "name": "Bathory",
+            "release_date": "1984-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2DUPn8yWUidZ1l3HQwExMD"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+                },
+                "href": "https://api.spotify.com/v1/artists/6rBvjnvdsRxFRSrq1StGOM",
+                "id": "6rBvjnvdsRxFRSrq1StGOM",
+                "name": "Bathory",
+                "type": "artist",
+                "uri": "spotify:artist:6rBvjnvdsRxFRSrq1StGOM"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 220682,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBRKQ2153438"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2sUxdquvDndd5eca49Z0Dj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2sUxdquvDndd5eca49Z0Dj",
+        "id": "2sUxdquvDndd5eca49Z0Dj",
+        "is_local": false,
+        "name": "Raise the Dead",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/0d8871773256f5594fff4a2093e34f3d3d00b8c7?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2sUxdquvDndd5eca49Z0Dj"
+    }
+}

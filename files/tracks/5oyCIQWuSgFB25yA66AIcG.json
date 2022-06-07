@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I am hunting for your soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It dwells within your heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I lacerate the pounding flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your spirits shall be mine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So rise my spirits, rise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Revel in this dead man's body",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Grip his soul, sip the blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Life in death, a holy carnage",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ravenous",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will be god",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Carnivorous Jesus",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I need your flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ritual slaughter, fill up the chalice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With the essence of your life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Liquid strengths trapped in your veins",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I crave your blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You must die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ravenous",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will be god",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Carnivorous Jesus",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I need your blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ravenous",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will be god",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Carnivorous Jesus",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I need your flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "990364",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0DCw6lHkzh9t7f8Hb4Z0Sx",
+                    "id": "0DCw6lHkzh9t7f8Hb4Z0Sx",
+                    "name": "Arch Enemy",
+                    "type": "artist",
+                    "uri": "spotify:artist:0DCw6lHkzh9t7f8Hb4Z0Sx"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
+            },
+            "href": "https://api.spotify.com/v1/albums/5QeMzsmPiNKqO8mB1hQFRZ",
+            "id": "5QeMzsmPiNKqO8mB1hQFRZ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737c7ae515d7f83ed09feb89a2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027c7ae515d7f83ed09feb89a2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517c7ae515d7f83ed09feb89a2",
+                    "width": 64
+                }
+            ],
+            "name": "Wages of Sin",
+            "release_date": "2002-09-16",
+            "release_date_precision": "day",
+            "total_tracks": 19,
+            "type": "album",
+            "uri": "spotify:album:5QeMzsmPiNKqO8mB1hQFRZ"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+                },
+                "href": "https://api.spotify.com/v1/artists/0DCw6lHkzh9t7f8Hb4Z0Sx",
+                "id": "0DCw6lHkzh9t7f8Hb4Z0Sx",
+                "name": "Arch Enemy",
+                "type": "artist",
+                "uri": "spotify:artist:0DCw6lHkzh9t7f8Hb4Z0Sx"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 245333,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40408304"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5oyCIQWuSgFB25yA66AIcG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5oyCIQWuSgFB25yA66AIcG",
+        "id": "5oyCIQWuSgFB25yA66AIcG",
+        "is_local": false,
+        "name": "Ravenous",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/fb21223fe16309758e77600dc00bd93c02f685ef?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5oyCIQWuSgFB25yA66AIcG"
+    }
+}

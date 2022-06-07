@@ -1,0 +1,281 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Fire will guide us on perilous seas",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Light in the black the sign that we need",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Charge through the storm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Swords in our hands",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Leave it to fate or fear takes command",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Into the fray",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We die and we slay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our home up above",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The hall of the brave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are warriors - defenders of steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fight through the wars, hunger and need",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Warriors - defenders of steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burn our way to Odin's hall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From all battlefields",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bravery, loyalty bound by the oath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sworn to protect so far from our home",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Guarding a throne, an emperor's reign",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Honour is all to the god of the slain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Into the fray",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We die and we slay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our home up above",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The hall of the brave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are warriors - defenders of steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fight through the wars, hunger we feed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Warriors - defenders of steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burn our way to Odin's hall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From all battlefields",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Into the fray",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We die and we slay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our home up above",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The hall of the brave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are warriors - defenders of steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fight through all wars, hunger we feed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Warriors - defenders of steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burn our way to Odin's hall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From all battlefields",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burn our way to Odin's hall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "61442327",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7GTkjp7qsfmx8iJzBUQLmN",
+                    "id": "7GTkjp7qsfmx8iJzBUQLmN",
+                    "name": "Grand Magus",
+                    "type": "artist",
+                    "uri": "spotify:artist:7GTkjp7qsfmx8iJzBUQLmN"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5makQymk0a2ZZtpk8y06gv"
+            },
+            "href": "https://api.spotify.com/v1/albums/5makQymk0a2ZZtpk8y06gv",
+            "id": "5makQymk0a2ZZtpk8y06gv",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273868eed02f96b4be217ba2ecc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02868eed02f96b4be217ba2ecc",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851868eed02f96b4be217ba2ecc",
+                    "width": 64
+                }
+            ],
+            "name": "Sword Songs",
+            "release_date": "2016-05-13",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:5makQymk0a2ZZtpk8y06gv"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7GTkjp7qsfmx8iJzBUQLmN"
+                },
+                "href": "https://api.spotify.com/v1/artists/7GTkjp7qsfmx8iJzBUQLmN",
+                "id": "7GTkjp7qsfmx8iJzBUQLmN",
+                "name": "Grand Magus",
+                "type": "artist",
+                "uri": "spotify:artist:7GTkjp7qsfmx8iJzBUQLmN"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 221493,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED831600242"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0QMNnrnd9VscBaSSHXN6W2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0QMNnrnd9VscBaSSHXN6W2",
+        "id": "0QMNnrnd9VscBaSSHXN6W2",
+        "is_local": false,
+        "name": "Varangian",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/c08917ef5ba7072eaff2098eabddb207769bc845?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0QMNnrnd9VscBaSSHXN6W2"
+    }
+}

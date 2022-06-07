@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Tell me, remind me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chase the water racing from the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Always beside me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Taste the memories running from my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nervous flashlights scan my dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Liquid shadows silence their screams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I smile at the moon, chasing water from the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I argue with the clouds, stealing beauty from my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Outside the soundness of your mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bathing your soul in silver tears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beneath a blackened summer sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Praying for time to disappear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beneath a summer sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Under glass moonlight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Night awaits the lamb's arrival",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Liquid shadows crawl",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Silver teardrops fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The bride subsides to her survival",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "By your hand I've awakened",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bear this honor in my name",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Outside the soundness of your mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bathing your soul in silver tears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beneath a blackened summer sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Praying for time to disappear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Outside the soundness of your mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bathing your soul in silver tears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beneath a blackened summer sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Praying for time to disappear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "3479344",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2aaLAng2L2aWD2FClzwiep",
+                    "id": "2aaLAng2L2aWD2FClzwiep",
+                    "name": "Dream Theater",
+                    "type": "artist",
+                    "uri": "spotify:artist:2aaLAng2L2aWD2FClzwiep"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
+            },
+            "href": "https://api.spotify.com/v1/albums/2QgGoL5VSQhPHudTObS7zK",
+            "id": "2QgGoL5VSQhPHudTObS7zK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f4d11b78efa76496f2acd618",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f4d11b78efa76496f2acd618",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f4d11b78efa76496f2acd618",
+                    "width": 64
+                }
+            ],
+            "name": "Images and Words",
+            "release_date": "1992-06-30",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:2QgGoL5VSQhPHudTObS7zK"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+                },
+                "href": "https://api.spotify.com/v1/artists/2aaLAng2L2aWD2FClzwiep",
+                "id": "2aaLAng2L2aWD2FClzwiep",
+                "name": "Dream Theater",
+                "type": "artist",
+                "uri": "spotify:artist:2aaLAng2L2aWD2FClzwiep"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 423240,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USEE10180256"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2bBAAVvOHsr7vxWFTuYxH8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2bBAAVvOHsr7vxWFTuYxH8",
+        "id": "2bBAAVvOHsr7vxWFTuYxH8",
+        "is_local": false,
+        "name": "Under a Glass Moon",
+        "popularity": 48,
+        "preview_url": "https://p.scdn.co/mp3-preview/f41de94c7cb463e2ac14384ed06ccbbb9f0f1cf6?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2bBAAVvOHsr7vxWFTuYxH8"
+    }
+}

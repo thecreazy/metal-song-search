@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "One day I saw a man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dressed in rags, with a staff in his hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Begging for a penny to survive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "How poor a man can be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I gave him hospitality",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A room, a bed and lots of food to eat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Still I hear his last few words",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"I can never return what you've done",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heaven will remember and repay\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fifty years had gone since I saw him",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I was dying and I'd soon be dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Three angels stood in front of me bed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The first one she said to me, don't be afraid",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will give you immortality, and grace for your soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The second had eyes of gold, she gave me my wings",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The third gave all wisdom, and angel could give",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One day I saw a man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dressed in rags, with a staff in his hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Begging for a penny to survive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "How poor a man can be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I gave him hospitality",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A room, a bed and lots of food to eat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I joined with my destiny, eternally",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I knew I was born again, an angel to be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A vision beyond my dreams, called me by name",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So in devotion I spread my wings, to heaven I had came",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To stay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "559197",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7zDtfSB0AOZWhpuAHZIOw5",
+                    "id": "7zDtfSB0AOZWhpuAHZIOw5",
+                    "name": "Candlemass",
+                    "type": "artist",
+                    "uri": "spotify:artist:7zDtfSB0AOZWhpuAHZIOw5"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5y8FM8jR8VZZnn5JqYNB8X"
+            },
+            "href": "https://api.spotify.com/v1/albums/5y8FM8jR8VZZnn5JqYNB8X",
+            "id": "5y8FM8jR8VZZnn5JqYNB8X",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737d21336541d1a6138412cd6b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027d21336541d1a6138412cd6b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517d21336541d1a6138412cd6b",
+                    "width": 64
+                }
+            ],
+            "name": "Nightfall",
+            "release_date": "1987",
+            "release_date_precision": "year",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:5y8FM8jR8VZZnn5JqYNB8X"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5"
+                },
+                "href": "https://api.spotify.com/v1/artists/7zDtfSB0AOZWhpuAHZIOw5",
+                "id": "7zDtfSB0AOZWhpuAHZIOw5",
+                "name": "Candlemass",
+                "type": "artist",
+                "uri": "spotify:artist:7zDtfSB0AOZWhpuAHZIOw5"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 329706,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCQV0700961"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2qnQQ6Y03msuPO2fsQTqXl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2qnQQ6Y03msuPO2fsQTqXl",
+        "id": "2qnQQ6Y03msuPO2fsQTqXl",
+        "is_local": false,
+        "name": "Samarithan",
+        "popularity": 30,
+        "preview_url": "https://p.scdn.co/mp3-preview/aa11664d0d3d6d3d4d8e17b2071729597077c688?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2qnQQ6Y03msuPO2fsQTqXl"
+    }
+}

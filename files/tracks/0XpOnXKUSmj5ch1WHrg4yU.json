@@ -1,0 +1,171 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Man was not created for hate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deceitful minds plotting revenge",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are cast with eternal fate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Share your love",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Life is short, sometimes hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Empty hearts full with sin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are doomed the message will tell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Share your love",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wicked man, find peace of mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wicked man, find love for mankind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "War & sin, will never win",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Peace & love, will rise us up above",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Life or death, depends upon oneself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heaven and hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wicked man, find peace of mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wicked man, find love for mankind.",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "555384",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0eayuW5zGMgvXCEmcP7ivq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0eayuW5zGMgvXCEmcP7ivq",
+                    "id": "0eayuW5zGMgvXCEmcP7ivq",
+                    "name": "Trouble",
+                    "type": "artist",
+                    "uri": "spotify:artist:0eayuW5zGMgvXCEmcP7ivq"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5pNou3ob5hr0EDx04i5QX9"
+            },
+            "href": "https://api.spotify.com/v1/albums/5pNou3ob5hr0EDx04i5QX9",
+            "id": "5pNou3ob5hr0EDx04i5QX9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736f08d963a6b8dbdae77480ed",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026f08d963a6b8dbdae77480ed",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516f08d963a6b8dbdae77480ed",
+                    "width": 64
+                }
+            ],
+            "name": "Trouble Live Bootleg 1983",
+            "release_date": "1983-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:5pNou3ob5hr0EDx04i5QX9"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0eayuW5zGMgvXCEmcP7ivq"
+                },
+                "href": "https://api.spotify.com/v1/artists/0eayuW5zGMgvXCEmcP7ivq",
+                "id": "0eayuW5zGMgvXCEmcP7ivq",
+                "name": "Trouble",
+                "type": "artist",
+                "uri": "spotify:artist:0eayuW5zGMgvXCEmcP7ivq"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 378693,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "ushm20932542"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0XpOnXKUSmj5ch1WHrg4yU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0XpOnXKUSmj5ch1WHrg4yU",
+        "id": "0XpOnXKUSmj5ch1WHrg4yU",
+        "is_local": false,
+        "name": "Wickedness of Man",
+        "popularity": 0,
+        "preview_url": "https://p.scdn.co/mp3-preview/20895eb884616ee0eacbac043c2c1377c222d6ce?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:0XpOnXKUSmj5ch1WHrg4yU"
+    }
+}

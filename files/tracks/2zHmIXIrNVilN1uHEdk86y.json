@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "See the plains lie ghastly silent as being frozen in time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A place of distress where evil still lies vigilant enshrined",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Years that passed are now centuries and forgotten seem the",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fallen ones",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But on lived the memories in the spirits of a battle sons",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Chorus:)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hear the choirs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is it the wind that brought back their cries?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Once forged in blood by tragedy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sharp were the thorns of crimson death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through the air again our voices whisper",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And awake are now your eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For too long closed in slumber - but death didn't prove our",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Demise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "By ages so dark we've been sculptured",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As fragments of story and tales",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As we haunt we are endlessly captured",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And shrouded in the wind that here wails",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Chorus:)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hear the choirs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is it the wind that brought back their cries?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forged in blood by tragedy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dark were the thorns of crimson death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "By ages so dark we've been sculptured",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As fragments of story and tales",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "By the place that we haunt we are captured - Against",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eternity we can prevail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Chorus:)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hear the choirs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is it the wind that brought back their cries?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forged in blood by tragedy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dark were the thorns of crimson death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "662157",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qpmcQfxhmNxNMCJUrpHwe",
+                    "id": "6qpmcQfxhmNxNMCJUrpHwe",
+                    "name": "Dissection",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qpmcQfxhmNxNMCJUrpHwe"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/53SQ2o1qhlROv08DBmRRL6"
+            },
+            "href": "https://api.spotify.com/v1/albums/53SQ2o1qhlROv08DBmRRL6",
+            "id": "53SQ2o1qhlROv08DBmRRL6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27361a6b03b7c80af3721776847",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0261a6b03b7c80af3721776847",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485161a6b03b7c80af3721776847",
+                    "width": 64
+                }
+            ],
+            "name": "Storm Of The Light's Bane",
+            "release_date": "1995-03-30",
+            "release_date_precision": "day",
+            "total_tracks": 23,
+            "type": "album",
+            "uri": "spotify:album:53SQ2o1qhlROv08DBmRRL6"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+                },
+                "href": "https://api.spotify.com/v1/artists/6qpmcQfxhmNxNMCJUrpHwe",
+                "id": "6qpmcQfxhmNxNMCJUrpHwe",
+                "name": "Dissection",
+                "type": "artist",
+                "uri": "spotify:artist:6qpmcQfxhmNxNMCJUrpHwe"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 486653,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USLZJ2167803"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2zHmIXIrNVilN1uHEdk86y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2zHmIXIrNVilN1uHEdk86y",
+        "id": "2zHmIXIrNVilN1uHEdk86y",
+        "is_local": false,
+        "name": "Thorns of Crimson Death",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/797ad0908a52c551d18e382133a0e9d892e8a0a2?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:2zHmIXIrNVilN1uHEdk86y"
+    }
+}

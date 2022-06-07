@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Don't try to take me away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like I can't live without you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Today",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Makin' love tomorrow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Some way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Swooping you're so fragile",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die today",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You disgrace the mortal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fight me lately, tried to someone,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We've been laughin' since you've been gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I want to know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Did you all enjoy the show?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's so sad to see you go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you know!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm home!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alone!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Always on his own!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hangin' low today",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I replace the highway",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Love's the only way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Licking hands the wrong way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So I'd better see you go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's so sad to see you go, I jus' thought I'd let you know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you know!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm home!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alone!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Always on his own!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "582459",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs",
+                    "id": "3HCpwNmFp2rvjkdjTs4uxs",
+                    "name": "Kyuss",
+                    "type": "artist",
+                    "uri": "spotify:artist:3HCpwNmFp2rvjkdjTs4uxs"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
+            },
+            "href": "https://api.spotify.com/v1/albums/2NU3mpjBFtZPUYjjT9pJoq",
+            "id": "2NU3mpjBFtZPUYjjT9pJoq",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733ee0cb43203040fe0cad47ef",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023ee0cb43203040fe0cad47ef",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513ee0cb43203040fe0cad47ef",
+                    "width": 64
+                }
+            ],
+            "name": "Welcome to Sky Valley",
+            "release_date": "1994-06-07",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2NU3mpjBFtZPUYjjT9pJoq"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+                },
+                "href": "https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs",
+                "id": "3HCpwNmFp2rvjkdjTs4uxs",
+                "name": "Kyuss",
+                "type": "artist",
+                "uri": "spotify:artist:3HCpwNmFp2rvjkdjTs4uxs"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 356200,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USEE10301959"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O"
+        },
+        "href": "https://api.spotify.com/v1/tracks/74PX4Sa0tXJDStditawG0O",
+        "id": "74PX4Sa0tXJDStditawG0O",
+        "is_local": false,
+        "name": "Supa Scoopa and Mighty Scoop",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/4f799bf5939481595e6b674ca1f462181600d811?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:74PX4Sa0tXJDStditawG0O"
+    }
+}

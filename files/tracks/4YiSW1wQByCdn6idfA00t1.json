@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Dressed in black",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Satan's bride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No turning back",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She'll bear his child",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Devil's bride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Devil's bride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Devil's nod",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Initiate her",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thirteen candles",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Upon the altar",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Devil's bride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Devil's bride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The chanting grows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The time is near",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lucifer's consort",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She shows no fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Devil's bride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Devil's bride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "713603",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4htjQW3lgIwL6fEJlTOez4",
+                    "id": "4htjQW3lgIwL6fEJlTOez4",
+                    "name": "Electric Wizard",
+                    "type": "artist",
+                    "uri": "spotify:artist:4htjQW3lgIwL6fEJlTOez4"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3PY061SfevmtSM4ilpw4V3"
+            },
+            "href": "https://api.spotify.com/v1/albums/3PY061SfevmtSM4ilpw4V3",
+            "id": "3PY061SfevmtSM4ilpw4V3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273da610faa543e5ad32fd8d307",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02da610faa543e5ad32fd8d307",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851da610faa543e5ad32fd8d307",
+                    "width": 64
+                }
+            ],
+            "name": "Electric Wizard(Re-Master)",
+            "release_date": "1994",
+            "release_date_precision": "year",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:3PY061SfevmtSM4ilpw4V3"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
+                },
+                "href": "https://api.spotify.com/v1/artists/4htjQW3lgIwL6fEJlTOez4",
+                "id": "4htjQW3lgIwL6fEJlTOez4",
+                "name": "Electric Wizard",
+                "type": "artist",
+                "uri": "spotify:artist:4htjQW3lgIwL6fEJlTOez4"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 395893,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBMLU0607105"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4YiSW1wQByCdn6idfA00t1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4YiSW1wQByCdn6idfA00t1",
+        "id": "4YiSW1wQByCdn6idfA00t1",
+        "is_local": false,
+        "name": "Devil's Bride",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/534d2fd397b442f295386d8922411404b97142ec?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4YiSW1wQByCdn6idfA00t1"
+    }
+}

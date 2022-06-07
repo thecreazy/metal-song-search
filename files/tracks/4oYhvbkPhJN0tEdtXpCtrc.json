@@ -1,0 +1,136 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Our skin worn thin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our bones exposed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Life reduced to ticks",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From forest caves and azure skies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We crashed upon this earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The years, they passed and so did we",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yet, resistance would be brought",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "67586954",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2vsXeWGC8rILp3rpSN2Fyk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2vsXeWGC8rILp3rpSN2Fyk",
+                    "id": "2vsXeWGC8rILp3rpSN2Fyk",
+                    "name": "ISIS",
+                    "type": "artist",
+                    "uri": "spotify:artist:2vsXeWGC8rILp3rpSN2Fyk"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4YVSY6TwnXWH7Jz4olWO1e"
+            },
+            "href": "https://api.spotify.com/v1/albums/4YVSY6TwnXWH7Jz4olWO1e",
+            "id": "4YVSY6TwnXWH7Jz4olWO1e",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b48140642b176311d2e7e641",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b48140642b176311d2e7e641",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b48140642b176311d2e7e641",
+                    "width": 64
+                }
+            ],
+            "name": "Panopticon (Remastered)",
+            "release_date": "2004-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:4YVSY6TwnXWH7Jz4olWO1e"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2vsXeWGC8rILp3rpSN2Fyk"
+                },
+                "href": "https://api.spotify.com/v1/artists/2vsXeWGC8rILp3rpSN2Fyk",
+                "id": "2vsXeWGC8rILp3rpSN2Fyk",
+                "name": "ISIS",
+                "type": "artist",
+                "uri": "spotify:artist:2vsXeWGC8rILp3rpSN2Fyk"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 450083,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "QMDA71483993"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4oYhvbkPhJN0tEdtXpCtrc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4oYhvbkPhJN0tEdtXpCtrc",
+        "id": "4oYhvbkPhJN0tEdtXpCtrc",
+        "is_local": false,
+        "name": "So Did We - Remastered",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/e4c3ea16df8aca4139b2cb17e3d0ff5d358b412b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4oYhvbkPhJN0tEdtXpCtrc"
+    }
+}

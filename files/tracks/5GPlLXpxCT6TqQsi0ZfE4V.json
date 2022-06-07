@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "The gallery",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come and dance through my vanity's halls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcome to my exhibition",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ornaments fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The fate of my art, condemned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the creative seed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That grows to the tune of the harvest song",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Embody my lifelong passion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Intertwine with the structures of my art",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Those empty frames staring at me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One lonely portrait covers the lovestarved canvas",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In honour of the birthless rebellion within me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Every picture holds a tale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Every shade tells of a thousand words",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The artistry of living chaos",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is pictured in the poets tears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Because everything burns",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The final concept",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is all but a thought away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Be gone, you foul enchantress of decay!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My thoughts and words will come to right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In my chamber where chaos conveys",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kneel down to my desire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deep in the vaults of my carnal agony",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Emptiness! Orchestration through colours",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The gallery",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To never return to my guidance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burning my art",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1428027",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5EHvXKnNz78jkAVgTQLQ5O",
+                    "id": "5EHvXKnNz78jkAVgTQLQ5O",
+                    "name": "Dark Tranquillity",
+                    "type": "artist",
+                    "uri": "spotify:artist:5EHvXKnNz78jkAVgTQLQ5O"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/58WnUuiYvglPVvlCAMsi3A"
+            },
+            "href": "https://api.spotify.com/v1/albums/58WnUuiYvglPVvlCAMsi3A",
+            "id": "58WnUuiYvglPVvlCAMsi3A",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273834c652f53bee8463c379b4d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02834c652f53bee8463c379b4d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851834c652f53bee8463c379b4d",
+                    "width": 64
+                }
+            ],
+            "name": "The Gallery",
+            "release_date": "1995",
+            "release_date_precision": "year",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:58WnUuiYvglPVvlCAMsi3A"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+                },
+                "href": "https://api.spotify.com/v1/artists/5EHvXKnNz78jkAVgTQLQ5O",
+                "id": "5EHvXKnNz78jkAVgTQLQ5O",
+                "name": "Dark Tranquillity",
+                "type": "artist",
+                "uri": "spotify:artist:5EHvXKnNz78jkAVgTQLQ5O"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 247906,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "FR4E69500230"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5GPlLXpxCT6TqQsi0ZfE4V"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5GPlLXpxCT6TqQsi0ZfE4V",
+        "id": "5GPlLXpxCT6TqQsi0ZfE4V",
+        "is_local": false,
+        "name": "The Gallery",
+        "popularity": 30,
+        "preview_url": "https://p.scdn.co/mp3-preview/2a37798518887e0077a36b206b1d4d5c6ebc8586?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5GPlLXpxCT6TqQsi0ZfE4V"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "\"I have heared your voice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now I have no choice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You must face your fatal end\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What is this? I can't believe my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is it trying to hunt, it's bringing me down, bringing me down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Why did I come to this hellish vault",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have heared, they warned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's chasing, raging, killing you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time stands still",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And myself will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Disappear tonight from this world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Soundchaser",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now the beast has come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's coming out to eat me alive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Soundchaser",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is soundchasing, raging, killing you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Eons back in time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This world has been mine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deadly plage from heaven sent\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hush, my dear, the silence saved my life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It won't find us if we hide on the ground, without a sound",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell freeze over! Please, please save my life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Instinctive breed, it is chasing, raging, killing you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time stands still",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And myself will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Disappear tonight from this world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Soundchaser",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now the beast has come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's coming out to eat me alive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Soundchaser",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is soundchasing, raging, killing you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Soundchaser, Soundchaser, now the beast has come alive...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1508352",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5TJVsWPUaJxBxWfVZQEt2x",
+                    "id": "5TJVsWPUaJxBxWfVZQEt2x",
+                    "name": "Rage",
+                    "type": "artist",
+                    "uri": "spotify:artist:5TJVsWPUaJxBxWfVZQEt2x"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/14VCfG1AEfnBlHWdtJi7au"
+            },
+            "href": "https://api.spotify.com/v1/albums/14VCfG1AEfnBlHWdtJi7au",
+            "id": "14VCfG1AEfnBlHWdtJi7au",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b4ee3fce962c29603615c591",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b4ee3fce962c29603615c591",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b4ee3fce962c29603615c591",
+                    "width": 64
+                }
+            ],
+            "name": "Soundchaser",
+            "release_date": "2003-10-07",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:14VCfG1AEfnBlHWdtJi7au"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x"
+                },
+                "href": "https://api.spotify.com/v1/artists/5TJVsWPUaJxBxWfVZQEt2x",
+                "id": "5TJVsWPUaJxBxWfVZQEt2x",
+                "name": "Rage",
+                "type": "artist",
+                "uri": "spotify:artist:5TJVsWPUaJxBxWfVZQEt2x"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 337253,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEAT71518816"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4sUBVCBGSMPpOprTnDWgdB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4sUBVCBGSMPpOprTnDWgdB",
+        "id": "4sUBVCBGSMPpOprTnDWgdB",
+        "is_local": false,
+        "name": "Soundchaser",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/eb203a59e009a437f34e9b84f8b897a87b69e85e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:4sUBVCBGSMPpOprTnDWgdB"
+    }
+}

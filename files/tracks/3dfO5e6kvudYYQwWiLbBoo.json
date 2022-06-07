@@ -1,0 +1,181 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "From the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You see it fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one else",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Left to die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "People screaming",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burn to ash",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fear of dieing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Guess who lost",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pray to live",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No more hope",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Day of doom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scorching flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Radiation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lost control",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bust t owar",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Outbreak hate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "714950",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/09eXH2A1Zi3E7MZJXGg5oG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/09eXH2A1Zi3E7MZJXGg5oG",
+                    "id": "09eXH2A1Zi3E7MZJXGg5oG",
+                    "name": "Terrorizer",
+                    "type": "artist",
+                    "uri": "spotify:artist:09eXH2A1Zi3E7MZJXGg5oG"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1OAUXcUtKiPdDtftxbjGV2"
+            },
+            "href": "https://api.spotify.com/v1/albums/1OAUXcUtKiPdDtftxbjGV2",
+            "id": "1OAUXcUtKiPdDtftxbjGV2",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733016bdf067e898a1050f9702",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023016bdf067e898a1050f9702",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513016bdf067e898a1050f9702",
+                    "width": 64
+                }
+            ],
+            "name": "World Downfall",
+            "release_date": "1989",
+            "release_date_precision": "year",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:1OAUXcUtKiPdDtftxbjGV2"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/09eXH2A1Zi3E7MZJXGg5oG"
+                },
+                "href": "https://api.spotify.com/v1/artists/09eXH2A1Zi3E7MZJXGg5oG",
+                "id": "09eXH2A1Zi3E7MZJXGg5oG",
+                "name": "Terrorizer",
+                "type": "artist",
+                "uri": "spotify:artist:09eXH2A1Zi3E7MZJXGg5oG"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 181400,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBPB0400808"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3dfO5e6kvudYYQwWiLbBoo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3dfO5e6kvudYYQwWiLbBoo",
+        "id": "3dfO5e6kvudYYQwWiLbBoo",
+        "is_local": false,
+        "name": "Fear Of Napalm",
+        "popularity": 36,
+        "preview_url": "https://p.scdn.co/mp3-preview/3d1b981a03906858313ad0c8499ed14a7b2f6efd?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3dfO5e6kvudYYQwWiLbBoo"
+    }
+}

@@ -1,0 +1,286 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I'm standing here in silence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This graceful place of peace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Watching the shadows come closer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The birds they sing no longer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The winds they blow no more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With fear of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm waiting for the night to fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The sun will set forever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One after one the stars they die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The rainbow has turned to black",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Darkness has fallen in paradise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Love is lost in memories",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All beauty and all light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Have vanished from the",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Garden of delight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Devil and his gift",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The heart he stole away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But innocence was lost long before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The morning will come no more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our dreams are all gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Midnight has come to stay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Darkness has fallen in paradise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh father please forgive us",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forgive us all our sins",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Please bring your light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Again to lead our way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But my prayers are not answered",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They fade out to die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And so does the last gleam of hope",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The morning will come no more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our dreams are all gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Midnight has come to stay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Darkness has fallen in paradise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know my death is near",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Far beyond my dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My fate is waiting",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To show me the light... I believe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Darkness is fallen in paradise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "559136",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7zDtfSB0AOZWhpuAHZIOw5",
+                    "id": "7zDtfSB0AOZWhpuAHZIOw5",
+                    "name": "Candlemass",
+                    "type": "artist",
+                    "uri": "spotify:artist:7zDtfSB0AOZWhpuAHZIOw5"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0JQVjLJnSVysbMNGgGk0wA"
+            },
+            "href": "https://api.spotify.com/v1/albums/0JQVjLJnSVysbMNGgGk0wA",
+            "id": "0JQVjLJnSVysbMNGgGk0wA",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27353ee5a02a5064aff7b456837",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0253ee5a02a5064aff7b456837",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485153ee5a02a5064aff7b456837",
+                    "width": 64
+                }
+            ],
+            "name": "Ancient Dreams",
+            "release_date": "1988",
+            "release_date_precision": "year",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:0JQVjLJnSVysbMNGgGk0wA"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5"
+                },
+                "href": "https://api.spotify.com/v1/artists/7zDtfSB0AOZWhpuAHZIOw5",
+                "id": "7zDtfSB0AOZWhpuAHZIOw5",
+                "name": "Candlemass",
+                "type": "artist",
+                "uri": "spotify:artist:7zDtfSB0AOZWhpuAHZIOw5"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 407040,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCQV0701017"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2pLALK5vrqTzYVtZYyYqEj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2pLALK5vrqTzYVtZYyYqEj",
+        "id": "2pLALK5vrqTzYVtZYyYqEj",
+        "is_local": false,
+        "name": "Darkness In Paradise",
+        "popularity": 22,
+        "preview_url": "https://p.scdn.co/mp3-preview/d1120ba33bb6e33d9446eda247f78aca44b5fd6d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2pLALK5vrqTzYVtZYyYqEj"
+    }
+}

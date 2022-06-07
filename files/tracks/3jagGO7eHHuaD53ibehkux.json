@@ -1,0 +1,261 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I think that someone is trying to kill me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Infecting my body destroying my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No man of the flesh could ever stop me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The fight for this fish is a fight to the death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "White whale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Holy grail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "White whale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Holy grail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What remorseless emperor commands me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I no longer govern my soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am completly immersed in darkness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As I turn my body away from the Sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "White whale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Holy grail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "White whale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Holy grail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Split your lungs with blood and thunder",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When you see the white whale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Break your backs and crack your oars, men",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If you wish to prevail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This ivory leg is what propels me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Harpoons thrust in the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Aim directly for his crooked brow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And look him straight in the eye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "White whale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Holy grail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "White whale",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Holy grail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1968818",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Dvfqq39HxvCJ3GvfeIFuT",
+                    "id": "1Dvfqq39HxvCJ3GvfeIFuT",
+                    "name": "Mastodon",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b"
+            },
+            "href": "https://api.spotify.com/v1/albums/6khFoLWnJZDQvZ7Pijym3b",
+            "id": "6khFoLWnJZDQvZ7Pijym3b",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27300388d66c87c2c0033849bfd",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0200388d66c87c2c0033849bfd",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485100388d66c87c2c0033849bfd",
+                    "width": 64
+                }
+            ],
+            "name": "Leviathan",
+            "release_date": "2004-08-31",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:6khFoLWnJZDQvZ7Pijym3b"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+                },
+                "href": "https://api.spotify.com/v1/artists/1Dvfqq39HxvCJ3GvfeIFuT",
+                "id": "1Dvfqq39HxvCJ3GvfeIFuT",
+                "name": "Mastodon",
+                "type": "artist",
+                "uri": "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 228586,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US2640462201"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3jagGO7eHHuaD53ibehkux",
+        "id": "3jagGO7eHHuaD53ibehkux",
+        "is_local": false,
+        "name": "Blood and Thunder",
+        "popularity": 62,
+        "preview_url": "https://p.scdn.co/mp3-preview/d20b3e69cc81b5a7f35f25fcc52c0b48402b8c41?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3jagGO7eHHuaD53ibehkux"
+    }
+}

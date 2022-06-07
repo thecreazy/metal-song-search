@@ -1,0 +1,226 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Riding in darkness through the Hell of the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give all your torment to the heaven's might",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the name of Satan, spread all your fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You feel his anger, you know he's here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Casting a spell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lord of all Hells",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ripping the angels",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "God has fell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tormentor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tormentor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tormentor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baphomet's calling, death is now real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell dogs and demons waiting to kill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pentagrams shining, Lucifer smiles",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fucking the virgin, rip out her eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Drinking the blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fear no God",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now you are dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your flesh is dot rot",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tormentor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tormentor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tormentor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tormentor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tormentor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tormentor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "580839",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3BM0EaYmkKWuPmmHFUTQHv",
+                    "id": "3BM0EaYmkKWuPmmHFUTQHv",
+                    "name": "Kreator",
+                    "type": "artist",
+                    "uri": "spotify:artist:3BM0EaYmkKWuPmmHFUTQHv"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/69ighkeqotAHlq4tchzIXv"
+            },
+            "href": "https://api.spotify.com/v1/albums/69ighkeqotAHlq4tchzIXv",
+            "id": "69ighkeqotAHlq4tchzIXv",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734411e45776efd0e329170abf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024411e45776efd0e329170abf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514411e45776efd0e329170abf",
+                    "width": 64
+                }
+            ],
+            "name": "Endless Pain",
+            "release_date": "1985",
+            "release_date_precision": "year",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:69ighkeqotAHlq4tchzIXv"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+                },
+                "href": "https://api.spotify.com/v1/artists/3BM0EaYmkKWuPmmHFUTQHv",
+                "id": "3BM0EaYmkKWuPmmHFUTQHv",
+                "name": "Kreator",
+                "type": "artist",
+                "uri": "spotify:artist:3BM0EaYmkKWuPmmHFUTQHv"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 174000,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "GBAJE8500261"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5JJxjyT9airtfDCFYgheIW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5JJxjyT9airtfDCFYgheIW",
+        "id": "5JJxjyT9airtfDCFYgheIW",
+        "is_local": false,
+        "name": "Tormentor",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/bfafdd5fafdf70a0a71ace8cc8b055b747cba5bf?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5JJxjyT9airtfDCFYgheIW"
+    }
+}

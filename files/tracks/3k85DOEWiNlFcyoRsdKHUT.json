@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Icaros, I dare you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For I possess the wings of faith",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Though, heavy on my shoulders",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(No measurement can prove their weight)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Still, a burden are they not to me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am the challenger of gravity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The fear is not the fate I seek",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My destiny will build upon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The mighty turbulence beyond",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If I fall I will rise again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Some of envy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Some of fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Admonish by the graves of those who fell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Praise the fool that pure of heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Leaps off your finger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Into grace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Icaros, your voice once melted",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Into the choir of the fallen ones",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have heard, I have seen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The purity of their song",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Icaros, Icaros",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Icaros!!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Icaros",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You fate embrace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A manifold of angels",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I summon thee",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From shattered graves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And call upon the wind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Receive my bow of reverence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then spread your wings",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And fly into oblivion",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1428616",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6jPWrSmxOd9mj7Xaj4EP2Y",
+                    "id": "6jPWrSmxOd9mj7Xaj4EP2Y",
+                    "name": "Emperor",
+                    "type": "artist",
+                    "uri": "spotify:artist:6jPWrSmxOd9mj7Xaj4EP2Y"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6FNTZn4oZT92NcbRml5Cec"
+            },
+            "href": "https://api.spotify.com/v1/albums/6FNTZn4oZT92NcbRml5Cec",
+            "id": "6FNTZn4oZT92NcbRml5Cec",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c650fdf837082c841b294056",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c650fdf837082c841b294056",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c650fdf837082c841b294056",
+                    "width": 64
+                }
+            ],
+            "name": "IX Equilibrium",
+            "release_date": "1999-02-22",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:6FNTZn4oZT92NcbRml5Cec"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y"
+                },
+                "href": "https://api.spotify.com/v1/artists/6jPWrSmxOd9mj7Xaj4EP2Y",
+                "id": "6jPWrSmxOd9mj7Xaj4EP2Y",
+                "name": "Emperor",
+                "type": "artist",
+                "uri": "spotify:artist:6jPWrSmxOd9mj7Xaj4EP2Y"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 399866,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBADD0403503"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3k85DOEWiNlFcyoRsdKHUT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3k85DOEWiNlFcyoRsdKHUT",
+        "id": "3k85DOEWiNlFcyoRsdKHUT",
+        "is_local": false,
+        "name": "An Elegy Of Icaros",
+        "popularity": 23,
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3k85DOEWiNlFcyoRsdKHUT"
+    }
+}

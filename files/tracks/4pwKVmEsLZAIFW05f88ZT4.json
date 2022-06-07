@@ -1,0 +1,186 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Life in a world untold question the unknown",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This prison captures me my cell is all I know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I thought I knew it all stuborn in my ways",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My sentence has begun my futures what I waste",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Next chapter of my life is filled with violent scenes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I stay awake at night hiding from my dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The voices haunting me driving me insane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't seem to get away there calling out my name",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel that I am slipping, are they out to get me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My life is upside down, more than meets the eye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For now I am in control choosing my own fate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And now I sleep at night because I'm not affraid",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My demons haunting me I chased them all away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've conquered all my fears my destiny awaits",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm no longer slipping, I'm not slipping away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one is out to get me, no one will get in my way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No longer upside down, I've turned my life around",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "More than meets the eye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "791585",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/28hJdGN1Awf7u3ifk2lVkg",
+                    "id": "28hJdGN1Awf7u3ifk2lVkg",
+                    "name": "Testament",
+                    "type": "artist",
+                    "uri": "spotify:artist:28hJdGN1Awf7u3ifk2lVkg"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5jTrbs0ea9De2sg0xrYzMK"
+            },
+            "href": "https://api.spotify.com/v1/albums/5jTrbs0ea9De2sg0xrYzMK",
+            "id": "5jTrbs0ea9De2sg0xrYzMK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736d6ff77fa88bc76062f6c02e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026d6ff77fa88bc76062f6c02e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516d6ff77fa88bc76062f6c02e",
+                    "width": 64
+                }
+            ],
+            "name": "The Formation of Damnation",
+            "release_date": "2008-04-25",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:5jTrbs0ea9De2sg0xrYzMK"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+                },
+                "href": "https://api.spotify.com/v1/artists/28hJdGN1Awf7u3ifk2lVkg",
+                "id": "28hJdGN1Awf7u3ifk2lVkg",
+                "name": "Testament",
+                "type": "artist",
+                "uri": "spotify:artist:28hJdGN1Awf7u3ifk2lVkg"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 273226,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED830800082"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4pwKVmEsLZAIFW05f88ZT4"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4pwKVmEsLZAIFW05f88ZT4",
+        "id": "4pwKVmEsLZAIFW05f88ZT4",
+        "is_local": false,
+        "name": "More Than Meets the Eye",
+        "popularity": 52,
+        "preview_url": "https://p.scdn.co/mp3-preview/2a4f2c38642257df08c7b4061182eed0821451eb?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4pwKVmEsLZAIFW05f88ZT4"
+    }
+}

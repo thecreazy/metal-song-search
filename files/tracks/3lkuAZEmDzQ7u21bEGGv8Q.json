@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "How do you feel anything at all?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Do you hear steps at the door?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Do you reckon the smell of this life, the dark that binds you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frigthened by your own smell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bitterness will run you through",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Silent screaming, turning, twisting the alphabet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frantic eyes, awaiting the answer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Splinters of a poem, fragments of what you used to be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Habitual and gullible, run-down memoirs is all that's left",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Do you wish to sleep? Do you aim for the shadow?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Do you feel all infected? This life, the dark that binds you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frigthened by your own smell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bitterness will run you through",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Silent screaming, turning, twisting the alphabet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frantic eyes, awaiting the answer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Splinters of a poem, fragments of what you used to be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Habitual and gullible, run-down memoirs is all that's left",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's the cowardice that pulls you under (under)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And takes you to the end, where it begins (begins)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Release, the world is waiting your arrival",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Close your eyes, as we witness another bullet ride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Do you know about atrocity? Do you know that everbody's gone?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Do you know that you're on your own? This life, the dark that binds you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frigthened by your own smell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bitterness will run you through",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Silent screaming, turning, twisting the alphabet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frantic eyes, awaiting the answer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Splinters of a poem, fragments of what you used to be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Habitual and gullible, run-down memoirs is all that's left",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "862694",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/57ylwQTnFnIhJh4nu4rxCs",
+                    "id": "57ylwQTnFnIhJh4nu4rxCs",
+                    "name": "In Flames",
+                    "type": "artist",
+                    "uri": "spotify:artist:57ylwQTnFnIhJh4nu4rxCs"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1hVhTWO9hlpPr7T8ORczRd"
+            },
+            "href": "https://api.spotify.com/v1/albums/1hVhTWO9hlpPr7T8ORczRd",
+            "id": "1hVhTWO9hlpPr7T8ORczRd",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27341ae9b691f3c18957c8fcdb1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0241ae9b691f3c18957c8fcdb1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485141ae9b691f3c18957c8fcdb1",
+                    "width": 64
+                }
+            ],
+            "name": "Clayman",
+            "release_date": "2000-07-03",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:1hVhTWO9hlpPr7T8ORczRd"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+                },
+                "href": "https://api.spotify.com/v1/artists/57ylwQTnFnIhJh4nu4rxCs",
+                "id": "57ylwQTnFnIhJh4nu4rxCs",
+                "name": "In Flames",
+                "type": "artist",
+                "uri": "spotify:artist:57ylwQTnFnIhJh4nu4rxCs"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 281840,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED830053501"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3lkuAZEmDzQ7u21bEGGv8Q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3lkuAZEmDzQ7u21bEGGv8Q",
+        "id": "3lkuAZEmDzQ7u21bEGGv8Q",
+        "is_local": false,
+        "name": "Bullet Ride",
+        "popularity": 46,
+        "preview_url": "https://p.scdn.co/mp3-preview/e62da6615c278aa65f733c09a41870da63c4073a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3lkuAZEmDzQ7u21bEGGv8Q"
+    }
+}

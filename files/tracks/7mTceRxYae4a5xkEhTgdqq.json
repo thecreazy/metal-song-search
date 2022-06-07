@@ -1,0 +1,321 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "They tore me down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They threw me out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They shot my mouth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They enslaved my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They blocked my way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Holding me back with",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their stupid game",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hand on trigger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Phantom face",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't trust no one",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Always on the run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eyes all over",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never safe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Virus like",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Merciless",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I left the row",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Erased myself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Designed my plan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now I revolt",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I just say no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I do reject",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And don't let it go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I serve the revolution",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In a different way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My thoughts are radical",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I don't hesitate to slay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hand on trigger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Phantom face",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't trust no one",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Always on the run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eyes all over",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never safe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Virus like",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Merciless",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My way is fast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I hit and run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Won't leave no trace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm a sniper",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The signs I set",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are painted",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In deepest red",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I serve the revolution",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In a different way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My thoughts are radical",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I don't hesitate to slay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1223212",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7lfdXL6PuTM5iWJNvI7PPV",
+                    "id": "7lfdXL6PuTM5iWJNvI7PPV",
+                    "name": "Coroner",
+                    "type": "artist",
+                    "uri": "spotify:artist:7lfdXL6PuTM5iWJNvI7PPV"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0qbld4MsN4rUa4uyEm1juQ"
+            },
+            "href": "https://api.spotify.com/v1/albums/0qbld4MsN4rUa4uyEm1juQ",
+            "id": "0qbld4MsN4rUa4uyEm1juQ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27397c8fc16d2dc1410cfa71bcf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0297c8fc16d2dc1410cfa71bcf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485197c8fc16d2dc1410cfa71bcf",
+                    "width": 64
+                }
+            ],
+            "name": "Mental Vortex",
+            "release_date": "1991-08-12",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:0qbld4MsN4rUa4uyEm1juQ"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+                },
+                "href": "https://api.spotify.com/v1/artists/7lfdXL6PuTM5iWJNvI7PPV",
+                "id": "7lfdXL6PuTM5iWJNvI7PPV",
+                "name": "Coroner",
+                "type": "artist",
+                "uri": "spotify:artist:7lfdXL6PuTM5iWJNvI7PPV"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 330986,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE9100187"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7mTceRxYae4a5xkEhTgdqq"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7mTceRxYae4a5xkEhTgdqq",
+        "id": "7mTceRxYae4a5xkEhTgdqq",
+        "is_local": false,
+        "name": "Semtex Revolution",
+        "popularity": 40,
+        "preview_url": "https://p.scdn.co/mp3-preview/acf4c3481ce0dc64717dddbfd65080b4e5d8016e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7mTceRxYae4a5xkEhTgdqq"
+    }
+}

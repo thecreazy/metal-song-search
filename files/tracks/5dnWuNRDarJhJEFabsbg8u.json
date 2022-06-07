@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "This is how the lucky feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "How the blessed think",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like daybreak in spring",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The sun on a spring morning",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like the flat brink of a cloud",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a dark night in autumn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But how do I feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In my gloomy depths?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This is how the lucky feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "How the blessed think",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like daybreak in spring",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like the flat brink of a cloud.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a dark night in autumn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A black winter day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This is how the lucky feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "How the blessed think",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like daybreak in spring",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like the flat brink of a cloud",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a dark night in autumn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A black winter day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This is how the lucky feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "How the blessed think",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like daybreak in spring",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The sun on a spring morning",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like the flat brink of a cloud",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a dark night in autumn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A black winter day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No, darker than that",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gloomier that an autumn night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "586462",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2UOVgpgiNTC6KK0vSC77aD",
+                    "id": "2UOVgpgiNTC6KK0vSC77aD",
+                    "name": "Amorphis",
+                    "type": "artist",
+                    "uri": "spotify:artist:2UOVgpgiNTC6KK0vSC77aD"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/47dOzA0J0mXfwrqQuNBaWy"
+            },
+            "href": "https://api.spotify.com/v1/albums/47dOzA0J0mXfwrqQuNBaWy",
+            "id": "47dOzA0J0mXfwrqQuNBaWy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27328ae3e97d8f87da56891b9af",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0228ae3e97d8f87da56891b9af",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485128ae3e97d8f87da56891b9af",
+                    "width": 64
+                }
+            ],
+            "name": "Tales From The Thousand Lakes",
+            "release_date": "1994-09-11",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:47dOzA0J0mXfwrqQuNBaWy"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
+                },
+                "href": "https://api.spotify.com/v1/artists/2UOVgpgiNTC6KK0vSC77aD",
+                "id": "2UOVgpgiNTC6KK0vSC77aD",
+                "name": "Amorphis",
+                "type": "artist",
+                "uri": "spotify:artist:2UOVgpgiNTC6KK0vSC77aD"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 230893,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US2640771916"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5dnWuNRDarJhJEFabsbg8u"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5dnWuNRDarJhJEFabsbg8u",
+        "id": "5dnWuNRDarJhJEFabsbg8u",
+        "is_local": false,
+        "name": "Black Winter Day",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/8c5e1c718febc6e99feda1693e26003f9a36a466?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5dnWuNRDarJhJEFabsbg8u"
+    }
+}

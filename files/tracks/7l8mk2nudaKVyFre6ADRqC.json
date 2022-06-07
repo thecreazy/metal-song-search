@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "The fog rolls in thin here tonight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And all that is warm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Grows ice cold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All that are strong",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fill with fright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My ship has returned here tonight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Get away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't you touch my precious ship",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Be thankful that you witnessed it at all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chorus",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause you can never understand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My life in space",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our visits here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Have gone untraced for years",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So easy to create",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A shell like you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I must leave now and return",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our presence is unquestionable",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We cannot be seen for this long",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now look at what you've done",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Created such a stir",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If only you had kept yourself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You might have known for sure",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Proof of life in outer space",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our mission is completed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our voyage is ahead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our data is collected",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To mankind it's fed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And deeper and deeper we fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chorus",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2884349",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "compilation",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5kCveMguOc4Bts1fki7aaG"
+            },
+            "href": "https://api.spotify.com/v1/albums/5kCveMguOc4Bts1fki7aaG",
+            "id": "5kCveMguOc4Bts1fki7aaG",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733fc37e632d50dfbc01d01dfc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023fc37e632d50dfbc01d01dfc",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513fc37e632d50dfbc01d01dfc",
+                    "width": 64
+                }
+            ],
+            "name": "Spirit in Black, Chapter Three (Death Metal Edition)",
+            "release_date": "2016",
+            "release_date_precision": "year",
+            "total_tracks": 25,
+            "type": "album",
+            "uri": "spotify:album:5kCveMguOc4Bts1fki7aaG"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5QPy3HBn3AwzLEAQ8QeIo4"
+                },
+                "href": "https://api.spotify.com/v1/artists/5QPy3HBn3AwzLEAQ8QeIo4",
+                "id": "5QPy3HBn3AwzLEAQ8QeIo4",
+                "name": "Atheist",
+                "type": "artist",
+                "uri": "spotify:artist:5QPy3HBn3AwzLEAQ8QeIo4"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 247360,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "FR33T1227802"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7l8mk2nudaKVyFre6ADRqC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7l8mk2nudaKVyFre6ADRqC",
+        "id": "7l8mk2nudaKVyFre6ADRqC",
+        "is_local": false,
+        "name": "Unquestionable Presence",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/9d2cd9aa158736c66022eac9a12c153451e077ad?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 25,
+        "type": "track",
+        "uri": "spotify:track:7l8mk2nudaKVyFre6ADRqC"
+    }
+}

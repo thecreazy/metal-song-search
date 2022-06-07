@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Alright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can U deliver?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm overlooking you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Laying out the question",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Think that you'll pull through",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Do you know what love means?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A push and then a shove",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't put the thought around me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm coming from above yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Me, I'm just a young soul looking",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For a good time tonight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You want it to last forever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't have that in sight no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seems to be the same old story",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You get 'em once and they fall at your knees",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I wish that I would've known better",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Before I played the dirty deed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Not romance to me, it's just the fever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Here's your chance to please",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can U deliver? Can U deliver?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can U deliver? Can U deliver?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's a shame to take your dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And chain them to reality",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't listen anymore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Action is what I need",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Not romance to me it's just the fever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Here's your chance to please",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can U deliver? Can U deliver?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can U deliver? Can U deliver?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can U deliver? Can U deliver?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can U deliver? Can U deliver?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deliver to me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "560158",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4ug41UGuMZzlV2hJOrOqHN",
+                    "id": "4ug41UGuMZzlV2hJOrOqHN",
+                    "name": "Armored Saint",
+                    "type": "artist",
+                    "uri": "spotify:artist:4ug41UGuMZzlV2hJOrOqHN"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0VkxN0pWwuaPeZuLq2aLx1"
+            },
+            "href": "https://api.spotify.com/v1/albums/0VkxN0pWwuaPeZuLq2aLx1",
+            "id": "0VkxN0pWwuaPeZuLq2aLx1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273dd6a9d0a5722e208cb60ff63",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02dd6a9d0a5722e208cb60ff63",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851dd6a9d0a5722e208cb60ff63",
+                    "width": 64
+                }
+            ],
+            "name": "March Of The Saint",
+            "release_date": "1984-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:0VkxN0pWwuaPeZuLq2aLx1"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN"
+                },
+                "href": "https://api.spotify.com/v1/artists/4ug41UGuMZzlV2hJOrOqHN",
+                "id": "4ug41UGuMZzlV2hJOrOqHN",
+                "name": "Armored Saint",
+                "type": "artist",
+                "uri": "spotify:artist:4ug41UGuMZzlV2hJOrOqHN"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 215306,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USCH38400043"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/25kORdST1xzG4WXOnzJCKV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/25kORdST1xzG4WXOnzJCKV",
+        "id": "25kORdST1xzG4WXOnzJCKV",
+        "is_local": false,
+        "name": "Can U Deliver",
+        "popularity": 45,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:25kORdST1xzG4WXOnzJCKV"
+    }
+}

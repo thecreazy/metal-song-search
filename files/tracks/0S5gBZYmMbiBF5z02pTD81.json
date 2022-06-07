@@ -1,0 +1,226 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Saint Vitus was a young lad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one knows how old",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Till the kingdom took his life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For the things he told",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The world is full of wickedness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So Vitus says",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"If you believe in god above,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You will all be saved\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lust can breed corruption",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So wash it from your life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't believe in the government",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let your soul decide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And so the king grew angry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He saw his end in sight.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Young Vitus must be stopped",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The little child must die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Saint Vitus – hear his distant scream",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Saint Vitus – died for his belief",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So if you're breeding wickedness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Keep this in mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vitus' soul is watching you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through the veils of time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Well, people always stay the game",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They never seem to learn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Till they all have lost their faith",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And their souls have burned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2089128",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/64yj4wx5kNH3NTUW0ghyxn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/64yj4wx5kNH3NTUW0ghyxn",
+                    "id": "64yj4wx5kNH3NTUW0ghyxn",
+                    "name": "Saint Vitus",
+                    "type": "artist",
+                    "uri": "spotify:artist:64yj4wx5kNH3NTUW0ghyxn"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3UczOeVR3mGyEwJXSdDuAH"
+            },
+            "href": "https://api.spotify.com/v1/albums/3UczOeVR3mGyEwJXSdDuAH",
+            "id": "3UczOeVR3mGyEwJXSdDuAH",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c7a458e3bf6c8672b430b2f1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c7a458e3bf6c8672b430b2f1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c7a458e3bf6c8672b430b2f1",
+                    "width": 64
+                }
+            ],
+            "name": "Saint Vitus",
+            "release_date": "1984",
+            "release_date_precision": "year",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:3UczOeVR3mGyEwJXSdDuAH"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/64yj4wx5kNH3NTUW0ghyxn"
+                },
+                "href": "https://api.spotify.com/v1/artists/64yj4wx5kNH3NTUW0ghyxn",
+                "id": "64yj4wx5kNH3NTUW0ghyxn",
+                "name": "Saint Vitus",
+                "type": "artist",
+                "uri": "spotify:artist:64yj4wx5kNH3NTUW0ghyxn"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 289367,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USA371392898"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0S5gBZYmMbiBF5z02pTD81"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0S5gBZYmMbiBF5z02pTD81",
+        "id": "0S5gBZYmMbiBF5z02pTD81",
+        "is_local": false,
+        "name": "Saint Vitus",
+        "popularity": 27,
+        "preview_url": "https://p.scdn.co/mp3-preview/59324f782dc3a170fbae65a0dfba1b84c777a2c8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0S5gBZYmMbiBF5z02pTD81"
+    }
+}

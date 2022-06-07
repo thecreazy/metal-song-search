@@ -1,0 +1,206 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I shall redeem myself from",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The clutches that grasp at my inner self",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No tomorrow will ease my oppression",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My streak of hate leads my way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look at me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My feelings turn stronger than hate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can't decide on which way to turn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My choices are few and far between",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look at me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My feelings turn stronger than hate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can't decide on which way to turn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My choices are few and far between",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A lifetime of remorse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's no place that I've never been",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I stand above their remains",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My vengeance I have regained",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't know what lies on the floor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I won't be locked anymore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Standing here I've lost all faith",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have no social equality",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To live again would be a lie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My life is not worth the pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "307652",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6JW8wliOEwaDZ231ZY7cf4",
+                    "id": "6JW8wliOEwaDZ231ZY7cf4",
+                    "name": "Sepultura",
+                    "type": "artist",
+                    "uri": "spotify:artist:6JW8wliOEwaDZ231ZY7cf4"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+            },
+            "href": "https://api.spotify.com/v1/albums/3BDZvMYxZ6E8IuSQL2ew6Z",
+            "id": "3BDZvMYxZ6E8IuSQL2ew6Z",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27317db2369086bf97cbe5e44b1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0217db2369086bf97cbe5e44b1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485117db2369086bf97cbe5e44b1",
+                    "width": 64
+                }
+            ],
+            "name": "Beneath the Remains",
+            "release_date": "1989-04-07",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:3BDZvMYxZ6E8IuSQL2ew6Z"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+                },
+                "href": "https://api.spotify.com/v1/artists/6JW8wliOEwaDZ231ZY7cf4",
+                "id": "6JW8wliOEwaDZ231ZY7cf4",
+                "name": "Sepultura",
+                "type": "artist",
+                "uri": "spotify:artist:6JW8wliOEwaDZ231ZY7cf4"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 353026,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329780627"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1FkfCx7T5GUW3yudMyyFM5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1FkfCx7T5GUW3yudMyyFM5",
+        "id": "1FkfCx7T5GUW3yudMyyFM5",
+        "is_local": false,
+        "name": "Stronger Than Hate",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/74f9491a0242d4dfdc9f82a3e90262b947212367?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1FkfCx7T5GUW3yudMyyFM5"
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Long ago I wandered through my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the land of fairy tales and stories",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lost in happiness I had no fears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Innocence and love was all I knew",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Was it illusion?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Soon the days went passing into years",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Happiness just didn't come so easy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Life was born of fairy tales and daydreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Innocence was just another word",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Was it illusion?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lost in the wheels of confusion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Running through furnace of tears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eyes full of angered illusion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hiding in every tears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So I found that life is just a game",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But you know there's never been a winner",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Try your hardest, just to be a loser",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The world will still be turning when you're gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yeah when you're gone!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "25937676",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                    "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                    "name": "Black Sabbath",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
+            },
+            "href": "https://api.spotify.com/v1/albums/3iRW4cZOM90lX9Rtc2Qglh",
+            "id": "3iRW4cZOM90lX9Rtc2Qglh",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d198e0a1a43c010afb480b3b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d198e0a1a43c010afb480b3b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d198e0a1a43c010afb480b3b",
+                    "width": 64
+                }
+            ],
+            "name": "Vol. 4 (2009 Remastered Version)",
+            "release_date": "1972-09-25",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:3iRW4cZOM90lX9Rtc2Qglh"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                "name": "Black Sabbath",
+                "type": "artist",
+                "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 468920,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE7200128"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1czmbPIdJpwT32OxaeLAyp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1czmbPIdJpwT32OxaeLAyp",
+        "id": "1czmbPIdJpwT32OxaeLAyp",
+        "is_local": false,
+        "name": "Wheels of Confusion",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/2f2779126977826bf5a7cc72c9eff443170a9346?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1czmbPIdJpwT32OxaeLAyp"
+    }
+}

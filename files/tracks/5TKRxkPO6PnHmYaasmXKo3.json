@@ -1,0 +1,281 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "You've been in back of me (yeah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feeling sent to me (yeah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm tired of the word",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When my back ain't around here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No more you and me (yeah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No more listening (yeah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tired of your word",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All your words are so backwards",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Being as lost as can be (yeah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Touch of purity (yeah)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If you're gonna go now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Well I wanna go with you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Uh, oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Uh, oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh yeah, you're a fucked up man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With a fucked up plan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh yeah, you're a fucked up man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With a fucked up plan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh yeah, you're a fucked up man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With a fucked up plan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh yeah, oh yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Did I say too much?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You didn't want me to hear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Did I say too much?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I didn't want me to see here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Did I hate too much?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm not sure I should leave here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Did I hate too much?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm thinking someone should bleed here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Why the finger? it's all right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Me and you could, it's all right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Straighten me out, it's all right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Guiding light, it's all right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There you go, it's all right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wait up and turn me in, it's all right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Help you out man, it's all right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Help me in, I just might",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "582456",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs",
+                    "id": "3HCpwNmFp2rvjkdjTs4uxs",
+                    "name": "Kyuss",
+                    "type": "artist",
+                    "uri": "spotify:artist:3HCpwNmFp2rvjkdjTs4uxs"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6O5lhr0v3ci9fMEIK5g5a9"
+            },
+            "href": "https://api.spotify.com/v1/albums/6O5lhr0v3ci9fMEIK5g5a9",
+            "id": "6O5lhr0v3ci9fMEIK5g5a9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732514cc5440791ec9f69a7b1a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022514cc5440791ec9f69a7b1a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512514cc5440791ec9f69a7b1a",
+                    "width": 64
+                }
+            ],
+            "name": "...And the Circus Leaves Town",
+            "release_date": "1995-05-30",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:6O5lhr0v3ci9fMEIK5g5a9"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
+                },
+                "href": "https://api.spotify.com/v1/artists/3HCpwNmFp2rvjkdjTs4uxs",
+                "id": "3HCpwNmFp2rvjkdjTs4uxs",
+                "name": "Kyuss",
+                "type": "artist",
+                "uri": "spotify:artist:3HCpwNmFp2rvjkdjTs4uxs"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 2044066,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USEE10181202"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5TKRxkPO6PnHmYaasmXKo3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5TKRxkPO6PnHmYaasmXKo3",
+        "id": "5TKRxkPO6PnHmYaasmXKo3",
+        "is_local": false,
+        "name": "Spaceship Landing",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/4d8848fe3a3d8944f0c659ae047daa04fdc8eba2?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 11,
+        "type": "track",
+        "uri": "spotify:track:5TKRxkPO6PnHmYaasmXKo3"
+    }
+}

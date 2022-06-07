@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Understand procedure, understand war",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Understand rules, regulations",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't understand sorry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You must feel frustration",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause your mind feels such temptation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And your ways appear a total lack of faith",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You may feel elation at your body's recreation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the joy you need, restricted by one thought",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are you forever?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Loss of purpose in a passive life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are you forever?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pale, regarded as a waste of time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "High times are courageous",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But in truth they suit no purpose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Induced, reduced, unable and afraid",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can you feel rejection and a lack of motivation?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the joy you need, restricted and delayed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are you forever?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Loss of purpose in a passive life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are you forever?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pale, regarded as a waste of time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't really know what sorry means",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've been sorry all my life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm sorry I was born, that's what my mother told me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't really know what sorry means",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've been sorry all my life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't really know what sorry means",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "301572",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0gIo6kGl4KsCeIbqtZVHYp",
+                    "id": "0gIo6kGl4KsCeIbqtZVHYp",
+                    "name": "Paradise Lost",
+                    "type": "artist",
+                    "uri": "spotify:artist:0gIo6kGl4KsCeIbqtZVHYp"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3dpkz0rBs1fkXhTTLlPY85"
+            },
+            "href": "https://api.spotify.com/v1/albums/3dpkz0rBs1fkXhTTLlPY85",
+            "id": "3dpkz0rBs1fkXhTTLlPY85",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fa8fe4ed61e19e094879d08d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fa8fe4ed61e19e094879d08d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851fa8fe4ed61e19e094879d08d",
+                    "width": 64
+                }
+            ],
+            "name": "Draconian Times",
+            "release_date": "1995-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:3dpkz0rBs1fkXhTTLlPY85"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+                },
+                "href": "https://api.spotify.com/v1/artists/0gIo6kGl4KsCeIbqtZVHYp",
+                "id": "0gIo6kGl4KsCeIbqtZVHYp",
+                "name": "Paradise Lost",
+                "type": "artist",
+                "uri": "spotify:artist:0gIo6kGl4KsCeIbqtZVHYp"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 258000,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCKC0900002"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5OTOUyo18hGb3p1QeLOsp8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5OTOUyo18hGb3p1QeLOsp8",
+        "id": "5OTOUyo18hGb3p1QeLOsp8",
+        "is_local": false,
+        "name": "Forever Failure",
+        "popularity": 32,
+        "preview_url": "https://p.scdn.co/mp3-preview/933795778ed83fdd6ced4438e2eb734b17d739fc?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5OTOUyo18hGb3p1QeLOsp8"
+    }
+}

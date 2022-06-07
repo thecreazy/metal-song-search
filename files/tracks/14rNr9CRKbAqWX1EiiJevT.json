@@ -1,0 +1,186 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Much confusion in the wake of suffering",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Awaiting comfort that only silence can bring",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smoky ruins fill the greying skies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tears of sorrow as our nation dies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thoughts of sadness fill my haunted dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shrieks of madness, life is ending it seems",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seeking inspiration from the voice that calls my name",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Finding wisdom in the depths beyond our shame",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Behind the eyes of misery a hope still lingers on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But yet I fear my final prayer goes down with the dying sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The dying sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's not a tear of sympathy can take back what's been done",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As dreams of all eternity go down with the dying sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The dying sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your voice tells me I'm not dreaming",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My mind is gone, inside I'm screaming",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All I had has died in shadows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now I lie where no one knows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh yeah, come on",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "9499411",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3nutnJ57QnbWEdCWn2EyWo",
+                    "id": "3nutnJ57QnbWEdCWn2EyWo",
+                    "name": "Orange Goblin",
+                    "type": "artist",
+                    "uri": "spotify:artist:3nutnJ57QnbWEdCWn2EyWo"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2wVRZj3HjUCEOwCWiFPBLx"
+            },
+            "href": "https://api.spotify.com/v1/albums/2wVRZj3HjUCEOwCWiFPBLx",
+            "id": "2wVRZj3HjUCEOwCWiFPBLx",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273419880786b2c70bc1f2f9e40",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02419880786b2c70bc1f2f9e40",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851419880786b2c70bc1f2f9e40",
+                    "width": 64
+                }
+            ],
+            "name": "Frequencies From Planet 10",
+            "release_date": "1997",
+            "release_date_precision": "year",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:2wVRZj3HjUCEOwCWiFPBLx"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
+                },
+                "href": "https://api.spotify.com/v1/artists/3nutnJ57QnbWEdCWn2EyWo",
+                "id": "3nutnJ57QnbWEdCWn2EyWo",
+                "name": "Orange Goblin",
+                "type": "artist",
+                "uri": "spotify:artist:3nutnJ57QnbWEdCWn2EyWo"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 366160,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBMLU0304603"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/14rNr9CRKbAqWX1EiiJevT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/14rNr9CRKbAqWX1EiiJevT",
+        "id": "14rNr9CRKbAqWX1EiiJevT",
+        "is_local": false,
+        "name": "Saruman's Wish",
+        "popularity": 16,
+        "preview_url": "https://p.scdn.co/mp3-preview/05062c9b2a995607f2434a58073086b88bdcbd1a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:14rNr9CRKbAqWX1EiiJevT"
+    }
+}

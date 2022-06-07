@@ -1,0 +1,77 @@
+{
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6wWVKhxIU2cEi0K81v7HvP",
+                    "id": "6wWVKhxIU2cEi0K81v7HvP",
+                    "name": "Rammstein",
+                    "type": "artist",
+                    "uri": "spotify:artist:6wWVKhxIU2cEi0K81v7HvP"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
+            },
+            "href": "https://api.spotify.com/v1/albums/1CtTTpKbHU8KbHRB4LmBbv",
+            "id": "1CtTTpKbHU8KbHRB4LmBbv",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738b2c42026277efc3e058855b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028b2c42026277efc3e058855b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518b2c42026277efc3e058855b",
+                    "width": 64
+                }
+            ],
+            "name": "Mutter",
+            "release_date": "2001-04-02",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:1CtTTpKbHU8KbHRB4LmBbv"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+                },
+                "href": "https://api.spotify.com/v1/artists/6wWVKhxIU2cEi0K81v7HvP",
+                "id": "6wWVKhxIU2cEi0K81v7HvP",
+                "name": "Rammstein",
+                "type": "artist",
+                "uri": "spotify:artist:6wWVKhxIU2cEi0K81v7HvP"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 279893,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEN120100002"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5ArNGisLzrNOIVwWajRRdt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5ArNGisLzrNOIVwWajRRdt",
+        "id": "5ArNGisLzrNOIVwWajRRdt",
+        "is_local": false,
+        "name": "Mein Herz brennt",
+        "popularity": 66,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5ArNGisLzrNOIVwWajRRdt"
+    }
+}

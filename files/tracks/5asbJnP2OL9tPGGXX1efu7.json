@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "What you get, and what you see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Things that don't come easily",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feeling happy in my pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Icicles within my brain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Cocaine)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Something blowin' in my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Winds of ice that soon will spread",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Down to freeze my very soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Makes me happy, makes me cold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My eyes are blind, but I can see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The snowflakes glisten on the trees",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Sun no longer sets me free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel the snowflakes freezing me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let the winter sun shine on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me feel the frost of dawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fill my dreams with flakes of snow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Soon I'll feel the chilling glow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't you think I know what I'm doing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't tell me that it's doing me wrong",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're the one that's really the loser",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This is where I feel I belong",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kiss the world with winter flowers",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Turn my days to frozen hours",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lying snowblind in the sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Will my ice age ever come?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "212290",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                    "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                    "name": "Black Sabbath",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
+            },
+            "href": "https://api.spotify.com/v1/albums/3iRW4cZOM90lX9Rtc2Qglh",
+            "id": "3iRW4cZOM90lX9Rtc2Qglh",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d198e0a1a43c010afb480b3b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d198e0a1a43c010afb480b3b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d198e0a1a43c010afb480b3b",
+                    "width": 64
+                }
+            ],
+            "name": "Vol. 4 (2009 Remastered Version)",
+            "release_date": "1972-09-25",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:3iRW4cZOM90lX9Rtc2Qglh"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                "name": "Black Sabbath",
+                "type": "artist",
+                "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 326333,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE7200133"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5asbJnP2OL9tPGGXX1efu7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5asbJnP2OL9tPGGXX1efu7",
+        "id": "5asbJnP2OL9tPGGXX1efu7",
+        "is_local": false,
+        "name": "Snowblind",
+        "popularity": 47,
+        "preview_url": "https://p.scdn.co/mp3-preview/5e24a18949f44b8916420bceb1a01f838ae44cf5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5asbJnP2OL9tPGGXX1efu7"
+    }
+}

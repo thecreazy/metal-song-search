@@ -1,0 +1,211 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Life, it seems, will fade away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Drifting further every day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Getting lost within myself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nothing matters, no one else",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have lost the will to live",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Simply nothing more to give",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There is nothing more for me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Need the end to set me free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Things aren't what they used to be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Missing one inside of me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deathly lost, this can't be real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't stand this hell I feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Emptiness is filling me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the point of agony",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Growing darkness taking dawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I was me, but now he's gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one but me can save myself, but it's too late",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now I can't think, think why I should even try",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yesterday seems as though it never existed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death greets me warm, now I will just say goodbye goodbye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "60106611",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+                    "id": "2ye2Wgw4gimLv2eAKyk1NB",
+                    "name": "Metallica",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx"
+            },
+            "href": "https://api.spotify.com/v1/albums/4K5E5mWQbECn9aThu6Xnkx",
+            "id": "4K5E5mWQbECn9aThu6Xnkx",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27396a926d07aea417327ea024a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0296a926d07aea417327ea024a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485196a926d07aea417327ea024a",
+                    "width": 64
+                }
+            ],
+            "name": "Ride The Lightning (Deluxe / Remastered)",
+            "release_date": "1984-07-26",
+            "release_date_precision": "day",
+            "total_tracks": 64,
+            "type": "album",
+            "uri": "spotify:album:4K5E5mWQbECn9aThu6Xnkx"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+                },
+                "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+                "id": "2ye2Wgw4gimLv2eAKyk1NB",
+                "name": "Metallica",
+                "type": "artist",
+                "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 417226,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "QMKHM1600097"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5nekfiTN45vlxG0eNJQQye"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5nekfiTN45vlxG0eNJQQye",
+        "id": "5nekfiTN45vlxG0eNJQQye",
+        "is_local": false,
+        "name": "Fade To Black - Remastered",
+        "popularity": 67,
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5nekfiTN45vlxG0eNJQQye"
+    }
+}

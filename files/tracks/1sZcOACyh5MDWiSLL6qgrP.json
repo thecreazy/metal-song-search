@@ -1,0 +1,176 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "There are ghosts in every hallway",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In every room, behind every door",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Peering through every window into the past",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Holding onto us in the bitterness of the mire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Leaving a trace of themselves in the spaces in which they hide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...but there are no ghosts here...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There are gods in the wake of every flame",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The fire that betroths the coldness of the void",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In every wind, every tempest, and every snowfall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In every silence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inside every root that reaches deep into the soul of the Earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...but there are no ghosts here...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shadows paint the dusk",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ghosts rise from the flames",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To set alight the fields",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In robes of smoke and spirit aligned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "8933317",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3Meu28o8P5z9Zjm6NTGihT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3Meu28o8P5z9Zjm6NTGihT",
+                    "id": "3Meu28o8P5z9Zjm6NTGihT",
+                    "name": "Agalloch",
+                    "type": "artist",
+                    "uri": "spotify:artist:3Meu28o8P5z9Zjm6NTGihT"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/69dtvmEbd0xejAVrqOuzDO"
+            },
+            "href": "https://api.spotify.com/v1/albums/69dtvmEbd0xejAVrqOuzDO",
+            "id": "69dtvmEbd0xejAVrqOuzDO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27309e2f5817b7c7db07afa640b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0209e2f5817b7c7db07afa640b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485109e2f5817b7c7db07afa640b",
+                    "width": 64
+                }
+            ],
+            "name": "Marrow of the Spirit",
+            "release_date": "2010-11-23",
+            "release_date_precision": "day",
+            "total_tracks": 6,
+            "type": "album",
+            "uri": "spotify:album:69dtvmEbd0xejAVrqOuzDO"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3Meu28o8P5z9Zjm6NTGihT"
+                },
+                "href": "https://api.spotify.com/v1/artists/3Meu28o8P5z9Zjm6NTGihT",
+                "id": "3Meu28o8P5z9Zjm6NTGihT",
+                "name": "Agalloch",
+                "type": "artist",
+                "uri": "spotify:artist:3Meu28o8P5z9Zjm6NTGihT"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 579760,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "QMPKX1615726"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1sZcOACyh5MDWiSLL6qgrP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1sZcOACyh5MDWiSLL6qgrP",
+        "id": "1sZcOACyh5MDWiSLL6qgrP",
+        "is_local": false,
+        "name": "Ghosts of the Midwinter Fires",
+        "popularity": 23,
+        "preview_url": "https://p.scdn.co/mp3-preview/3df4fa6ddc0a16cf04a55b7ddc323c4b883f40bd?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:1sZcOACyh5MDWiSLL6qgrP"
+    }
+}

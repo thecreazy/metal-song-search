@@ -1,0 +1,181 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Look at you, lying there, defenceless and alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "See I am no fool, I always knew you wouldn't make it on your own",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cos you're just like your mother, well, where is she now?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You'll end up like her soon, 6 feet under ground, loser!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I came here to watch you bleed, oh how I love to gloat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If you had any balls at all, you'd grab me by the throat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You don't even look like me, ha! Not even close!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're an aberration, some freak... I suppose, loser!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I had my fun, I'm going back to the place I don't call home",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's no one there who waits for me, but you won't hear me moan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My ex-wives all sue me, and with half my kids in jail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll still come out laughing, coz me? I never fail, loser!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "NEVER! NEVER! NEVER! NEVER! NEVER! NEVER! NEVER! NEVER!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Killing it from afar, go tell it in a bar",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're killing it from afar my father!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "997787",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2RSApl0SXcVT8Yiy4UaPSt",
+                    "id": "2RSApl0SXcVT8Yiy4UaPSt",
+                    "name": "Ayreon",
+                    "type": "artist",
+                    "uri": "spotify:artist:2RSApl0SXcVT8Yiy4UaPSt"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3mLnqsQ4o8hPPj8s2yfYeI"
+            },
+            "href": "https://api.spotify.com/v1/albums/3mLnqsQ4o8hPPj8s2yfYeI",
+            "id": "3mLnqsQ4o8hPPj8s2yfYeI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733f37a380d4e0dd0399e45f04",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023f37a380d4e0dd0399e45f04",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513f37a380d4e0dd0399e45f04",
+                    "width": 64
+                }
+            ],
+            "name": "The Human Equation",
+            "release_date": "2016-04-22",
+            "release_date_precision": "day",
+            "total_tracks": 20,
+            "type": "album",
+            "uri": "spotify:album:3mLnqsQ4o8hPPj8s2yfYeI"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt"
+                },
+                "href": "https://api.spotify.com/v1/artists/2RSApl0SXcVT8Yiy4UaPSt",
+                "id": "2RSApl0SXcVT8Yiy4UaPSt",
+                "name": "Ayreon",
+                "type": "artist",
+                "uri": "spotify:artist:2RSApl0SXcVT8Yiy4UaPSt"
+            }
+        ],
+        "disc_number": 2,
+        "duration_ms": 286373,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLB931601616"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2zvmlJAS57TcxlHd2HlYQ5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2zvmlJAS57TcxlHd2HlYQ5",
+        "id": "2zvmlJAS57TcxlHd2HlYQ5",
+        "is_local": false,
+        "name": "Day Sixteen: Loser",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/d8c47610f199d4ce3ecf033f85b2d8839d247389?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2zvmlJAS57TcxlHd2HlYQ5"
+    }
+}

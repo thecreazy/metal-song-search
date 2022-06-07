@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "The darkness came closer to home",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On the following night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And Miriam slept like a rock",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When Jonathan's face went white",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The bedroom was ice cold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But the fire was burning still",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The blinding light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The family ghost",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Had risen again, by the door",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Don't be scared, don't be scared now my friend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am count de LaFey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me take you to the crypt down below",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where Abigail rests\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Let Miriam sleep",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She never would understand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now come, let us go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's time to know\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Beware of the slippery stairs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You could easily fall... and break your neck",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hand me that torch and I will lead the way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the secret in the dark (secret in the dark)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take a look into the vault, the vault",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The sarcophagus of a child",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Abigail has been in here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For years and years",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stillborn (born, born, born)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"The spirit of Abigail is inside your wife",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And there's only one way you can stop (stop)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The rebirth of evil itself\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You must take her life... now (now, now, now, now, now)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "552237",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5i0ph60TnwTlIGrOZAmcZa",
+                    "id": "5i0ph60TnwTlIGrOZAmcZa",
+                    "name": "King Diamond",
+                    "type": "artist",
+                    "uri": "spotify:artist:5i0ph60TnwTlIGrOZAmcZa"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7zIqyMrapcp7QWM12NkjaD"
+            },
+            "href": "https://api.spotify.com/v1/albums/7zIqyMrapcp7QWM12NkjaD",
+            "id": "7zIqyMrapcp7QWM12NkjaD",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273644f8cb3dca356921a3bb4e7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02644f8cb3dca356921a3bb4e7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851644f8cb3dca356921a3bb4e7",
+                    "width": 64
+                }
+            ],
+            "name": "Abigail",
+            "release_date": "1987-10-21",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:7zIqyMrapcp7QWM12NkjaD"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa"
+                },
+                "href": "https://api.spotify.com/v1/artists/5i0ph60TnwTlIGrOZAmcZa",
+                "id": "5i0ph60TnwTlIGrOZAmcZa",
+                "name": "King Diamond",
+                "type": "artist",
+                "uri": "spotify:artist:5i0ph60TnwTlIGrOZAmcZa"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 245893,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329780495"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/22QjS2MJuqxuiwEieeQhPx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/22QjS2MJuqxuiwEieeQhPx",
+        "id": "22QjS2MJuqxuiwEieeQhPx",
+        "is_local": false,
+        "name": "The Family Ghost",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/f1d0f8218f610f333bfb300872d51c7b8a0e366a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:22QjS2MJuqxuiwEieeQhPx"
+    }
+}

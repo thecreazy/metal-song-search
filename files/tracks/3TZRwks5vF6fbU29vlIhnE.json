@@ -1,0 +1,251 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I am the tempter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ruler of hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bringer of evil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beware",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Watch for temptation for it is there",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Takes his time but loves to dare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All the people they are losing their minds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He don't care, takes all kinds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Says love won't you take a bite",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "God appears says \"this ain't right\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are damned for what evil has done",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know now the Tempter has won",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am the one",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The almighty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll give you the good things in life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It is said God tempteth no man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Keep in mind you know he can",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Listen to one now this we must",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For we are all conceived with lust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The tempter, he taketh you brain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "WE know now who will reign",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "God says it bringeth forth sin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take my word it brings on death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This time you have won",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But what about the next",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know I'll get you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bastards",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When you are losing your mortal soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's too late to cry to the Lord",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hear me now all you sinners",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "555370",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0eayuW5zGMgvXCEmcP7ivq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0eayuW5zGMgvXCEmcP7ivq",
+                    "id": "0eayuW5zGMgvXCEmcP7ivq",
+                    "name": "Trouble",
+                    "type": "artist",
+                    "uri": "spotify:artist:0eayuW5zGMgvXCEmcP7ivq"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/36Ml1dybEUn95Ka3f6c3hn"
+            },
+            "href": "https://api.spotify.com/v1/albums/36Ml1dybEUn95Ka3f6c3hn",
+            "id": "36Ml1dybEUn95Ka3f6c3hn",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c8749745f6134b4afeb2b741",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c8749745f6134b4afeb2b741",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c8749745f6134b4afeb2b741",
+                    "width": 64
+                }
+            ],
+            "name": "Psalm 9 (Remastered 2020)",
+            "release_date": "1991-03-01",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:36Ml1dybEUn95Ka3f6c3hn"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0eayuW5zGMgvXCEmcP7ivq"
+                },
+                "href": "https://api.spotify.com/v1/artists/0eayuW5zGMgvXCEmcP7ivq",
+                "id": "0eayuW5zGMgvXCEmcP7ivq",
+                "name": "Trouble",
+                "type": "artist",
+                "uri": "spotify:artist:0eayuW5zGMgvXCEmcP7ivq"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 396440,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "QM6MZ2009978"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3TZRwks5vF6fbU29vlIhnE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3TZRwks5vF6fbU29vlIhnE",
+        "id": "3TZRwks5vF6fbU29vlIhnE",
+        "is_local": false,
+        "name": "The Tempter - Remastered 2020",
+        "popularity": 20,
+        "preview_url": "https://p.scdn.co/mp3-preview/2b9eac48136dc438ce8967fed5523a65d4b6c647?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3TZRwks5vF6fbU29vlIhnE"
+    }
+}

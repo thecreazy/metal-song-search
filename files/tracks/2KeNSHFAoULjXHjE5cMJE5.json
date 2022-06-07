@@ -1,0 +1,166 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Together we have discovered",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The languid fatigue of love",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Interrogated all our beauty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We've turned each other inside out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Drowning in ebony tears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The long face of cherrlessness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The only bonding we share",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Enlightened by degredation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The only pleasure is pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Drowning in ebony tears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Embedded in our resentment",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lay the keys to disengage",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But still we burn in persecution",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For the punishment of possessiveness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "713194",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5O7ziOtiFUyRMBJN1J4Tpv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5O7ziOtiFUyRMBJN1J4Tpv",
+                    "id": "5O7ziOtiFUyRMBJN1J4Tpv",
+                    "name": "Cathedral",
+                    "type": "artist",
+                    "uri": "spotify:artist:5O7ziOtiFUyRMBJN1J4Tpv"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7Kr8okQKNUYPrs6uVTNf7g"
+            },
+            "href": "https://api.spotify.com/v1/albums/7Kr8okQKNUYPrs6uVTNf7g",
+            "id": "7Kr8okQKNUYPrs6uVTNf7g",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27352a6b87e88bd7696d4971821",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0252a6b87e88bd7696d4971821",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485152a6b87e88bd7696d4971821",
+                    "width": 64
+                }
+            ],
+            "name": "Forest Of Equilibrium",
+            "release_date": "1991",
+            "release_date_precision": "year",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:7Kr8okQKNUYPrs6uVTNf7g"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5O7ziOtiFUyRMBJN1J4Tpv"
+                },
+                "href": "https://api.spotify.com/v1/artists/5O7ziOtiFUyRMBJN1J4Tpv",
+                "id": "5O7ziOtiFUyRMBJN1J4Tpv",
+                "name": "Cathedral",
+                "type": "artist",
+                "uri": "spotify:artist:5O7ziOtiFUyRMBJN1J4Tpv"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 466400,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBPB0401851"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2KeNSHFAoULjXHjE5cMJE5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2KeNSHFAoULjXHjE5cMJE5",
+        "id": "2KeNSHFAoULjXHjE5cMJE5",
+        "is_local": false,
+        "name": "Ebony Tears",
+        "popularity": 21,
+        "preview_url": "https://p.scdn.co/mp3-preview/474df0f906a5512f57f6f984e665208db7eddab0?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2KeNSHFAoULjXHjE5cMJE5"
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "In the days of darkness men feared not the sword and the lance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nor did he fear the beast of fire... He feared...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "THE AXEMAN!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Once we lose our precious dream there's nothing left to fight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now you are bound and gagged one last meal is your final right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Many have tried you're not the only one waiting for that final mourn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The future's set dawn is coming time is now the mask will be worn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[Chorus:]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bow down to the axeman hooded figure of mortal fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bow down to the axeman sun is rising time is near",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Darkness fills your parting soul mystical power was yours alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You stole the king's crown of gold claiming his kingdom for your own",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Good and evil clash in battle armies fight into the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Steel and iron ring out the warning powers on the side of right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[Chorus]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The sign of the king unites us all our fight for freedom rages on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Against warriors of light many fall our dreams of peace are not all gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Once we lose that precious dream there's nothing left to fight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now you are bound and gagged one last meal is your final right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "[Chorus]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "552535",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/31SU1GkApYNa5jdS0S5XIr"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/31SU1GkApYNa5jdS0S5XIr",
+                    "id": "31SU1GkApYNa5jdS0S5XIr",
+                    "name": "Omen",
+                    "type": "artist",
+                    "uri": "spotify:artist:31SU1GkApYNa5jdS0S5XIr"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7MSYL2jfE6XXdVpTv2SUux"
+            },
+            "href": "https://api.spotify.com/v1/albums/7MSYL2jfE6XXdVpTv2SUux",
+            "id": "7MSYL2jfE6XXdVpTv2SUux",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27326285bfb4c865d8791552afe",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0226285bfb4c865d8791552afe",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485126285bfb4c865d8791552afe",
+                    "width": 64
+                }
+            ],
+            "name": "Battle Cry",
+            "release_date": "1984",
+            "release_date_precision": "year",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:7MSYL2jfE6XXdVpTv2SUux"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/31SU1GkApYNa5jdS0S5XIr"
+                },
+                "href": "https://api.spotify.com/v1/artists/31SU1GkApYNa5jdS0S5XIr",
+                "id": "31SU1GkApYNa5jdS0S5XIr",
+                "name": "Omen",
+                "type": "artist",
+                "uri": "spotify:artist:31SU1GkApYNa5jdS0S5XIr"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 268080,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USMBR0401138"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4KZJhWlyqGElJUcsuT0GCc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4KZJhWlyqGElJUcsuT0GCc",
+        "id": "4KZJhWlyqGElJUcsuT0GCc",
+        "is_local": false,
+        "name": "The Axeman",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/4a79509518c5b6a47706c122befb10253faf5092?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4KZJhWlyqGElJUcsuT0GCc"
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "These things moved me when I turned my back. Now I return with open hands.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I found light that lead me to the shrine where children sang and pilgrims mourned.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I was lost but not alone.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From a distance they come alive. Sleepwalking across the plains.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No answers were found here. Seeking shelter in her embrace.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Down on sore knees. Erase and begin. Under my eyelids, come forth light.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2678891",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7E7fJJpdVgr1F3pfAfRtHe",
+                    "id": "7E7fJJpdVgr1F3pfAfRtHe",
+                    "name": "Cult Of Luna",
+                    "type": "artist",
+                    "uri": "spotify:artist:7E7fJJpdVgr1F3pfAfRtHe"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/23ISdAi8LzEGzhYETnQe8Q"
+            },
+            "href": "https://api.spotify.com/v1/albums/23ISdAi8LzEGzhYETnQe8Q",
+            "id": "23ISdAi8LzEGzhYETnQe8Q",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735a5b03d38f54be96bbaa1491",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025a5b03d38f54be96bbaa1491",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515a5b03d38f54be96bbaa1491",
+                    "width": 64
+                }
+            ],
+            "name": "Somewhere Along The Highway",
+            "release_date": "2006",
+            "release_date_precision": "year",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:23ISdAi8LzEGzhYETnQe8Q"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+                },
+                "href": "https://api.spotify.com/v1/artists/7E7fJJpdVgr1F3pfAfRtHe",
+                "id": "7E7fJJpdVgr1F3pfAfRtHe",
+                "name": "Cult Of Luna",
+                "type": "artist",
+                "uri": "spotify:artist:7E7fJJpdVgr1F3pfAfRtHe"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 646133,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBPB0701725"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3N8cK1O5u0RawDBbP4a0hc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3N8cK1O5u0RawDBbP4a0hc",
+        "id": "3N8cK1O5u0RawDBbP4a0hc",
+        "is_local": false,
+        "name": "Finland",
+        "popularity": 21,
+        "preview_url": "https://p.scdn.co/mp3-preview/a991f14ecd47708b366e3184adbf813e21ca6ca8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3N8cK1O5u0RawDBbP4a0hc"
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Grand canyons of space and time universal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My mind is subjected, subjected to all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stab, bawl, punch, crawl",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hooks to my brain are well in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stab, bawl, punch, crawl",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know what I am, I'm Berlin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through cracked, blackened memories of unit dispersal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I face the impregnable wall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stab, bawl, punch, crawl",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hooks to my brain are well in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stab, bawl, punch, crawl",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know what I am, I'm Berlin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Exploding, reloading, this quest never ending",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Until I give out my last breath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm stabbing and bawling, I'm punching and crawling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hooks to my brain are well in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm stabbing and bawling, I'm punching and crawling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know what I am, I'm Berlin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "243474",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2tRsMl4eGxwoNabM08Dm4I",
+                    "id": "2tRsMl4eGxwoNabM08Dm4I",
+                    "name": "Judas Priest",
+                    "type": "artist",
+                    "uri": "spotify:artist:2tRsMl4eGxwoNabM08Dm4I"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2GXeHOkRouW0LnKBMUnVtv"
+            },
+            "href": "https://api.spotify.com/v1/albums/2GXeHOkRouW0LnKBMUnVtv",
+            "id": "2GXeHOkRouW0LnKBMUnVtv",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d05908f25aa68cae852a54f2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d05908f25aa68cae852a54f2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d05908f25aa68cae852a54f2",
+                    "width": 64
+                }
+            ],
+            "name": "Sin After Sin",
+            "release_date": "1977-11-15",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2GXeHOkRouW0LnKBMUnVtv"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+                },
+                "href": "https://api.spotify.com/v1/artists/2tRsMl4eGxwoNabM08Dm4I",
+                "id": "2tRsMl4eGxwoNabM08Dm4I",
+                "name": "Judas Priest",
+                "type": "artist",
+                "uri": "spotify:artist:2tRsMl4eGxwoNabM08Dm4I"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 186093,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBBN0102350"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3x639plCXGLyZoMcyR2IgJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3x639plCXGLyZoMcyR2IgJ",
+        "id": "3x639plCXGLyZoMcyR2IgJ",
+        "is_local": false,
+        "name": "Dissident Aggressor",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/8e27c4d26c1b6af0d14c16966b6309aab602cf99?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:3x639plCXGLyZoMcyR2IgJ"
+    }
+}

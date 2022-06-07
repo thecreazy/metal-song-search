@@ -1,0 +1,171 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Inside the power cage",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can feel the music of my age",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's paranoid... first degree",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tellin' me that I'm not free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've got Heavy Metal music in my blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I'd like to give it to you if I could",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As I lie in the shroud of darkness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The wings of light remove the veil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's Heavy, Heavy, Heavy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heavy Metal Mania all the way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rock 'n roll... far too slow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So the adrenaline just doesn't flow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where is the power, where is the glory?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heavy Metal is my story",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1524996",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5VuuqhhYM8cRN6yA0qrq6R"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5VuuqhhYM8cRN6yA0qrq6R",
+                    "id": "5VuuqhhYM8cRN6yA0qrq6R",
+                    "name": "Holocaust",
+                    "type": "artist",
+                    "uri": "spotify:artist:5VuuqhhYM8cRN6yA0qrq6R"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4vJF269D0UjNGgwWO4h4DC"
+            },
+            "href": "https://api.spotify.com/v1/albums/4vJF269D0UjNGgwWO4h4DC",
+            "id": "4vJF269D0UjNGgwWO4h4DC",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fe44c36a704688aca35f4059",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fe44c36a704688aca35f4059",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851fe44c36a704688aca35f4059",
+                    "width": 64
+                }
+            ],
+            "name": "The Nightcomers",
+            "release_date": "1981-12-31",
+            "release_date_precision": "day",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:4vJF269D0UjNGgwWO4h4DC"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5VuuqhhYM8cRN6yA0qrq6R"
+                },
+                "href": "https://api.spotify.com/v1/artists/5VuuqhhYM8cRN6yA0qrq6R",
+                "id": "5VuuqhhYM8cRN6yA0qrq6R",
+                "name": "Holocaust",
+                "type": "artist",
+                "uri": "spotify:artist:5VuuqhhYM8cRN6yA0qrq6R"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 291306,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBX2F1200003"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/10sVFaAeZ6r0T85ZAE2DPt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/10sVFaAeZ6r0T85ZAE2DPt",
+        "id": "10sVFaAeZ6r0T85ZAE2DPt",
+        "is_local": false,
+        "name": "Heavy Metal Mania",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/349e0bda03814e53f47e91231cb724f022c0a65b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:10sVFaAeZ6r0T85ZAE2DPt"
+    }
+}

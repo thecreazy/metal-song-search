@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "One step at the time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Small progess seems futile",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But is as valuable as life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm engaged to longing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With sorrow as the ring",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Controlling me, denying me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My every mourning is in every way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The beginning of a recreation day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Recreation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The beginning of a recreation day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time heals, but still the mourning reigns",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I still breath when the loss reminds me again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Life is fear and sorrow's all I know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Am I in dept cause so it seems",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But what I owe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Devoured by guilt and cursed beyond control",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My every morning is in every way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The beginning of a recreation day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Recreation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The beginning of a recreation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My every morning is in every way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The beginning of a recreation day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My every morning is in every way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The beginning of a recreation day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Recreation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The beginning of a recreation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My every morning is in every way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The beginning of a recreation day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "85736713",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4S0foX2r0RlC12KBW8u73D",
+                    "id": "4S0foX2r0RlC12KBW8u73D",
+                    "name": "Evergrey",
+                    "type": "artist",
+                    "uri": "spotify:artist:4S0foX2r0RlC12KBW8u73D"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/79an5lJLqFoj5KYKJj4zJa"
+            },
+            "href": "https://api.spotify.com/v1/albums/79an5lJLqFoj5KYKJj4zJa",
+            "id": "79an5lJLqFoj5KYKJj4zJa",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a4d0fb911ddac07cf8d5095c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a4d0fb911ddac07cf8d5095c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a4d0fb911ddac07cf8d5095c",
+                    "width": 64
+                }
+            ],
+            "name": "Recreation Day (Remasters Edition)",
+            "release_date": "2003-03-11",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:79an5lJLqFoj5KYKJj4zJa"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D"
+                },
+                "href": "https://api.spotify.com/v1/artists/4S0foX2r0RlC12KBW8u73D",
+                "id": "4S0foX2r0RlC12KBW8u73D",
+                "name": "Evergrey",
+                "type": "artist",
+                "uri": "spotify:artist:4S0foX2r0RlC12KBW8u73D"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 321440,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEU601807683"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7LCnNyGSZ2Nvz6JX3AbqUP"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7LCnNyGSZ2Nvz6JX3AbqUP",
+        "id": "7LCnNyGSZ2Nvz6JX3AbqUP",
+        "is_local": false,
+        "name": "Recreation Day - Remastered",
+        "popularity": 23,
+        "preview_url": "https://p.scdn.co/mp3-preview/8f21a7a01777b7047fe816c0fb53db0ebbacbdb1?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:7LCnNyGSZ2Nvz6JX3AbqUP"
+    }
+}

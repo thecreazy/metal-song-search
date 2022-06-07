@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I hear footsteps closing in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I recognize them from my early days",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The times are different the image remains the same",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Repeating back flashes remembering the name",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Approaching visions of things I can't recall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A familiar smile awakes the pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Unkept promises (the night awaits), the act of confidence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The kiss of Judas - I feel the lips on my cheek",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The kiss of Judas - Haunts me once again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In your privage chamber, you're all alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The well earned silver pieces falling to the floor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The flame of the candle casting movement to the wall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your eyes filled with guilt keep staring at the door",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Approaching visions of things I can't recall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A familiar smile awakes the pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Unkept promises (the night awaits), the act of confidence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The kiss of Judas - I feel the lips on my cheek",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The kiss of Judas - Haunts me once again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Unkept promises (the night awaits), the act of confidence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The kiss of Judas - I feel the lips on my cheek",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The kiss of Judas - Haunts me once again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Unkept promises (the night awaits), the act of confidence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The kiss of Judas - I feel the lips on my cheek",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The kiss of Judas - Haunts me once again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "847688",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1O8CSXsPwEqxcoBE360PPO",
+                    "id": "1O8CSXsPwEqxcoBE360PPO",
+                    "name": "Stratovarius",
+                    "type": "artist",
+                    "uri": "spotify:artist:1O8CSXsPwEqxcoBE360PPO"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/55qNkmFdL2xRZ728GIQcc1"
+            },
+            "href": "https://api.spotify.com/v1/albums/55qNkmFdL2xRZ728GIQcc1",
+            "id": "55qNkmFdL2xRZ728GIQcc1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27378582e8a50c60dac62312ca9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0278582e8a50c60dac62312ca9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485178582e8a50c60dac62312ca9",
+                    "width": 64
+                }
+            ],
+            "name": "Visions",
+            "release_date": "1997-08-29",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:55qNkmFdL2xRZ728GIQcc1"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+                },
+                "href": "https://api.spotify.com/v1/artists/1O8CSXsPwEqxcoBE360PPO",
+                "id": "1O8CSXsPwEqxcoBE360PPO",
+                "name": "Stratovarius",
+                "type": "artist",
+                "uri": "spotify:artist:1O8CSXsPwEqxcoBE360PPO"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 349066,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEA249700001"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0uCR2kewX1afC2Rgztm1ZN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0uCR2kewX1afC2Rgztm1ZN",
+        "id": "0uCR2kewX1afC2Rgztm1ZN",
+        "is_local": false,
+        "name": "The Kiss of Judas",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/f9d67d9a327b65b11690576bed9cbcfbd799d62e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0uCR2kewX1afC2Rgztm1ZN"
+    }
+}

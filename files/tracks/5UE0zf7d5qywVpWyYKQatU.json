@@ -1,0 +1,251 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Another town, another place",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another girl, another face",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another truck, another race",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm eating junk, feeling bad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another night, I'm going mad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My woman's leaving, I feel sad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I just love the life I lead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another beer is what I need",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another gig, my ears bleed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are the road crew",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another town I've left behind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another drink, completely blind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another hotel I can't find",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another backstage pass for you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another tube of super glue",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another border to get through",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm driving like a maniac",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Driving my way to hell and back",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another room, a case to pack",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are the road crew",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another hotel we can burn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another screw, another turn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another Europe map to learn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another truckstop on the way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another game that I can play",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another word I learned to say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another blasted customs post",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another bloody foreign coast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another set of scars to boast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are the road crew",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That's right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "457228",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                    "id": "1DFr97A9HnbV3SKTJFu62M",
+                    "name": "Motörhead",
+                    "type": "artist",
+                    "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2pSrNqGcW78KCaldPAtZS9"
+            },
+            "href": "https://api.spotify.com/v1/albums/2pSrNqGcW78KCaldPAtZS9",
+            "id": "2pSrNqGcW78KCaldPAtZS9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27321ac7f50ed7951e5eac92ea4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0221ac7f50ed7951e5eac92ea4",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485121ac7f50ed7951e5eac92ea4",
+                    "width": 64
+                }
+            ],
+            "name": "Ace of Spades (40th Anniversary Edition) [Deluxe]",
+            "release_date": "1980-11-08",
+            "release_date_precision": "day",
+            "total_tracks": 73,
+            "type": "album",
+            "uri": "spotify:album:2pSrNqGcW78KCaldPAtZS9"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                },
+                "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                "id": "1DFr97A9HnbV3SKTJFu62M",
+                "name": "Motörhead",
+                "type": "artist",
+                "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 190840,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "GB5KW1904849"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5UE0zf7d5qywVpWyYKQatU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5UE0zf7d5qywVpWyYKQatU",
+        "id": "5UE0zf7d5qywVpWyYKQatU",
+        "is_local": false,
+        "name": "(We Are) The Road Crew - 40th Anniversary Master",
+        "popularity": 11,
+        "preview_url": "https://p.scdn.co/mp3-preview/82ff8aac225c7ad466b16abf897dfa606a28c31e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:5UE0zf7d5qywVpWyYKQatU"
+    }
+}

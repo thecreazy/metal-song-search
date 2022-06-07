@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "You are blind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deny the sun and light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Whose are the objections?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From where come the doubts?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Procreation of the wicked",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Procreation of the wicked",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Serenades of opposition",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Absurdity, humans fate and hope",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "True reflections of community",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Procreation of the gods and lords",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Procreation of the wicked",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Procreation of the wicked",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cain and Abel's love and death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Love and hate is what we are",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dagger and grail are",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fallen off the altar",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Procreation of the wicked",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Procreation of the wicked",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of the wicked",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If God raised the abyss",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You'd procreate your own",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Abolism of death is",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Abolism of life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"I've killed this old man, because he limped",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've done it because he shouldn't have to do it\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Procreation of the wicked",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Procreation of the wicked",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Procreation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1223127",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4ZISAmHmQUDCpv8xydqeKG",
+                    "id": "4ZISAmHmQUDCpv8xydqeKG",
+                    "name": "Celtic Frost",
+                    "type": "artist",
+                    "uri": "spotify:artist:4ZISAmHmQUDCpv8xydqeKG"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859"
+            },
+            "href": "https://api.spotify.com/v1/albums/2G2c7jjmwDaJVLfJc47859",
+            "id": "2G2c7jjmwDaJVLfJc47859",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736374832076e411c1799b46ff",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026374832076e411c1799b46ff",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516374832076e411c1799b46ff",
+                    "width": 64
+                }
+            ],
+            "name": "Morbid Tales",
+            "release_date": "1984-06-24",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:2G2c7jjmwDaJVLfJc47859"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG"
+                },
+                "href": "https://api.spotify.com/v1/artists/4ZISAmHmQUDCpv8xydqeKG",
+                "id": "4ZISAmHmQUDCpv8xydqeKG",
+                "name": "Celtic Frost",
+                "type": "artist",
+                "uri": "spotify:artist:4ZISAmHmQUDCpv8xydqeKG"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 244866,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEA249917006"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1RyEhDluS4uImGan8BuoRh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1RyEhDluS4uImGan8BuoRh",
+        "id": "1RyEhDluS4uImGan8BuoRh",
+        "is_local": false,
+        "name": "Procreation (Of the Wicked)",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/7d56f43fe9a99b658fcd469a6fc705aafb1caa62?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:1RyEhDluS4uImGan8BuoRh"
+    }
+}

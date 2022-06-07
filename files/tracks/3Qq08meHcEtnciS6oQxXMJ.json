@@ -1,0 +1,186 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Sensual awakening,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Numbing feeling's dead,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Conception's romanticised,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Synthetized broken heart's to bled,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Without emotion, your heartstring's played,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Strummed and severed to the tune of a tragic serenade,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(A tragic chorus,)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Without emotion, your hearstrings break,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Snapped and severed to the tune of a tragic, sad-cliche.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No love lost,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When all is said and done,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's no love lost.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The low cost of loving,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Amorous travesty,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Human frailties and weakness are easy prey,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "How your poor heart will bleed.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "713107",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5lhaM01nwvsMZpmPY2HVER",
+                    "id": "5lhaM01nwvsMZpmPY2HVER",
+                    "name": "Carcass",
+                    "type": "artist",
+                    "uri": "spotify:artist:5lhaM01nwvsMZpmPY2HVER"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3WUGsnZVtQyc2miaUQdLpI"
+            },
+            "href": "https://api.spotify.com/v1/albums/3WUGsnZVtQyc2miaUQdLpI",
+            "id": "3WUGsnZVtQyc2miaUQdLpI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ede3e2f1dcec5db5da42ae78",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ede3e2f1dcec5db5da42ae78",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ede3e2f1dcec5db5da42ae78",
+                    "width": 64
+                }
+            ],
+            "name": "Heartwork (Ultimate Edition)",
+            "release_date": "1993",
+            "release_date_precision": "year",
+            "total_tracks": 22,
+            "type": "album",
+            "uri": "spotify:album:3WUGsnZVtQyc2miaUQdLpI"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER"
+                },
+                "href": "https://api.spotify.com/v1/artists/5lhaM01nwvsMZpmPY2HVER",
+                "id": "5lhaM01nwvsMZpmPY2HVER",
+                "name": "Carcass",
+                "type": "artist",
+                "uri": "spotify:artist:5lhaM01nwvsMZpmPY2HVER"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 202613,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBPB2102670"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3Qq08meHcEtnciS6oQxXMJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Qq08meHcEtnciS6oQxXMJ",
+        "id": "3Qq08meHcEtnciS6oQxXMJ",
+        "is_local": false,
+        "name": "No Love Lost",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/c4cf258356cc832329bec4b5c2279e1774046393?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3Qq08meHcEtnciS6oQxXMJ"
+    }
+}

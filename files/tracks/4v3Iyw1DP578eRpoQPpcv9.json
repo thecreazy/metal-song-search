@@ -1,0 +1,216 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I sneak in my own house",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's four in the morning",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I had too much to drink",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Said I was out with the boys",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I creep in my bedroom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I slip into bed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know if I wake her, I'll wake up",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ooh, I wonder, will she find out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Bout the other",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Other lover",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Diana",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wake up dead (you die)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wake up dead (and buried)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wake up dead (you die)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wake up dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "141677562",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "single",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3JFsVIxOn7STeilPICkkB2",
+                    "id": "3JFsVIxOn7STeilPICkkB2",
+                    "name": "Lamb of God",
+                    "type": "artist",
+                    "uri": "spotify:artist:3JFsVIxOn7STeilPICkkB2"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+                    "id": "1Yox196W7bzVNZI7RBaPnf",
+                    "name": "Megadeth",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6BJrJlkffGEpipjY9OFq6t"
+            },
+            "href": "https://api.spotify.com/v1/albums/6BJrJlkffGEpipjY9OFq6t",
+            "id": "6BJrJlkffGEpipjY9OFq6t",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736984d6ef31693da8132af1f7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026984d6ef31693da8132af1f7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516984d6ef31693da8132af1f7",
+                    "width": 64
+                }
+            ],
+            "name": "Wake up Dead (feat. Dave Mustaine)",
+            "release_date": "2022-04-01",
+            "release_date_precision": "day",
+            "total_tracks": 1,
+            "type": "album",
+            "uri": "spotify:album:6BJrJlkffGEpipjY9OFq6t"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+                },
+                "href": "https://api.spotify.com/v1/artists/3JFsVIxOn7STeilPICkkB2",
+                "id": "3JFsVIxOn7STeilPICkkB2",
+                "name": "Lamb of God",
+                "type": "artist",
+                "uri": "spotify:artist:3JFsVIxOn7STeilPICkkB2"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+                },
+                "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+                "id": "1Yox196W7bzVNZI7RBaPnf",
+                "name": "Megadeth",
+                "type": "artist",
+                "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6jhdkDXD8A4iI2pLpb90QC"
+                },
+                "href": "https://api.spotify.com/v1/artists/6jhdkDXD8A4iI2pLpb90QC",
+                "id": "6jhdkDXD8A4iI2pLpb90QC",
+                "name": "Dave Mustaine",
+                "type": "artist",
+                "uri": "spotify:artist:6jhdkDXD8A4iI2pLpb90QC"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 223413,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM12202745"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4v3Iyw1DP578eRpoQPpcv9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4v3Iyw1DP578eRpoQPpcv9",
+        "id": "4v3Iyw1DP578eRpoQPpcv9",
+        "is_local": false,
+        "name": "Wake up Dead (feat. Dave Mustaine)",
+        "popularity": 48,
+        "preview_url": "https://p.scdn.co/mp3-preview/16adcbec479c4b0db4a28f992c42c68d5df96236?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4v3Iyw1DP578eRpoQPpcv9"
+    }
+}

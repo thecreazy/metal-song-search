@@ -1,0 +1,271 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Hearts of stone, skull and crossbones",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We band together",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The sound of steel, a noise you can feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The smell of leather",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Suspendered thighs, blackened cat eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We love to shout",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The power's in the crowd",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cause we all, we all, love it loud",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The power's in the crowd - we love it loud",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We all need - american metal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through in through - american metal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've got to bleed - american metal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Red, white and blue - american metal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hear the thunder, rumbling under",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It cracks the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My the dust never settle",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heavy metal, will never die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Salute the flag and raise up your fist",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And scream it out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The power's in the crowd",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cause we all - we all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Love it loud - the power's in the crowd - we love it loud",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We all need - american metal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through in through - american metal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've got to bleed - american metal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Red, white and blue - american metal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We all need - american metal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through in through - american metal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've got to bleed - american metal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Red, white and blue - american metal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "554964",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0ZdLFpb5MhkSrsHef7A3Bb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0ZdLFpb5MhkSrsHef7A3Bb",
+                    "id": "0ZdLFpb5MhkSrsHef7A3Bb",
+                    "name": "Lizzy Borden",
+                    "type": "artist",
+                    "uri": "spotify:artist:0ZdLFpb5MhkSrsHef7A3Bb"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7lWb7dqv8yhKsxAorAQTiv"
+            },
+            "href": "https://api.spotify.com/v1/albums/7lWb7dqv8yhKsxAorAQTiv",
+            "id": "7lWb7dqv8yhKsxAorAQTiv",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27354ac1f1c4e1516c683e5d2f1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0254ac1f1c4e1516c683e5d2f1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485154ac1f1c4e1516c683e5d2f1",
+                    "width": 64
+                }
+            ],
+            "name": "Love You to Pieces",
+            "release_date": "1985",
+            "release_date_precision": "year",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:7lWb7dqv8yhKsxAorAQTiv"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0ZdLFpb5MhkSrsHef7A3Bb"
+                },
+                "href": "https://api.spotify.com/v1/artists/0ZdLFpb5MhkSrsHef7A3Bb",
+                "id": "0ZdLFpb5MhkSrsHef7A3Bb",
+                "name": "Lizzy Borden",
+                "type": "artist",
+                "uri": "spotify:artist:0ZdLFpb5MhkSrsHef7A3Bb"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 354373,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USMBR0400524"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3M05Kes8UfgCy0scLa1Bd3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3M05Kes8UfgCy0scLa1Bd3",
+        "id": "3M05Kes8UfgCy0scLa1Bd3",
+        "is_local": false,
+        "name": "American Metal",
+        "popularity": 23,
+        "preview_url": "https://p.scdn.co/mp3-preview/6eb324b235acf4281a9f86f0b376d22792c45994?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3M05Kes8UfgCy0scLa1Bd3"
+    }
+}

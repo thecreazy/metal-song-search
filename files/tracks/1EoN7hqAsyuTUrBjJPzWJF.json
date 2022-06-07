@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Again I see you standing there watching me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your gaze, those eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are tantalizing openly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inviting me to get close to you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't help myself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's fascination in the air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I try to fight this strong sensation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But there's no chance to escape",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From this temptation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feels like I've known you before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Repeating phrases",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I yearn for something more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know I can't stay by your side forever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I know I won't forget your beauty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My black diamond",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know I can't stay by your side forever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I know I won't forget your beauty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My black diamond",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know I can't stay by your side forever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I know I won't forget your beauty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My black diamond",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I won't forget",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I can't stay by your side",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "847527",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1O8CSXsPwEqxcoBE360PPO",
+                    "id": "1O8CSXsPwEqxcoBE360PPO",
+                    "name": "Stratovarius",
+                    "type": "artist",
+                    "uri": "spotify:artist:1O8CSXsPwEqxcoBE360PPO"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/55qNkmFdL2xRZ728GIQcc1"
+            },
+            "href": "https://api.spotify.com/v1/albums/55qNkmFdL2xRZ728GIQcc1",
+            "id": "55qNkmFdL2xRZ728GIQcc1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27378582e8a50c60dac62312ca9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0278582e8a50c60dac62312ca9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485178582e8a50c60dac62312ca9",
+                    "width": 64
+                }
+            ],
+            "name": "Visions",
+            "release_date": "1997-08-29",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:55qNkmFdL2xRZ728GIQcc1"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+                },
+                "href": "https://api.spotify.com/v1/artists/1O8CSXsPwEqxcoBE360PPO",
+                "id": "1O8CSXsPwEqxcoBE360PPO",
+                "name": "Stratovarius",
+                "type": "artist",
+                "uri": "spotify:artist:1O8CSXsPwEqxcoBE360PPO"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 340240,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEA249700002"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1EoN7hqAsyuTUrBjJPzWJF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1EoN7hqAsyuTUrBjJPzWJF",
+        "id": "1EoN7hqAsyuTUrBjJPzWJF",
+        "is_local": false,
+        "name": "Black Diamond",
+        "popularity": 51,
+        "preview_url": "https://p.scdn.co/mp3-preview/a030a30727f2ab26aa6ebf0f02469fea9ebe401b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1EoN7hqAsyuTUrBjJPzWJF"
+    }
+}

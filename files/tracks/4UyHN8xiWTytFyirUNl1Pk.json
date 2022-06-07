@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Silent dance with death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everything is lost",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Torn by the arrival of autumn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The blink of an eye, you know it's me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You keep the dagger close at hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you saw nothing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "False love turned to pure hate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The wind cried lamentation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Before merging with the grey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Demon, demon of the fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Demon, demon of the fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Demon, demon of the fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Demon, demon of the fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gasping for another breath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She rose, screaming at closed doors",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seductive faint mist",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forging through the cracks in the wall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I shan't resist",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In tears for all of eternity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She turned around",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And faced me for the first time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Run away, run away, run away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Run away, run away, run away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just one second, and I was left with nothing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Her fragrance still pulsating through damp air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That day came to an end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And she had lost in me her credence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1050164",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0ybFZ2Ab08V8hueghSXm6E",
+                    "id": "0ybFZ2Ab08V8hueghSXm6E",
+                    "name": "Opeth",
+                    "type": "artist",
+                    "uri": "spotify:artist:0ybFZ2Ab08V8hueghSXm6E"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4b7oroZfX3w5vaRaotvr6p"
+            },
+            "href": "https://api.spotify.com/v1/albums/4b7oroZfX3w5vaRaotvr6p",
+            "id": "4b7oroZfX3w5vaRaotvr6p",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e4f5448b3adf7854889ce6c1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e4f5448b3adf7854889ce6c1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e4f5448b3adf7854889ce6c1",
+                    "width": 64
+                }
+            ],
+            "name": "My Arms, Your Hearse",
+            "release_date": "1998-08-18",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:4b7oroZfX3w5vaRaotvr6p"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+                },
+                "href": "https://api.spotify.com/v1/artists/0ybFZ2Ab08V8hueghSXm6E",
+                "id": "0ybFZ2Ab08V8hueghSXm6E",
+                "name": "Opeth",
+                "type": "artist",
+                "uri": "spotify:artist:0ybFZ2Ab08V8hueghSXm6E"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 373386,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBADD0405506"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4UyHN8xiWTytFyirUNl1Pk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4UyHN8xiWTytFyirUNl1Pk",
+        "id": "4UyHN8xiWTytFyirUNl1Pk",
+        "is_local": false,
+        "name": "Demon Of The Fall",
+        "popularity": 40,
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:4UyHN8xiWTytFyirUNl1Pk"
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "You go to the church, you kiss the cross",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You will be saved at any cost",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You have your own reality, Christianity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You spend your life just kissing ass",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A trait that's grown as time has passed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You think the world will end today, you praise the Lord, it's all you say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus saves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Listen to you pray",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You think you'll see the pearly gates when death takes you away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For all respect you cannot lust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In an invisible man you place your trust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Indirect dependency, eternal attempt at amnesty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He will decide who lives and dies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Depopulate Satanas rise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You will be an accessory, irreverence and blasphemy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus saves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No need to pray",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The gates of pearl have turned to gold, it seems you've lost your way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus saves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No words of praise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No promised land to take you to, there is no other way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "531963",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk",
+                    "id": "1IQ2e1buppatiN1bxUVkrk",
+                    "name": "Slayer",
+                    "type": "artist",
+                    "uri": "spotify:artist:1IQ2e1buppatiN1bxUVkrk"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU"
+            },
+            "href": "https://api.spotify.com/v1/albums/5v5BfkxWDAKTkzrXl3H0mU",
+            "id": "5v5BfkxWDAKTkzrXl3H0mU",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731530f31c8d4197777b70ee5d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021530f31c8d4197777b70ee5d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511530f31c8d4197777b70ee5d",
+                    "width": 64
+                }
+            ],
+            "name": "Reign In Blood (Expanded)",
+            "release_date": "1986-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:5v5BfkxWDAKTkzrXl3H0mU"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+                },
+                "href": "https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk",
+                "id": "1IQ2e1buppatiN1bxUVkrk",
+                "name": "Slayer",
+                "type": "artist",
+                "uri": "spotify:artist:1IQ2e1buppatiN1bxUVkrk"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 174160,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USSM18600237"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/47YR9X6SpcI4jYA2DOOhZm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/47YR9X6SpcI4jYA2DOOhZm",
+        "id": "47YR9X6SpcI4jYA2DOOhZm",
+        "is_local": false,
+        "name": "Jesus Saves",
+        "popularity": 41,
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:47YR9X6SpcI4jYA2DOOhZm"
+    }
+}

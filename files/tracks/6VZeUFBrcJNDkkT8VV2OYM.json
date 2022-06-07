@@ -1,0 +1,226 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "In a blackened blur of crowding clouds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I dropped my sorrow among the leaves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I took my place as wise men do",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As the storm prepared its release",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through raging winds and weeping skies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I sat in the loneliness of solitude",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I washed my eyes in growing streams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Earth's resistance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "True magnitude",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As black sky faded to blue",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And again the Earth felt the sunrise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A silver mirror stood before me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bequeath of the silent rainbow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A beautiful mirror of radiant splendor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As ominous as the autumn moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It brought upon me endless wonder",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yet spoke of some unknown doom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As I reflect back on this day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No words could ever tell...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I saw my world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But could not see myself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In strange visions",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And through the windows of dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We solemnly gaze beyond",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What is revealed to our eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Exists already in our minds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "536883",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5V90fvD7DirEM3gF2bs9Gw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5V90fvD7DirEM3gF2bs9Gw",
+                    "id": "5V90fvD7DirEM3gF2bs9Gw",
+                    "name": "Solitude Aeturnus",
+                    "type": "artist",
+                    "uri": "spotify:artist:5V90fvD7DirEM3gF2bs9Gw"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/02iH5pxrznY3IgAc6ZQBbk"
+            },
+            "href": "https://api.spotify.com/v1/albums/02iH5pxrznY3IgAc6ZQBbk",
+            "id": "02iH5pxrznY3IgAc6ZQBbk",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ae5234b61013d3428f06147c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ae5234b61013d3428f06147c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ae5234b61013d3428f06147c",
+                    "width": 64
+                }
+            ],
+            "name": "Into the Depths of Sorrow",
+            "release_date": "1991-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:02iH5pxrznY3IgAc6ZQBbk"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5V90fvD7DirEM3gF2bs9Gw"
+                },
+                "href": "https://api.spotify.com/v1/artists/5V90fvD7DirEM3gF2bs9Gw",
+                "id": "5V90fvD7DirEM3gF2bs9Gw",
+                "name": "Solitude Aeturnus",
+                "type": "artist",
+                "uri": "spotify:artist:5V90fvD7DirEM3gF2bs9Gw"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 457000,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA321800212"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6VZeUFBrcJNDkkT8VV2OYM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6VZeUFBrcJNDkkT8VV2OYM",
+        "id": "6VZeUFBrcJNDkkT8VV2OYM",
+        "is_local": false,
+        "name": "Mirror Of Sorrow",
+        "popularity": 18,
+        "preview_url": "https://p.scdn.co/mp3-preview/3a568ed25537c18b89ca9a8aaed6cb5005b2dc2a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:6VZeUFBrcJNDkkT8VV2OYM"
+    }
+}

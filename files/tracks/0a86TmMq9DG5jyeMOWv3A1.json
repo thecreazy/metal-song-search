@@ -1,0 +1,176 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "The road,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's home,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "At least for now, the river's low",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wake me, please wake me,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's cold and warm on the prairie freeway",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All the time I needed your approval to be me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All that time spent waiting for the jury duty...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "More than ever I needed Mora",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "More than Mora means...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Be whatever you must be to get by",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's oil, It's wheat, It's soil, It's meat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's beef!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The road, it's home, the mountain high, river low...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wake me, please wake me,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When it's my turn to drive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Only the lonely (and maybe John Denver) know the Canadian freeway.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1430729",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6uejjWIOshliv2Ho0OJAQN",
+                    "id": "6uejjWIOshliv2Ho0OJAQN",
+                    "name": "Devin Townsend",
+                    "type": "artist",
+                    "uri": "spotify:artist:6uejjWIOshliv2Ho0OJAQN"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6w2kw48F3xyHLgY4GDwFRV"
+            },
+            "href": "https://api.spotify.com/v1/albums/6w2kw48F3xyHLgY4GDwFRV",
+            "id": "6w2kw48F3xyHLgY4GDwFRV",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27398bb355ab0e5833724b48288",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0298bb355ab0e5833724b48288",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485198bb355ab0e5833724b48288",
+                    "width": 64
+                }
+            ],
+            "name": "Terria",
+            "release_date": "2001-08-21",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:6w2kw48F3xyHLgY4GDwFRV"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+                },
+                "href": "https://api.spotify.com/v1/artists/6uejjWIOshliv2Ho0OJAQN",
+                "id": "6uejjWIOshliv2Ho0OJAQN",
+                "name": "Devin Townsend",
+                "type": "artist",
+                "uri": "spotify:artist:6uejjWIOshliv2Ho0OJAQN"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 413280,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBDHC0911805"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0a86TmMq9DG5jyeMOWv3A1"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0a86TmMq9DG5jyeMOWv3A1",
+        "id": "0a86TmMq9DG5jyeMOWv3A1",
+        "is_local": false,
+        "name": "Canada",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/aa0bcae2c8d2076a1b52e94699f768751c466ef3?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0a86TmMq9DG5jyeMOWv3A1"
+    }
+}

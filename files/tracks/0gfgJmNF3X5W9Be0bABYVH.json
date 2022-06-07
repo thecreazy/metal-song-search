@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Their freedom was taken away as they crashed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To be abducted for research",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The experiment will make sure they won't last",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are there still some alive ones?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The incident was shut down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Because national security was in jeopardy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They say the weather balloon crashed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But we know it's bullshit",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We have the right to know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What really happened in Roswell 47",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shipping back pieces to hangar",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To slowly put it together",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To find new weapon technology",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And maybe answer how to live forever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Afraid of spreading the disease",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chaos and confusion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The energy, physics law will be worthless",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But we have the right to know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What really happened in Roswell 47",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They came to visit us in secret",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But something really happened",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They lost control and crashed in Roswell 1947",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "1947",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1262706",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/73UIalJYgktSi7qQFV53Qv",
+                    "id": "73UIalJYgktSi7qQFV53Qv",
+                    "name": "Hypocrisy",
+                    "type": "artist",
+                    "uri": "spotify:artist:73UIalJYgktSi7qQFV53Qv"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4QC5Ays8N3RyU3dwASnyUX"
+            },
+            "href": "https://api.spotify.com/v1/albums/4QC5Ays8N3RyU3dwASnyUX",
+            "id": "4QC5Ays8N3RyU3dwASnyUX",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f3014cfd86d53823a1a379b5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f3014cfd86d53823a1a379b5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f3014cfd86d53823a1a379b5",
+                    "width": 64
+                }
+            ],
+            "name": "Abducted",
+            "release_date": "1996-02-13",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:4QC5Ays8N3RyU3dwASnyUX"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv"
+                },
+                "href": "https://api.spotify.com/v1/artists/73UIalJYgktSi7qQFV53Qv",
+                "id": "73UIalJYgktSi7qQFV53Qv",
+                "name": "Hypocrisy",
+                "type": "artist",
+                "uri": "spotify:artist:73UIalJYgktSi7qQFV53Qv"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 236693,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED839666602"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0gfgJmNF3X5W9Be0bABYVH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0gfgJmNF3X5W9Be0bABYVH",
+        "id": "0gfgJmNF3X5W9Be0bABYVH",
+        "is_local": false,
+        "name": "Roswell 47",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/d79d9d5263e2e3f3172ee8855aa7cb6e7e64c71b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0gfgJmNF3X5W9Be0bABYVH"
+    }
+}

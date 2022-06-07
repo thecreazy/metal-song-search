@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "A cart rolled through the town",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And people all around",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gathered for the burning of the witch",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They grit their teeth in anger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They raise their arms in fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The burning stake was-a-ready for that bitch",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Singing \"Burn her!\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Burn her!\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Burn her to the ground!\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Singing \"Burn her sins!\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Burn her pride!\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Burn her till she dies!\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They tie her to the stake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "People shout abuse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They want to hear the sizzling of her flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She looks at them and curses",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Each one of them in town",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The execution flame put her to the ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Singing \"Burn her!\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Burn her!\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Burn her to the ground!\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Singing \"Burn her sins!\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Burn her pride!\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Burn her till she dies!\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You cannot see her body",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smoke is all around",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All you hear is the sizzling of her flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fire burns so quickly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smoke begins to clear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Preacher man stood up, pronounced her dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Singing \"Burn her!\". . . x2",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yeah singing \"Burn Her!\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1946159",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1QqtUGvZnULbTYLj6y69vO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1QqtUGvZnULbTYLj6y69vO",
+                    "id": "1QqtUGvZnULbTYLj6y69vO",
+                    "name": "Witchfinder General",
+                    "type": "artist",
+                    "uri": "spotify:artist:1QqtUGvZnULbTYLj6y69vO"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3IVyaWATbkQvhJeOjKtsOR"
+            },
+            "href": "https://api.spotify.com/v1/albums/3IVyaWATbkQvhJeOjKtsOR",
+            "id": "3IVyaWATbkQvhJeOjKtsOR",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b29f071bff933acd9411b517",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b29f071bff933acd9411b517",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b29f071bff933acd9411b517",
+                    "width": 64
+                }
+            ],
+            "name": "Death Penalty",
+            "release_date": "1982",
+            "release_date_precision": "year",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:3IVyaWATbkQvhJeOjKtsOR"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1QqtUGvZnULbTYLj6y69vO"
+                },
+                "href": "https://api.spotify.com/v1/artists/1QqtUGvZnULbTYLj6y69vO",
+                "id": "1QqtUGvZnULbTYLj6y69vO",
+                "name": "Witchfinder General",
+                "type": "artist",
+                "uri": "spotify:artist:1QqtUGvZnULbTYLj6y69vO"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 208840,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "FR6V80285855"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0Nfca72ZUIRykl2vFOtytk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0Nfca72ZUIRykl2vFOtytk",
+        "id": "0Nfca72ZUIRykl2vFOtytk",
+        "is_local": false,
+        "name": "Burning a Sinner",
+        "popularity": 25,
+        "preview_url": "https://p.scdn.co/mp3-preview/ca8281e32cc48802eb2a992fba3d4426d5f64a6b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:0Nfca72ZUIRykl2vFOtytk"
+    }
+}

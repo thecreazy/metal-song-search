@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Shut up, you talk too loud",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You don't fit in with the crowd",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can't believe you exist",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've crossed you right off my list",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too much, too soon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're way out of tune",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No class",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No class",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Way out, you're way out of line",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No buddy, I can't spare a dime",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fade out, baby, that's right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No bark and even less bite",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your perfect smile",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Betrays your lack of style",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No class",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No class",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Aaah, no class",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No class",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No class",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too late, you can't catch up now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You face the wrong way anyhow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know you ain't got the brain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To come in out of the rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too bad, no magic",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm afraid you're really tragic",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No class",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baby, no class",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No class",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Aaah, no class",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "457049",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                    "id": "1DFr97A9HnbV3SKTJFu62M",
+                    "name": "Motörhead",
+                    "type": "artist",
+                    "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+            },
+            "href": "https://api.spotify.com/v1/albums/5iw08epzFaKtmX3y2vRVU6",
+            "id": "5iw08epzFaKtmX3y2vRVU6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273aba003d455c566040b353025",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02aba003d455c566040b353025",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851aba003d455c566040b353025",
+                    "width": 64
+                }
+            ],
+            "name": "Overkill (Expanded Bonus Track Edition)",
+            "release_date": "1979-03-24",
+            "release_date_precision": "day",
+            "total_tracks": 29,
+            "type": "album",
+            "uri": "spotify:album:5iw08epzFaKtmX3y2vRVU6"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                },
+                "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                "id": "1DFr97A9HnbV3SKTJFu62M",
+                "name": "Motörhead",
+                "type": "artist",
+                "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 158733,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE0504113"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7tcjO6ihGhcKi5mRu0jXZy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7tcjO6ihGhcKi5mRu0jXZy",
+        "id": "7tcjO6ihGhcKi5mRu0jXZy",
+        "is_local": false,
+        "name": "No Class",
+        "popularity": 40,
+        "preview_url": "https://p.scdn.co/mp3-preview/37e5d989dc5151c9bcce63ca552326d455dc1896?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:7tcjO6ihGhcKi5mRu0jXZy"
+    }
+}

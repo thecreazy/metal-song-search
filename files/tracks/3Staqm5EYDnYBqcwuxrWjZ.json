@@ -1,0 +1,211 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Only way to feel the noise is when it's good and loud",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So good I can't believe it, screaming with the crowd",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't sweat it, we'll get it back to you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't sweat it, we'll get it back to you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Overkill, overkill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Overkill, na-na-na",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On your feet you feel the beat, it goes straight to your spine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shake your head, you must be dead if it don't make you fly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't sweat it, we'll get it back to you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't sweat it, we'll get it back to you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Overkill, overkill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Overkill, ahh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Know your body's made to move, you feel it in your guts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rock and roll ain't worth the name if it don't make you strut",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't sweat it, we'll get it back to you, hey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't sweat it, we'll get it back to you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Overkill, overkill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Overkill, ta-ta, da-da-da",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come on, come on, come on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "133455083",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                    "id": "1DFr97A9HnbV3SKTJFu62M",
+                    "name": "Motörhead",
+                    "type": "artist",
+                    "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+            },
+            "href": "https://api.spotify.com/v1/albums/5iw08epzFaKtmX3y2vRVU6",
+            "id": "5iw08epzFaKtmX3y2vRVU6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273aba003d455c566040b353025",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02aba003d455c566040b353025",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851aba003d455c566040b353025",
+                    "width": 64
+                }
+            ],
+            "name": "Overkill (Expanded Bonus Track Edition)",
+            "release_date": "1979-03-24",
+            "release_date_precision": "day",
+            "total_tracks": 29,
+            "type": "album",
+            "uri": "spotify:album:5iw08epzFaKtmX3y2vRVU6"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                },
+                "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                "id": "1DFr97A9HnbV3SKTJFu62M",
+                "name": "Motörhead",
+                "type": "artist",
+                "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 311133,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE7900077"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Staqm5EYDnYBqcwuxrWjZ",
+        "id": "3Staqm5EYDnYBqcwuxrWjZ",
+        "is_local": false,
+        "name": "Overkill",
+        "popularity": 57,
+        "preview_url": "https://p.scdn.co/mp3-preview/fe0d7844ce5fabd9190d5fe52940c83a3d5e7392?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3Staqm5EYDnYBqcwuxrWjZ"
+    }
+}

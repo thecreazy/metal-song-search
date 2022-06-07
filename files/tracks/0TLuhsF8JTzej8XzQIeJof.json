@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "\"To the wall\", claims the soldier",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My last steps march to the dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Last wills! Hell, this is idiotism!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fuck off to me, fuck off to all of you!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the death I raise my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My last moments, it's my existing countdown",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A cry for mercy trapped in my throat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But even in Hell there's a place for cowards",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The burning sun over my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The troop is comin', compassion I dismiss",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sentence of death pounding on my back",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's no hiding when you're thrown against the wall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"To Paradise\", the priest is saying, blessing my death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He's standing in front of me, his merciful sight sickens me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He says that soon I'll have my judgement",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll kneel down in front of the Lord",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And he asks me to regret my sins, but it's too late",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Growling words from the Bible, raising my agony",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Oh God!) How I'd like to have my hands untied",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The wall I'm facing now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seeing my life going through my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feeling death behind my back",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "An acrid taste of defeat tormenting my last years",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When I feel my body being punched, smashed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's no pain, just silence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My last breath echoing, spreading through the air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My body in pieces, a stream of blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bloody drops whipping the wall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The silent wall that has understood my silence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The silence that was a prisoner of my soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is my soul that now is the ruler of the world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the wall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "307675",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6JW8wliOEwaDZ231ZY7cf4",
+                    "id": "6JW8wliOEwaDZ231ZY7cf4",
+                    "name": "Sepultura",
+                    "type": "artist",
+                    "uri": "spotify:artist:6JW8wliOEwaDZ231ZY7cf4"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6HKTApHHNPs9EmWrbPWnRl"
+            },
+            "href": "https://api.spotify.com/v1/albums/6HKTApHHNPs9EmWrbPWnRl",
+            "id": "6HKTApHHNPs9EmWrbPWnRl",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738efc95b1d1e04e06d6ff25e9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028efc95b1d1e04e06d6ff25e9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518efc95b1d1e04e06d6ff25e9",
+                    "width": 64
+                }
+            ],
+            "name": "Schizophrenia",
+            "release_date": "1987-10-30",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:6HKTApHHNPs9EmWrbPWnRl"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+                },
+                "href": "https://api.spotify.com/v1/artists/6JW8wliOEwaDZ231ZY7cf4",
+                "id": "6JW8wliOEwaDZ231ZY7cf4",
+                "name": "Sepultura",
+                "type": "artist",
+                "uri": "spotify:artist:6JW8wliOEwaDZ231ZY7cf4"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 338933,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "NLA329780614"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0TLuhsF8JTzej8XzQIeJof"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TLuhsF8JTzej8XzQIeJof",
+        "id": "0TLuhsF8JTzej8XzQIeJof",
+        "is_local": false,
+        "name": "To the Wall",
+        "popularity": 30,
+        "preview_url": "https://p.scdn.co/mp3-preview/da8a6e38c21c92fbe4c94d757837d43ed24db74c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:0TLuhsF8JTzej8XzQIeJof"
+    }
+}

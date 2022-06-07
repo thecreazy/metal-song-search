@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "\"If visible identification is not possible,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The pathologist may be able to take",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fingerprints from the body until decay sets in...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Things become more complicated\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Intenacious, intersecting",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Reaving fats from corporal griskin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Culled... for sodden gelatine brayed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Skeletal groats triturated, desinently",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Exsiccated, sere glutenate brewed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For frivolous solvent abuse...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Derogate coarse remains",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For glue to dry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Despoiled marrow razed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...a truculent shambles so severe...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Extravated bone - as adhesive incarnate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A pellucid quietus - nocuosly I create",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Corporal glue, breathe in the fumes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mucilage vapours, toxic fumes to savour",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Lead: glue stiffing by w.g. steer)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Comminuted remains",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As gum to dry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A lissom gel so glazed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...a truculent shambolic affair...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The exsanguine esprit - shorted as snuff",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rheumic oils forever - bonded together as gum",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Human glue, choke on the fumes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Noxious vapours, slaughterous labour...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Lead: viscous residue snorting by m. Amott)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "713086",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5lhaM01nwvsMZpmPY2HVER",
+                    "id": "5lhaM01nwvsMZpmPY2HVER",
+                    "name": "Carcass",
+                    "type": "artist",
+                    "uri": "spotify:artist:5lhaM01nwvsMZpmPY2HVER"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3Tl1dAwNcRO1W6lMlpx0e3"
+            },
+            "href": "https://api.spotify.com/v1/albums/3Tl1dAwNcRO1W6lMlpx0e3",
+            "id": "3Tl1dAwNcRO1W6lMlpx0e3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e50870957378ba04996d66bf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e50870957378ba04996d66bf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e50870957378ba04996d66bf",
+                    "width": 64
+                }
+            ],
+            "name": "Necroticism - Descanting the Insalubrious",
+            "release_date": "1991",
+            "release_date_precision": "year",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:3Tl1dAwNcRO1W6lMlpx0e3"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5lhaM01nwvsMZpmPY2HVER"
+                },
+                "href": "https://api.spotify.com/v1/artists/5lhaM01nwvsMZpmPY2HVER",
+                "id": "5lhaM01nwvsMZpmPY2HVER",
+                "name": "Carcass",
+                "type": "artist",
+                "uri": "spotify:artist:5lhaM01nwvsMZpmPY2HVER"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 300106,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "GBBPB0401312"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/64UaO3QqQH225zhgj5PrUo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/64UaO3QqQH225zhgj5PrUo",
+        "id": "64UaO3QqQH225zhgj5PrUo",
+        "is_local": false,
+        "name": "Incarnated Solvent Abuse",
+        "popularity": 25,
+        "preview_url": "https://p.scdn.co/mp3-preview/e393df2764c7612af5959cd07be1e8e7120e01ef?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:64UaO3QqQH225zhgj5PrUo"
+    }
+}

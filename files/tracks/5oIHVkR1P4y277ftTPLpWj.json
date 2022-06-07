@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Your unflappable conceptions",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Moralistic views",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never open to criticism",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your overpowering ruse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Promises of sanctuary",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In eternal bliss",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With starry eyes and cash in hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pledge to all the master plan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just face the truth or fund the farce",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "At one with your god",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your sole intent",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your treasured place assured",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For a substantial rent",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Global lunacy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death threats for supposed blasphemy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No room for free thought",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All non believers pushed to the floor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Aggressive tyrants",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Supposed saints for the cause",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Judgement through force",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Faith a fuel for pointless wars",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When all is done",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who shall benefit? Who is the one?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Not to those who pass on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But those dictators divine waving their deceitful wands.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "712534",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3UqRgrDIQ208yNGiWKRMNt",
+                    "id": "3UqRgrDIQ208yNGiWKRMNt",
+                    "name": "Napalm Death",
+                    "type": "artist",
+                    "uri": "spotify:artist:3UqRgrDIQ208yNGiWKRMNt"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1UfXjeHkdogWNQNFE1d8Mz"
+            },
+            "href": "https://api.spotify.com/v1/albums/1UfXjeHkdogWNQNFE1d8Mz",
+            "id": "1UfXjeHkdogWNQNFE1d8Mz",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c7568f52927c6f7f872854ef",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c7568f52927c6f7f872854ef",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c7568f52927c6f7f872854ef",
+                    "width": 64
+                }
+            ],
+            "name": "Harmony Corruption",
+            "release_date": "1990",
+            "release_date_precision": "year",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:1UfXjeHkdogWNQNFE1d8Mz"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
+                },
+                "href": "https://api.spotify.com/v1/artists/3UqRgrDIQ208yNGiWKRMNt",
+                "id": "3UqRgrDIQ208yNGiWKRMNt",
+                "name": "Napalm Death",
+                "type": "artist",
+                "uri": "spotify:artist:3UqRgrDIQ208yNGiWKRMNt"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 260933,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBPB0700157"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5oIHVkR1P4y277ftTPLpWj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5oIHVkR1P4y277ftTPLpWj",
+        "id": "5oIHVkR1P4y277ftTPLpWj",
+        "is_local": false,
+        "name": "Suffer The Children",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/6ab9b33f42314fbcb7a0fec99856cbd8aca377b8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5oIHVkR1P4y277ftTPLpWj"
+    }
+}

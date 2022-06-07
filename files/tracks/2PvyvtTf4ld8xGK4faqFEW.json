@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "The spell has been broken, the curse has been lifted",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Black is the wind on the heels of the gifted",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Four sworn to vengeance, see the hate in our eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Called by the Gods and given a sign",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Onward pounding into glory ride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sign of the hammer, be my guide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Final warning, all stand aside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sign of the hammer, it's my time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pounding, pounding, we are back from the dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Those who denied us are delivered instead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Into the hands of four sworn to ride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now the people will triumph and live by the sign",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Onward pounding into glory ride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sign of the hammer, be my guide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Final warning, all stand aside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sign of the hammer, it's my time, no, no, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The spell has been broken, the curse has been lifted",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Black is the wind on the heels of the gifted",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Four sworn to vengeance, see the hate in our eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Called by the Gods and given a sign",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Onward pounding into glory ride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sign of the hammer, be my guide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Final warning, all stand aside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Old men and young boys, it's my time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sign of the hammer, it's my time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sign of the hammer, be my guide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sign of the hammer, be my guide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sign of the hammer, it's my time, oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Be my guide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "553069",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4CzUzn54Cp9TQr6a7JIlMZ",
+                    "id": "4CzUzn54Cp9TQr6a7JIlMZ",
+                    "name": "Manowar",
+                    "type": "artist",
+                    "uri": "spotify:artist:4CzUzn54Cp9TQr6a7JIlMZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2Ry1UTk7LC4bpZ6cXiAdPC"
+            },
+            "href": "https://api.spotify.com/v1/albums/2Ry1UTk7LC4bpZ6cXiAdPC",
+            "id": "2Ry1UTk7LC4bpZ6cXiAdPC",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ff9ed111df9875691321f1e9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ff9ed111df9875691321f1e9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ff9ed111df9875691321f1e9",
+                    "width": 64
+                }
+            ],
+            "name": "Sign Of The Hammer",
+            "release_date": "1984-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:2Ry1UTk7LC4bpZ6cXiAdPC"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/4CzUzn54Cp9TQr6a7JIlMZ",
+                "id": "4CzUzn54Cp9TQr6a7JIlMZ",
+                "name": "Manowar",
+                "type": "artist",
+                "uri": "spotify:artist:4CzUzn54Cp9TQr6a7JIlMZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 258826,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAAA8400088"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2PvyvtTf4ld8xGK4faqFEW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2PvyvtTf4ld8xGK4faqFEW",
+        "id": "2PvyvtTf4ld8xGK4faqFEW",
+        "is_local": false,
+        "name": "Sign Of The Hammer",
+        "popularity": 32,
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2PvyvtTf4ld8xGK4faqFEW"
+    }
+}

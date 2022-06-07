@@ -1,0 +1,216 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "The night of timeless fire is drawing near",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I flee",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Throughout the years of throe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Watching through a mirror, as I fall apart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I see a wreck, I'm burning, I'm burning",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I see angels burning, falling down in ruins",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Looking down I see me, I'm my own enemy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Watching myself decaying, decaying",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Falling from high spirits, spirits",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I flee",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Throughout the ruins of me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Longing for finding my way out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Leaving myself, there's nothing left for me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The ruins are about to crumble down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The flame is dying by shivery winds of jet black skies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It reflects hatred in my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I see angels burning, falling down in ruins",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Looking down, I see my ashes scattered around my grave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angels whispering fire, no longer I'm alive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Settled down, I'm done with the trip to my kingdom come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "844164",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1xUhNgw4eJDZfvumIpcz1B",
+                    "id": "1xUhNgw4eJDZfvumIpcz1B",
+                    "name": "Children Of Bodom",
+                    "type": "artist",
+                    "uri": "spotify:artist:1xUhNgw4eJDZfvumIpcz1B"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5MCc07PcloHExkLxifoILv"
+            },
+            "href": "https://api.spotify.com/v1/albums/5MCc07PcloHExkLxifoILv",
+            "id": "5MCc07PcloHExkLxifoILv",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273679b19fc87ece9ae886789cf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02679b19fc87ece9ae886789cf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851679b19fc87ece9ae886789cf",
+                    "width": 64
+                }
+            ],
+            "name": "Hatebreeder",
+            "release_date": "1999-05-04",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:5MCc07PcloHExkLxifoILv"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+                },
+                "href": "https://api.spotify.com/v1/artists/1xUhNgw4eJDZfvumIpcz1B",
+                "id": "1xUhNgw4eJDZfvumIpcz1B",
+                "name": "Children Of Bodom",
+                "type": "artist",
+                "uri": "spotify:artist:1xUhNgw4eJDZfvumIpcz1B"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 273706,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "FISFS9900003"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/42kcPmx3bxMU9si9HE4rgr"
+        },
+        "href": "https://api.spotify.com/v1/tracks/42kcPmx3bxMU9si9HE4rgr",
+        "id": "42kcPmx3bxMU9si9HE4rgr",
+        "is_local": false,
+        "name": "Downfall",
+        "popularity": 49,
+        "preview_url": null,
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:42kcPmx3bxMU9si9HE4rgr"
+    }
+}

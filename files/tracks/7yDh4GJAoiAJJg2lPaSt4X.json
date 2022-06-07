@@ -1,0 +1,206 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Talking to the songbird yesterday",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flew me to a past not far away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She's a little pirate in my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Singing songs of love to pass the time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gonna write a song so she can see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give her all the love she gives to me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Talk of better days that have yet to come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never felt this love from anyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She's not anyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She's not anyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She's not anyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A man can never dream these kind of things",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Especially when she came and spread her wings",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Whispered in my ear the things I'd like",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then she flew away into the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gonna write a song so she can see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give her all the love she gives to me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Talk of better days that have yet to come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never felt this love from anyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She's not anyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She's not anyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She's not anyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1085717",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+                    "id": "2DaxqgrOhkeH0fpeiQq2f4",
+                    "name": "Oasis",
+                    "type": "artist",
+                    "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4mMan8IGNJUhZ6du15ki5T"
+            },
+            "href": "https://api.spotify.com/v1/albums/4mMan8IGNJUhZ6du15ki5T",
+            "id": "4mMan8IGNJUhZ6du15ki5T",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f687135853a4488b2178d0bf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f687135853a4488b2178d0bf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f687135853a4488b2178d0bf",
+                    "width": 64
+                }
+            ],
+            "name": "Heathen Chemistry",
+            "release_date": "2002-02-03",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:4mMan8IGNJUhZ6du15ki5T"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+                },
+                "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+                "id": "2DaxqgrOhkeH0fpeiQq2f4",
+                "name": "Oasis",
+                "type": "artist",
+                "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 127560,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBQY0202036"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7yDh4GJAoiAJJg2lPaSt4X"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7yDh4GJAoiAJJg2lPaSt4X",
+        "id": "7yDh4GJAoiAJJg2lPaSt4X",
+        "is_local": false,
+        "name": "Songbird",
+        "popularity": 52,
+        "preview_url": "https://p.scdn.co/mp3-preview/af7910f43ee062a5d95eec28fe657d036b2ffd66?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:7yDh4GJAoiAJJg2lPaSt4X"
+    }
+}

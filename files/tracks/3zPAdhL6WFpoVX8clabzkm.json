@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "A day's light told me, of my son's fate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Sun showed the way, grim and severe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pulled under the raging waters, my child",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sank in the drowning currents, my son",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My son",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My son",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My strength is not enough, my powers failed me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I need the heavens help, I ask for thunder's force",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I plead for you oh lightning, forge an iron tool",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A magic rake for dragging, a river for my son",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My son",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "God of fire bring your light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forger of sun help me now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Guardian of the shore will sleep in your warmth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lull the folk of cold water",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Banish the serpents of the dark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the river let me go, and fetch my son away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Solo)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A rake made of iron from the Gods of skies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The spirit of bright days, sent me the sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cold troops of Tuoni cannot stand in my way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Untouched I shall walk, by the river of the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Solo)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "God of fire bring your light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forger of sun help me now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Guardian of the shore will sleep in your warmth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lull the folk of cold water",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Banish the serpents of the dark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the river let me go, and fetch my son away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My child, my son",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "586549",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2UOVgpgiNTC6KK0vSC77aD",
+                    "id": "2UOVgpgiNTC6KK0vSC77aD",
+                    "name": "Amorphis",
+                    "type": "artist",
+                    "uri": "spotify:artist:2UOVgpgiNTC6KK0vSC77aD"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6NFxW7hiSxqd3urL825LAi"
+            },
+            "href": "https://api.spotify.com/v1/albums/6NFxW7hiSxqd3urL825LAi",
+            "id": "6NFxW7hiSxqd3urL825LAi",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bc7896cc4de47004bc51e3ae",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bc7896cc4de47004bc51e3ae",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851bc7896cc4de47004bc51e3ae",
+                    "width": 64
+                }
+            ],
+            "name": "Silent Waters",
+            "release_date": "2007-08-31",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:6NFxW7hiSxqd3urL825LAi"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
+                },
+                "href": "https://api.spotify.com/v1/artists/2UOVgpgiNTC6KK0vSC77aD",
+                "id": "2UOVgpgiNTC6KK0vSC77aD",
+                "name": "Amorphis",
+                "type": "artist",
+                "uri": "spotify:artist:2UOVgpgiNTC6KK0vSC77aD"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 290186,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED830798903"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3zPAdhL6WFpoVX8clabzkm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3zPAdhL6WFpoVX8clabzkm",
+        "id": "3zPAdhL6WFpoVX8clabzkm",
+        "is_local": false,
+        "name": "Silent Waters",
+        "popularity": 36,
+        "preview_url": "https://p.scdn.co/mp3-preview/deb387da623fed4aecdeb5578eadd09a23c4c98c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3zPAdhL6WFpoVX8clabzkm"
+    }
+}

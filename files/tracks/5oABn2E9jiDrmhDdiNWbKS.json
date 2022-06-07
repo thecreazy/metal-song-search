@@ -1,0 +1,181 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Eight times of fel-an-fo-fi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like cobalt cast and clean",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I got a mojo felt the wheel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Real fashion feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tri-Jack it, black it for more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Handcuffs with special keys",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Triple locked and been down defiled",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's a V. S. I.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Throw a case of plasticine down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baby I can immolate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And it's rotten in my rounds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sister's in my way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm as fast as my home town",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Green glass it most of all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Been around this foreign cage",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Villiage in the wall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "704465",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6aVjo0xHSiuW5hkasoYSR3",
+                    "id": "6aVjo0xHSiuW5hkasoYSR3",
+                    "name": "Melvins",
+                    "type": "artist",
+                    "uri": "spotify:artist:6aVjo0xHSiuW5hkasoYSR3"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0agYsmUl1uS32ZFHKQ8L8W"
+            },
+            "href": "https://api.spotify.com/v1/albums/0agYsmUl1uS32ZFHKQ8L8W",
+            "id": "0agYsmUl1uS32ZFHKQ8L8W",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273638404f3498c5c96c220cbf8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02638404f3498c5c96c220cbf8",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851638404f3498c5c96c220cbf8",
+                    "width": 64
+                }
+            ],
+            "name": "Houdini",
+            "release_date": "1993-08-31",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:0agYsmUl1uS32ZFHKQ8L8W"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
+                },
+                "href": "https://api.spotify.com/v1/artists/6aVjo0xHSiuW5hkasoYSR3",
+                "id": "6aVjo0xHSiuW5hkasoYSR3",
+                "name": "Melvins",
+                "type": "artist",
+                "uri": "spotify:artist:6aVjo0xHSiuW5hkasoYSR3"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 181146,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USAT20103379"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5oABn2E9jiDrmhDdiNWbKS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5oABn2E9jiDrmhDdiNWbKS",
+        "id": "5oABn2E9jiDrmhDdiNWbKS",
+        "is_local": false,
+        "name": "Honey Bucket",
+        "popularity": 53,
+        "preview_url": "https://p.scdn.co/mp3-preview/883c86cde254281f310045fff8077cb9a67aba50?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:5oABn2E9jiDrmhDdiNWbKS"
+    }
+}

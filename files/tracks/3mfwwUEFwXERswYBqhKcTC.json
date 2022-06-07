@@ -1,0 +1,266 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Wretched will, host of pleasure surreal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Closed the room where the last is buried",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rise or fall at your master's request",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're unable to accept redemption",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't know about a true belief here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With the 'lost' it's the same as always",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All I want is the same,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All I want it!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A true belief",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You can't wait to become a memory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With the 'weak' it's the same as always",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stand confused lack of comprehension,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Re-aroused by a thought of madness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I know that the truth is always right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But it's time to search for lies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're the only I try to save",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But the blood spills from your veins",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All I want is the same,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All I want is!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A true belief",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Call counting time till the end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death's wicked smile never fails",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The curse is cast, you've lost the past",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forevermore, a candle burns here no more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't know about a century life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When the love of generations die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can see no good in taking your own life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When any moment death calls...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All I want is the same, A true belief",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "301764",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0gIo6kGl4KsCeIbqtZVHYp",
+                    "id": "0gIo6kGl4KsCeIbqtZVHYp",
+                    "name": "Paradise Lost",
+                    "type": "artist",
+                    "uri": "spotify:artist:0gIo6kGl4KsCeIbqtZVHYp"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3MYbbnq4ITUSbhKCwxwcZa"
+            },
+            "href": "https://api.spotify.com/v1/albums/3MYbbnq4ITUSbhKCwxwcZa",
+            "id": "3MYbbnq4ITUSbhKCwxwcZa",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e9349e6a309a0a66d709ae71",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e9349e6a309a0a66d709ae71",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e9349e6a309a0a66d709ae71",
+                    "width": 64
+                }
+            ],
+            "name": "Icon",
+            "release_date": "1993-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:3MYbbnq4ITUSbhKCwxwcZa"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+                },
+                "href": "https://api.spotify.com/v1/artists/0gIo6kGl4KsCeIbqtZVHYp",
+                "id": "0gIo6kGl4KsCeIbqtZVHYp",
+                "name": "Paradise Lost",
+                "type": "artist",
+                "uri": "spotify:artist:0gIo6kGl4KsCeIbqtZVHYp"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 270066,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCKC0700116"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3mfwwUEFwXERswYBqhKcTC"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3mfwwUEFwXERswYBqhKcTC",
+        "id": "3mfwwUEFwXERswYBqhKcTC",
+        "is_local": false,
+        "name": "True Belief",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/16efff82c4eb75377cfdfe5580d470aa8fb3ec6b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3mfwwUEFwXERswYBqhKcTC"
+    }
+}

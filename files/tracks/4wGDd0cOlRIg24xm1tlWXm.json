@@ -1,0 +1,156 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Always object",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never subject",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can you see us? Are we there?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are we there...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can you see me? We are watching",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are watching...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You are fading...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the daylight... Fading...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Always upon you, light never ceases",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lost from yourself, light never ceases",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thousands of eyes, gaze never ceases",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Light is upon you, life in you ceases",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "39685824",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2vsXeWGC8rILp3rpSN2Fyk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2vsXeWGC8rILp3rpSN2Fyk",
+                    "id": "2vsXeWGC8rILp3rpSN2Fyk",
+                    "name": "ISIS",
+                    "type": "artist",
+                    "uri": "spotify:artist:2vsXeWGC8rILp3rpSN2Fyk"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4YVSY6TwnXWH7Jz4olWO1e"
+            },
+            "href": "https://api.spotify.com/v1/albums/4YVSY6TwnXWH7Jz4olWO1e",
+            "id": "4YVSY6TwnXWH7Jz4olWO1e",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b48140642b176311d2e7e641",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b48140642b176311d2e7e641",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b48140642b176311d2e7e641",
+                    "width": 64
+                }
+            ],
+            "name": "Panopticon (Remastered)",
+            "release_date": "2004-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:4YVSY6TwnXWH7Jz4olWO1e"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2vsXeWGC8rILp3rpSN2Fyk"
+                },
+                "href": "https://api.spotify.com/v1/artists/2vsXeWGC8rILp3rpSN2Fyk",
+                "id": "2vsXeWGC8rILp3rpSN2Fyk",
+                "name": "ISIS",
+                "type": "artist",
+                "uri": "spotify:artist:2vsXeWGC8rILp3rpSN2Fyk"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 462481,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "QMDA71483994"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4wGDd0cOlRIg24xm1tlWXm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4wGDd0cOlRIg24xm1tlWXm",
+        "id": "4wGDd0cOlRIg24xm1tlWXm",
+        "is_local": false,
+        "name": "Backlit - Remastered",
+        "popularity": 24,
+        "preview_url": "https://p.scdn.co/mp3-preview/39d5d9ce6bf7382b394be4bbaa45b816bc9be36d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4wGDd0cOlRIg24xm1tlWXm"
+    }
+}

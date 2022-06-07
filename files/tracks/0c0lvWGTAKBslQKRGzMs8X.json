@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Close the city and tell the people",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That something's coming to call",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death and darkness are rushing forward",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To take a bite from the wall, oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've nothing to say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They're breaking away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If you listen to fools",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The mob rules",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The mob rules",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kill the spirits and you'll be blinded",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the end is always the same",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Play with fire you burn your fingers",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And lose your hold of the flame, oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's over, it's done",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The end has begun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If you listen to fools",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The mob rules",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've nothing to say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, they're breaking away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If you listen to fools",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Break the circle and stop the movement",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The wheel is thrown to the ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just remember it might start rolling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And take you right back around",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're all fools",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The mob rules",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "212330",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                    "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                    "name": "Black Sabbath",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2iaECLD2YLSEOkSfi7BRaC"
+            },
+            "href": "https://api.spotify.com/v1/albums/2iaECLD2YLSEOkSfi7BRaC",
+            "id": "2iaECLD2YLSEOkSfi7BRaC",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b309292845a47f6f30405016",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b309292845a47f6f30405016",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b309292845a47f6f30405016",
+                    "width": 64
+                }
+            ],
+            "name": "Mob Rules",
+            "release_date": "1981-11-04",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:2iaECLD2YLSEOkSfi7BRaC"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                "name": "Black Sabbath",
+                "type": "artist",
+                "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 194680,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBUM70900389"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0c0lvWGTAKBslQKRGzMs8X"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0c0lvWGTAKBslQKRGzMs8X",
+        "id": "0c0lvWGTAKBslQKRGzMs8X",
+        "is_local": false,
+        "name": "The Mob Rules - 2009 Remaster",
+        "popularity": 40,
+        "preview_url": "https://p.scdn.co/mp3-preview/5b2f40051e864446f592aa93faa7c741ac33d7df?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0c0lvWGTAKBslQKRGzMs8X"
+    }
+}

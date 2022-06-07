@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Inside four walls I live my life, doesn't matter what I've done",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The governement's always right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They tell us what to be they tell us what to believe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They're wrong my friend is gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inside four walls,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inside four walls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The day they took away my friend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Injustice made it's mark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All the political whores only come out after dark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If anyone knows the way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Build me a bridge so I won't fall astray",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inside four walls, inside four walls my friend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They took away your freedom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the pigs still preach their lies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The system falls apart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The pigs still laugh feeding off our broken lives",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can anyone tell me why",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Some violent criminals do far less time?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inside four walls, inside four walls my friend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They took away your freedom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the pigs still preach their lies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inside four walls, inside four walls my friend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They took away your freedom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the pigs still preach their lies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inside four walls, inside four walls my friend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They took away your freedom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But they'll never take your mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1111746",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1wUArE0NhHB8M1bU2WSplY",
+                    "id": "1wUArE0NhHB8M1bU2WSplY",
+                    "name": "Nevermore",
+                    "type": "artist",
+                    "uri": "spotify:artist:1wUArE0NhHB8M1bU2WSplY"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1v1hdLXVBjFel9srMX8paD"
+            },
+            "href": "https://api.spotify.com/v1/albums/1v1hdLXVBjFel9srMX8paD",
+            "id": "1v1hdLXVBjFel9srMX8paD",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27378ae18a19ac33612ff44d58b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0278ae18a19ac33612ff44d58b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485178ae18a19ac33612ff44d58b",
+                    "width": 64
+                }
+            ],
+            "name": "Dead Heart In a Dead World",
+            "release_date": "2000-07-13",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:1v1hdLXVBjFel9srMX8paD"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY"
+                },
+                "href": "https://api.spotify.com/v1/artists/1wUArE0NhHB8M1bU2WSplY",
+                "id": "1wUArE0NhHB8M1bU2WSplY",
+                "name": "Nevermore",
+                "type": "artist",
+                "uri": "spotify:artist:1wUArE0NhHB8M1bU2WSplY"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 279853,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40401003"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6tvE29461Ed6Jku2Mt484A"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6tvE29461Ed6Jku2Mt484A",
+        "id": "6tvE29461Ed6Jku2Mt484A",
+        "is_local": false,
+        "name": "Inside Four Walls",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/6fb49253082555edeb31d744f97608ccd8ff24d2?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6tvE29461Ed6Jku2Mt484A"
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Life is a waterfall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're one in the river and one again after the fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Swimming through the void we hear the word",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We lose ourselves, but we find it all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause we are the ones that wanna play",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Always wanna go, but you never wanna stay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And we are the ones that wanna choose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Always wanna play but you never wanna lose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Aerials in the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When you lose small mind you free your life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Life is a waterfall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We drink from the river then we turn around and put up our walls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Swimming through the void we hear the word",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We lose ourselves, but we find it all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause we are the ones that wanna play",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Always wanna go but you never wanna stay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And we are the ones that wanna choose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Always wanna play, but you never wanna lose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Aerials in the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When you lose small mind you free your life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Aerials, so up high",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When you free your eyes eternal prize",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Aerials in the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When you lose small mind you free your life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Aerials, so up high",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When you free your eyes eternal prize",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "781950",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1",
+                    "id": "5eAWCfyUhZtHHtBdNk56l1",
+                    "name": "System Of A Down",
+                    "type": "artist",
+                    "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+            },
+            "href": "https://api.spotify.com/v1/albums/6jWde94ln40epKIQCd8XUh",
+            "id": "6jWde94ln40epKIQCd8XUh",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27330d45198d0c9e8841f9a9578",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0230d45198d0c9e8841f9a9578",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485130d45198d0c9e8841f9a9578",
+                    "width": 64
+                }
+            ],
+            "name": "Toxicity",
+            "release_date": "2001-09-04",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:6jWde94ln40epKIQCd8XUh"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+                },
+                "href": "https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1",
+                "id": "5eAWCfyUhZtHHtBdNk56l1",
+                "name": "System Of A Down",
+                "type": "artist",
+                "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 235053,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM10107264"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4e9eGQYsOiBcftrWXwsVco",
+        "id": "4e9eGQYsOiBcftrWXwsVco",
+        "is_local": false,
+        "name": "Aerials",
+        "popularity": 74,
+        "preview_url": "https://p.scdn.co/mp3-preview/7b80f6c45863451d76d13d453e2db17e8a58d4d7?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 14,
+        "type": "track",
+        "uri": "spotify:track:4e9eGQYsOiBcftrWXwsVco"
+    }
+}

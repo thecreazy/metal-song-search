@@ -1,0 +1,176 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Scraping the Earth in search of the essence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metallic rock ore where iron is present",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Extraction smelters burn hot with phosphorescence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rivulets of sweat steam hot in the mold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Splashes in magenta, yellow and gold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Glowing sparks flashing too hot to hold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Made for pounding a massive weight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forming metal, willing fate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Power blasted streams engage the injection",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The mechanism reacts with affection",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Processing starts and so begins infection",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Altered shape, affected matter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Giving form, an ominous factor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never break it, it will never bend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Anvil was Forged In Fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Made for pounding a massive weight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forming metal, willing fate",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "560039",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0maNhqGx60ucjS4UaAH6cP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0maNhqGx60ucjS4UaAH6cP",
+                    "id": "0maNhqGx60ucjS4UaAH6cP",
+                    "name": "Anvil",
+                    "type": "artist",
+                    "uri": "spotify:artist:0maNhqGx60ucjS4UaAH6cP"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2JBtXhIEZzDfbAPNuxWtTW"
+            },
+            "href": "https://api.spotify.com/v1/albums/2JBtXhIEZzDfbAPNuxWtTW",
+            "id": "2JBtXhIEZzDfbAPNuxWtTW",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b81d4380e92422d835512549",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b81d4380e92422d835512549",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b81d4380e92422d835512549",
+                    "width": 64
+                }
+            ],
+            "name": "Forged in Fire",
+            "release_date": "1983-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2JBtXhIEZzDfbAPNuxWtTW"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0maNhqGx60ucjS4UaAH6cP"
+                },
+                "href": "https://api.spotify.com/v1/artists/0maNhqGx60ucjS4UaAH6cP",
+                "id": "0maNhqGx60ucjS4UaAH6cP",
+                "name": "Anvil",
+                "type": "artist",
+                "uri": "spotify:artist:0maNhqGx60ucjS4UaAH6cP"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 286600,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "CAU118301132"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/70N8h8D8oYKhO0l888tBRB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/70N8h8D8oYKhO0l888tBRB",
+        "id": "70N8h8D8oYKhO0l888tBRB",
+        "is_local": false,
+        "name": "Forged in Fire",
+        "popularity": 25,
+        "preview_url": "https://p.scdn.co/mp3-preview/540e805de991f7c821b1c3e5564efd8c34281069?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:70N8h8D8oYKhO0l888tBRB"
+    }
+}

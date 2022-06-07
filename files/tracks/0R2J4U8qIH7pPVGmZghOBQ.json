@@ -1,0 +1,206 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Beware, the shrapnel flies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flaming through the night, this night, tonight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The fever of blood runs high",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lightning strikes from the sky, this night, tonight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take them down, down to the ground, fire away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, I know just how you feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give them hell with flaming bloody steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In this worlds darkest hour",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Up the hammers to stay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't throw it away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flaming metal systems",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blazing to the fight, this night, tonight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Axe victims of wisdom cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Teaching themselves to die, this night, tonight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lightning strikes Thor's hammer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flaming metal systems",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Titans clash, cannons roar",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flaming metal systems",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ships of steel, funeral pyre",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flaming metal systems",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burning cross, sword of fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flaming metal systems",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "68597327",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1qt7m48wpniTuMJ2YsVBI5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1qt7m48wpniTuMJ2YsVBI5",
+                    "id": "1qt7m48wpniTuMJ2YsVBI5",
+                    "name": "Manilla Road",
+                    "type": "artist",
+                    "uri": "spotify:artist:1qt7m48wpniTuMJ2YsVBI5"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3D33RVGhzxPqNyVB4ybRuP"
+            },
+            "href": "https://api.spotify.com/v1/albums/3D33RVGhzxPqNyVB4ybRuP",
+            "id": "3D33RVGhzxPqNyVB4ybRuP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738e53463a20c204f1e2858c77",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028e53463a20c204f1e2858c77",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518e53463a20c204f1e2858c77",
+                    "width": 64
+                }
+            ],
+            "name": "Crystal Logic",
+            "release_date": "2013-11-29",
+            "release_date_precision": "day",
+            "total_tracks": 26,
+            "type": "album",
+            "uri": "spotify:album:3D33RVGhzxPqNyVB4ybRuP"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1qt7m48wpniTuMJ2YsVBI5"
+                },
+                "href": "https://api.spotify.com/v1/artists/1qt7m48wpniTuMJ2YsVBI5",
+                "id": "1qt7m48wpniTuMJ2YsVBI5",
+                "name": "Manilla Road",
+                "type": "artist",
+                "uri": "spotify:artist:1qt7m48wpniTuMJ2YsVBI5"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 343386,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEA311302545"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0R2J4U8qIH7pPVGmZghOBQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0R2J4U8qIH7pPVGmZghOBQ",
+        "id": "0R2J4U8qIH7pPVGmZghOBQ",
+        "is_local": false,
+        "name": "Flaming Metal System",
+        "popularity": 20,
+        "preview_url": "https://p.scdn.co/mp3-preview/b2d91ae4560b2c12ef7428417f058ff03546815c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:0R2J4U8qIH7pPVGmZghOBQ"
+    }
+}

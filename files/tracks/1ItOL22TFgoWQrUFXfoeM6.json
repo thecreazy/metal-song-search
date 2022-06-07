@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Creed of eternal life I swore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Held my candle of life to the void",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Risen from the dead I deaths powers wed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the name of the one with horns on head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sleep of eternity withdrawn as dark upon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The life of mine drew the very end so near",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The price another life the gospel of the",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Horned one to spread shore to shore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eternally his words let hear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Be silent listen to the wind crying out the",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Answer to all mankind call from other",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Side speach of horned divine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To end your search in hope to find",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As sure night divides the day and as sure day divides the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Raging flames is allthat awaits us on the other side",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Doomed the very moment he calls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "See his star ablaze his children",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On the night the flames reach for the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Night is comed to enter the never ending burning fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Onto you all his word is given",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fear not reach to take his hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hear our master calling us his children",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eternal life is given death withdrawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As wolves among sheep we have wandered",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Victory lies beyond their spit and scorn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Even the heavens shall burn when we are gathered",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now when the flames reach for the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dies Irae",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "904556",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6rBvjnvdsRxFRSrq1StGOM",
+                    "id": "6rBvjnvdsRxFRSrq1StGOM",
+                    "name": "Bathory",
+                    "type": "artist",
+                    "uri": "spotify:artist:6rBvjnvdsRxFRSrq1StGOM"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2QVt9UZEloRJgYqE70ACPs"
+            },
+            "href": "https://api.spotify.com/v1/albums/2QVt9UZEloRJgYqE70ACPs",
+            "id": "2QVt9UZEloRJgYqE70ACPs",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27335f5af2b63ac3d5dee27972b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0235f5af2b63ac3d5dee27972b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485135f5af2b63ac3d5dee27972b",
+                    "width": 64
+                }
+            ],
+            "name": "Blood Fire Death",
+            "release_date": "1988-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:2QVt9UZEloRJgYqE70ACPs"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+                },
+                "href": "https://api.spotify.com/v1/artists/6rBvjnvdsRxFRSrq1StGOM",
+                "id": "6rBvjnvdsRxFRSrq1StGOM",
+                "name": "Bathory",
+                "type": "artist",
+                "uri": "spotify:artist:6rBvjnvdsRxFRSrq1StGOM"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 312173,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "SEXHQ8800407"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1ItOL22TFgoWQrUFXfoeM6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1ItOL22TFgoWQrUFXfoeM6",
+        "id": "1ItOL22TFgoWQrUFXfoeM6",
+        "is_local": false,
+        "name": "Dies Irae",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/2482f6d14ba0193c62adf933b914116362aaf075?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:1ItOL22TFgoWQrUFXfoeM6"
+    }
+}

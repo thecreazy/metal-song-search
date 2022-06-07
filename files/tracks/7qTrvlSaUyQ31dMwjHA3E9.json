@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Falling out, crawling out, seeking out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Emerge now and see the",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Returning to raze my shrine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Whole seeds no soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blind, shall we lay tides shallow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wise, I stand my ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will not stray",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wounding the ego, get up lick your wounds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mistrust to survive, avoid being burned alive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Biting other people with words",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Searching for oblivion, small scares etc permanence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tearing your whole life to shreds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All that was alive and spontaneous",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fading under the crests of imbalance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gnaw your teeth into fangs, only to have them lash out at yourself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For what they forever have done to you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Numbness escapes, willing to face the pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your rebirth demands a part of you dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The longing in your heart for transcendence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Something greater than what we've become",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "589109",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1KHydwFySZY3YcWyo2q2dF",
+                    "id": "1KHydwFySZY3YcWyo2q2dF",
+                    "name": "Neurosis",
+                    "type": "artist",
+                    "uri": "spotify:artist:1KHydwFySZY3YcWyo2q2dF"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6m2JP0jZwIEc5H7mFBl2eM"
+            },
+            "href": "https://api.spotify.com/v1/albums/6m2JP0jZwIEc5H7mFBl2eM",
+            "id": "6m2JP0jZwIEc5H7mFBl2eM",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a256d2dcce3e76494e5e2b26",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a256d2dcce3e76494e5e2b26",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a256d2dcce3e76494e5e2b26",
+                    "width": 64
+                }
+            ],
+            "name": "Enemy of the Sun",
+            "release_date": "1994-09-17",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:6m2JP0jZwIEc5H7mFBl2eM"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+                },
+                "href": "https://api.spotify.com/v1/artists/1KHydwFySZY3YcWyo2q2dF",
+                "id": "1KHydwFySZY3YcWyo2q2dF",
+                "name": "Neurosis",
+                "type": "artist",
+                "uri": "spotify:artist:1KHydwFySZY3YcWyo2q2dF"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 522599,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4JA0000040"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7qTrvlSaUyQ31dMwjHA3E9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7qTrvlSaUyQ31dMwjHA3E9",
+        "id": "7qTrvlSaUyQ31dMwjHA3E9",
+        "is_local": false,
+        "name": "Raze the Stray",
+        "popularity": 12,
+        "preview_url": "https://p.scdn.co/mp3-preview/52d28e5d014f1751ff1af441f46e8ef1b20edc94?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7qTrvlSaUyQ31dMwjHA3E9"
+    }
+}

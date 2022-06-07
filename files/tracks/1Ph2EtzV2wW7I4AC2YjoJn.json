@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Earth has burst",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mountain flames",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Moon beheld",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Father snake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mind control",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Has left its nest",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shame on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bulls roar loud",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The fearless fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wooden vessel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Broken wings",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Caught my killer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In my grave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shame on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eyes of grace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kill again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Trapped in maze",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Trembling fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Head scorched brow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Perish the land",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shame on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A vast calm wilderness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The call to adventure comes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lead and land atop this rock",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Infinite path carved with unrivaled skill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1968881",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Dvfqq39HxvCJ3GvfeIFuT",
+                    "id": "1Dvfqq39HxvCJ3GvfeIFuT",
+                    "name": "Mastodon",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
+            },
+            "href": "https://api.spotify.com/v1/albums/1n8QZFcwx5aQ2LIIlj0iYe",
+            "id": "1n8QZFcwx5aQ2LIIlj0iYe",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273abe244c2bab281947c3209cc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02abe244c2bab281947c3209cc",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851abe244c2bab281947c3209cc",
+                    "width": 64
+                }
+            ],
+            "name": "Blood Mountain",
+            "release_date": "2006-09-08",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:1n8QZFcwx5aQ2LIIlj0iYe"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+                },
+                "href": "https://api.spotify.com/v1/artists/1Dvfqq39HxvCJ3GvfeIFuT",
+                "id": "1Dvfqq39HxvCJ3GvfeIFuT",
+                "name": "Mastodon",
+                "type": "artist",
+                "uri": "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 336293,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USRE10602060"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1Ph2EtzV2wW7I4AC2YjoJn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1Ph2EtzV2wW7I4AC2YjoJn",
+        "id": "1Ph2EtzV2wW7I4AC2YjoJn",
+        "is_local": false,
+        "name": "Sleeping Giant",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/0b65a56c85bf238feed662fe7d7beff7b775fb5d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1Ph2EtzV2wW7I4AC2YjoJn"
+    }
+}

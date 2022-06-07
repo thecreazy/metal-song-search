@@ -1,0 +1,261 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "All Hell Let Loose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When the night closes in,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the dark shadows fall,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That's where it starts again,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Evil making it's call,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To someone who sits unaware,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Could it be you I'd beware,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's footsteps behind you,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your at the scene of its lair.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Imagination burns,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hell let loose, all hell let loose,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Try to shake the image from your mind,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hell let loose, all hell let loose,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Imagination burns,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hell let loose, all hell let loose.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A flash of light begins a thunder in the sky,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thoughts of terror that will come to you and I,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But don't give in with, try with all your might,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Won't give up without a fight,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When you wake in the morning,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You should be alright,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But evil awaits you,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To take you back into the night.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Imagination burns,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hell let loose, all hell let loose,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Try to shake the image from your mind,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hell let loose, all hell let loose,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hell let loose, all hell let loose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hell let loose, all hell let loose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hell let loose, hell let loose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell let loose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm coming to get you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ha, ha, ha, ha, ha.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1986292",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3CSQtK60sg2jNNxnpThSN1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3CSQtK60sg2jNNxnpThSN1",
+                    "id": "3CSQtK60sg2jNNxnpThSN1",
+                    "name": "Grim Reaper",
+                    "type": "artist",
+                    "uri": "spotify:artist:3CSQtK60sg2jNNxnpThSN1"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2UTkozlTzwNRp7pdRNf8OU"
+            },
+            "href": "https://api.spotify.com/v1/albums/2UTkozlTzwNRp7pdRNf8OU",
+            "id": "2UTkozlTzwNRp7pdRNf8OU",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735ce782916257c26a3fe6d6b9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025ce782916257c26a3fe6d6b9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515ce782916257c26a3fe6d6b9",
+                    "width": 64
+                }
+            ],
+            "name": "Best Of Grim Reaper",
+            "release_date": "1999-08-10",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:2UTkozlTzwNRp7pdRNf8OU"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3CSQtK60sg2jNNxnpThSN1"
+                },
+                "href": "https://api.spotify.com/v1/artists/3CSQtK60sg2jNNxnpThSN1",
+                "id": "3CSQtK60sg2jNNxnpThSN1",
+                "name": "Grim Reaper",
+                "type": "artist",
+                "uri": "spotify:artist:3CSQtK60sg2jNNxnpThSN1"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 263000,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USRC19900395"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/11RdoA1WkRSA9LUEX8ftzm"
+        },
+        "href": "https://api.spotify.com/v1/tracks/11RdoA1WkRSA9LUEX8ftzm",
+        "id": "11RdoA1WkRSA9LUEX8ftzm",
+        "is_local": false,
+        "name": "All Hell Let Loose",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/8462e16ec444668f365f2e5db81daf299843d00d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:11RdoA1WkRSA9LUEX8ftzm"
+    }
+}

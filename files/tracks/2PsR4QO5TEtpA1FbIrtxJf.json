@@ -1,0 +1,291 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "They're running wild",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They're on a down hill ride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a rebel they look for more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too young to die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now you know your dreams are useless",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And there 're lies You'll never tell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause you're so",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Restless, restless and wild",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Restless, restless and wild",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Restless, restless and wild",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Restless, restless and wild",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Star born lovers",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angels in the night on a highway",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They don't look back",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everybody's lost the way, yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The little girl wants to be an actress",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Young boys are easy riders",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They live so",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Restless, restless and wild",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Restless, restless and wild",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Restless, restless and wild",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Restless, restless and wild",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stay down, time will roll on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "How do you feel when the night is gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stay down, time will come 'round",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You are the man made for highway life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For the highway life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "City lights moving on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No tomorrows, no destinations",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a wheel turning on and on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're a man born to run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Every world that you have seen was senseless",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Keep moving on there's no other way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cause you're so",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Restless, restless and wild",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Restless, restless and wild",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Restless, restless and wild",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Restless, restless and wild",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "66105707",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3JDIAtVrJdQ7GFOX26LYpv",
+                    "id": "3JDIAtVrJdQ7GFOX26LYpv",
+                    "name": "Accept",
+                    "type": "artist",
+                    "uri": "spotify:artist:3JDIAtVrJdQ7GFOX26LYpv"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1eTLFYAhjqNRxvW53jniY5"
+            },
+            "href": "https://api.spotify.com/v1/albums/1eTLFYAhjqNRxvW53jniY5",
+            "id": "1eTLFYAhjqNRxvW53jniY5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27365c3b9586ad96644195d1b15",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0265c3b9586ad96644195d1b15",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485165c3b9586ad96644195d1b15",
+                    "width": 64
+                }
+            ],
+            "name": "Hungry Years (Remixed)",
+            "release_date": "1986-10-31",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:1eTLFYAhjqNRxvW53jniY5"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+                },
+                "href": "https://api.spotify.com/v1/artists/3JDIAtVrJdQ7GFOX26LYpv",
+                "id": "3JDIAtVrJdQ7GFOX26LYpv",
+                "name": "Accept",
+                "type": "artist",
+                "uri": "spotify:artist:3JDIAtVrJdQ7GFOX26LYpv"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7hepT2hVYivx44bB1Y9vMw"
+                },
+                "href": "https://api.spotify.com/v1/artists/7hepT2hVYivx44bB1Y9vMw",
+                "id": "7hepT2hVYivx44bB1Y9vMw",
+                "name": "Ian Taylor",
+                "type": "artist",
+                "uri": "spotify:artist:7hepT2hVYivx44bB1Y9vMw"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 258333,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEUM71800563"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2PsR4QO5TEtpA1FbIrtxJf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2PsR4QO5TEtpA1FbIrtxJf",
+        "id": "2PsR4QO5TEtpA1FbIrtxJf",
+        "is_local": false,
+        "name": "Restless And Wild - Remixed",
+        "popularity": 25,
+        "preview_url": null,
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:2PsR4QO5TEtpA1FbIrtxJf"
+    }
+}

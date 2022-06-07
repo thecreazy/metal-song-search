@@ -1,0 +1,116 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Vision, Escape",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vision, This feels right (?)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell, Is where I lie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now take the power, When we all die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We all die",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "433783",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5A4ebXQf38xWIq0xSWLhsS",
+                    "id": "5A4ebXQf38xWIq0xSWLhsS",
+                    "name": "Godflesh",
+                    "type": "artist",
+                    "uri": "spotify:artist:5A4ebXQf38xWIq0xSWLhsS"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5fRIh0Yk4eFLst6Nj7RUDF"
+            },
+            "href": "https://api.spotify.com/v1/albums/5fRIh0Yk4eFLst6Nj7RUDF",
+            "id": "5fRIh0Yk4eFLst6Nj7RUDF",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731fc7ea38110f5b153d9b7636",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021fc7ea38110f5b153d9b7636",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511fc7ea38110f5b153d9b7636",
+                    "width": 64
+                }
+            ],
+            "name": "Streetcleaner",
+            "release_date": "1989",
+            "release_date_precision": "year",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:5fRIh0Yk4eFLst6Nj7RUDF"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS"
+                },
+                "href": "https://api.spotify.com/v1/artists/5A4ebXQf38xWIq0xSWLhsS",
+                "id": "5A4ebXQf38xWIq0xSWLhsS",
+                "name": "Godflesh",
+                "type": "artist",
+                "uri": "spotify:artist:5A4ebXQf38xWIq0xSWLhsS"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 405800,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBPB0401324"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1yhrNiagoP9JXDvUG7ahCs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1yhrNiagoP9JXDvUG7ahCs",
+        "id": "1yhrNiagoP9JXDvUG7ahCs",
+        "is_local": false,
+        "name": "Streetcleaner",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/2a61aa4c664bd7bd970b7fd4abc051be2242e5a1?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1yhrNiagoP9JXDvUG7ahCs"
+    }
+}

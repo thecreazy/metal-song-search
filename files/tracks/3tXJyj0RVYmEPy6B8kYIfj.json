@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "My paralysed heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is bleeding ...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My love's torn apart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Desire to be free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A bleak garden to cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When my inamorato died",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Loveless so real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lifeline of mortality",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Condemned to misery",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Restless oblivion forever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A bleak garden to cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When my inamorato died",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My visionary dreams are vanquished",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Aspirations fade away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Reverence dies within",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A bleak garden to cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When my inamorato died",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1070680",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+                    "id": "0ZXKT0FCsLWkSLCjoBJgBX",
+                    "name": "Anathema",
+                    "type": "artist",
+                    "uri": "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1ByRLwzKcfrEll0hwCUI2I"
+            },
+            "href": "https://api.spotify.com/v1/albums/1ByRLwzKcfrEll0hwCUI2I",
+            "id": "1ByRLwzKcfrEll0hwCUI2I",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734b336455cf9e316f5f7bd549",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024b336455cf9e316f5f7bd549",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514b336455cf9e316f5f7bd549",
+                    "width": 64
+                }
+            ],
+            "name": "The Silent Enigma",
+            "release_date": "1995",
+            "release_date_precision": "year",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:1ByRLwzKcfrEll0hwCUI2I"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+                },
+                "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+                "id": "0ZXKT0FCsLWkSLCjoBJgBX",
+                "name": "Anathema",
+                "type": "artist",
+                "uri": "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 481880,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "GBCQV9500001"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3tXJyj0RVYmEPy6B8kYIfj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3tXJyj0RVYmEPy6B8kYIfj",
+        "id": "3tXJyj0RVYmEPy6B8kYIfj",
+        "is_local": false,
+        "name": "Restless Oblivion - Studio",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/bc66bb44361e97aac6ebeb7a4b4d97a6718b1a7c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3tXJyj0RVYmEPy6B8kYIfj"
+    }
+}

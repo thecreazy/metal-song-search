@@ -1,0 +1,176 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "My god rises at daybreak",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My goddess goes down on me at dawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hallucinate what is on the horizon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scorpionica, she is born",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My brain sings revolution",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She sends life to the heart of the sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hallucinate what the sunrise is hiding",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scorpionica has begun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And as the sun burns on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And takes my soul away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The solar titan rises",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And lives to shine another day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I got burnt for my madness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She got high on the heart of my soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sonic titans are riding the sunrise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scorpionica, she is born",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1533486",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3nutnJ57QnbWEdCWn2EyWo",
+                    "id": "3nutnJ57QnbWEdCWn2EyWo",
+                    "name": "Orange Goblin",
+                    "type": "artist",
+                    "uri": "spotify:artist:3nutnJ57QnbWEdCWn2EyWo"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2212oCOf4DQl5O2LIEwu1s"
+            },
+            "href": "https://api.spotify.com/v1/albums/2212oCOf4DQl5O2LIEwu1s",
+            "id": "2212oCOf4DQl5O2LIEwu1s",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b795a9b3d92fdb60a6123379",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b795a9b3d92fdb60a6123379",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b795a9b3d92fdb60a6123379",
+                    "width": 64
+                }
+            ],
+            "name": "The Big Black",
+            "release_date": "2000",
+            "release_date_precision": "year",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2212oCOf4DQl5O2LIEwu1s"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
+                },
+                "href": "https://api.spotify.com/v1/artists/3nutnJ57QnbWEdCWn2EyWo",
+                "id": "3nutnJ57QnbWEdCWn2EyWo",
+                "name": "Orange Goblin",
+                "type": "artist",
+                "uri": "spotify:artist:3nutnJ57QnbWEdCWn2EyWo"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 196400,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBMLU9902501"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0ff6bZqSzawPPiRMOfQWzu"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ff6bZqSzawPPiRMOfQWzu",
+        "id": "0ff6bZqSzawPPiRMOfQWzu",
+        "is_local": false,
+        "name": "Scorpionica",
+        "popularity": 25,
+        "preview_url": "https://p.scdn.co/mp3-preview/3733ec6df30da56b41a715ff0dfcfc7d6662652f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0ff6bZqSzawPPiRMOfQWzu"
+    }
+}

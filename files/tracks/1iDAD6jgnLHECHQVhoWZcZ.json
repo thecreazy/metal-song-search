@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Senseless slaughter, hung his daughter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And then he went to sleep",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tommy gun, saw the sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And then began to weep",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Travolta style, he danced a mile",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then fell down in a heap",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He wondered why, he could not buy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The people that were cheap",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take me to your hearts!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take me to your hearts!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take me to your ¡¡HEARTS!!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The greasy dog, drank the fog",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then rolled on down the street",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The leather prince, he turned to mince",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And left behind, his feet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Poetic frog, became a hog",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And wallowed in the sty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And Betty bright, screamed all night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then walked across the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take me to your hearts!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take me to your hearts!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take me to your ¡¡HEARTS!!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Five foot Mike, fell on the spike",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That pierced his left hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He wore the hood, and dripped his blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Along the golden sand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They saved his hide, he almost died",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thanks to brave old clive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And none did frown, as they laid him down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And buried him alive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take me to your hearts!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take me to your hearts!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "¡¡TAKE ME TO YOUR HEARTS!!",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1761317",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/54vbdnaHSULmWN0qWSzACT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/54vbdnaHSULmWN0qWSzACT",
+                    "id": "54vbdnaHSULmWN0qWSzACT",
+                    "name": "Blitzkrieg",
+                    "type": "artist",
+                    "uri": "spotify:artist:54vbdnaHSULmWN0qWSzACT"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/18Lnucd1aCYzP7Hogcs03g"
+            },
+            "href": "https://api.spotify.com/v1/albums/18Lnucd1aCYzP7Hogcs03g",
+            "id": "18Lnucd1aCYzP7Hogcs03g",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273eee3da194c44e149f20927c8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02eee3da194c44e149f20927c8",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851eee3da194c44e149f20927c8",
+                    "width": 64
+                }
+            ],
+            "name": "Ten",
+            "release_date": "1996-11-18",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:18Lnucd1aCYzP7Hogcs03g"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/54vbdnaHSULmWN0qWSzACT"
+                },
+                "href": "https://api.spotify.com/v1/artists/54vbdnaHSULmWN0qWSzACT",
+                "id": "54vbdnaHSULmWN0qWSzACT",
+                "name": "Blitzkrieg",
+                "type": "artist",
+                "uri": "spotify:artist:54vbdnaHSULmWN0qWSzACT"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 160173,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GB5KW1702116"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1iDAD6jgnLHECHQVhoWZcZ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1iDAD6jgnLHECHQVhoWZcZ",
+        "id": "1iDAD6jgnLHECHQVhoWZcZ",
+        "is_local": false,
+        "name": "Buried Alive",
+        "popularity": 9,
+        "preview_url": "https://p.scdn.co/mp3-preview/b3cc255671423e399e2911cda2cab9e7be97f24a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1iDAD6jgnLHECHQVhoWZcZ"
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Drifting on an endless sea",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On our way to nowhere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oblivious to our destiny",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Slowly drifting on and on and on...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wander far away too far",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Trapped in a timeless void",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Changing with the shifting wind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never can see an end... (No end)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's a real vague story",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Impossible to perceive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A seemingly endless time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Passing through eternity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Still devoid of meaning",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Useless to inquire upon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The fate that we shall suffer on...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Destitute still lost at sea",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On the ship of sorrow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Past the point of no return",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Today is merely yesterday's tomorrow... (Oh, no)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's a real vague story",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Impossible to perceive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A seemingly endless time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's a real vague story",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Impossible to perceive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A seemingly endless time",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1129600",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6KVc8Llznru8n9LVCYe9dz",
+                    "id": "6KVc8Llznru8n9LVCYe9dz",
+                    "name": "Death Angel",
+                    "type": "artist",
+                    "uri": "spotify:artist:6KVc8Llznru8n9LVCYe9dz"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1Dj4ZFmEwdSTLHxFMRWYx4"
+            },
+            "href": "https://api.spotify.com/v1/albums/1Dj4ZFmEwdSTLHxFMRWYx4",
+            "id": "1Dj4ZFmEwdSTLHxFMRWYx4",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732ca178f7941c5a3b7d7db724",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022ca178f7941c5a3b7d7db724",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512ca178f7941c5a3b7d7db724",
+                    "width": 64
+                }
+            ],
+            "name": "Act III",
+            "release_date": "1990-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:1Dj4ZFmEwdSTLHxFMRWYx4"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
+                },
+                "href": "https://api.spotify.com/v1/artists/6KVc8Llznru8n9LVCYe9dz",
+                "id": "6KVc8Llznru8n9LVCYe9dz",
+                "name": "Death Angel",
+                "type": "artist",
+                "uri": "spotify:artist:6KVc8Llznru8n9LVCYe9dz"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 230133,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USIR10500481"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/566LcbaahtYrq9jGo6c5pV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/566LcbaahtYrq9jGo6c5pV",
+        "id": "566LcbaahtYrq9jGo6c5pV",
+        "is_local": false,
+        "name": "Seemingly Endless Time",
+        "popularity": 34,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:566LcbaahtYrq9jGo6c5pV"
+    }
+}

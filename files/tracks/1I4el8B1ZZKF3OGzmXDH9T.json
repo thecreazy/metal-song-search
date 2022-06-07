@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Ain't a hope in Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nothing's gonna bring us down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The way we fly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Five miles off the ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Because",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We shoot to kill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you know we always will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's a bomber, it's a bomber",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scream a thousand miles",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hear the black death rising moan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Firestorm coming closer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Napalm to the bone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Because",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know we do it right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A mission every night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's a bomber, it's a bomber, it's a bomber",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No night fighter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gonna stop us getting through",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The sirens make you shiver",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You bet my aim is true",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Because",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know we aim to please",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bring you to your knees",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's a bomber, it's a bomber, it's a bomber",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "456806",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                    "id": "1DFr97A9HnbV3SKTJFu62M",
+                    "name": "Motörhead",
+                    "type": "artist",
+                    "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1OVYzABapDJ7aZGfBLY22F"
+            },
+            "href": "https://api.spotify.com/v1/albums/1OVYzABapDJ7aZGfBLY22F",
+            "id": "1OVYzABapDJ7aZGfBLY22F",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27367e99efcf2c599f23095a4c3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0267e99efcf2c599f23095a4c3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485167e99efcf2c599f23095a4c3",
+                    "width": 64
+                }
+            ],
+            "name": "Bomber (Expanded Edition)",
+            "release_date": "1979-10-27",
+            "release_date_precision": "day",
+            "total_tracks": 20,
+            "type": "album",
+            "uri": "spotify:album:1OVYzABapDJ7aZGfBLY22F"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                },
+                "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                "id": "1DFr97A9HnbV3SKTJFu62M",
+                "name": "Motörhead",
+                "type": "artist",
+                "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 220160,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE7900024"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1I4el8B1ZZKF3OGzmXDH9T"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1I4el8B1ZZKF3OGzmXDH9T",
+        "id": "1I4el8B1ZZKF3OGzmXDH9T",
+        "is_local": false,
+        "name": "Bomber",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/03c9e5dd5efbc4a0c1fd0d5e378c98eb5aa1c3de?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1I4el8B1ZZKF3OGzmXDH9T"
+    }
+}

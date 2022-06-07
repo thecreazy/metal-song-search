@@ -1,0 +1,196 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Believe the sea high waves upon our coming storm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hear the roaring tide as we name a dawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "See the ice in which we craft our souls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Earth's frozen cries the dark benight your kind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Monstruosly the seas rage afar as if to hide from that which nears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Skyward from the seasalt air our vision knew a giant fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "See the ice in which we craft our souls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Life's frozen cries the dark benight your kind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A place of utterness beyond the wilderness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through a darkened terrain that fades in emptiness...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Walkers of the dust survivors of the blast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Slowly they move but far behind all time into the solar fall...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Believe the sea high waves upon our coming storm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hear the roaring tide as we name a dawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Monstruosly the seas rage afar as if to hide from that which nears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Skyward from the seasalt air our vision knew a giant fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "See the ice in which we craft our souls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All frozen cries the dark benight your kind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The last sunset flame dust of ice drifts the earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lightning plays in depths of no rebirth...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1383655",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2mVTkiwfm4ic6DnHpmFq8K",
+                    "id": "2mVTkiwfm4ic6DnHpmFq8K",
+                    "name": "Immortal",
+                    "type": "artist",
+                    "uri": "spotify:artist:2mVTkiwfm4ic6DnHpmFq8K"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma"
+            },
+            "href": "https://api.spotify.com/v1/albums/7cuQrfE3R8cX53zLoGF6Ma",
+            "id": "7cuQrfE3R8cX53zLoGF6Ma",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738feebd74559c0cb4e0d1061f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028feebd74559c0cb4e0d1061f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518feebd74559c0cb4e0d1061f",
+                    "width": 64
+                }
+            ],
+            "name": "At The Heart Of Winter",
+            "release_date": "1999",
+            "release_date_precision": "year",
+            "total_tracks": 6,
+            "type": "album",
+            "uri": "spotify:album:7cuQrfE3R8cX53zLoGF6Ma"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+                },
+                "href": "https://api.spotify.com/v1/artists/2mVTkiwfm4ic6DnHpmFq8K",
+                "id": "2mVTkiwfm4ic6DnHpmFq8K",
+                "name": "Immortal",
+                "type": "artist",
+                "uri": "spotify:artist:2mVTkiwfm4ic6DnHpmFq8K"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 362733,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "FR6V89900074"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1cz778pbazfBkgseZAPno7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1cz778pbazfBkgseZAPno7",
+        "id": "1cz778pbazfBkgseZAPno7",
+        "is_local": false,
+        "name": "Solarfall",
+        "popularity": 32,
+        "preview_url": "https://p.scdn.co/mp3-preview/46226904372109bf4c03e8d35497649bc7867e8c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1cz778pbazfBkgseZAPno7"
+    }
+}

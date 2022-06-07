@@ -1,0 +1,211 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Make his fight on the hill in the early day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Constant chill deep inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shouting gun, on they run through the endless grey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On they fight for the right, yes, but who's to say?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For a hill, men would kill, why? They do not know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stiffened wounds test their pride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Men on five, still alive through the raging glow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gone insane from the pain that they surely know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For whom the bell tolls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time marches on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For whom the bell tolls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take a look to the sky just before you die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It is the last time you will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blackened roar, massive roar fills the crumbling sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shattered goal fills his soul with a ruthless cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stranger now are his eyes to this mystery",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He hears the silence so loud",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Crack of dawn, all is gone except the will to be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now they see what will be, blinded eyes to see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For whom the bell tolls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time marches on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For whom the bell tolls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "60106607",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+                    "id": "2ye2Wgw4gimLv2eAKyk1NB",
+                    "name": "Metallica",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+            },
+            "href": "https://api.spotify.com/v1/albums/05DePtm7oQMdL3Uzw2Jmsc",
+            "id": "05DePtm7oQMdL3Uzw2Jmsc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739ad3e9959f48d513886b8933",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029ad3e9959f48d513886b8933",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519ad3e9959f48d513886b8933",
+                    "width": 64
+                }
+            ],
+            "name": "Ride The Lightning (Remastered)",
+            "release_date": "1984-07-26",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:05DePtm7oQMdL3Uzw2Jmsc"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+                },
+                "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+                "id": "2ye2Wgw4gimLv2eAKyk1NB",
+                "name": "Metallica",
+                "type": "artist",
+                "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 309973,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "QMKHM1600096"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2dXsILW8gzkosqleHAvl0v"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2dXsILW8gzkosqleHAvl0v",
+        "id": "2dXsILW8gzkosqleHAvl0v",
+        "is_local": false,
+        "name": "For Whom The Bell Tolls - Remastered",
+        "popularity": 70,
+        "preview_url": null,
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2dXsILW8gzkosqleHAvl0v"
+    }
+}

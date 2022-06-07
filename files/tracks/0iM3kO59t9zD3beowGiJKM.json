@@ -1,0 +1,216 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I get so bored",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Going nowhere... pissed off with life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't need no girl to hold me...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I only love my knife",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When it's night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I'm out on my own on the street",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's murder on my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't hate authority...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They know I'm not all bad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know that nobody loves me...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It don't make me sad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm gonna stand up",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the ones who bring me down...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Murder on my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can feel it now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It grows stronger every day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And my hatred grows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "More and more in every way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sing a song of death and glory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sing a song of spite",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sing a song of good and evil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm gonna win my fight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I just wanna flush the shit from the street...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Murder on my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1524985",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5VuuqhhYM8cRN6yA0qrq6R"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5VuuqhhYM8cRN6yA0qrq6R",
+                    "id": "5VuuqhhYM8cRN6yA0qrq6R",
+                    "name": "Holocaust",
+                    "type": "artist",
+                    "uri": "spotify:artist:5VuuqhhYM8cRN6yA0qrq6R"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4vJF269D0UjNGgwWO4h4DC"
+            },
+            "href": "https://api.spotify.com/v1/albums/4vJF269D0UjNGgwWO4h4DC",
+            "id": "4vJF269D0UjNGgwWO4h4DC",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fe44c36a704688aca35f4059",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fe44c36a704688aca35f4059",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851fe44c36a704688aca35f4059",
+                    "width": 64
+                }
+            ],
+            "name": "The Nightcomers",
+            "release_date": "1981-12-31",
+            "release_date_precision": "day",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:4vJF269D0UjNGgwWO4h4DC"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5VuuqhhYM8cRN6yA0qrq6R"
+                },
+                "href": "https://api.spotify.com/v1/artists/5VuuqhhYM8cRN6yA0qrq6R",
+                "id": "5VuuqhhYM8cRN6yA0qrq6R",
+                "name": "Holocaust",
+                "type": "artist",
+                "uri": "spotify:artist:5VuuqhhYM8cRN6yA0qrq6R"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216466,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBX2F1100001"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0iM3kO59t9zD3beowGiJKM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0iM3kO59t9zD3beowGiJKM",
+        "id": "0iM3kO59t9zD3beowGiJKM",
+        "is_local": false,
+        "name": "Death Or Glory",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/8a143bce30d4a28ddb1285df3b581192e49531fd?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0iM3kO59t9zD3beowGiJKM"
+    }
+}

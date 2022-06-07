@@ -1,0 +1,196 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Imellom buskene vi stirret",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "På de som minnet om andre tider",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Og fortalte at håpet var borte",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For alltid",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For alltid",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vi hørte alvesang og vann",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Som sildret",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Det som en gang var er nu borte",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alt blodet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All lengsel og sorg som hersket",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Og de følelser som kunne røres",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Er vekk",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For alltid",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vi døde ikke",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vi har aldri levd",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "985712",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "no",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7L6u6TyhjuwubrcojPeNgf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7L6u6TyhjuwubrcojPeNgf",
+                    "id": "7L6u6TyhjuwubrcojPeNgf",
+                    "name": "Burzum",
+                    "type": "artist",
+                    "uri": "spotify:artist:7L6u6TyhjuwubrcojPeNgf"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/277GP8d3KlBSQwMZJza6pe"
+            },
+            "href": "https://api.spotify.com/v1/albums/277GP8d3KlBSQwMZJza6pe",
+            "id": "277GP8d3KlBSQwMZJza6pe",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27336234b5c84fd1568c7b89f81",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0236234b5c84fd1568c7b89f81",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485136234b5c84fd1568c7b89f81",
+                    "width": 64
+                }
+            ],
+            "name": "Hvis Lyset Tar Oss",
+            "release_date": "1994",
+            "release_date_precision": "year",
+            "total_tracks": 4,
+            "type": "album",
+            "uri": "spotify:album:277GP8d3KlBSQwMZJza6pe"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7L6u6TyhjuwubrcojPeNgf"
+                },
+                "href": "https://api.spotify.com/v1/artists/7L6u6TyhjuwubrcojPeNgf",
+                "id": "7L6u6TyhjuwubrcojPeNgf",
+                "name": "Burzum",
+                "type": "artist",
+                "uri": "spotify:artist:7L6u6TyhjuwubrcojPeNgf"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 861506,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBXGC0801001"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4qseS4YsYTLnSUjnjTtfyl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4qseS4YsYTLnSUjnjTtfyl",
+        "id": "4qseS4YsYTLnSUjnjTtfyl",
+        "is_local": false,
+        "name": "Det Som En Gang Var",
+        "popularity": 37,
+        "preview_url": "https://p.scdn.co/mp3-preview/0da8af1afb3e1948f5aa42f977b3c400a9200ac0?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4qseS4YsYTLnSUjnjTtfyl"
+    }
+}

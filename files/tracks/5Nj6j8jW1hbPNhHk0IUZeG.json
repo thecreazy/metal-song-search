@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Fools gather round to watch me bleed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But there are things you'll never see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To protect and serve one nation under god",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A nation in which no-one's free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their flesh begins to rot",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What's left of what they've got",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A boring life is getting old",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mischief won't turn to gold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "By going back to burning books",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ripping apart things that doesn't fit",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One times one equals nine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your make-believe reality is full of shit",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus christ",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lord of flies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In disguise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fuck!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's fucked to hear one idiot's words",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But worse to see others believe it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fucked up minds in fucked up times",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's up to you to foresee it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus christ",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lord of flies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In disguise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's all built upon lies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Out of hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is this a fucking joke",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Out of mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And it makes me fucking choke",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fuck!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "307052",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2pnezMcaiTHfGmgmGQjLsB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2pnezMcaiTHfGmgmGQjLsB",
+                    "id": "2pnezMcaiTHfGmgmGQjLsB",
+                    "name": "Entombed",
+                    "type": "artist",
+                    "uri": "spotify:artist:2pnezMcaiTHfGmgmGQjLsB"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1CZwyjL96gGx4PryOIFNYn"
+            },
+            "href": "https://api.spotify.com/v1/albums/1CZwyjL96gGx4PryOIFNYn",
+            "id": "1CZwyjL96gGx4PryOIFNYn",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738caf88d5a1f7574c17614803",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028caf88d5a1f7574c17614803",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518caf88d5a1f7574c17614803",
+                    "width": 64
+                }
+            ],
+            "name": "Wolverine Blues",
+            "release_date": "1993-10-04",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:1CZwyjL96gGx4PryOIFNYn"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2pnezMcaiTHfGmgmGQjLsB"
+                },
+                "href": "https://api.spotify.com/v1/artists/2pnezMcaiTHfGmgmGQjLsB",
+                "id": "2pnezMcaiTHfGmgmGQjLsB",
+                "name": "Entombed",
+                "type": "artist",
+                "uri": "spotify:artist:2pnezMcaiTHfGmgmGQjLsB"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 188533,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBPB0703096"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5Nj6j8jW1hbPNhHk0IUZeG"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Nj6j8jW1hbPNhHk0IUZeG",
+        "id": "5Nj6j8jW1hbPNhHk0IUZeG",
+        "is_local": false,
+        "name": "Out Of Hand",
+        "popularity": 25,
+        "preview_url": "https://p.scdn.co/mp3-preview/9c56f0095bda5c28f29a1e6cb747ffff900e4a9c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:5Nj6j8jW1hbPNhHk0IUZeG"
+    }
+}

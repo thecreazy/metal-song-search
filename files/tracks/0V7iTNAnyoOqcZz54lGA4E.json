@@ -1,0 +1,206 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Tonight the Circle is meeting again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who will be the First to fall in Trance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In here nobody is sensing the Rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tonight a Spirit will glance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So as they're approaching Ghostly Hour",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seven People here are joining Hands",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They think they know the Spirit to appear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Contact, the Table starts to dance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time is standing still",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's a dangerous Meeting",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They're gonna get themselves killed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tonight the Circle is broken Forever",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seven People dead within a Trance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In here nobody is sensing the Rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tonight seven Souls are reaching Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time was standing still",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Meeting is over",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their Journey is on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, they should have known",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Not to play with the Powers of Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Some People have lost their Way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Some People have lost their Mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "553134",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0W8edGiwAsv6HXF0Kyc2V9",
+                    "id": "0W8edGiwAsv6HXF0Kyc2V9",
+                    "name": "Mercyful Fate",
+                    "type": "artist",
+                    "uri": "spotify:artist:0W8edGiwAsv6HXF0Kyc2V9"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6gADLDKOjcXTFrfE5Xp3HA"
+            },
+            "href": "https://api.spotify.com/v1/albums/6gADLDKOjcXTFrfE5Xp3HA",
+            "id": "6gADLDKOjcXTFrfE5Xp3HA",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734fd0c84a79418987c8a16d50",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024fd0c84a79418987c8a16d50",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514fd0c84a79418987c8a16d50",
+                    "width": 64
+                }
+            ],
+            "name": "Don't Break the Oath",
+            "release_date": "1984-09-07",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:6gADLDKOjcXTFrfE5Xp3HA"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9"
+                },
+                "href": "https://api.spotify.com/v1/artists/0W8edGiwAsv6HXF0Kyc2V9",
+                "id": "0W8edGiwAsv6HXF0Kyc2V9",
+                "name": "Mercyful Fate",
+                "type": "artist",
+                "uri": "spotify:artist:0W8edGiwAsv6HXF0Kyc2V9"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 312760,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329780535"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0V7iTNAnyoOqcZz54lGA4E"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0V7iTNAnyoOqcZz54lGA4E",
+        "id": "0V7iTNAnyoOqcZz54lGA4E",
+        "is_local": false,
+        "name": "A Dangerous Meeting",
+        "popularity": 47,
+        "preview_url": "https://p.scdn.co/mp3-preview/2f4f75cf8156b6a877663b1740b20e2d76297174?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0V7iTNAnyoOqcZz54lGA4E"
+    }
+}

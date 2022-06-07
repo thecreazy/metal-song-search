@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Generals gathered in their masses",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just like witches at black masses",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Evil minds that plot destruction",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sorcerer of death's construction",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the fields, the bodies burning",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As the war machine keeps turning",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death and hatred to mankind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Poisoning their brainwashed minds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh lord, yeah!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Politicians hide themselves away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They only started the war",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Why should they go out to fight?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They leave that role to the poor, yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time will tell on their power minds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Making war just for fun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Treating people just like pawns in chess",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wait till their judgement day comes, yeah!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now in darkness, world stops turning",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ashes where their bodies burning",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No more war pigs have the power",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hand of God has struck the hour",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Day of judgement, God is calling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On their knees, the war pigs crawling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Begging mercy for their sins",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Satan laughing, spreads his wings",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh lord, yeah!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "10950548",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                    "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                    "name": "Black Sabbath",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK"
+            },
+            "href": "https://api.spotify.com/v1/albums/132qAo1cDiEJdA3fv4xyNK",
+            "id": "132qAo1cDiEJdA3fv4xyNK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739683e5d7361bb80bfb00f46d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029683e5d7361bb80bfb00f46d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519683e5d7361bb80bfb00f46d",
+                    "width": 64
+                }
+            ],
+            "name": "Paranoid (2009 Remastered Version)",
+            "release_date": "1970-09-18",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:132qAo1cDiEJdA3fv4xyNK"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                "name": "Black Sabbath",
+                "type": "artist",
+                "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 474400,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE7000063"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0W35nxtHtFlseSojmygEsf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0W35nxtHtFlseSojmygEsf",
+        "id": "0W35nxtHtFlseSojmygEsf",
+        "is_local": false,
+        "name": "War Pigs",
+        "popularity": 67,
+        "preview_url": "https://p.scdn.co/mp3-preview/69a31f20a8d036d1fc6e839c593aae4b71adcf79?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0W35nxtHtFlseSojmygEsf"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Looking for relief in your miserable life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You need some rock and roll",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you better get it right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Got to roll them bones,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Do everything they say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If you're cool, you're the fool.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Make it work everyday.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rock out, do it quick",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My, my, my, let it rip",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rock out, feeling good.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Break your heart. Shake your blood.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Out upon the stage, crowd is going wild,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Love to see them women, babe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I ain't in denial.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Make you crazy too. Make you show it out.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feeling good, get some wood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You should, You knew you could",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rock out, do it now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My, my, my, show me how",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rock out, make it good.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Break your heart. Shake your blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Want to be a winner, want to be the man.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Want to drive yourself insane,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Join up with the band",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Want to fall in love, want to make your mark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Want to get out in the storm, want to break",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A thousand hearts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rock out, strike it rich",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My, my, my, it's a bitch",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rock out, I knew you could",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Break your heart. Shake your blood",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "10661625",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3up7wqUGMUTm0184V57RTH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3up7wqUGMUTm0184V57RTH",
+                    "id": "3up7wqUGMUTm0184V57RTH",
+                    "name": "Probot",
+                    "type": "artist",
+                    "uri": "spotify:artist:3up7wqUGMUTm0184V57RTH"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7DOHlmOkTbHmrnJI80tLZD"
+            },
+            "href": "https://api.spotify.com/v1/albums/7DOHlmOkTbHmrnJI80tLZD",
+            "id": "7DOHlmOkTbHmrnJI80tLZD",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736fc4c5ab07bf18082e44832a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026fc4c5ab07bf18082e44832a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516fc4c5ab07bf18082e44832a",
+                    "width": 64
+                }
+            ],
+            "name": "Probot",
+            "release_date": "2004-02-10",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:7DOHlmOkTbHmrnJI80tLZD"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3up7wqUGMUTm0184V57RTH"
+                },
+                "href": "https://api.spotify.com/v1/artists/3up7wqUGMUTm0184V57RTH",
+                "id": "3up7wqUGMUTm0184V57RTH",
+                "name": "Probot",
+                "type": "artist",
+                "uri": "spotify:artist:3up7wqUGMUTm0184V57RTH"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd"
+                },
+                "href": "https://api.spotify.com/v1/artists/0bmuibaBeiMxAqN2HwUqhd",
+                "id": "0bmuibaBeiMxAqN2HwUqhd",
+                "name": "Lemmy",
+                "type": "artist",
+                "uri": "spotify:artist:0bmuibaBeiMxAqN2HwUqhd"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 179832,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "TCACH1523151"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6MVBXTAioGnP57AcGYaQNw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6MVBXTAioGnP57AcGYaQNw",
+        "id": "6MVBXTAioGnP57AcGYaQNw",
+        "is_local": false,
+        "name": "Shake Your Blood (feat. Lemmy Kilmister)",
+        "popularity": 50,
+        "preview_url": "https://p.scdn.co/mp3-preview/35d74575219a20306894ab270a6bfb36083ef7f0?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:6MVBXTAioGnP57AcGYaQNw"
+    }
+}

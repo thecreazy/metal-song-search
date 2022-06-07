@@ -1,0 +1,77 @@
+{
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1LNgvz72fQVLe7ZNIw6Ipo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1LNgvz72fQVLe7ZNIw6Ipo",
+                    "id": "1LNgvz72fQVLe7ZNIw6Ipo",
+                    "name": "Satan",
+                    "type": "artist",
+                    "uri": "spotify:artist:1LNgvz72fQVLe7ZNIw6Ipo"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/49AByZNwmPbO8Y0SaU1YKP"
+            },
+            "href": "https://api.spotify.com/v1/albums/49AByZNwmPbO8Y0SaU1YKP",
+            "id": "49AByZNwmPbO8Y0SaU1YKP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ec1d7cc25796710d298d496a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ec1d7cc25796710d298d496a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ec1d7cc25796710d298d496a",
+                    "width": 64
+                }
+            ],
+            "name": "Court in the Act",
+            "release_date": "1983-08-02",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:49AByZNwmPbO8Y0SaU1YKP"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1LNgvz72fQVLe7ZNIw6Ipo"
+                },
+                "href": "https://api.spotify.com/v1/artists/1LNgvz72fQVLe7ZNIw6Ipo",
+                "id": "1LNgvz72fQVLe7ZNIw6Ipo",
+                "name": "Satan",
+                "type": "artist",
+                "uri": "spotify:artist:1LNgvz72fQVLe7ZNIw6Ipo"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 258933,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "QM4TW2218446"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7apURpNXIrvEBpHkBJNT90"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7apURpNXIrvEBpHkBJNT90",
+        "id": "7apURpNXIrvEBpHkBJNT90",
+        "is_local": false,
+        "name": "Trial by Fire",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/5acc3c4157cb41f6d08b14de652f976796ed0911?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7apURpNXIrvEBpHkBJNT90"
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "All is cold and frozen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frozen the sea, frozen the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frozen is death, but I cannot die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cannot die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As the snow falls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To cover this all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And all is cold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And cold is all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All is cold and cold is all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frozen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frozen is heaven and frozen is hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I am dying in this living human shell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am a dying God, coming into human flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am a dying God",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frozen my heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frozen my soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frozen my love",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am a dying God, coming into human flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1223066",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4ZISAmHmQUDCpv8xydqeKG",
+                    "id": "4ZISAmHmQUDCpv8xydqeKG",
+                    "name": "Celtic Frost",
+                    "type": "artist",
+                    "uri": "spotify:artist:4ZISAmHmQUDCpv8xydqeKG"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3Jyy0CkiG9OkGDxQQGhMgy"
+            },
+            "href": "https://api.spotify.com/v1/albums/3Jyy0CkiG9OkGDxQQGhMgy",
+            "id": "3Jyy0CkiG9OkGDxQQGhMgy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733168f301aacb54adda402073",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023168f301aacb54adda402073",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513168f301aacb54adda402073",
+                    "width": 64
+                }
+            ],
+            "name": "Monotheist",
+            "release_date": "2006-07-13",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:3Jyy0CkiG9OkGDxQQGhMgy"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG"
+                },
+                "href": "https://api.spotify.com/v1/artists/4ZISAmHmQUDCpv8xydqeKG",
+                "id": "4ZISAmHmQUDCpv8xydqeKG",
+                "name": "Celtic Frost",
+                "type": "artist",
+                "uri": "spotify:artist:4ZISAmHmQUDCpv8xydqeKG"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 339186,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40620003"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4BspUUse4sw1i8YYKA8oSD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4BspUUse4sw1i8YYKA8oSD",
+        "id": "4BspUUse4sw1i8YYKA8oSD",
+        "is_local": false,
+        "name": "A Dying God Coming into Human Flesh",
+        "popularity": 46,
+        "preview_url": "https://p.scdn.co/mp3-preview/53ea13c4850727a05c5173d83ecd2ec70cdd7e7e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4BspUUse4sw1i8YYKA8oSD"
+    }
+}

@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "You can't expect to see him and survive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You'll swallow his tongue of thorns",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "His mouth, dripping with flies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In his glorious kingdom of fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I believe he wept",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will make them all lie down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Down where hope lies dying",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With lust, you're kicking mankind to death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We live and die without hope",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You tramp us down in a river of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As I stand here now, my heart is black",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't want to die a lonely man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This is a weary hour",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This is a weary hour",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "991858",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7iMWWdRNiCJwGOGEIYr02z",
+                    "id": "7iMWWdRNiCJwGOGEIYr02z",
+                    "name": "My Dying Bride",
+                    "type": "artist",
+                    "uri": "spotify:artist:7iMWWdRNiCJwGOGEIYr02z"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7lPBSJlgg96SWGOOCNqPLv"
+            },
+            "href": "https://api.spotify.com/v1/albums/7lPBSJlgg96SWGOOCNqPLv",
+            "id": "7lPBSJlgg96SWGOOCNqPLv",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737dc8bf02a8cb4de27616bd88",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027dc8bf02a8cb4de27616bd88",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517dc8bf02a8cb4de27616bd88",
+                    "width": 64
+                }
+            ],
+            "name": "The Angel & The Dark River",
+            "release_date": "1995-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:7lPBSJlgg96SWGOOCNqPLv"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+                },
+                "href": "https://api.spotify.com/v1/artists/7iMWWdRNiCJwGOGEIYr02z",
+                "id": "7iMWWdRNiCJwGOGEIYr02z",
+                "name": "My Dying Bride",
+                "type": "artist",
+                "uri": "spotify:artist:7iMWWdRNiCJwGOGEIYr02z"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 733333,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCQV9500064"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/11Q5n9PmpRQbbblwHygugt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/11Q5n9PmpRQbbblwHygugt",
+        "id": "11Q5n9PmpRQbbblwHygugt",
+        "is_local": false,
+        "name": "The Cry of Mankind",
+        "popularity": 30,
+        "preview_url": "https://p.scdn.co/mp3-preview/f12d694e035b0e6c71221f1004b22a5696878edf?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:11Q5n9PmpRQbbblwHygugt"
+    }
+}

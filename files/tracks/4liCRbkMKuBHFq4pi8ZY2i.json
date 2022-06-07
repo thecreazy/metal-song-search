@@ -1,0 +1,201 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "We are the nothing grating against the norm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are the something that will not conform",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one understands what we've been given",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are the useless by-products of soulless meat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are all gone we all sing the same tragedy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Open wide and eat the worms of the enemy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are the enemies of reality, in a world that's unforgiving",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Waiting to sanitize bastard tongues",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To purify the ignorance that hides the sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The less you understand the more you're driven",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Packaged and processed the masses are force fed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The standards they judge us on swallow the rot we shed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Open wide and eat the worms of the enemy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are the enemies of reality, in a world that's unforgiving",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Breathing dust and decay while I'm sipping",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Human trust and betrayal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Losing faith once again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take my hand my friend, my foe, I am enemy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Open wide and eat the worms of the enemy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are the enemies of reality, in a world that's unforgiving",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Open wide, eat the words, become what you most fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1111732",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1wUArE0NhHB8M1bU2WSplY",
+                    "id": "1wUArE0NhHB8M1bU2WSplY",
+                    "name": "Nevermore",
+                    "type": "artist",
+                    "uri": "spotify:artist:1wUArE0NhHB8M1bU2WSplY"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1HT00XAo2NKz2fQXut0zrv"
+            },
+            "href": "https://api.spotify.com/v1/albums/1HT00XAo2NKz2fQXut0zrv",
+            "id": "1HT00XAo2NKz2fQXut0zrv",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739e72dd166463e804ecc512a4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029e72dd166463e804ecc512a4",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519e72dd166463e804ecc512a4",
+                    "width": 64
+                }
+            ],
+            "name": "Enemies of Reality (Remixed & Remastered)",
+            "release_date": "2003-07-13",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:1HT00XAo2NKz2fQXut0zrv"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY"
+                },
+                "href": "https://api.spotify.com/v1/artists/1wUArE0NhHB8M1bU2WSplY",
+                "id": "1wUArE0NhHB8M1bU2WSplY",
+                "name": "Nevermore",
+                "type": "artist",
+                "uri": "spotify:artist:1wUArE0NhHB8M1bU2WSplY"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 311160,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40521901"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4liCRbkMKuBHFq4pi8ZY2i"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4liCRbkMKuBHFq4pi8ZY2i",
+        "id": "4liCRbkMKuBHFq4pi8ZY2i",
+        "is_local": false,
+        "name": "Enemies of Reality - remixed & remastered",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/f5aae03f56f18588fa7d2ec803e27c3f89ff831c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4liCRbkMKuBHFq4pi8ZY2i"
+    }
+}

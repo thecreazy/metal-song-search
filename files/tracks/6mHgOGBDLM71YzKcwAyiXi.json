@@ -1,0 +1,211 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Earth tone suits you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So give it a smile",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If I could hold your feet down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Get to know for awhile",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To make due is a promise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hard to keep without help",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never taught to look in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm too concerned with my health",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Help me spread right, ash is",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cow fertilized",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come down in a feed town",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Strength to minimize",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hold it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the meantime",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the meantime",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the meantime",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the meantime",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The meantime",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "240623",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0qB0cTENhSUc0feov5qbg0",
+                    "id": "0qB0cTENhSUc0feov5qbg0",
+                    "name": "Helmet",
+                    "type": "artist",
+                    "uri": "spotify:artist:0qB0cTENhSUc0feov5qbg0"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ"
+            },
+            "href": "https://api.spotify.com/v1/albums/0U7asaf4jS8EORTjHEWNcJ",
+            "id": "0U7asaf4jS8EORTjHEWNcJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27393e84f299b0c963cc8d8acca",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0293e84f299b0c963cc8d8acca",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485193e84f299b0c963cc8d8acca",
+                    "width": 64
+                }
+            ],
+            "name": "Meantime",
+            "release_date": "1992-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:0U7asaf4jS8EORTjHEWNcJ"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+                },
+                "href": "https://api.spotify.com/v1/artists/0qB0cTENhSUc0feov5qbg0",
+                "id": "0qB0cTENhSUc0feov5qbg0",
+                "name": "Helmet",
+                "type": "artist",
+                "uri": "spotify:artist:0qB0cTENhSUc0feov5qbg0"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 188693,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USIR19200541"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6mHgOGBDLM71YzKcwAyiXi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6mHgOGBDLM71YzKcwAyiXi",
+        "id": "6mHgOGBDLM71YzKcwAyiXi",
+        "is_local": false,
+        "name": "In The Meantime",
+        "popularity": 48,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6mHgOGBDLM71YzKcwAyiXi"
+    }
+}

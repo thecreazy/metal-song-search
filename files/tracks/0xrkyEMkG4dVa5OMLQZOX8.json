@@ -1,0 +1,77 @@
+{
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6wWVKhxIU2cEi0K81v7HvP",
+                    "id": "6wWVKhxIU2cEi0K81v7HvP",
+                    "name": "Rammstein",
+                    "type": "artist",
+                    "uri": "spotify:artist:6wWVKhxIU2cEi0K81v7HvP"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag"
+            },
+            "href": "https://api.spotify.com/v1/albums/2w6Vy8qZLU4niyQAHyu0Ag",
+            "id": "2w6Vy8qZLU4niyQAHyu0Ag",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a715d32590424cd667879ba3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a715d32590424cd667879ba3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a715d32590424cd667879ba3",
+                    "width": 64
+                }
+            ],
+            "name": "Sehnsucht",
+            "release_date": "1997-08-25",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:2w6Vy8qZLU4niyQAHyu0Ag"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+                },
+                "href": "https://api.spotify.com/v1/artists/6wWVKhxIU2cEi0K81v7HvP",
+                "id": "6wWVKhxIU2cEi0K81v7HvP",
+                "name": "Rammstein",
+                "type": "artist",
+                "uri": "spotify:artist:6wWVKhxIU2cEi0K81v7HvP"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 264266,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED579702410"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0xrkyEMkG4dVa5OMLQZOX8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0xrkyEMkG4dVa5OMLQZOX8",
+        "id": "0xrkyEMkG4dVa5OMLQZOX8",
+        "is_local": false,
+        "name": "Engel",
+        "popularity": 68,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0xrkyEMkG4dVa5OMLQZOX8"
+    }
+}

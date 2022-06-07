@@ -1,0 +1,166 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Ride the dragon toward the crimson eye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flap the wings under Mars red sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The reptile pushes itself out into space",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Leaving behind the human race",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Swim inside the solar seas",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Nebula cries out to me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Passing where I've gone before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I fly through the crimson door",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ride the dragon toward the crimson eye",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flap the wings under Mars red sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "714421",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Mt6w4tDGiPgV5q6JWPlrI",
+                    "id": "4Mt6w4tDGiPgV5q6JWPlrI",
+                    "name": "Sleep",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Mt6w4tDGiPgV5q6JWPlrI"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs"
+            },
+            "href": "https://api.spotify.com/v1/albums/6L7ENQZtfSKVAq1CIRZSxs",
+            "id": "6L7ENQZtfSKVAq1CIRZSxs",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273135e343afe7262d1a1e407f3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02135e343afe7262d1a1e407f3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851135e343afe7262d1a1e407f3",
+                    "width": 64
+                }
+            ],
+            "name": "Sleep's Holy Mountain",
+            "release_date": "1993",
+            "release_date_precision": "year",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:6L7ENQZtfSKVAq1CIRZSxs"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+                },
+                "href": "https://api.spotify.com/v1/artists/4Mt6w4tDGiPgV5q6JWPlrI",
+                "id": "4Mt6w4tDGiPgV5q6JWPlrI",
+                "name": "Sleep",
+                "type": "artist",
+                "uri": "spotify:artist:4Mt6w4tDGiPgV5q6JWPlrI"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 343160,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBPB0400650"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6qLgGLeawKyhMFJ848XtYD",
+        "id": "6qLgGLeawKyhMFJ848XtYD",
+        "is_local": false,
+        "name": "Dragonaut",
+        "popularity": 52,
+        "preview_url": "https://p.scdn.co/mp3-preview/1bb40fda9faadf9fd5f2e4f6f628bf894a394fab?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6qLgGLeawKyhMFJ848XtYD"
+    }
+}

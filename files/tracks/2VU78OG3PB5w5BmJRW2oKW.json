@@ -1,0 +1,246 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Command to Vietnam",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Back into the jungles depths",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Armed to the teeth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cold blooded experienced",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mercenary paid to slaughter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sector madness kill and destroy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Missing captive locked up in contaminated camps",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Only war of liberation let them gather fresh hope",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hostile crossfire finished eight lives, bowels bury me alive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Green hell swallows a silhouette, I could get away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Persecution mania, driven me mad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Persecution mania, tremendous dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Persecution mania, getting mentally ill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Persecution mania, alarmed about my life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There are traps behind every line",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The combat zone in trench and fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know the danger every step",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The nerve gas falls in black and white",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But slowly I near my destination",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lost is our war to do justice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The brothers of people shot and died",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Persecution mania takes away my life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Persecution mania, driven me mad",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Persecution mania, tremendous dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Persecution mania, getting mentally ill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Persecution mania, alarmed about my life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Something fierce",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Something evil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Circles in the air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "580624",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6SYbLA9utoNsllunR1TnkM",
+                    "id": "6SYbLA9utoNsllunR1TnkM",
+                    "name": "Sodom",
+                    "type": "artist",
+                    "uri": "spotify:artist:6SYbLA9utoNsllunR1TnkM"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4riCXKyyPLZZTdWWd5ll9h"
+            },
+            "href": "https://api.spotify.com/v1/albums/4riCXKyyPLZZTdWWd5ll9h",
+            "id": "4riCXKyyPLZZTdWWd5ll9h",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f26c51db839ab57b1c80d33e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f26c51db839ab57b1c80d33e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f26c51db839ab57b1c80d33e",
+                    "width": 64
+                }
+            ],
+            "name": "Persecution Mania",
+            "release_date": "1987",
+            "release_date_precision": "year",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:4riCXKyyPLZZTdWWd5ll9h"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM"
+                },
+                "href": "https://api.spotify.com/v1/artists/6SYbLA9utoNsllunR1TnkM",
+                "id": "6SYbLA9utoNsllunR1TnkM",
+                "name": "Sodom",
+                "type": "artist",
+                "uri": "spotify:artist:6SYbLA9utoNsllunR1TnkM"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 218400,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEA450717370"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2VU78OG3PB5w5BmJRW2oKW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2VU78OG3PB5w5BmJRW2oKW",
+        "id": "2VU78OG3PB5w5BmJRW2oKW",
+        "is_local": false,
+        "name": "Persecution Mania",
+        "popularity": 27,
+        "preview_url": "https://p.scdn.co/mp3-preview/97dbe60e16589ae5a5e21dc1ef98e477c0efc393?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2VU78OG3PB5w5BmJRW2oKW"
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I am the thing that makes you sick",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am the blame that gets placed quick",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Detect the crack within your lie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll be the wrath of your disdain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll be the fear in you engrained",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Become the facts that you deny",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can feel this pain is real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I hate deep down inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And like broken glass you'll shatter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With bloody fists I'll batter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a ten ton hammer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "1'll be the trembling in your breath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Trickle of blood upon your flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You'd love to watch me take the fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll be the thing that you despise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause I'm the path to your demise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I'm a be there standing tall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can feel this pain is real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I hate deep down inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And like broken glass you'll shatter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With bloody fists I'll batter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a ten ton hammer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can't stand or take another day my friend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You could learn a thing or two",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can feel this pain is real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I hate deep down inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And like broken glass you'll shatter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With bloody fists I'll batter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a ten ton hammer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "291484",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0lVlNsuGaOr9vMHCZIAKMt",
+                    "id": "0lVlNsuGaOr9vMHCZIAKMt",
+                    "name": "Machine Head",
+                    "type": "artist",
+                    "uri": "spotify:artist:0lVlNsuGaOr9vMHCZIAKMt"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
+            },
+            "href": "https://api.spotify.com/v1/albums/60l0eb8lzf8jNF0K6XsbWL",
+            "id": "60l0eb8lzf8jNF0K6XsbWL",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27346efc239ea6eba381256026a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0246efc239ea6eba381256026a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485146efc239ea6eba381256026a",
+                    "width": 64
+                }
+            ],
+            "name": "The More Things Change...",
+            "release_date": "1997-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:60l0eb8lzf8jNF0K6XsbWL"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+                },
+                "href": "https://api.spotify.com/v1/artists/0lVlNsuGaOr9vMHCZIAKMt",
+                "id": "0lVlNsuGaOr9vMHCZIAKMt",
+                "name": "Machine Head",
+                "type": "artist",
+                "uri": "spotify:artist:0lVlNsuGaOr9vMHCZIAKMt"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 254666,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329780023"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0bxUaSy4x46Ogeio8khuBd",
+        "id": "0bxUaSy4x46Ogeio8khuBd",
+        "is_local": false,
+        "name": "Ten Ton Hammer",
+        "popularity": 40,
+        "preview_url": "https://p.scdn.co/mp3-preview/4dff8ccf0884988d128eda2718a65e58d3dc2dc8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0bxUaSy4x46Ogeio8khuBd"
+    }
+}

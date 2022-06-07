@@ -1,0 +1,176 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Get out, you're not my kind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sleazy little lizzy thought you'd got another find",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yes I know you're big inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Loud and proud, I know you're legs are open wide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Life can be so unkind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bye, bye honey, lovely dovey, took you from behind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Maybe it's just as well",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I took your body, blew your mind and told you Go to hell!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Filthy little female, who you married to?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dirty little lady, I'm creeping up on you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nice boy what you don't see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your out of luck, you'll get no truck with me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lousy little screamer played outside the rules",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Took me for a dreamer but you were just a fool",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pretty male plaything made you feel alright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Took you for your money, now I'm off into the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2985627",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0s4JwoiTHqruatpqAR0IZ7"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0s4JwoiTHqruatpqAR0IZ7",
+                    "id": "0s4JwoiTHqruatpqAR0IZ7",
+                    "name": "Samson",
+                    "type": "artist",
+                    "uri": "spotify:artist:0s4JwoiTHqruatpqAR0IZ7"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4etvCCdJPifFLvhNbZjvL7"
+            },
+            "href": "https://api.spotify.com/v1/albums/4etvCCdJPifFLvhNbZjvL7",
+            "id": "4etvCCdJPifFLvhNbZjvL7",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d91712069e86328ffae4d72f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d91712069e86328ffae4d72f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d91712069e86328ffae4d72f",
+                    "width": 64
+                }
+            ],
+            "name": "Shock Tactics (Bonus Track Edition)",
+            "release_date": "1981-05-01",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:4etvCCdJPifFLvhNbZjvL7"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0s4JwoiTHqruatpqAR0IZ7"
+                },
+                "href": "https://api.spotify.com/v1/artists/0s4JwoiTHqruatpqAR0IZ7",
+                "id": "0s4JwoiTHqruatpqAR0IZ7",
+                "name": "Samson",
+                "type": "artist",
+                "uri": "spotify:artist:0s4JwoiTHqruatpqAR0IZ7"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 199080,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE8100052"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/44wmjDRO1zjNuUfBZA3daa"
+        },
+        "href": "https://api.spotify.com/v1/tracks/44wmjDRO1zjNuUfBZA3daa",
+        "id": "44wmjDRO1zjNuUfBZA3daa",
+        "is_local": false,
+        "name": "Go to Hell",
+        "popularity": 14,
+        "preview_url": "https://p.scdn.co/mp3-preview/23746deb18ed3d279d5c38563b69f68704e32ed6?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:44wmjDRO1zjNuUfBZA3daa"
+    }
+}

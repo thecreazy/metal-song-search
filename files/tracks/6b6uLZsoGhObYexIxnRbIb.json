@@ -1,0 +1,181 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Welcome to our fortress tall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll take some time to show you around",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Impossible to break these walls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For, you see, the steel is much too strong",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Computer banks to rule the world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Instruments to sight the stars",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Possibly I've seen too much",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hangar 18, I know too much",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Foreign life forms, inventory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Suspended state of cryogenics",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Selective amnesia's the story",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Believed, foretold, but who would suspect?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The military intelligence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Two words combined that can't make sense",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Possibly I've seen too much",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hangar 18, I know too much",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "177592",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+                    "id": "1Yox196W7bzVNZI7RBaPnf",
+                    "name": "Megadeth",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
+            },
+            "href": "https://api.spotify.com/v1/albums/0qaLL09EtF1hiUis7PRvaJ",
+            "id": "0qaLL09EtF1hiUis7PRvaJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02be9fa5a89479b6af481938a0",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851be9fa5a89479b6af481938a0",
+                    "width": 64
+                }
+            ],
+            "name": "Rust In Peace (Expanded Edition)",
+            "release_date": "1990-10-04",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:0qaLL09EtF1hiUis7PRvaJ"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+                },
+                "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+                "id": "1Yox196W7bzVNZI7RBaPnf",
+                "name": "Megadeth",
+                "type": "artist",
+                "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 311200,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USCA20400648"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6b6uLZsoGhObYexIxnRbIb"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6b6uLZsoGhObYexIxnRbIb",
+        "id": "6b6uLZsoGhObYexIxnRbIb",
+        "is_local": false,
+        "name": "Hangar 18 - Remastered",
+        "popularity": 60,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6b6uLZsoGhObYexIxnRbIb"
+    }
+}

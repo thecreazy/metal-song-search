@@ -1,0 +1,77 @@
+{
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2HmtB6wVRRi3z0JwZHtkiD",
+                    "id": "2HmtB6wVRRi3z0JwZHtkiD",
+                    "name": "Enslaved",
+                    "type": "artist",
+                    "uri": "spotify:artist:2HmtB6wVRRi3z0JwZHtkiD"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/57OaCjNI4k5JrnKuJW2J2h"
+            },
+            "href": "https://api.spotify.com/v1/albums/57OaCjNI4k5JrnKuJW2J2h",
+            "id": "57OaCjNI4k5JrnKuJW2J2h",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27316c9c54c82ec2afcf156900b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0216c9c54c82ec2afcf156900b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485116c9c54c82ec2afcf156900b",
+                    "width": 64
+                }
+            ],
+            "name": "Vikingligr Veldi",
+            "release_date": "1994",
+            "release_date_precision": "year",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:57OaCjNI4k5JrnKuJW2J2h"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+                },
+                "href": "https://api.spotify.com/v1/artists/2HmtB6wVRRi3z0JwZHtkiD",
+                "id": "2HmtB6wVRRi3z0JwZHtkiD",
+                "name": "Enslaved",
+                "type": "artist",
+                "uri": "spotify:artist:2HmtB6wVRRi3z0JwZHtkiD"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 658213,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NOFVD9408020"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4vkzvtKPH0wvchq03RUNlf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4vkzvtKPH0wvchq03RUNlf",
+        "id": "4vkzvtKPH0wvchq03RUNlf",
+        "is_local": false,
+        "name": "Vetranott",
+        "popularity": 14,
+        "preview_url": "https://p.scdn.co/mp3-preview/8bc98608a190f39a4744819adf7f58e5ac65a2f1?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4vkzvtKPH0wvchq03RUNlf"
+    }
+}

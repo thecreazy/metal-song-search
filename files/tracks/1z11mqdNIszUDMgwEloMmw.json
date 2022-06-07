@@ -1,0 +1,181 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Here's my hand you painted on",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A circle fades inside a heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Are you expected here?\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You whisper in my ear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So I wash my hands till the water burns",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A circle sits outside a door",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"Are you expected here?\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I whisper in your ear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm whole, open",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm starved, broken",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm lost and found",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm an evolutionary sleeper",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If letting go means letting be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the truth beyond the mind is what I need",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If letting go means letting be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the truth beyond the mind is what I see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm an evolutionary sleeper",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1642555",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5nXldeedEas60jZnMi40p4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5nXldeedEas60jZnMi40p4",
+                    "id": "5nXldeedEas60jZnMi40p4",
+                    "name": "Cynic",
+                    "type": "artist",
+                    "uri": "spotify:artist:5nXldeedEas60jZnMi40p4"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1V0sdomb0xeyfhaKJASMaQ"
+            },
+            "href": "https://api.spotify.com/v1/albums/1V0sdomb0xeyfhaKJASMaQ",
+            "id": "1V0sdomb0xeyfhaKJASMaQ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ee98f09268a0b508be1ebeea",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ee98f09268a0b508be1ebeea",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ee98f09268a0b508be1ebeea",
+                    "width": 64
+                }
+            ],
+            "name": "Traced in Air",
+            "release_date": "2008-11-17",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:1V0sdomb0xeyfhaKJASMaQ"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5nXldeedEas60jZnMi40p4"
+                },
+                "href": "https://api.spotify.com/v1/artists/5nXldeedEas60jZnMi40p4",
+                "id": "5nXldeedEas60jZnMi40p4",
+                "name": "Cynic",
+                "type": "artist",
+                "uri": "spotify:artist:5nXldeedEas60jZnMi40p4"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 215813,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "FR33T0818203"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1z11mqdNIszUDMgwEloMmw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1z11mqdNIszUDMgwEloMmw",
+        "id": "1z11mqdNIszUDMgwEloMmw",
+        "is_local": false,
+        "name": "Evolutionary Sleeper",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/29b46b71c61b9372838403422652e8bc855e864f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:1z11mqdNIszUDMgwEloMmw"
+    }
+}

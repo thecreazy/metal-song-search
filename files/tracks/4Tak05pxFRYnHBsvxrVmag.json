@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Breaking the weaves, a ride on the wild raging sea",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Playing with fortune oh, what a lust to be free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flashlights and thunder, the prattering rain in the hull",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From a stormy horizon we get our course",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The cry of freedom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Face in the wind, we're riding the storm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We'll stay our course whatever will come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wandering souls in the sea of the damned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death or glory, oh, oh we're riding the storm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cracks in the planks, the rigging moves upwards and",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Staggering masts, the pounding splash of the prow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The wind in our sails, our flag flies high on the top",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From a stormy horizon we get our course",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The cry of freedom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Face in the wind, we're riding the storm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We'll stay our course whatever will come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wandering souls in the sea of the damned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death or glory, oh, oh we're riding the storm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Breaking the weaves, a ride on the wild raging sea",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Playing with fortune oh, what a lust to be free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flashlights and thunder, the prattering rain in the hull",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From a stormy horizon we get our course",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The cry of freedom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Face in the wind, we're riding the storm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We'll stay our course whatever will come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wandering souls in the sea of the damned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death or glory, oh, oh we're riding the storm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "74076850",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7954VFaZClkL503srfV5PE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7954VFaZClkL503srfV5PE",
+                    "id": "7954VFaZClkL503srfV5PE",
+                    "name": "Running Wild",
+                    "type": "artist",
+                    "uri": "spotify:artist:7954VFaZClkL503srfV5PE"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5qWs6LYzk0YpSGmkUBE5sp"
+            },
+            "href": "https://api.spotify.com/v1/albums/5qWs6LYzk0YpSGmkUBE5sp",
+            "id": "5qWs6LYzk0YpSGmkUBE5sp",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731ae7fee8a77085e20e56d414",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021ae7fee8a77085e20e56d414",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511ae7fee8a77085e20e56d414",
+                    "width": 64
+                }
+            ],
+            "name": "Death or Glory (Expanded Version; 2017 - Remaster)",
+            "release_date": "2017-08-11",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:5qWs6LYzk0YpSGmkUBE5sp"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7954VFaZClkL503srfV5PE"
+                },
+                "href": "https://api.spotify.com/v1/artists/7954VFaZClkL503srfV5PE",
+                "id": "7954VFaZClkL503srfV5PE",
+                "name": "Running Wild",
+                "type": "artist",
+                "uri": "spotify:artist:7954VFaZClkL503srfV5PE"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 388720,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GB5KW1701825"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4Tak05pxFRYnHBsvxrVmag"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Tak05pxFRYnHBsvxrVmag",
+        "id": "4Tak05pxFRYnHBsvxrVmag",
+        "is_local": false,
+        "name": "Riding the Storm - 2017 - Remaster",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/858cfa3ddd525dd532fe6b99f246d62ce287c095?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4Tak05pxFRYnHBsvxrVmag"
+    }
+}

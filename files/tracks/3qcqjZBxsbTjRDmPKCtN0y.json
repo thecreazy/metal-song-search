@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Stood there leaning to the city moon,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Casting silhouettes tall to grip her white rooms",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The black-clad voyeur in his black-clad masque",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the serpentine sun of tragedy basked",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stood there cursing at the soul-dead mass",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With their fabled illusions, the vain dreams that passed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Splinters of a life rushing by in the whirl",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alone, silent warrior in a fantasy world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He cried for night / but night could not come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So, swept in the shroud of misanthropia he went away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And fed the empty galleries",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With the artifacts of the black rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sunken into the shadows with a dry, sardonic smile",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He made the footprints a part of his heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To rouse a sacred confrontation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stood there carving on the monument to lies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Digging of the Earth, making friends with the soil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As the all-mother rises and bares her bleeding thighs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He disappears into her cold, icy womb",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "862680",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/57ylwQTnFnIhJh4nu4rxCs",
+                    "id": "57ylwQTnFnIhJh4nu4rxCs",
+                    "name": "In Flames",
+                    "type": "artist",
+                    "uri": "spotify:artist:57ylwQTnFnIhJh4nu4rxCs"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1oupMKdNzd7u1isqbtM4so"
+            },
+            "href": "https://api.spotify.com/v1/albums/1oupMKdNzd7u1isqbtM4so",
+            "id": "1oupMKdNzd7u1isqbtM4so",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737b967d82647ad3a36a098334",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027b967d82647ad3a36a098334",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517b967d82647ad3a36a098334",
+                    "width": 64
+                }
+            ],
+            "name": "The Jester Race (Black Ash-Inheritance Version)",
+            "release_date": "1996-02-20",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:1oupMKdNzd7u1isqbtM4so"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+                },
+                "href": "https://api.spotify.com/v1/artists/57ylwQTnFnIhJh4nu4rxCs",
+                "id": "57ylwQTnFnIhJh4nu4rxCs",
+                "name": "In Flames",
+                "type": "artist",
+                "uri": "spotify:artist:57ylwQTnFnIhJh4nu4rxCs"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 195400,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED830162803"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3qcqjZBxsbTjRDmPKCtN0y"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3qcqjZBxsbTjRDmPKCtN0y",
+        "id": "3qcqjZBxsbTjRDmPKCtN0y",
+        "is_local": false,
+        "name": "Artifacts of the Black Rain",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/f5c1f371bfe12dd949af571107f828b751316275?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3qcqjZBxsbTjRDmPKCtN0y"
+    }
+}

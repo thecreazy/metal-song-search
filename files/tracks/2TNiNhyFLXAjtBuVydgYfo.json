@@ -1,0 +1,206 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Bestial invasion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Early morning, mankind sleeps",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's a roaring in the air, impenetrable fog",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thunder rolls, lightning strikes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell storms rush over the Earth, but no rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell storms",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rush over the Earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bestial invasion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fog cleared up, people scream",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They won't believe that the evil takes control",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell storms",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rush over the Earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bestial invasion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time is out, obsession spreads",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death rules, Satan's law is in command",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell storms",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rush over the Earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bestial invasion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus Christ exists no longer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Better pray to the new lord, he's almighty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Obey him",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Obey!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1191157",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5d6KI8frPEo3qGsIL8Sak2",
+                    "id": "5d6KI8frPEo3qGsIL8Sak2",
+                    "name": "Destruction",
+                    "type": "artist",
+                    "uri": "spotify:artist:5d6KI8frPEo3qGsIL8Sak2"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC"
+            },
+            "href": "https://api.spotify.com/v1/albums/6Alq1l8ezrAFtEK0tCWnZC",
+            "id": "6Alq1l8ezrAFtEK0tCWnZC",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c12d239c0c28e090a2bd0109",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c12d239c0c28e090a2bd0109",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c12d239c0c28e090a2bd0109",
+                    "width": 64
+                }
+            ],
+            "name": "Infernal Overkill",
+            "release_date": "1985",
+            "release_date_precision": "year",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:6Alq1l8ezrAFtEK0tCWnZC"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
+                },
+                "href": "https://api.spotify.com/v1/artists/5d6KI8frPEo3qGsIL8Sak2",
+                "id": "5d6KI8frPEo3qGsIL8Sak2",
+                "name": "Destruction",
+                "type": "artist",
+                "uri": "spotify:artist:5d6KI8frPEo3qGsIL8Sak2"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 276106,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DELJ81742772"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2TNiNhyFLXAjtBuVydgYfo",
+        "id": "2TNiNhyFLXAjtBuVydgYfo",
+        "is_local": false,
+        "name": "Bestial Invasion",
+        "popularity": 32,
+        "preview_url": "https://p.scdn.co/mp3-preview/2705eece1e5cdaea4a05471b34444855009445cb?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2TNiNhyFLXAjtBuVydgYfo"
+    }
+}

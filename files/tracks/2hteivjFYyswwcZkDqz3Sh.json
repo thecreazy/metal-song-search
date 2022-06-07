@@ -1,0 +1,156 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Violent torture",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death has arrived",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Armageddon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Terror and fright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bleeding corpses",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rotting decay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anarchy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Violent torture",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Antichrist",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lucifer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Son of satan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pure Fucking Armageddon!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pure Fucking Armageddon!",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1624540",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0dR10i73opHXuRuLbgxltM",
+                    "id": "0dR10i73opHXuRuLbgxltM",
+                    "name": "Mayhem",
+                    "type": "artist",
+                    "uri": "spotify:artist:0dR10i73opHXuRuLbgxltM"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7Hmn0xNHUhzYjYGviQnDbY"
+            },
+            "href": "https://api.spotify.com/v1/albums/7Hmn0xNHUhzYjYGviQnDbY",
+            "id": "7Hmn0xNHUhzYjYGviQnDbY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c21c77eb05ecb354b0fc5b3c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c21c77eb05ecb354b0fc5b3c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c21c77eb05ecb354b0fc5b3c",
+                    "width": 64
+                }
+            ],
+            "name": "Live in Leipzig",
+            "release_date": "1993-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:7Hmn0xNHUhzYjYGviQnDbY"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM"
+                },
+                "href": "https://api.spotify.com/v1/artists/0dR10i73opHXuRuLbgxltM",
+                "id": "0dR10i73opHXuRuLbgxltM",
+                "name": "Mayhem",
+                "type": "artist",
+                "uri": "spotify:artist:0dR10i73opHXuRuLbgxltM"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 188346,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "GBCQV0700273"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2hteivjFYyswwcZkDqz3Sh"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2hteivjFYyswwcZkDqz3Sh",
+        "id": "2hteivjFYyswwcZkDqz3Sh",
+        "is_local": false,
+        "name": "Pure Fucking Armageddon - Live in Leipzig, 1990",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/095fca9a6ba26ea6c2583940818ff43a65903d2d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:2hteivjFYyswwcZkDqz3Sh"
+    }
+}

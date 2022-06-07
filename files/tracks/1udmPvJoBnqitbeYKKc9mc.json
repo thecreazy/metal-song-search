@@ -1,0 +1,181 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "What is this that stands before me?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Figure in black which points at me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Turn 'round quick and start to run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Find out I'm the chosen one",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, no!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Big black shape with eyes of fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Telling people their desire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Satan's sitting there, he's smiling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Watches those flames get higher and higher",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, no, no, please, God help me!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is it the end, my friend?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Satan's coming 'round the bend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "People running 'cause they're scared",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The people better go and beware",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No, no, please, no!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "212091",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                    "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                    "name": "Black Sabbath",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2T6jeELx5BqH4GMLObBy10"
+            },
+            "href": "https://api.spotify.com/v1/albums/2T6jeELx5BqH4GMLObBy10",
+            "id": "2T6jeELx5BqH4GMLObBy10",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731311a92b0ca83a5154c5a5e7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021311a92b0ca83a5154c5a5e7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511311a92b0ca83a5154c5a5e7",
+                    "width": 64
+                }
+            ],
+            "name": "Black Sabbath (2009 Remastered Version)",
+            "release_date": "1970-02-13",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:2T6jeELx5BqH4GMLObBy10"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                "name": "Black Sabbath",
+                "type": "artist",
+                "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 377280,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE7000076"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1udmPvJoBnqitbeYKKc9mc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1udmPvJoBnqitbeYKKc9mc",
+        "id": "1udmPvJoBnqitbeYKKc9mc",
+        "is_local": false,
+        "name": "Black Sabbath",
+        "popularity": 53,
+        "preview_url": "https://p.scdn.co/mp3-preview/769f55d07c2680d657ed52e14698e06aed4ffe7c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1udmPvJoBnqitbeYKKc9mc"
+    }
+}

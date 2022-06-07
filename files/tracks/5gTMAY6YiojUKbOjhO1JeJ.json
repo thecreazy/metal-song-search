@@ -1,0 +1,77 @@
+{
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7kWnE981vITXDnAD2cZmCV",
+                    "id": "7kWnE981vITXDnAD2cZmCV",
+                    "name": "Darkthrone",
+                    "type": "artist",
+                    "uri": "spotify:artist:7kWnE981vITXDnAD2cZmCV"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4ywDt046dDB2OtWLqKwvMF"
+            },
+            "href": "https://api.spotify.com/v1/albums/4ywDt046dDB2OtWLqKwvMF",
+            "id": "4ywDt046dDB2OtWLqKwvMF",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273754029bf280ce924ef682664",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02754029bf280ce924ef682664",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851754029bf280ce924ef682664",
+                    "width": 64
+                }
+            ],
+            "name": "A Blaze In The Northern Sky",
+            "release_date": "1992-02-26",
+            "release_date_precision": "day",
+            "total_tracks": 6,
+            "type": "album",
+            "uri": "spotify:album:4ywDt046dDB2OtWLqKwvMF"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
+                },
+                "href": "https://api.spotify.com/v1/artists/7kWnE981vITXDnAD2cZmCV",
+                "id": "7kWnE981vITXDnAD2cZmCV",
+                "name": "Darkthrone",
+                "type": "artist",
+                "uri": "spotify:artist:7kWnE981vITXDnAD2cZmCV"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 639466,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "GBCQV9100030"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5gTMAY6YiojUKbOjhO1JeJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5gTMAY6YiojUKbOjhO1JeJ",
+        "id": "5gTMAY6YiojUKbOjhO1JeJ",
+        "is_local": false,
+        "name": "Kathaarian Life Code - Studio",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/fb82a9736ae2feecc1af2389ce9f7629a348db86?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5gTMAY6YiojUKbOjhO1JeJ"
+    }
+}

@@ -1,0 +1,261 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I am the man that defends all things profane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "6000 years is the time that I shall reign",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And with a grin drank the blood of holy swine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Impurity made the blood turn into wine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Old man, dead hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If only in their insanity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The lie feeds off their greed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus wept",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am the pain that feeds off your weaknesses",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A sickening born of hate not of the blessed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And with that time I will crush all things you prey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Destroying all from the known to the arcane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Old man, dead hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If only in their insanity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The lie feeds off their greed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus wept",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burn my eyes and try to blind me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bury me so they won't find me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Try to suck my power empty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Got no crown of thorns on me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So burn my eyes and try to blind me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bury me so they won't find me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Try to suck my power empty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Got no crown of thorns on me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So burn my eyes and try to blind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bury me so they won't find",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Try to suck my power dry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You got no crown of thorns on me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Me...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Old man, dead hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If only in their insanity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The lie feeds off their greed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jesus wept",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "291451",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0lVlNsuGaOr9vMHCZIAKMt",
+                    "id": "0lVlNsuGaOr9vMHCZIAKMt",
+                    "name": "Machine Head",
+                    "type": "artist",
+                    "uri": "spotify:artist:0lVlNsuGaOr9vMHCZIAKMt"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+            },
+            "href": "https://api.spotify.com/v1/albums/4S4WHsBRNEIha796lnU8NJ",
+            "id": "4S4WHsBRNEIha796lnU8NJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737eefd1a87710bf84a7688a2c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027eefd1a87710bf84a7688a2c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517eefd1a87710bf84a7688a2c",
+                    "width": 64
+                }
+            ],
+            "name": "Burn My Eyes",
+            "release_date": "1994-08-08",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:4S4WHsBRNEIha796lnU8NJ"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+                },
+                "href": "https://api.spotify.com/v1/artists/0lVlNsuGaOr9vMHCZIAKMt",
+                "id": "0lVlNsuGaOr9vMHCZIAKMt",
+                "name": "Machine Head",
+                "type": "artist",
+                "uri": "spotify:artist:0lVlNsuGaOr9vMHCZIAKMt"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 245600,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329503230"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5oi4f6KLBORQhQoYNhaPmQ",
+        "id": "5oi4f6KLBORQhQoYNhaPmQ",
+        "is_local": false,
+        "name": "Old",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/6de1ae26da2166640b2a63126e0d0ea2283cfa06?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5oi4f6KLBORQhQoYNhaPmQ"
+    }
+}

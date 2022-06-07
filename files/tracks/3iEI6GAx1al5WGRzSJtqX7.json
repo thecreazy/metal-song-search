@@ -1,0 +1,276 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "A condeming fear strikes down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Things they cannot understand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "An excuse to cover up weaknesses that lie within",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Laying your guilt and pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On people that had no part in the molding of a life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That creates its destruction",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Right before your very eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A reflection of the mistakes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the end you will deny",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your part in the demise of a life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lack of comprehension",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thriving on your cliche",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Compelled by self-resentment",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Reaching into the minds of those that created",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The depression in which they",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In which they drowned their flesh and blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So easy to blame the",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everlasting fear on a pathetic attempt",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To justify the ending of life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Right before your very eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A reflection of the mistakes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the end you will deny",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your help in ending of a life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lack of comprehension",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thriving on your cliche",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Compelled by self-resentment",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "862594",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4f5V3PQ66nIrBCqugJtaGn",
+                    "id": "4f5V3PQ66nIrBCqugJtaGn",
+                    "name": "Death",
+                    "type": "artist",
+                    "uri": "spotify:artist:4f5V3PQ66nIrBCqugJtaGn"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2bzV4j7nfY676RDSmxs0rc"
+            },
+            "href": "https://api.spotify.com/v1/albums/2bzV4j7nfY676RDSmxs0rc",
+            "id": "2bzV4j7nfY676RDSmxs0rc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273383cb7c7bde8e822ebf19613",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02383cb7c7bde8e822ebf19613",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851383cb7c7bde8e822ebf19613",
+                    "width": 64
+                }
+            ],
+            "name": "Human (Deluxe Version)",
+            "release_date": "2011-06-21",
+            "release_date_precision": "day",
+            "total_tracks": 49,
+            "type": "album",
+            "uri": "spotify:album:2bzV4j7nfY676RDSmxs0rc"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+                },
+                "href": "https://api.spotify.com/v1/artists/4f5V3PQ66nIrBCqugJtaGn",
+                "id": "4f5V3PQ66nIrBCqugJtaGn",
+                "name": "Death",
+                "type": "artist",
+                "uri": "spotify:artist:4f5V3PQ66nIrBCqugJtaGn"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 223826,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US2641116505"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3iEI6GAx1al5WGRzSJtqX7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3iEI6GAx1al5WGRzSJtqX7",
+        "id": "3iEI6GAx1al5WGRzSJtqX7",
+        "is_local": false,
+        "name": "Lack of Comprehension",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/cd7cc3929a1d387859ce57f43b247c259fc3bbbb?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:3iEI6GAx1al5WGRzSJtqX7"
+    }
+}

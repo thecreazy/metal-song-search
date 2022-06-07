@@ -1,0 +1,216 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Blind man ask me forgiveness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I won't deny myself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Disrespect you have given",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your suffering's my wealth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feed off pain, force fed to love it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And now I swallow whole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll never live in the past",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let freedom ring with a shotgun blast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burn my fist to the concrete",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My fear is my strength",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Power, rage unbound because",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Been pounded by the streets",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cyanide blood burns down the skyline",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hatred is purity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The bullet connects at last",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let freedom ring with a shotgun blast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scarred",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scarred",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scarred",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scarred",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scarred - Pour the salt in the wound",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scarred - Pour the salt in the wound",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scarred - Pour the salt in the wound",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Unscarred",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "291379",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0lVlNsuGaOr9vMHCZIAKMt",
+                    "id": "0lVlNsuGaOr9vMHCZIAKMt",
+                    "name": "Machine Head",
+                    "type": "artist",
+                    "uri": "spotify:artist:0lVlNsuGaOr9vMHCZIAKMt"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
+            },
+            "href": "https://api.spotify.com/v1/albums/4S4WHsBRNEIha796lnU8NJ",
+            "id": "4S4WHsBRNEIha796lnU8NJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737eefd1a87710bf84a7688a2c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027eefd1a87710bf84a7688a2c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517eefd1a87710bf84a7688a2c",
+                    "width": 64
+                }
+            ],
+            "name": "Burn My Eyes",
+            "release_date": "1994-08-08",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:4S4WHsBRNEIha796lnU8NJ"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+                },
+                "href": "https://api.spotify.com/v1/artists/0lVlNsuGaOr9vMHCZIAKMt",
+                "id": "0lVlNsuGaOr9vMHCZIAKMt",
+                "name": "Machine Head",
+                "type": "artist",
+                "uri": "spotify:artist:0lVlNsuGaOr9vMHCZIAKMt"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 296626,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329400920"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3qHlBxD3acw5nrl7Padt0v",
+        "id": "3qHlBxD3acw5nrl7Padt0v",
+        "is_local": false,
+        "name": "Davidian",
+        "popularity": 56,
+        "preview_url": "https://p.scdn.co/mp3-preview/97ee3c6557935dba540c2cd9b3166779f5d589fe?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3qHlBxD3acw5nrl7Padt0v"
+    }
+}

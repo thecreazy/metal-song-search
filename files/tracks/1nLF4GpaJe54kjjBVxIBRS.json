@@ -1,0 +1,251 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Orgy of silence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Conspiracy of peace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Only the sound",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of the cold northern breeze",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Twinsun sink fading",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Behind the black lake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Asleep is the mountains",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yet the night is awake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Strange is the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now black stars rise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And many moons circle",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through silent the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Along the black mountainside scattered",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "By the campfires awaiting the dawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Two times a hundred men in battles",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tried by the steel in the arrow, axe and the sword",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "By battle worn hunger torn awaitening",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For the sun to break through the cold haze",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And for the banners of Ebal to appear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On the hill in the sun's first warm rays",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The elder among the men looked deep into",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The fire and spoke loud with pride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tomorrow is a fine day to die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now the morning advance from far east",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now the sun breaks through dustclouds and haze",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now a forest of spears appears on the hill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And steel shines bright in the sun's first rays",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "904525",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6rBvjnvdsRxFRSrq1StGOM",
+                    "id": "6rBvjnvdsRxFRSrq1StGOM",
+                    "name": "Bathory",
+                    "type": "artist",
+                    "uri": "spotify:artist:6rBvjnvdsRxFRSrq1StGOM"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2QVt9UZEloRJgYqE70ACPs"
+            },
+            "href": "https://api.spotify.com/v1/albums/2QVt9UZEloRJgYqE70ACPs",
+            "id": "2QVt9UZEloRJgYqE70ACPs",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27335f5af2b63ac3d5dee27972b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0235f5af2b63ac3d5dee27972b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485135f5af2b63ac3d5dee27972b",
+                    "width": 64
+                }
+            ],
+            "name": "Blood Fire Death",
+            "release_date": "1988-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:2QVt9UZEloRJgYqE70ACPs"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+                },
+                "href": "https://api.spotify.com/v1/artists/6rBvjnvdsRxFRSrq1StGOM",
+                "id": "6rBvjnvdsRxFRSrq1StGOM",
+                "name": "Bathory",
+                "type": "artist",
+                "uri": "spotify:artist:6rBvjnvdsRxFRSrq1StGOM"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 516266,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "SEXHQ8800402"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1nLF4GpaJe54kjjBVxIBRS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1nLF4GpaJe54kjjBVxIBRS",
+        "id": "1nLF4GpaJe54kjjBVxIBRS",
+        "is_local": false,
+        "name": "A Fine Day to Die",
+        "popularity": 47,
+        "preview_url": "https://p.scdn.co/mp3-preview/e12de71fb2725b14e356014588c6d0b74326547b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1nLF4GpaJe54kjjBVxIBRS"
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "metal-songs-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "script:downloadSong": "node ./scripts/downloadSongInformation.js"
+  },
+  "author": "thecreazy <canella_riccardo@icloud.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "better-logging": "^5.0.0",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.1"
+  }
+}

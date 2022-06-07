@@ -1,0 +1,206 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "A fallen time that's bygone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A crude elite that's from a distant zone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You turn a blind eye on what's brave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You don't know if It's the truth you told",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anger looks on the quiet dreaming",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seals the sense incandescent ones",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hold back desire for danger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A bet you lose, you'll have no way to turn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I see the man who lives and breathes corruption",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Into a circle that you call you own",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't run away, from the pain, A claim that you deal with",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A power game, from within, Impossible for you to see this",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Laid down the laws of deceit",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The ones who cherish are the ones who'll go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Into the ashes of a tortured world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Only in mind's eye can you see a light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Harmony break, dark awakes, in old eyes - the trouble, feel it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Here to stay, mark the way, improvise the judgment hearing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anger looks on the quiet dreaming",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seals the scense incandescent ones",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All remains of the glowing embers",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is a bleak cold irrelevance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "301551",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0gIo6kGl4KsCeIbqtZVHYp",
+                    "id": "0gIo6kGl4KsCeIbqtZVHYp",
+                    "name": "Paradise Lost",
+                    "type": "artist",
+                    "uri": "spotify:artist:0gIo6kGl4KsCeIbqtZVHYp"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3MYbbnq4ITUSbhKCwxwcZa"
+            },
+            "href": "https://api.spotify.com/v1/albums/3MYbbnq4ITUSbhKCwxwcZa",
+            "id": "3MYbbnq4ITUSbhKCwxwcZa",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e9349e6a309a0a66d709ae71",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e9349e6a309a0a66d709ae71",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e9349e6a309a0a66d709ae71",
+                    "width": 64
+                }
+            ],
+            "name": "Icon",
+            "release_date": "1993-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:3MYbbnq4ITUSbhKCwxwcZa"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+                },
+                "href": "https://api.spotify.com/v1/artists/0gIo6kGl4KsCeIbqtZVHYp",
+                "id": "0gIo6kGl4KsCeIbqtZVHYp",
+                "name": "Paradise Lost",
+                "type": "artist",
+                "uri": "spotify:artist:0gIo6kGl4KsCeIbqtZVHYp"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 284360,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCKC0700107"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/27ZuGlwpjafRzKOquXVNP8"
+        },
+        "href": "https://api.spotify.com/v1/tracks/27ZuGlwpjafRzKOquXVNP8",
+        "id": "27ZuGlwpjafRzKOquXVNP8",
+        "is_local": false,
+        "name": "Embers Fire",
+        "popularity": 36,
+        "preview_url": "https://p.scdn.co/mp3-preview/1daad35a9d236fe3442ae005948fbb49bd77b9c5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:27ZuGlwpjafRzKOquXVNP8"
+    }
+}

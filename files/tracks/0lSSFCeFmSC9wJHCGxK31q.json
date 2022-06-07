@@ -1,0 +1,211 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Why have you put so many things into my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That I can't see clear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who's paid you for telling me what I'm worth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And run in fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It has been for me a strain to see already",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What have you done",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The rising noise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The sharpened smells",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The deadened sight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What is it in my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A piece of broken glass",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is this the time I should be on my knees for you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is this your way of telling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another has been found",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now I know,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's teargas in my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What is it in my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A piece of broken glass",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is this the time I should be on my knees for you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is this your way of telling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another has been found",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now I know,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's teargas in my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1413593",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2CWWgbxApjbyByxBBCvGTm",
+                    "id": "2CWWgbxApjbyByxBBCvGTm",
+                    "name": "Katatonia",
+                    "type": "artist",
+                    "uri": "spotify:artist:2CWWgbxApjbyByxBBCvGTm"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6CrHkl9kGFR1s2twC10swE"
+            },
+            "href": "https://api.spotify.com/v1/albums/6CrHkl9kGFR1s2twC10swE",
+            "id": "6CrHkl9kGFR1s2twC10swE",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733b31efc7d208c3e2cf1b2af2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023b31efc7d208c3e2cf1b2af2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513b31efc7d208c3e2cf1b2af2",
+                    "width": 64
+                }
+            ],
+            "name": "Last Fair Deal Gone Down",
+            "release_date": "2001",
+            "release_date_precision": "year",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:6CrHkl9kGFR1s2twC10swE"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm"
+                },
+                "href": "https://api.spotify.com/v1/artists/2CWWgbxApjbyByxBBCvGTm",
+                "id": "2CWWgbxApjbyByxBBCvGTm",
+                "name": "Katatonia",
+                "type": "artist",
+                "uri": "spotify:artist:2CWWgbxApjbyByxBBCvGTm"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 203146,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCQV0100203"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0lSSFCeFmSC9wJHCGxK31q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0lSSFCeFmSC9wJHCGxK31q",
+        "id": "0lSSFCeFmSC9wJHCGxK31q",
+        "is_local": false,
+        "name": "Teargas",
+        "popularity": 30,
+        "preview_url": "https://p.scdn.co/mp3-preview/7644103fa15f2361a0fd725b8287ad0ed66f49eb?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0lSSFCeFmSC9wJHCGxK31q"
+    }
+}

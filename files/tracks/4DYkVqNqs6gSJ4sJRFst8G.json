@@ -1,0 +1,77 @@
+{
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7kWnE981vITXDnAD2cZmCV",
+                    "id": "7kWnE981vITXDnAD2cZmCV",
+                    "name": "Darkthrone",
+                    "type": "artist",
+                    "uri": "spotify:artist:7kWnE981vITXDnAD2cZmCV"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2TXZleYLiza8MszRBsDMsj"
+            },
+            "href": "https://api.spotify.com/v1/albums/2TXZleYLiza8MszRBsDMsj",
+            "id": "2TXZleYLiza8MszRBsDMsj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27399ee133527b2955026d915e3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0299ee133527b2955026d915e3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485199ee133527b2955026d915e3",
+                    "width": 64
+                }
+            ],
+            "name": "Under A Funeral Moon",
+            "release_date": "1993-06-24",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:2TXZleYLiza8MszRBsDMsj"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
+                },
+                "href": "https://api.spotify.com/v1/artists/7kWnE981vITXDnAD2cZmCV",
+                "id": "7kWnE981vITXDnAD2cZmCV",
+                "name": "Darkthrone",
+                "type": "artist",
+                "uri": "spotify:artist:7kWnE981vITXDnAD2cZmCV"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 214773,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "GBCQV9300046"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4DYkVqNqs6gSJ4sJRFst8G"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4DYkVqNqs6gSJ4sJRFst8G",
+        "id": "4DYkVqNqs6gSJ4sJRFst8G",
+        "is_local": false,
+        "name": "Natassja in Eternal Sleep - Studio",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/dadc536431b245f9aefd21c2e8608d91ede4629a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4DYkVqNqs6gSJ4sJRFst8G"
+    }
+}

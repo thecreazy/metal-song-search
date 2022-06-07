@@ -1,0 +1,281 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Alright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Someone is out there, he's watching what I do",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From far in the distance, his eyes everywhere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I look around me, there's no one that I see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But still I feel someone controlling my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Save your breath and run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You can't escape the one",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time has come, the world lies dying",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our faith has gone, our souls are crying",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Resurrecting paradise, cry for freedom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Killing pain, a million lies, dethrone tyranny",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forces of evil, they never surrender",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sooner or later the dark era comes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Crying man on the run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He's searching for freedom but there will be none",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time has come, the world lies dying",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our faith has gone, our souls are crying",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Resurrecting paradise, cry for freedom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Killing pain, a million lies, dethrone tyranny",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And as the world is dying slowly in our hands",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We'll ask for reasons until the bitter end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who brings us all the sadness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who brings us all the fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who spreads disease and misery",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And steals our destiny",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A poisoned heart of anger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sowing the seeds of pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All see the darkened skyline",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And feel the deadly reign",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time has come, the world lies dying",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our faith has gone, our souls are crying",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Resurrecting paradise, cry for freedom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Killing pain, a million lies, to hell with tyranny",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "44518297",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6LZE884lDIsCSLHuTplfGp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6LZE884lDIsCSLHuTplfGp",
+                    "id": "6LZE884lDIsCSLHuTplfGp",
+                    "name": "Gamma Ray",
+                    "type": "artist",
+                    "uri": "spotify:artist:6LZE884lDIsCSLHuTplfGp"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/09ZD2k6FieGjzoVGrQdsAC"
+            },
+            "href": "https://api.spotify.com/v1/albums/09ZD2k6FieGjzoVGrQdsAC",
+            "id": "09ZD2k6FieGjzoVGrQdsAC",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27313798fb371ec0a571efb7614",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0213798fb371ec0a571efb7614",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485113798fb371ec0a571efb7614",
+                    "width": 64
+                }
+            ],
+            "name": "The Best (Of)",
+            "release_date": "2015-01-30",
+            "release_date_precision": "day",
+            "total_tracks": 25,
+            "type": "album",
+            "uri": "spotify:album:09ZD2k6FieGjzoVGrQdsAC"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6LZE884lDIsCSLHuTplfGp"
+                },
+                "href": "https://api.spotify.com/v1/artists/6LZE884lDIsCSLHuTplfGp",
+                "id": "6LZE884lDIsCSLHuTplfGp",
+                "name": "Gamma Ray",
+                "type": "artist",
+                "uri": "spotify:artist:6LZE884lDIsCSLHuTplfGp"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 254080,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEH841400693"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3jPXnbdxziaxnkUeA8e5Cc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3jPXnbdxziaxnkUeA8e5Cc",
+        "id": "3jPXnbdxziaxnkUeA8e5Cc",
+        "is_local": false,
+        "name": "Dethrone Tyranny - Remastered",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/9f8f7eaaaac1a1ed81c64273a344b8d58820e2ff?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3jPXnbdxziaxnkUeA8e5Cc"
+    }
+}

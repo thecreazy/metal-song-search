@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "All dressed in gold and purple the beauty awaits the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Knowing what will satisfy, aware of her delight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The thought of young fresh blood makes the hours go so slow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But the yearn for eternal life and beauty makes her hazelbrown eyes glow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woman of dark desires",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woman of eternal beauty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woman of dark desires",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Elizabeth Bathory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now the hour is comed, the time is right for the feast to take its roll",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And by the sunrise 60 bodies will be found raped from their blood and souls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The beauty patiently selects the victims for the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Innocent blood will give eternal beauty eternal life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woman of dark desires",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woman of eternal beauty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woman of dark desires",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Elizabeth Bathory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now the life you have lived have comed to light and unfold is your perversity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now the end is near still death is real, no more beauty or life for eternity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cold walls entombs your secrets but there's nothing you regret",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Embrace death with a smile as the highlands face sunset",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woman of dark desires",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woman of eternal beauty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woman of dark desires",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Elizabeth Bathory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woman of dark desires",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woman of eternal beauty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woman of dark desires",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Elizabeth Bathory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "904675",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6rBvjnvdsRxFRSrq1StGOM",
+                    "id": "6rBvjnvdsRxFRSrq1StGOM",
+                    "name": "Bathory",
+                    "type": "artist",
+                    "uri": "spotify:artist:6rBvjnvdsRxFRSrq1StGOM"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5HT0xp5AqEzzAzzjj9gPZN"
+            },
+            "href": "https://api.spotify.com/v1/albums/5HT0xp5AqEzzAzzjj9gPZN",
+            "id": "5HT0xp5AqEzzAzzjj9gPZN",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730d6fd0946f4eb327ceed5f3d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020d6fd0946f4eb327ceed5f3d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510d6fd0946f4eb327ceed5f3d",
+                    "width": 64
+                }
+            ],
+            "name": "Under the Sign of the Black Mark",
+            "release_date": "1987-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:5HT0xp5AqEzzAzzjj9gPZN"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6rBvjnvdsRxFRSrq1StGOM"
+                },
+                "href": "https://api.spotify.com/v1/artists/6rBvjnvdsRxFRSrq1StGOM",
+                "id": "6rBvjnvdsRxFRSrq1StGOM",
+                "name": "Bathory",
+                "type": "artist",
+                "uri": "spotify:artist:6rBvjnvdsRxFRSrq1StGOM"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 247093,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "SEXHQ8700303"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/721bjJh95ew2R7iq65GaWn"
+        },
+        "href": "https://api.spotify.com/v1/tracks/721bjJh95ew2R7iq65GaWn",
+        "id": "721bjJh95ew2R7iq65GaWn",
+        "is_local": false,
+        "name": "Woman of Dark Desires",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/6f57dc32ffb451b927611ace85f98c15ae066273?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:721bjJh95ew2R7iq65GaWn"
+    }
+}

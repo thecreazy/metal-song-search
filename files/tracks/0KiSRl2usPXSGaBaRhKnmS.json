@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Where are they now?,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They are gone,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I saw them run,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Run to the sea,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Under the waves,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All has been said,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can you hear them?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their voices are free,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Free from the sun stare,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Free from the noise,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of lost souls...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In exiled sound,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Washed in with the tide,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their voices are free,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Free from the sun stare,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Free from the noise,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of lost souls...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their voice carrys life,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Under the waves,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Under the waves,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their voice carrys life,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Under the waves,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Under the waves,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Under the waves,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Under the waves...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "589140",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1KHydwFySZY3YcWyo2q2dF",
+                    "id": "1KHydwFySZY3YcWyo2q2dF",
+                    "name": "Neurosis",
+                    "type": "artist",
+                    "uri": "spotify:artist:1KHydwFySZY3YcWyo2q2dF"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2cdr9bgZKUMUptKSMuC8mP"
+            },
+            "href": "https://api.spotify.com/v1/albums/2cdr9bgZKUMUptKSMuC8mP",
+            "id": "2cdr9bgZKUMUptKSMuC8mP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fa68e14ef6d1ac8c69dd6c79",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fa68e14ef6d1ac8c69dd6c79",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851fa68e14ef6d1ac8c69dd6c79",
+                    "width": 64
+                }
+            ],
+            "name": "A Sun That Never Sets",
+            "release_date": "2001-08-07",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2cdr9bgZKUMUptKSMuC8mP"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+                },
+                "href": "https://api.spotify.com/v1/artists/1KHydwFySZY3YcWyo2q2dF",
+                "id": "1KHydwFySZY3YcWyo2q2dF",
+                "name": "Neurosis",
+                "type": "artist",
+                "uri": "spotify:artist:1KHydwFySZY3YcWyo2q2dF"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 528133,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US2640149602"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0KiSRl2usPXSGaBaRhKnmS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0KiSRl2usPXSGaBaRhKnmS",
+        "id": "0KiSRl2usPXSGaBaRhKnmS",
+        "is_local": false,
+        "name": "The Tide",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/3517958352a9834f52680d15a31ace58b0303d12?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0KiSRl2usPXSGaBaRhKnmS"
+    }
+}

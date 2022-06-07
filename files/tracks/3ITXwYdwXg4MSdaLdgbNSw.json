@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "There is no insanity, rather a super sanity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "More suited for life at the end of the 20th century",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where everything is art",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And everything is trying to express it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where everything is art",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And everything is trying to communicate it...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All intelligent beings sleep the dreaming of dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And they've all come up to meet met tonight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Although while in the morning, all their wonder and their",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Glory was turned ugly and quite simple",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a venue when you're loading in gear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sexuality, eroticism in asexual persuasions",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Man or woman, makes no difference in the outcome",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No fashion, no tolerance for stupidity or ignorance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...\"adidas\" or \"the arch deluxe\"...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And time is now an object",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh my fucking god...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh I'm fucking god...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I'll dream this into becoming real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And until such time that you can prove me otherwise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will continue with my agnostic travels",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Until I've found a place that dreams with me...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...a place that feeds on my routine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All I want is my mommy...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All I want is my mommy...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All I want is my mommy...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All I want is my mommy...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This is the night that it all changes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1489399",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/457qPvtiBTIl6LR4dZiKZy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/457qPvtiBTIl6LR4dZiKZy",
+                    "id": "457qPvtiBTIl6LR4dZiKZy",
+                    "name": "Strapping Young Lad",
+                    "type": "artist",
+                    "uri": "spotify:artist:457qPvtiBTIl6LR4dZiKZy"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/78Y2OaDAdvEqs3TRdCRdZc"
+            },
+            "href": "https://api.spotify.com/v1/albums/78Y2OaDAdvEqs3TRdCRdZc",
+            "id": "78Y2OaDAdvEqs3TRdCRdZc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739e210b76b09fd006a43e02b4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029e210b76b09fd006a43e02b4",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519e210b76b09fd006a43e02b4",
+                    "width": 64
+                }
+            ],
+            "name": "City",
+            "release_date": "1997-07-13",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:78Y2OaDAdvEqs3TRdCRdZc"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/457qPvtiBTIl6LR4dZiKZy"
+                },
+                "href": "https://api.spotify.com/v1/artists/457qPvtiBTIl6LR4dZiKZy",
+                "id": "457qPvtiBTIl6LR4dZiKZy",
+                "name": "Strapping Young Lad",
+                "type": "artist",
+                "uri": "spotify:artist:457qPvtiBTIl6LR4dZiKZy"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 214506,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "US4E40585103"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3ITXwYdwXg4MSdaLdgbNSw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ITXwYdwXg4MSdaLdgbNSw",
+        "id": "3ITXwYdwXg4MSdaLdgbNSw",
+        "is_local": false,
+        "name": "Oh My Fucking God",
+        "popularity": 30,
+        "preview_url": "https://p.scdn.co/mp3-preview/ec300c6bfc1333f942e70357cfa04af0a1706cf5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3ITXwYdwXg4MSdaLdgbNSw"
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "From my world the sun faded",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the moon from my sky was gone with stars",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I came home to a bleak room of sorrow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forsaken house, place of grief, in solitude",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I listened to my heart beating",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The faint rush of my blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I listened to my heart beating",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The echoes from space",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Something moving in the emptiness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Something drew me near",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Someone told me of my future deeds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Whispered them in my ear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The sky stirred",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The lights of space flared",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beneath my feet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The living earth started to breath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The sky is mine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This sword is mine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This fate is mine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This miracle, mine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From steel I made the master's sword",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cleaving stone, cliff, a mountain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From darkness I stepped",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Onto the path of stars.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "586554",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2UOVgpgiNTC6KK0vSC77aD",
+                    "id": "2UOVgpgiNTC6KK0vSC77aD",
+                    "name": "Amorphis",
+                    "type": "artist",
+                    "uri": "spotify:artist:2UOVgpgiNTC6KK0vSC77aD"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2rysCmCBLAXkDDNFnOn2h3"
+            },
+            "href": "https://api.spotify.com/v1/albums/2rysCmCBLAXkDDNFnOn2h3",
+            "id": "2rysCmCBLAXkDDNFnOn2h3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273110a6b05a3f34300afd4e517",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02110a6b05a3f34300afd4e517",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851110a6b05a3f34300afd4e517",
+                    "width": 64
+                }
+            ],
+            "name": "Skyforger",
+            "release_date": "2009-05-29",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2rysCmCBLAXkDDNFnOn2h3"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
+                },
+                "href": "https://api.spotify.com/v1/artists/2UOVgpgiNTC6KK0vSC77aD",
+                "id": "2UOVgpgiNTC6KK0vSC77aD",
+                "name": "Amorphis",
+                "type": "artist",
+                "uri": "spotify:artist:2UOVgpgiNTC6KK0vSC77aD"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 260040,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED830900117"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5dWryqZDIw65r8WQz6bT6Q"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5dWryqZDIw65r8WQz6bT6Q",
+        "id": "5dWryqZDIw65r8WQz6bT6Q",
+        "is_local": false,
+        "name": "Sky Is Mine",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/ef3f760b5b042c1c337a3ca172bff37603d1ae1b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5dWryqZDIw65r8WQz6bT6Q"
+    }
+}

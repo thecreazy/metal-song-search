@@ -1,0 +1,186 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Infinite metamorphosis connecting worthlessness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "\"AKUMADEMO AKUMANONAI\"",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Won't be weathered away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Keep on being",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hate formulas",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Worthless rites",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Distorted intentions",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "EVIL intentions",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Do not resist, eat up the will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Up above the awareness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sand storming",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will keep on being",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No need for forced logic",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Want to achieve this wicked formation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deform the sign of retaliation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With the light of the rite",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let it come out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Want to get ecstacy from this wicked formation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deform the sign of retaliation",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1670941",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3EgMK920cIH5aLxFnJ6zSi",
+                    "id": "3EgMK920cIH5aLxFnJ6zSi",
+                    "name": "Boris",
+                    "type": "artist",
+                    "uri": "spotify:artist:3EgMK920cIH5aLxFnJ6zSi"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/00oVPPcp3eor9x6VG2hvhy"
+            },
+            "href": "https://api.spotify.com/v1/albums/00oVPPcp3eor9x6VG2hvhy",
+            "id": "00oVPPcp3eor9x6VG2hvhy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737f4fa937aae442d0dc885600",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027f4fa937aae442d0dc885600",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517f4fa937aae442d0dc885600",
+                    "width": 64
+                }
+            ],
+            "name": "Akuma No Uta",
+            "release_date": "2003-06-06",
+            "release_date_precision": "day",
+            "total_tracks": 6,
+            "type": "album",
+            "uri": "spotify:album:00oVPPcp3eor9x6VG2hvhy"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
+                },
+                "href": "https://api.spotify.com/v1/artists/3EgMK920cIH5aLxFnJ6zSi",
+                "id": "3EgMK920cIH5aLxFnJ6zSi",
+                "name": "Boris",
+                "type": "artist",
+                "uri": "spotify:artist:3EgMK920cIH5aLxFnJ6zSi"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 201573,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US3JJ1900222"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7HuBJrexiZgH2UCOTnpBpY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7HuBJrexiZgH2UCOTnpBpY",
+        "id": "7HuBJrexiZgH2UCOTnpBpY",
+        "is_local": false,
+        "name": "Ibitsu",
+        "popularity": 36,
+        "preview_url": "https://p.scdn.co/mp3-preview/0c1cfb3e4deb5bff4fad0bd95d441512427b5518?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7HuBJrexiZgH2UCOTnpBpY"
+    }
+}

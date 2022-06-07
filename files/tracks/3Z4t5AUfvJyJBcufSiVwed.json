@@ -1,0 +1,251 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "'Kuolee karja",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kuolee suku",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Samaten itse kuolet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vaan nimi",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ei koskaan kuole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hältä ken on hyvän saanut'",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Kuolee karja",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kuolee suku",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Samaten itse kuolet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yhden tiedän",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mik' ei kuole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Manalle menneen maine'",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Hávamál)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jo luku viimeinen saa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Surmansa kohdannut lepää sijallaan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Veljet maljan simaa nostavat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tyhjäksi juovat nimeen vainajan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kaunis laiva kantaakseen saa miehen rauenneen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Laskua tuonpuoleiseen se vartoo rannalla",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Aseet, korut, rikkaudet matkamies saa mukaansa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alla suuren rovion lipuu hautansa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Ja katso, Voiko toista niin ylvästä näkyä olla",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kuin hiljaisten liekkien kurotus tähtiä kohti)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kuolemaan me jok'ikinen kuljemme",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jumalat ovat elävät valinneet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Veljemme syliin aaltojen laskemme",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jää hyvästi, sinut aina muistamme",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kunniaa ei miekka voi taltuttaa",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Jumalat ovat sankarit nimenneet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Veljemme tuonen herralle luovutamme",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Siis hyvästi kunnes jälleen kohtaamme",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1668349",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "fi",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4PdaU6ArZ8JTZvCX9ZWuTI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4PdaU6ArZ8JTZvCX9ZWuTI",
+                    "id": "4PdaU6ArZ8JTZvCX9ZWuTI",
+                    "name": "Moonsorrow",
+                    "type": "artist",
+                    "uri": "spotify:artist:4PdaU6ArZ8JTZvCX9ZWuTI"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0BhLoFoihkp9C1exHAeFcA"
+            },
+            "href": "https://api.spotify.com/v1/albums/0BhLoFoihkp9C1exHAeFcA",
+            "id": "0BhLoFoihkp9C1exHAeFcA",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273477f9a727cb90d586dba73b3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02477f9a727cb90d586dba73b3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851477f9a727cb90d586dba73b3",
+                    "width": 64
+                }
+            ],
+            "name": "Voimasta ja Kunniasta",
+            "release_date": "2008-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 6,
+            "type": "album",
+            "uri": "spotify:album:0BhLoFoihkp9C1exHAeFcA"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4PdaU6ArZ8JTZvCX9ZWuTI"
+                },
+                "href": "https://api.spotify.com/v1/artists/4PdaU6ArZ8JTZvCX9ZWuTI",
+                "id": "4PdaU6ArZ8JTZvCX9ZWuTI",
+                "name": "Moonsorrow",
+                "type": "artist",
+                "uri": "spotify:artist:4PdaU6ArZ8JTZvCX9ZWuTI"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 830533,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "FIUM70800133"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3Z4t5AUfvJyJBcufSiVwed"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Z4t5AUfvJyJBcufSiVwed",
+        "id": "3Z4t5AUfvJyJBcufSiVwed",
+        "is_local": false,
+        "name": "Sankaritarina",
+        "popularity": 17,
+        "preview_url": null,
+        "track_number": 6,
+        "type": "track",
+        "uri": "spotify:track:3Z4t5AUfvJyJBcufSiVwed"
+    }
+}

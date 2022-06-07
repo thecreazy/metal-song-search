@@ -1,0 +1,261 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Chaos A.D.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tanks on the streets",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Confronting police",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bleeding the plebs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Raging crowd",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burning cars",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bloodshed starts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who'll be alive?!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chaos A.D.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Army in siege",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Total alarm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm sick of this",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inside the State",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "War is created",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No man's land",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What is this shit?!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Refuse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Resist",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Refuse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chaos A.D.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Disorder unleashed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Starting to burn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Starting to lynch",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Silence means death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stand on your feet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inner fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your worst enemy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Refuse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Resist",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Refuse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Resist",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "307609",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6JW8wliOEwaDZ231ZY7cf4",
+                    "id": "6JW8wliOEwaDZ231ZY7cf4",
+                    "name": "Sepultura",
+                    "type": "artist",
+                    "uri": "spotify:artist:6JW8wliOEwaDZ231ZY7cf4"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
+            },
+            "href": "https://api.spotify.com/v1/albums/5r4qa5AIQUVypFRXQzjaiu",
+            "id": "5r4qa5AIQUVypFRXQzjaiu",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739c0b2d74cfb910735ca55317",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029c0b2d74cfb910735ca55317",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519c0b2d74cfb910735ca55317",
+                    "width": 64
+                }
+            ],
+            "name": "Chaos A.D.",
+            "release_date": "1993-09-02",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:5r4qa5AIQUVypFRXQzjaiu"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+                },
+                "href": "https://api.spotify.com/v1/artists/6JW8wliOEwaDZ231ZY7cf4",
+                "id": "6JW8wliOEwaDZ231ZY7cf4",
+                "name": "Sepultura",
+                "type": "artist",
+                "uri": "spotify:artist:6JW8wliOEwaDZ231ZY7cf4"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 199226,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "NLA329301550"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2OoS1aZFAFscH1cUiKlazH",
+        "id": "2OoS1aZFAFscH1cUiKlazH",
+        "is_local": false,
+        "name": "Refuse / Resist",
+        "popularity": 55,
+        "preview_url": "https://p.scdn.co/mp3-preview/1f8f4c0194b0ffb6aadef2ee74a7efc2fae46f54?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2OoS1aZFAFscH1cUiKlazH"
+    }
+}

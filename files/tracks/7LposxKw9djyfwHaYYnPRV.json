@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "So, now my time has come.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will be dead and gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From the earth's face.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It is my destiny,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This time I cannot hide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From this cruel fate.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A never ending memory,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A life before my eyes.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Whatever comes, whatever's been,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My pocket full of lies.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like an arrow in the air,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Falling endlessly and I know we're gonna be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Higher than the sky, we're",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Higher than the sky sky sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Higher than the sky we're",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Higher than the sky sky sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "An ordinary flight,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who could imagine this",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Will be our death cell.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No miracle in sight,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're diving faster now,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As for as I can tell.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I see the faces passing by,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's fear inside this eyes.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They all will be my company",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're brothers now for life.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like an arrow in the air,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Falling endlessly and I know we're gonna be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Higher than the sky, we're",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Higher than the sky sky sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Higher than the sky we're",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Higher than the sky sky sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1508216",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5TJVsWPUaJxBxWfVZQEt2x",
+                    "id": "5TJVsWPUaJxBxWfVZQEt2x",
+                    "name": "Rage",
+                    "type": "artist",
+                    "uri": "spotify:artist:5TJVsWPUaJxBxWfVZQEt2x"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6p0tfcisVAmTqBPv95brb0"
+            },
+            "href": "https://api.spotify.com/v1/albums/6p0tfcisVAmTqBPv95brb0",
+            "id": "6p0tfcisVAmTqBPv95brb0",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a9c88177ebee5076d5863410",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a9c88177ebee5076d5863410",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a9c88177ebee5076d5863410",
+                    "width": 64
+                }
+            ],
+            "name": "End Of All Days",
+            "release_date": "1996-09-09",
+            "release_date_precision": "day",
+            "total_tracks": 14,
+            "type": "album",
+            "uri": "spotify:album:6p0tfcisVAmTqBPv95brb0"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x"
+                },
+                "href": "https://api.spotify.com/v1/artists/5TJVsWPUaJxBxWfVZQEt2x",
+                "id": "5TJVsWPUaJxBxWfVZQEt2x",
+                "name": "Rage",
+                "type": "artist",
+                "uri": "spotify:artist:5TJVsWPUaJxBxWfVZQEt2x"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 257666,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEC689600418"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7LposxKw9djyfwHaYYnPRV"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7LposxKw9djyfwHaYYnPRV",
+        "id": "7LposxKw9djyfwHaYYnPRV",
+        "is_local": false,
+        "name": "Higher Than The Sky",
+        "popularity": 13,
+        "preview_url": "https://p.scdn.co/mp3-preview/95bb0ad6bf4e77ce2a59e6a771e4f34cbca95b4f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7LposxKw9djyfwHaYYnPRV"
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "A wise man's son and Wednesday's child in each other found a friend,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And searched together for the treasure hiding at the rainbow's end.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To wise man's son and Wednesday's child all is white that is not black,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They dance in symbiotic deadlock--one step forward two steps back,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Playing karmic snakes and ladders (all your sins will find you out),",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When all your gains are lost in vain on cosmic wings and roundabouts.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "At the roadside manhood's flower--blighted by a wayward youth,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Has cast it's seed on well-worn pathways--borne on winds of whispered truth.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We march to drums of our own choosing--each of them keeps different time,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As you are free to live your own life so I am free to live mine.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now wise man's son and Wednesday's child can recognise their own mistakes,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And to these ends they make amends for every promise that they break.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Both wise man's son and Wednesday's child view the world in red and green,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Await the day when they die laughing--thinking of the sights they've seen.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I tell you now if they were given chance to live their lives again--",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wise man's son and Wednesday's child would make the same mistakes as then.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "At the roadside manhood's flower--blighted by a wayward youth,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Has cast it's seed on well-worn pathways--borne on winds of whispered truth.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We march to drums of our own choosing--each of them keeps different time,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As you are free to live your own life so I am free to live mine.",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1429031",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3CgDRO3wUoner5eZocDuQN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3CgDRO3wUoner5eZocDuQN",
+                    "id": "3CgDRO3wUoner5eZocDuQN",
+                    "name": "Skyclad",
+                    "type": "artist",
+                    "uri": "spotify:artist:3CgDRO3wUoner5eZocDuQN"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/667rKRTmuq317m2ZM82jOb"
+            },
+            "href": "https://api.spotify.com/v1/albums/667rKRTmuq317m2ZM82jOb",
+            "id": "667rKRTmuq317m2ZM82jOb",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731cb0bd22099a55c3f3ef8cc9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021cb0bd22099a55c3f3ef8cc9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511cb0bd22099a55c3f3ef8cc9",
+                    "width": 64
+                }
+            ],
+            "name": "The Wayward Sons of Mother Earth",
+            "release_date": "1991-10-17",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:667rKRTmuq317m2ZM82jOb"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3CgDRO3wUoner5eZocDuQN"
+                },
+                "href": "https://api.spotify.com/v1/artists/3CgDRO3wUoner5eZocDuQN",
+                "id": "3CgDRO3wUoner5eZocDuQN",
+                "name": "Skyclad",
+                "type": "artist",
+                "uri": "spotify:artist:3CgDRO3wUoner5eZocDuQN"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 220866,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEA249600029"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5KdJXpW8ZML3SC2yuG7k1z"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5KdJXpW8ZML3SC2yuG7k1z",
+        "id": "5KdJXpW8ZML3SC2yuG7k1z",
+        "is_local": false,
+        "name": "The Widdershins Jig",
+        "popularity": 16,
+        "preview_url": "https://p.scdn.co/mp3-preview/853d925e77a75512dde3465f60ab5bdff8274007?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5KdJXpW8ZML3SC2yuG7k1z"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Razor's edge outlines the dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Incisions in my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anticipation, the stimulation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To kill the exhilaration",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Close your eyes, look deep in your soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Step outside yourself and let your mind go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frozen eyes stare deep in your mind as you die!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Close your eyes and forget your name",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Step outside yourself and let your thoughts drain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As you go insane, go insane!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Innate seed to watch you bleed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A demanding physical need",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Desecrated, eviscerated",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time perpetuated",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Close your eyes, look deep in your soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Step outside yourself and let your mind go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frozen eyes stare deep in your mind as you die!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Close your eyes and forget your name",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Step outside yourself and let your thoughts drain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As you go insane, go insane!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inert flesh, a bloody tomb",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A decorated splatter brightens the room",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "An execution, a sadist ritual",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mad intervals of mind residuals",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Close your eyes, look deep in your soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Step outside yourself and let your mind go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frozen eyes stare deep in your mind as you die!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Close your eyes and forget your name",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Step outside yourself and let your thoughts drain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As you go insane, go insane!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "532016",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk",
+                    "id": "1IQ2e1buppatiN1bxUVkrk",
+                    "name": "Slayer",
+                    "type": "artist",
+                    "uri": "spotify:artist:1IQ2e1buppatiN1bxUVkrk"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT"
+            },
+            "href": "https://api.spotify.com/v1/albums/49QJ9TAWNqZGbFUvadXPgT",
+            "id": "49QJ9TAWNqZGbFUvadXPgT",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c0c12d83c0488024b66c9739",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c0c12d83c0488024b66c9739",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c0c12d83c0488024b66c9739",
+                    "width": 64
+                }
+            ],
+            "name": "Seasons In The Abyss",
+            "release_date": "1990-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:49QJ9TAWNqZGbFUvadXPgT"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+                },
+                "href": "https://api.spotify.com/v1/artists/1IQ2e1buppatiN1bxUVkrk",
+                "id": "1IQ2e1buppatiN1bxUVkrk",
+                "name": "Slayer",
+                "type": "artist",
+                "uri": "spotify:artist:1IQ2e1buppatiN1bxUVkrk"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 397826,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM19000330"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3Ky8IzV8IVSwijtaTWB2SK"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Ky8IzV8IVSwijtaTWB2SK",
+        "id": "3Ky8IzV8IVSwijtaTWB2SK",
+        "is_local": false,
+        "name": "Seasons In The Abyss",
+        "popularity": 56,
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3Ky8IzV8IVSwijtaTWB2SK"
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "See the portal, gate to madness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Locked forever in a veil of shame",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deny extraction - Thirst for disgrace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Watch his break - The emperor's killed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Light of the day - Shadows from beyond",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scaffold of steel - The throne has gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dethroned emperor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The foot of the stairs, dimension in might",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The king sits, his eyes are glass",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Growing of the small - The laughter's fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can you deny - Remaining cries?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Descent of the lords - Into the trap",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Existence and hate - Unseen gate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dethroned emperor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1223085",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4ZISAmHmQUDCpv8xydqeKG",
+                    "id": "4ZISAmHmQUDCpv8xydqeKG",
+                    "name": "Celtic Frost",
+                    "type": "artist",
+                    "uri": "spotify:artist:4ZISAmHmQUDCpv8xydqeKG"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2G2c7jjmwDaJVLfJc47859"
+            },
+            "href": "https://api.spotify.com/v1/albums/2G2c7jjmwDaJVLfJc47859",
+            "id": "2G2c7jjmwDaJVLfJc47859",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736374832076e411c1799b46ff",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026374832076e411c1799b46ff",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516374832076e411c1799b46ff",
+                    "width": 64
+                }
+            ],
+            "name": "Morbid Tales",
+            "release_date": "1984-06-24",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:2G2c7jjmwDaJVLfJc47859"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG"
+                },
+                "href": "https://api.spotify.com/v1/artists/4ZISAmHmQUDCpv8xydqeKG",
+                "id": "4ZISAmHmQUDCpv8xydqeKG",
+                "name": "Celtic Frost",
+                "type": "artist",
+                "uri": "spotify:artist:4ZISAmHmQUDCpv8xydqeKG"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 278000,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEA249917004"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7LW3MsXbEkJPXcEoiRoFd5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7LW3MsXbEkJPXcEoiRoFd5",
+        "id": "7LW3MsXbEkJPXcEoiRoFd5",
+        "is_local": false,
+        "name": "Dethroned Emperor",
+        "popularity": 32,
+        "preview_url": "https://p.scdn.co/mp3-preview/23898f4660ffed982a88d522e0f702c620760a35?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:7LW3MsXbEkJPXcEoiRoFd5"
+    }
+}

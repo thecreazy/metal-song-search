@@ -1,0 +1,161 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Got me an electric guitar",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll show you where the good times are",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Whip it up... play all day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't care what the neighbours say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I love to rock, I love to get down low",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I love to rock... rock 'n' roll",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Got me some smokin' valves",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you can hear me for a hundred miles",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ten speakers gone in a year",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I got a grin from ear to ear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Got no time for women or booze...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I ain't got no time to lose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I got the loudest axe in town...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look at me, a rock and roll clown",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1525032",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5VuuqhhYM8cRN6yA0qrq6R"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5VuuqhhYM8cRN6yA0qrq6R",
+                    "id": "5VuuqhhYM8cRN6yA0qrq6R",
+                    "name": "Holocaust",
+                    "type": "artist",
+                    "uri": "spotify:artist:5VuuqhhYM8cRN6yA0qrq6R"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4vJF269D0UjNGgwWO4h4DC"
+            },
+            "href": "https://api.spotify.com/v1/albums/4vJF269D0UjNGgwWO4h4DC",
+            "id": "4vJF269D0UjNGgwWO4h4DC",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fe44c36a704688aca35f4059",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fe44c36a704688aca35f4059",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851fe44c36a704688aca35f4059",
+                    "width": 64
+                }
+            ],
+            "name": "The Nightcomers",
+            "release_date": "1981-12-31",
+            "release_date_precision": "day",
+            "total_tracks": 18,
+            "type": "album",
+            "uri": "spotify:album:4vJF269D0UjNGgwWO4h4DC"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5VuuqhhYM8cRN6yA0qrq6R"
+                },
+                "href": "https://api.spotify.com/v1/artists/5VuuqhhYM8cRN6yA0qrq6R",
+                "id": "5VuuqhhYM8cRN6yA0qrq6R",
+                "name": "Holocaust",
+                "type": "artist",
+                "uri": "spotify:artist:5VuuqhhYM8cRN6yA0qrq6R"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 222760,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBLY2201169"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6YLA79ULgIKIVNxjBXbkrw"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6YLA79ULgIKIVNxjBXbkrw",
+        "id": "6YLA79ULgIKIVNxjBXbkrw",
+        "is_local": false,
+        "name": "Smokin' Valves",
+        "popularity": 18,
+        "preview_url": "https://p.scdn.co/mp3-preview/4632ff8dabe9076828398cacaf520fa6196b1067?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6YLA79ULgIKIVNxjBXbkrw"
+    }
+}

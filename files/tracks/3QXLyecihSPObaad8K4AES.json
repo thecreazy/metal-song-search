@@ -1,0 +1,121 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Once is enough, trial is alone. grace fall into us. all through the night, father i crawled.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sun of my soul be revealed. walking amongst the stones from the sky, feeling their rhythm wash over me.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rite of this waring god. destructive, alive, frees you now. rivers of fear, don't you know? vigil of faith stills you now.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've been shown over and over, don't you know?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've been shown over and over, don't you know?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "589127",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1KHydwFySZY3YcWyo2q2dF",
+                    "id": "1KHydwFySZY3YcWyo2q2dF",
+                    "name": "Neurosis",
+                    "type": "artist",
+                    "uri": "spotify:artist:1KHydwFySZY3YcWyo2q2dF"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2cdr9bgZKUMUptKSMuC8mP"
+            },
+            "href": "https://api.spotify.com/v1/albums/2cdr9bgZKUMUptKSMuC8mP",
+            "id": "2cdr9bgZKUMUptKSMuC8mP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fa68e14ef6d1ac8c69dd6c79",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fa68e14ef6d1ac8c69dd6c79",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851fa68e14ef6d1ac8c69dd6c79",
+                    "width": 64
+                }
+            ],
+            "name": "A Sun That Never Sets",
+            "release_date": "2001-08-07",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2cdr9bgZKUMUptKSMuC8mP"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1KHydwFySZY3YcWyo2q2dF"
+                },
+                "href": "https://api.spotify.com/v1/artists/1KHydwFySZY3YcWyo2q2dF",
+                "id": "1KHydwFySZY3YcWyo2q2dF",
+                "name": "Neurosis",
+                "type": "artist",
+                "uri": "spotify:artist:1KHydwFySZY3YcWyo2q2dF"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 585906,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US2640149610"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3QXLyecihSPObaad8K4AES"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3QXLyecihSPObaad8K4AES",
+        "id": "3QXLyecihSPObaad8K4AES",
+        "is_local": false,
+        "name": "Stones From the Sky",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/b0d44d738740ec4755fd54801e50e0c7601a8329?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3QXLyecihSPObaad8K4AES"
+    }
+}

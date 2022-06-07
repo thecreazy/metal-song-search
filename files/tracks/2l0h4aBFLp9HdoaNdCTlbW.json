@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Memories are all that's left behind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As I lay and wait to die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Little do they know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That I hear their choice of life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "End it now, it is the only way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too cruel, that is what they say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Release me from this lonely world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There is no hope, why don't you...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pull the plug",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me pass away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pull the plug",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't want to live this way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Once I had full control of my life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I now behold a machine decides my fate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "End it now, it's all to late",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What has now been days, it seems like years",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To stay like this is what I fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Life ends so fast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So take your chance and make it last",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "End it now, it is the only way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too cruel, that is what they say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Release me from this lonely world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There is no hope, why don't you...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pull the plug",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me pass away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pull the plug",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't want to live this way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "862621",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4f5V3PQ66nIrBCqugJtaGn",
+                    "id": "4f5V3PQ66nIrBCqugJtaGn",
+                    "name": "Death",
+                    "type": "artist",
+                    "uri": "spotify:artist:4f5V3PQ66nIrBCqugJtaGn"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4EQcPArSq6dm0k4QWzpLBF"
+            },
+            "href": "https://api.spotify.com/v1/albums/4EQcPArSq6dm0k4QWzpLBF",
+            "id": "4EQcPArSq6dm0k4QWzpLBF",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273437e65ee8c9a1aa35ed36b90",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02437e65ee8c9a1aa35ed36b90",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851437e65ee8c9a1aa35ed36b90",
+                    "width": 64
+                }
+            ],
+            "name": "Leprosy (Deluxe Reissue)",
+            "release_date": "2014-04-29",
+            "release_date_precision": "day",
+            "total_tracks": 36,
+            "type": "album",
+            "uri": "spotify:album:4EQcPArSq6dm0k4QWzpLBF"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+                },
+                "href": "https://api.spotify.com/v1/artists/4f5V3PQ66nIrBCqugJtaGn",
+                "id": "4f5V3PQ66nIrBCqugJtaGn",
+                "name": "Death",
+                "type": "artist",
+                "uri": "spotify:artist:4f5V3PQ66nIrBCqugJtaGn"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 266773,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US2641322805"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2l0h4aBFLp9HdoaNdCTlbW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2l0h4aBFLp9HdoaNdCTlbW",
+        "id": "2l0h4aBFLp9HdoaNdCTlbW",
+        "is_local": false,
+        "name": "Pull the Plug",
+        "popularity": 49,
+        "preview_url": "https://p.scdn.co/mp3-preview/def7e3ea0904ff092ce6378b63c1a53c6bea6c85?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2l0h4aBFLp9HdoaNdCTlbW"
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Hey babe, don't act so scared",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All I want is some special care",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm on the run from some institution",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All I want's a little consolation",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I can tell by your face",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm a total disgrace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me inside your place",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Move over for a damage case",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hey babe, wait a minute, stop",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't run away, don't call a cop",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I ain't looking to victimise you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All I want to do is tantalise you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I can tell by your state",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm all over the place",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can tell by your face",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Got no time for a damage case",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hey babe, don't turn away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm here tomorrow, I'm gone today",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't care what you think your game is",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't care even what your name is",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I can tell by your face",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're all over this place",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me inside your place",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Move over for a damage case",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "456842",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                    "id": "1DFr97A9HnbV3SKTJFu62M",
+                    "name": "Motörhead",
+                    "type": "artist",
+                    "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6"
+            },
+            "href": "https://api.spotify.com/v1/albums/5iw08epzFaKtmX3y2vRVU6",
+            "id": "5iw08epzFaKtmX3y2vRVU6",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273aba003d455c566040b353025",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02aba003d455c566040b353025",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851aba003d455c566040b353025",
+                    "width": 64
+                }
+            ],
+            "name": "Overkill (Expanded Bonus Track Edition)",
+            "release_date": "1979-03-24",
+            "release_date_precision": "day",
+            "total_tracks": 29,
+            "type": "album",
+            "uri": "spotify:album:5iw08epzFaKtmX3y2vRVU6"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                },
+                "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                "id": "1DFr97A9HnbV3SKTJFu62M",
+                "name": "Motörhead",
+                "type": "artist",
+                "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 182133,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE0401371"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5VtZWqbYE9vkVSbvqNmg2D"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5VtZWqbYE9vkVSbvqNmg2D",
+        "id": "5VtZWqbYE9vkVSbvqNmg2D",
+        "is_local": false,
+        "name": "Damage Case",
+        "popularity": 48,
+        "preview_url": "https://p.scdn.co/mp3-preview/c554984a397ce0a41e675e6bc7710b69fe373a83?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5VtZWqbYE9vkVSbvqNmg2D"
+    }
+}

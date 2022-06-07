@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Havohej another me born to serve",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To plague and moan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So many years my seed condemned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No free to soar!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Will is yours?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So creator",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No intent could shadow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My disease...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ever lusting pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "World of sickness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blessed are we to taste life of sin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My touch is inhumane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nocturnal beast inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is void of light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And empty shall remain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "World of sickness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blessed are we to taste life of sin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "712774",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/35jmO5o3AhUV70kiR7u4Nw",
+                    "id": "35jmO5o3AhUV70kiR7u4Nw",
+                    "name": "Morbid Angel",
+                    "type": "artist",
+                    "uri": "spotify:artist:35jmO5o3AhUV70kiR7u4Nw"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4y34C9YeavvuMTdMQzrPGG"
+            },
+            "href": "https://api.spotify.com/v1/albums/4y34C9YeavvuMTdMQzrPGG",
+            "id": "4y34C9YeavvuMTdMQzrPGG",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273583e07f59cfddec6760223ac",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02583e07f59cfddec6760223ac",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851583e07f59cfddec6760223ac",
+                    "width": 64
+                }
+            ],
+            "name": "Blessed Are the Sick",
+            "release_date": "1991",
+            "release_date_precision": "year",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:4y34C9YeavvuMTdMQzrPGG"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw"
+                },
+                "href": "https://api.spotify.com/v1/artists/35jmO5o3AhUV70kiR7u4Nw",
+                "id": "35jmO5o3AhUV70kiR7u4Nw",
+                "name": "Morbid Angel",
+                "type": "artist",
+                "uri": "spotify:artist:35jmO5o3AhUV70kiR7u4Nw"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 286960,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBPB0401597"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5tkcDYuFIbljBOCgj9Bcru"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5tkcDYuFIbljBOCgj9Bcru",
+        "id": "5tkcDYuFIbljBOCgj9Bcru",
+        "is_local": false,
+        "name": "Blessed Are The Sick / Leading the Rats",
+        "popularity": 29,
+        "preview_url": "https://p.scdn.co/mp3-preview/d68189b65293ed913550175c9e61a72f1eb47860?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:5tkcDYuFIbljBOCgj9Bcru"
+    }
+}

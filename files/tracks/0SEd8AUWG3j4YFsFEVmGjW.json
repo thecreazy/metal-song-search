@@ -1,0 +1,226 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Seek him here, seek him on the highway",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never knowing when he'll appear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All await, engine is ticking over",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hear the roar as they sense the fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wheels! a glint of steel and a flash of light!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Screams! from a streak of fire as he strikes!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell bent, hell bent for leather",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell bent, hell bent for leather",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Black as night, faster than a shadow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Crimson flare from a raging sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "An exhibition, of sheer precision",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yet no one knows from where he comes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fools! self destruct cannot take that crown",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dreams! crash one by one to the ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell bent, hell bent for leather",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell bent, hell bent for leather",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's many who tried to prove that they're faster",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But they didn't last and they died as they tried",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's many who tried to prove that they're faster",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But they didn't last and they died as they tried",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell bent, hell bent for leather",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell bent, hell bent for leather",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell bent, hell bent for leather",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell bent, hell bent for leather",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "243515",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2tRsMl4eGxwoNabM08Dm4I",
+                    "id": "2tRsMl4eGxwoNabM08Dm4I",
+                    "name": "Judas Priest",
+                    "type": "artist",
+                    "uri": "spotify:artist:2tRsMl4eGxwoNabM08Dm4I"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+            },
+            "href": "https://api.spotify.com/v1/albums/5Ud4v6Y2UC3uNeTdVssXj0",
+            "id": "5Ud4v6Y2UC3uNeTdVssXj0",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738192db1694959d5c711d39b3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028192db1694959d5c711d39b3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518192db1694959d5c711d39b3",
+                    "width": 64
+                }
+            ],
+            "name": "Killing Machine",
+            "release_date": "1979",
+            "release_date_precision": "year",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:5Ud4v6Y2UC3uNeTdVssXj0"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+                },
+                "href": "https://api.spotify.com/v1/artists/2tRsMl4eGxwoNabM08Dm4I",
+                "id": "2tRsMl4eGxwoNabM08Dm4I",
+                "name": "Judas Priest",
+                "type": "artist",
+                "uri": "spotify:artist:2tRsMl4eGxwoNabM08Dm4I"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 160866,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBBN0102363"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0SEd8AUWG3j4YFsFEVmGjW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0SEd8AUWG3j4YFsFEVmGjW",
+        "id": "0SEd8AUWG3j4YFsFEVmGjW",
+        "is_local": false,
+        "name": "Hell Bent for Leather",
+        "popularity": 44,
+        "preview_url": "https://p.scdn.co/mp3-preview/f8273019ded1b8a6a4e776090eb89fc72228775d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0SEd8AUWG3j4YFsFEVmGjW"
+    }
+}

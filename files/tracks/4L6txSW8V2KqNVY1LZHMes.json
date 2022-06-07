@@ -1,0 +1,216 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Blue snow may fall in your dreams, baby",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But let me tell you those dreams come true",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hard to believe as it seems, baby",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This wonderland was just built for me and you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A crimson ocean for you, baby",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're trippin' to the rainbow's end again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A star shaped cloud lined with blue, baby",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We'll build a sky for the summer rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cos when the dream is over",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blue snow will fall on you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cos when the dream is over",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blue snow will fall on you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Red sunshine lights up your dreams, baby",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But let me tell you those dreams come true",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And all this madness can mean is, baby",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That all the snow in your hand is blue",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just one more sip of the wine, baby",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We'll take a swim in the seas of love",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cos now you know that you're mine, baby",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll show you things you've been dreaming of",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cos when the dream is over",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blue snow will fall on you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cos when the dream is over",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blue snow will fall on you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1533447",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3nutnJ57QnbWEdCWn2EyWo",
+                    "id": "3nutnJ57QnbWEdCWn2EyWo",
+                    "name": "Orange Goblin",
+                    "type": "artist",
+                    "uri": "spotify:artist:3nutnJ57QnbWEdCWn2EyWo"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4EflZcGXhZGptft8fzxwI3"
+            },
+            "href": "https://api.spotify.com/v1/albums/4EflZcGXhZGptft8fzxwI3",
+            "id": "4EflZcGXhZGptft8fzxwI3",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732ef579da21bc381d9a804c04",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022ef579da21bc381d9a804c04",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512ef579da21bc381d9a804c04",
+                    "width": 64
+                }
+            ],
+            "name": "Time Travelling Blues",
+            "release_date": "1998",
+            "release_date_precision": "year",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:4EflZcGXhZGptft8fzxwI3"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo"
+                },
+                "href": "https://api.spotify.com/v1/artists/3nutnJ57QnbWEdCWn2EyWo",
+                "id": "3nutnJ57QnbWEdCWn2EyWo",
+                "name": "Orange Goblin",
+                "type": "artist",
+                "uri": "spotify:artist:3nutnJ57QnbWEdCWn2EyWo"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 265200,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBMLU9801801"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4L6txSW8V2KqNVY1LZHMes"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4L6txSW8V2KqNVY1LZHMes",
+        "id": "4L6txSW8V2KqNVY1LZHMes",
+        "is_local": false,
+        "name": "Blue Snow",
+        "popularity": 31,
+        "preview_url": "https://p.scdn.co/mp3-preview/b0d2ae3444db691f5dca4a10fa85e9e7393f2c75?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:4L6txSW8V2KqNVY1LZHMes"
+    }
+}

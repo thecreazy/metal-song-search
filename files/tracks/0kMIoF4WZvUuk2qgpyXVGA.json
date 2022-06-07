@@ -1,0 +1,216 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Look out when the lightning strikes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fear will take you when it likes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you know it's coming for you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Plays upon your darkest fears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You'll never know when it appears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you know it's coming for you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come on and take my hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And at my command",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You will fear no evil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "FEAR NO EVIL!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's a force you cannot see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Brings you false security",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you know it's coming for you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It comes through you in the dark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "At the sign the wolf will bark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you know it's coming for you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come on and take my hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And at my command",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You will fear no evil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come on and take my hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I will lead you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From this place of evil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Follow me and you'll find that",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You will fear no evil no more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1986295",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3CSQtK60sg2jNNxnpThSN1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3CSQtK60sg2jNNxnpThSN1",
+                    "id": "3CSQtK60sg2jNNxnpThSN1",
+                    "name": "Grim Reaper",
+                    "type": "artist",
+                    "uri": "spotify:artist:3CSQtK60sg2jNNxnpThSN1"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2UTkozlTzwNRp7pdRNf8OU"
+            },
+            "href": "https://api.spotify.com/v1/albums/2UTkozlTzwNRp7pdRNf8OU",
+            "id": "2UTkozlTzwNRp7pdRNf8OU",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735ce782916257c26a3fe6d6b9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025ce782916257c26a3fe6d6b9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515ce782916257c26a3fe6d6b9",
+                    "width": 64
+                }
+            ],
+            "name": "Best Of Grim Reaper",
+            "release_date": "1999-08-10",
+            "release_date_precision": "day",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:2UTkozlTzwNRp7pdRNf8OU"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3CSQtK60sg2jNNxnpThSN1"
+                },
+                "href": "https://api.spotify.com/v1/artists/3CSQtK60sg2jNNxnpThSN1",
+                "id": "3CSQtK60sg2jNNxnpThSN1",
+                "name": "Grim Reaper",
+                "type": "artist",
+                "uri": "spotify:artist:3CSQtK60sg2jNNxnpThSN1"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 239760,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USRC19900390"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0kMIoF4WZvUuk2qgpyXVGA"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0kMIoF4WZvUuk2qgpyXVGA",
+        "id": "0kMIoF4WZvUuk2qgpyXVGA",
+        "is_local": false,
+        "name": "Fear No Evil",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/83dff4971929334b776c36c7b6e4c297a89e4319?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0kMIoF4WZvUuk2qgpyXVGA"
+    }
+}

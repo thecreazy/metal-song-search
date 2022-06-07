@@ -1,0 +1,266 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "[K. Heybourne]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angel of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A faceless evil spirit that haunts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Searching for the soul that he must take",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Steed of white he rides through the realms of unknow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He is just a messenger from hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scanning the oceans searching for victims to taunt",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Looking for those who dare rise him from the grave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angel of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angel of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angel of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angel of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Riding along he cannot find those that he seeks",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yet he knows he is on the right trail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Breaking the circle, not knowing of the danger she's in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He takes her with him throuogh stygian to hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scanning the oceans searching for victims to taunt",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Looking for those who dare rise him from the grave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angel of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angel of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angel of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angel of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Suddenly I awake, looking 'round to see where I am",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Realise it's been just a crazy dream",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I open the door to find that he is waiting there",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The angel of death has come to take my soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scanning the oceans searching for victims to taunt",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Looking for those who dare rise him from the grave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angel of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angel of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angel of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Angel of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2643500",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6L48AOtGmQL1ELLoKML7cS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6L48AOtGmQL1ELLoKML7cS",
+                    "id": "6L48AOtGmQL1ELLoKML7cS",
+                    "name": "Angel Witch",
+                    "type": "artist",
+                    "uri": "spotify:artist:6L48AOtGmQL1ELLoKML7cS"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1a3pru3t4DuZoGHBpCNM66"
+            },
+            "href": "https://api.spotify.com/v1/albums/1a3pru3t4DuZoGHBpCNM66",
+            "id": "1a3pru3t4DuZoGHBpCNM66",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27329da7c7bac0d4d3406cee5e5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0229da7c7bac0d4d3406cee5e5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485129da7c7bac0d4d3406cee5e5",
+                    "width": 64
+                }
+            ],
+            "name": "Angel Witch (30th Anniversary Edition)",
+            "release_date": "1980-03-12",
+            "release_date_precision": "day",
+            "total_tracks": 30,
+            "type": "album",
+            "uri": "spotify:album:1a3pru3t4DuZoGHBpCNM66"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6L48AOtGmQL1ELLoKML7cS"
+                },
+                "href": "https://api.spotify.com/v1/artists/6L48AOtGmQL1ELLoKML7cS",
+                "id": "6L48AOtGmQL1ELLoKML7cS",
+                "name": "Angel Witch",
+                "type": "artist",
+                "uri": "spotify:artist:6L48AOtGmQL1ELLoKML7cS"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 292120,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE0503143"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0SawYfeelYchbuIaR7Jc7c"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0SawYfeelYchbuIaR7Jc7c",
+        "id": "0SawYfeelYchbuIaR7Jc7c",
+        "is_local": false,
+        "name": "Angel of Death",
+        "popularity": 21,
+        "preview_url": "https://p.scdn.co/mp3-preview/40a692ce52816a629d18df35060bf28e9aef03e1?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:0SawYfeelYchbuIaR7Jc7c"
+    }
+}

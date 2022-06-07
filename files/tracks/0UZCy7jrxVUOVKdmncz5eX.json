@@ -1,0 +1,251 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Your life passes you by, I live, you die.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The arena is mine, I live, you die.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Entry of the gladiators, 264 B.C.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The emperors and nobles have made a pawn of me.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I battle slaves end free men and wild blood thirsty beasts.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The red sand surrounds me, so they can't see them bleed.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your life passes you by (I live you die).",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Reaper is near.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Again the arena is mine (I live you die).",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I live you die.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sword drawn and battle ready, Trajan in command.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fight 'till death 100 days, corpses of 2000 men.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The masses they decide the fate of a fallen men.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thumbs down in drunken haste, life's taker and giver I am.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Innocent children dressed like the sacred lamb,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Taken for Nero's-slaughter, as the people look away,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the pit dogs they are prey,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The people look away... they look away...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I live, you die!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Persecuted Christians in the blood soaked ring.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Many over many lose their lives, peace to their soul it brings.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The thrills from the kills, those that I have slain,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are keeping my heart pounding, I live another day.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your live passes you by (I live you die).",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Reaper is near.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Again the arena is mine (I live you die).",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I live again.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your live passes you by (I live you die).",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Reaper is near.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Again the arena is mine (I live you die).",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I live you die.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die! Die! Die!",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "25328223",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1ApBh0VSoxRjjT3kFQZrpz",
+                    "id": "1ApBh0VSoxRjjT3kFQZrpz",
+                    "name": "Flotsam & Jetsam",
+                    "type": "artist",
+                    "uri": "spotify:artist:1ApBh0VSoxRjjT3kFQZrpz"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5Cx6bwvBkfgZfNZbQSnx1e"
+            },
+            "href": "https://api.spotify.com/v1/albums/5Cx6bwvBkfgZfNZbQSnx1e",
+            "id": "5Cx6bwvBkfgZfNZbQSnx1e",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736d9a6faf005d73906b7d3b7c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026d9a6faf005d73906b7d3b7c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516d9a6faf005d73906b7d3b7c",
+                    "width": 64
+                }
+            ],
+            "name": "No Place For Disgrace",
+            "release_date": "1988-05-15",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:5Cx6bwvBkfgZfNZbQSnx1e"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+                },
+                "href": "https://api.spotify.com/v1/artists/1ApBh0VSoxRjjT3kFQZrpz",
+                "id": "1ApBh0VSoxRjjT3kFQZrpz",
+                "name": "Flotsam & Jetsam",
+                "type": "artist",
+                "uri": "spotify:artist:1ApBh0VSoxRjjT3kFQZrpz"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 349093,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USEE10503037"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0UZCy7jrxVUOVKdmncz5eX"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0UZCy7jrxVUOVKdmncz5eX",
+        "id": "0UZCy7jrxVUOVKdmncz5eX",
+        "is_local": false,
+        "name": "I Live You Die",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/27cde8de16c4df57b0988dff9d2a138a88d51aeb?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:0UZCy7jrxVUOVKdmncz5eX"
+    }
+}

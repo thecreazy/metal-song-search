@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Road Racin'.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Keep movin' on down the line.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shiftin' gears, racin' through space and time.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Move so fast I can't explain.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hands on the wheel I'm on the road again.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baby only time to my lovin' machine.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Radio's blastin'.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rockin' all night.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rolling down the highway through the dead of night.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Road Racin'.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woooo!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Road Racin'",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Road Racin'",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feel the earth move under my wheels.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's road racin', the chills you get from the turns and squeels.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On my way drivin' up to you.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't stop me now, what you gunna do?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Running down the highway with a push in our feet.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "World's flashing by, passing the smoke and the heat.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're road racin'.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Road Racin.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Keep on movin' on down the line.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shiftin' gears, racin' through space and time.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Move so fast I can't explain.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hands on the wheel I'm on the road again.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Baby only time to my lovin' machine.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Radio's blastin'.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rockin' all night.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rolling down the highway through the dead of night.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woo!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're road racin', yeah.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alright.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2940130",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2TTfkn3oA5dSvqmvVxjUxR",
+                    "id": "2TTfkn3oA5dSvqmvVxjUxR",
+                    "name": "Riot",
+                    "type": "artist",
+                    "uri": "spotify:artist:2TTfkn3oA5dSvqmvVxjUxR"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5FFHPpaALLbcgBEeqHTG0q"
+            },
+            "href": "https://api.spotify.com/v1/albums/5FFHPpaALLbcgBEeqHTG0q",
+            "id": "5FFHPpaALLbcgBEeqHTG0q",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734a8cac6ccfbc516ed815b619",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024a8cac6ccfbc516ed815b619",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514a8cac6ccfbc516ed815b619",
+                    "width": 64
+                }
+            ],
+            "name": "Narita",
+            "release_date": "1979-10-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:5FFHPpaALLbcgBEeqHTG0q"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR"
+                },
+                "href": "https://api.spotify.com/v1/artists/2TTfkn3oA5dSvqmvVxjUxR",
+                "id": "2TTfkn3oA5dSvqmvVxjUxR",
+                "name": "Riot",
+                "type": "artist",
+                "uri": "spotify:artist:2TTfkn3oA5dSvqmvVxjUxR"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 270400,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USCA28000126"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3SpHjSaBrC6POLzfnAnNMx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3SpHjSaBrC6POLzfnAnNMx",
+        "id": "3SpHjSaBrC6POLzfnAnNMx",
+        "is_local": false,
+        "name": "Road Racin'",
+        "popularity": 37,
+        "preview_url": null,
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:3SpHjSaBrC6POLzfnAnNMx"
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "She came down from the Western Hills when we were not prepared",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I turned deaf ears to words of warning now I'm running scared.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Casting caution to the wind now that the cat's away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I say my grace - fill my face (then for forgiveness pray).",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gon knows I was an honest man - the same as any other",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who loved his wife - worked all his life to keep his family",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Until the 'beast' that never sleeps beneath my silken covers",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Reared its head and bit its thumb at my morality.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Chorus:)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Her passion for passion - it will devour",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cruel are the thorns of this delicate flower",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Her lust for lust - it will consume",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A siren song summons all men to their doom.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She whispered of her innocence - (a plea I must contest)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "While baptising helpless sinners with a missionary zest",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She will exorcise your demons - then exercise your thighs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Await your 'second-coming' with a hunger in her eyes.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Her sweetmeats are the souls of men - she'll gorge herself to bursting",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And for yours her heart is thirsting - as a spider craves a fly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No mortal man could ever hope to suit her as a suitor",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sh'll rewrite the Kama Sutra if you'd care to watch her try.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Repeat Chorus)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I reach for heaven - desire drags me down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When fools choose their king I'll be heir to that crown",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A strange kind of madness I cannot condone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If you are without sin come cast the first stone.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1428998",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3CgDRO3wUoner5eZocDuQN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3CgDRO3wUoner5eZocDuQN",
+                    "id": "3CgDRO3wUoner5eZocDuQN",
+                    "name": "Skyclad",
+                    "type": "artist",
+                    "uri": "spotify:artist:3CgDRO3wUoner5eZocDuQN"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1zvb5a83hi07FdSpXUIG66"
+            },
+            "href": "https://api.spotify.com/v1/albums/1zvb5a83hi07FdSpXUIG66",
+            "id": "1zvb5a83hi07FdSpXUIG66",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d587e06e5442129dcdc9a6f5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d587e06e5442129dcdc9a6f5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d587e06e5442129dcdc9a6f5",
+                    "width": 64
+                }
+            ],
+            "name": "No Daylight Nor Heeltaps",
+            "release_date": "2002-06-29",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:1zvb5a83hi07FdSpXUIG66"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3CgDRO3wUoner5eZocDuQN"
+                },
+                "href": "https://api.spotify.com/v1/artists/3CgDRO3wUoner5eZocDuQN",
+                "id": "3CgDRO3wUoner5eZocDuQN",
+                "name": "Skyclad",
+                "type": "artist",
+                "uri": "spotify:artist:3CgDRO3wUoner5eZocDuQN"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 165786,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBJBV1000370"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2H0CIVyrrKOYTpiVwJTM0f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2H0CIVyrrKOYTpiVwJTM0f",
+        "id": "2H0CIVyrrKOYTpiVwJTM0f",
+        "is_local": false,
+        "name": "Spinning Jenny",
+        "popularity": 17,
+        "preview_url": "https://p.scdn.co/mp3-preview/407c351cabcbed86d23de858aaa4c6cc62295ecb?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:2H0CIVyrrKOYTpiVwJTM0f"
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "On the eve of their death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They are baptized",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the unholy waters of Bodom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With no hint of the torture awaiting",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To greet them at the break of dawn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For the reaper wants more...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When the calm is setting in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We'll watch it swiftly disappear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too many years of silence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Soon he's bound to reappear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Reaper",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is calling for you to come home",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With the thrust of a switchblade",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On the grip of a madman",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the waters of Bodom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Turn a blood shade of red",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As the Children Of Bodom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take their last breath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When the calm is setting in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We'll watch it swiftly disappear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too many years of silence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Soon he's bound to reappear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "844232",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1xUhNgw4eJDZfvumIpcz1B",
+                    "id": "1xUhNgw4eJDZfvumIpcz1B",
+                    "name": "Children Of Bodom",
+                    "type": "artist",
+                    "uri": "spotify:artist:1xUhNgw4eJDZfvumIpcz1B"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5MCc07PcloHExkLxifoILv"
+            },
+            "href": "https://api.spotify.com/v1/albums/5MCc07PcloHExkLxifoILv",
+            "id": "5MCc07PcloHExkLxifoILv",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273679b19fc87ece9ae886789cf",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02679b19fc87ece9ae886789cf",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851679b19fc87ece9ae886789cf",
+                    "width": 64
+                }
+            ],
+            "name": "Hatebreeder",
+            "release_date": "1999-05-04",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:5MCc07PcloHExkLxifoILv"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B"
+                },
+                "href": "https://api.spotify.com/v1/artists/1xUhNgw4eJDZfvumIpcz1B",
+                "id": "1xUhNgw4eJDZfvumIpcz1B",
+                "name": "Children Of Bodom",
+                "type": "artist",
+                "uri": "spotify:artist:1xUhNgw4eJDZfvumIpcz1B"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 192760,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "FISFS9800106"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6OSAKQOiGL9GvWgHqAxEZf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6OSAKQOiGL9GvWgHqAxEZf",
+        "id": "6OSAKQOiGL9GvWgHqAxEZf",
+        "is_local": false,
+        "name": "Silent Night, Bodom Night",
+        "popularity": 42,
+        "preview_url": null,
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6OSAKQOiGL9GvWgHqAxEZf"
+    }
+}

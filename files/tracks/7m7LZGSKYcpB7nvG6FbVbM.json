@@ -1,0 +1,281 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "(Me duce tutus eris)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Vox populi vox dei)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Ad maiorem dei gloriam)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Ad infinitum)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know just who I am",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't be so distant",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cause when you're lost",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am solely there to share your grief",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wailing your sorrow is only my way to comfort you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Reminders of innocent youth)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Waiting for morrow, you're lonely, I name your solitude",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(I speaketh the truth)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now tell me all about your pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Down to the detail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't say it's love",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your fragile heart feeds my contempt",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wailing your sorrow is only my way to comfort you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Reminders of innocent youth)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Waiting for morrow, you're lonely, I name your solitude",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(I speaketh the truth)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Una persona non grata)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chase the heathen call",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We belong, you and I",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Unison in all you deny",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wailing your sorrow is only my way to comfort you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Reminders of innocent youth)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Waiting for morrow, you're lonely, I name your solitude",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(I speaketh the truth)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am the thorn in your side that seeks accomplishment",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Reminding the mortal of death)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am the spore of your pride, an angel heaven-sent",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(The master of all)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am the urge of the flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Reminding the mortal of death)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Death)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "64070949",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7gTbq5nTZGQIUgjEGXQpOS",
+                    "id": "7gTbq5nTZGQIUgjEGXQpOS",
+                    "name": "Kamelot",
+                    "type": "artist",
+                    "uri": "spotify:artist:7gTbq5nTZGQIUgjEGXQpOS"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6wQmnnsxRylnJYDKwwxy8r"
+            },
+            "href": "https://api.spotify.com/v1/albums/6wQmnnsxRylnJYDKwwxy8r",
+            "id": "6wQmnnsxRylnJYDKwwxy8r",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735b9b5d2578018c632748d8e1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025b9b5d2578018c632748d8e1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515b9b5d2578018c632748d8e1",
+                    "width": 64
+                }
+            ],
+            "name": "The Black Halo",
+            "release_date": "2005-03-15",
+            "release_date_precision": "day",
+            "total_tracks": 16,
+            "type": "album",
+            "uri": "spotify:album:6wQmnnsxRylnJYDKwwxy8r"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
+                },
+                "href": "https://api.spotify.com/v1/artists/7gTbq5nTZGQIUgjEGXQpOS",
+                "id": "7gTbq5nTZGQIUgjEGXQpOS",
+                "name": "Kamelot",
+                "type": "artist",
+                "uri": "spotify:artist:7gTbq5nTZGQIUgjEGXQpOS"
+            },
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2g2uqZcnWotiAy7hpj5Ui6"
+                },
+                "href": "https://api.spotify.com/v1/artists/2g2uqZcnWotiAy7hpj5Ui6",
+                "id": "2g2uqZcnWotiAy7hpj5Ui6",
+                "name": "Shagrath",
+                "type": "artist",
+                "uri": "spotify:artist:2g2uqZcnWotiAy7hpj5Ui6"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 328973,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "QM3MF1600001"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7m7LZGSKYcpB7nvG6FbVbM"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7m7LZGSKYcpB7nvG6FbVbM",
+        "id": "7m7LZGSKYcpB7nvG6FbVbM",
+        "is_local": false,
+        "name": "March of Mephisto (feat. Shagrath)",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/3d4cf6795bbb9f7ae7b86f0efca62f933093c496?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7m7LZGSKYcpB7nvG6FbVbM"
+    }
+}

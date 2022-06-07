@@ -1,0 +1,161 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "And for one second, I lost my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And for one second, I wished that you were dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And for one second, you wish that you were here all alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hold back the tears that could fall for me.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And for one second, I lost my breath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And for one second, I cherish what you said",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And for one second, it seemed that I was here all alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hold back the tears that could fall for me.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And for one second, I understand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And for one second, my life was in your hands",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And for one second, you wish that you were here all alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hold back the tears that could fall for me.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They fall alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "301654",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0gIo6kGl4KsCeIbqtZVHYp",
+                    "id": "0gIo6kGl4KsCeIbqtZVHYp",
+                    "name": "Paradise Lost",
+                    "type": "artist",
+                    "uri": "spotify:artist:0gIo6kGl4KsCeIbqtZVHYp"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6xf27M8BHlFb0xqH17k0tD"
+            },
+            "href": "https://api.spotify.com/v1/albums/6xf27M8BHlFb0xqH17k0tD",
+            "id": "6xf27M8BHlFb0xqH17k0tD",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273faf17a6ceb9fe1feada91ef0",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02faf17a6ceb9fe1feada91ef0",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851faf17a6ceb9fe1feada91ef0",
+                    "width": 64
+                }
+            ],
+            "name": "One Second",
+            "release_date": "1997-02-13",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:6xf27M8BHlFb0xqH17k0tD"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+                },
+                "href": "https://api.spotify.com/v1/artists/0gIo6kGl4KsCeIbqtZVHYp",
+                "id": "0gIo6kGl4KsCeIbqtZVHYp",
+                "name": "Paradise Lost",
+                "type": "artist",
+                "uri": "spotify:artist:0gIo6kGl4KsCeIbqtZVHYp"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 212626,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCKC0700188"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7uND1V5uo59PbYPgeYsLfp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7uND1V5uo59PbYPgeYsLfp",
+        "id": "7uND1V5uo59PbYPgeYsLfp",
+        "is_local": false,
+        "name": "One Second",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/4b6ca82106d9c063cd1f1abe806a517c571f3d2e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7uND1V5uo59PbYPgeYsLfp"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Forged in the black country under blood red skies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We all had our dream to realize",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Driving in that transit down to Holy Joe's",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Used to lose our head while metal flowed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nothing held us back or dared to try",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Something in our blood won't let us die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We built our world of metal watched it grow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fueled the fury solid to the bone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gotta deal with the devil 'cause you know that it's real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Done a deal with the devil from a heart made of steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rollin' down the m-way took it to the smoke",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bangin' heads there 'til we all went broke",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When we don the leather, and the whips and chains",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nothing matters more we can't be tamed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fighting through the din and accolades",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Turn the phase around with razor blades",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Watched the movement grow into one voice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Took on all the world it had no choice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gotta deal with the devil 'cause you know that it's real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Done a deal with the devil from a heart made of steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We hit at night you're in our sight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then we can feel what we've been waiting for",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me hear you roar",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Upon this stage we let it rage",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And for a time we leave the world behind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To be with our own kind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gotta deal with the devil 'cause you know that it's real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Done a deal with the devil from a heart made of steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gotta deal with the devil 'cause you know that it's real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Done a deal with the devil from a heart made of steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gotta deal with the devil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "243456",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2tRsMl4eGxwoNabM08Dm4I",
+                    "id": "2tRsMl4eGxwoNabM08Dm4I",
+                    "name": "Judas Priest",
+                    "type": "artist",
+                    "uri": "spotify:artist:2tRsMl4eGxwoNabM08Dm4I"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1"
+            },
+            "href": "https://api.spotify.com/v1/albums/12rTdEhRhwPpV0XJvZW9u1",
+            "id": "12rTdEhRhwPpV0XJvZW9u1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273367fe3409cb2741c0bfcdf66",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02367fe3409cb2741c0bfcdf66",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851367fe3409cb2741c0bfcdf66",
+                    "width": 64
+                }
+            ],
+            "name": "Angel Of Retribution",
+            "release_date": "2005-02-28",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:12rTdEhRhwPpV0XJvZW9u1"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+                },
+                "href": "https://api.spotify.com/v1/artists/2tRsMl4eGxwoNabM08Dm4I",
+                "id": "2tRsMl4eGxwoNabM08Dm4I",
+                "name": "Judas Priest",
+                "type": "artist",
+                "uri": "spotify:artist:2tRsMl4eGxwoNabM08Dm4I"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 234840,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBBN0401318"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6mVMUvitJxfshLxXew7SrI"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6mVMUvitJxfshLxXew7SrI",
+        "id": "6mVMUvitJxfshLxXew7SrI",
+        "is_local": false,
+        "name": "Deal with the Devil",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/fc46b27a3b38f1de57758156dbad4cf9f2f96305?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6mVMUvitJxfshLxXew7SrI"
+    }
+}

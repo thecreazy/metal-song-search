@@ -1,0 +1,211 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "[Enid Williams - Kelly Johnson - Kim McAuliffe - Denise Dufort]",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't make out, things they said",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spent too many nights getting out of my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Must be mad, must be blind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Driving me crazy right out of my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "9-9-9 Emergency, emergency",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "9-9-9 Emergency, emergency",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "9-9-9 Emergency, emergency",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "9-9-9 Emergency, emergency",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't think straight, can't decide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Cause time's running out and there's nowhere to hide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where to run, what to do",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Better watch out, cause they're coming for you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "9-9-9 Emergency, emergency",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "9-9-9 Emergency, emergency",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "9-9-9 Emergency, emergency",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "9-9-9 Emergency, emergency",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Emergency, emergency",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "9-9-9 Emergency, emergency",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "9-9-9 Emergency, emergency",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "9-9-9 Emergency, emergency",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "9-9-9 Emergency, emergency",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Emergency, emergency",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "462203",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2TRtXTjjmyzK5oUGec1Gv8"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2TRtXTjjmyzK5oUGec1Gv8",
+                    "id": "2TRtXTjjmyzK5oUGec1Gv8",
+                    "name": "Girlschool",
+                    "type": "artist",
+                    "uri": "spotify:artist:2TRtXTjjmyzK5oUGec1Gv8"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/29pafrkScKO52XQZ4eluRa"
+            },
+            "href": "https://api.spotify.com/v1/albums/29pafrkScKO52XQZ4eluRa",
+            "id": "29pafrkScKO52XQZ4eluRa",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273dee30addcbeea529670a7f54",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02dee30addcbeea529670a7f54",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851dee30addcbeea529670a7f54",
+                    "width": 64
+                }
+            ],
+            "name": "Demolition",
+            "release_date": "1980-06-30",
+            "release_date_precision": "day",
+            "total_tracks": 19,
+            "type": "album",
+            "uri": "spotify:album:29pafrkScKO52XQZ4eluRa"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2TRtXTjjmyzK5oUGec1Gv8"
+                },
+                "href": "https://api.spotify.com/v1/artists/2TRtXTjjmyzK5oUGec1Gv8",
+                "id": "2TRtXTjjmyzK5oUGec1Gv8",
+                "name": "Girlschool",
+                "type": "artist",
+                "uri": "spotify:artist:2TRtXTjjmyzK5oUGec1Gv8"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 170586,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE8000432"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5GbpIihnyJAKhAsa8HZepg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5GbpIihnyJAKhAsa8HZepg",
+        "id": "5GbpIihnyJAKhAsa8HZepg",
+        "is_local": false,
+        "name": "Emergency",
+        "popularity": 27,
+        "preview_url": "https://p.scdn.co/mp3-preview/dad05ae39f5f1305df93b9dc29f3358c53959c99?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5GbpIihnyJAKhAsa8HZepg"
+    }
+}

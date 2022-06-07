@@ -1,0 +1,196 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Mother will you take me down?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have become so afraid",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mother please, please take me down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am sorry, your boy is not brave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Child just hold on. Night will soon be gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sleep if you can. But watch your father's hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We do not want you. No-body loves you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Father of the dark. Tonight will greet you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "God in heaven, can you hear me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Help me Oh Lord. They're coming for me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mother warned me. Father scorned me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh my God No. Now I hear him",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I claim your life on this night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Within sight of your own God",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The silence, the waiting then the pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh child, sleep will be here soon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your life has only ever been shame",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And so young boy, my hand brings doom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Child, won't you awake. Father has gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Child, please come awake. Please my tiny son",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "991863",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7iMWWdRNiCJwGOGEIYr02z",
+                    "id": "7iMWWdRNiCJwGOGEIYr02z",
+                    "name": "My Dying Bride",
+                    "type": "artist",
+                    "uri": "spotify:artist:7iMWWdRNiCJwGOGEIYr02z"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5JpD7lTSI7X6W7HsbF0iQe"
+            },
+            "href": "https://api.spotify.com/v1/albums/5JpD7lTSI7X6W7HsbF0iQe",
+            "id": "5JpD7lTSI7X6W7HsbF0iQe",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273331cb3c7944a14a72fdea60a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02331cb3c7944a14a72fdea60a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851331cb3c7944a14a72fdea60a",
+                    "width": 64
+                }
+            ],
+            "name": "The Dreadful Hours",
+            "release_date": "2001",
+            "release_date_precision": "year",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:5JpD7lTSI7X6W7HsbF0iQe"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z"
+                },
+                "href": "https://api.spotify.com/v1/artists/7iMWWdRNiCJwGOGEIYr02z",
+                "id": "7iMWWdRNiCJwGOGEIYr02z",
+                "name": "My Dying Bride",
+                "type": "artist",
+                "uri": "spotify:artist:7iMWWdRNiCJwGOGEIYr02z"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 563533,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCQV0100211"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6hBK9HZN4v8LHq47PIN515"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6hBK9HZN4v8LHq47PIN515",
+        "id": "6hBK9HZN4v8LHq47PIN515",
+        "is_local": false,
+        "name": "The Dreadful Hours",
+        "popularity": 24,
+        "preview_url": "https://p.scdn.co/mp3-preview/cf1fda4a99e5f8eeac4911e763af8e0772512a70?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6hBK9HZN4v8LHq47PIN515"
+    }
+}

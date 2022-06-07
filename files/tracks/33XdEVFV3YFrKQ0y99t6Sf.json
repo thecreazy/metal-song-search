@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Howling tracks of hell they're coming, black storm on the rise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They fill our temples with their lies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The snakes come slithering",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anarchy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chaotic hunters rise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spit in their evil eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stand our ground with hate and fury, fear that comes will die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our enemies have come to life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now they exalt the fiend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shotgun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your nightmare's not a dream",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They'll choke you and your screams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A clashing comes, the haunting presence controlling all that breaths",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's brought the world down to its knees",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The hounds of hell are freed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Desolate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And with their bite, disease",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "His evil never sleeps",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sacrificing sons and daughters, rolls the war machine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The tyrant fills his destiny",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The snakes come slithering",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anarchy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chaotic hunters rise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spit in their evil eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "922013",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1eiIIImNeUj3vpaocWqoOf",
+                    "id": "1eiIIImNeUj3vpaocWqoOf",
+                    "name": "High On Fire",
+                    "type": "artist",
+                    "uri": "spotify:artist:1eiIIImNeUj3vpaocWqoOf"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7yWeqG1dkR4zybxMaBdLQY"
+            },
+            "href": "https://api.spotify.com/v1/albums/7yWeqG1dkR4zybxMaBdLQY",
+            "id": "7yWeqG1dkR4zybxMaBdLQY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273605610a0dd2762aed23fd80d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02605610a0dd2762aed23fd80d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851605610a0dd2762aed23fd80d",
+                    "width": 64
+                }
+            ],
+            "name": "Death is This Communion",
+            "release_date": "2007-09-18",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:7yWeqG1dkR4zybxMaBdLQY"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf"
+                },
+                "href": "https://api.spotify.com/v1/artists/1eiIIImNeUj3vpaocWqoOf",
+                "id": "1eiIIImNeUj3vpaocWqoOf",
+                "name": "High On Fire",
+                "type": "artist",
+                "uri": "spotify:artist:1eiIIImNeUj3vpaocWqoOf"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 171160,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US2640770507"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/33XdEVFV3YFrKQ0y99t6Sf"
+        },
+        "href": "https://api.spotify.com/v1/tracks/33XdEVFV3YFrKQ0y99t6Sf",
+        "id": "33XdEVFV3YFrKQ0y99t6Sf",
+        "is_local": false,
+        "name": "Rumors Of War",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/2fe642636629d39f2df8dde07d7ee3df35385baa?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:33XdEVFV3YFrKQ0y99t6Sf"
+    }
+}

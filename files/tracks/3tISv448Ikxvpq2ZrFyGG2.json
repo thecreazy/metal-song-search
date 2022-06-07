@@ -1,0 +1,251 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Bestow upon me knowledge",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wizard, all-knowing, all-wise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I want to rule this kingdom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Make sweet the breeze, now defiled",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dethrone the evil prince's iron fists",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In velvet gloves of sin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Parade the grey robed monks",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The vestal virgins wheel the wyvern's in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let the ceremony consecrate the marriage",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me be the protégé of five magics",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give me alchemy, give me wizardry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give me sorcery, thermatology",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Electricity, magic if you please",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Master all of these, bring him to his knees",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I master five magics",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I master five magics",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I master five magics",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I master five magics",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Possessed with hellish torment (possessed with hellish torment)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I master magics five (I master magics five)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hunting the abyss lord (hunting the abyss lord)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Only one will stay alive (only one will stay alive)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He who lives by the sword (he who lives by the sword)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Will surely also die (will surely also die)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He who lives in sin (he who lives in sin)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Will surely live the lie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "177580",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+                    "id": "1Yox196W7bzVNZI7RBaPnf",
+                    "name": "Megadeth",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
+            },
+            "href": "https://api.spotify.com/v1/albums/0qaLL09EtF1hiUis7PRvaJ",
+            "id": "0qaLL09EtF1hiUis7PRvaJ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273be9fa5a89479b6af481938a0",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02be9fa5a89479b6af481938a0",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851be9fa5a89479b6af481938a0",
+                    "width": 64
+                }
+            ],
+            "name": "Rust In Peace (Expanded Edition)",
+            "release_date": "1990-10-04",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:0qaLL09EtF1hiUis7PRvaJ"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+                },
+                "href": "https://api.spotify.com/v1/artists/1Yox196W7bzVNZI7RBaPnf",
+                "id": "1Yox196W7bzVNZI7RBaPnf",
+                "name": "Megadeth",
+                "type": "artist",
+                "uri": "spotify:artist:1Yox196W7bzVNZI7RBaPnf"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 339693,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USCA20400650"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3tISv448Ikxvpq2ZrFyGG2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3tISv448Ikxvpq2ZrFyGG2",
+        "id": "3tISv448Ikxvpq2ZrFyGG2",
+        "is_local": false,
+        "name": "Five Magics - Remastered 2004",
+        "popularity": 48,
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3tISv448Ikxvpq2ZrFyGG2"
+    }
+}

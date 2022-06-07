@@ -1,0 +1,176 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "... And The angels were made of steel for the metal kiss of steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heavy metal machine into the RIOT, fight of the warriors of thunder steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have a metal heart, I'm a breaker, ACCEPT-ed FACT, Heavy metal power play",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seek & destroy, rock until you drop with RAVEN, mind over metal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heavy metal bomber (Fever), Heavy Metal soldiers",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Attack),",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heavy metal warriors (maniac),",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm a hunter, Heavy Metal Hunter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Metal attack of the battle, swords & axes & OVERDRIVE burn in hell HEAVY METAL ARMY form medieval, IRON MAIDEN to the golden Zipangu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Iron dogs 're pounding metal, EXCITER & invasion waiting in the dark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Headbanging man wanna rock you, Heavy metal breakdown by GRAVE DIGGER",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heavy metal bomber (Fever), Heavy Metal soldiers",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Attack),",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heavy metal warriors (maniac), I'm a hunter, Heavy Metal Hunter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heavy metal Queen (Heaven), Heavy metal rock'n'roll (symphony)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heavy metal men of steel (is the law), I'm a hunter,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heavy Metal hunter",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "7844040",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "single",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5E2nkYdPcLEp7SkhhSyW3G"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5E2nkYdPcLEp7SkhhSyW3G",
+                    "id": "5E2nkYdPcLEp7SkhhSyW3G",
+                    "name": "Metalucifer",
+                    "type": "artist",
+                    "uri": "spotify:artist:5E2nkYdPcLEp7SkhhSyW3G"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3QBhpEgJZClX6KC9ZNkzb9"
+            },
+            "href": "https://api.spotify.com/v1/albums/3QBhpEgJZClX6KC9ZNkzb9",
+            "id": "3QBhpEgJZClX6KC9ZNkzb9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ee3ee97c822de5f056020f3f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ee3ee97c822de5f056020f3f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ee3ee97c822de5f056020f3f",
+                    "width": 64
+                }
+            ],
+            "name": "Heavy Metal Hunter",
+            "release_date": "1996-04-13",
+            "release_date_precision": "day",
+            "total_tracks": 6,
+            "type": "album",
+            "uri": "spotify:album:3QBhpEgJZClX6KC9ZNkzb9"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5E2nkYdPcLEp7SkhhSyW3G"
+                },
+                "href": "https://api.spotify.com/v1/artists/5E2nkYdPcLEp7SkhhSyW3G",
+                "id": "5E2nkYdPcLEp7SkhhSyW3G",
+                "name": "Metalucifer",
+                "type": "artist",
+                "uri": "spotify:artist:5E2nkYdPcLEp7SkhhSyW3G"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 298539,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "QM4TW1837289"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2MxBKR8sprKzNhvYPIaCrt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2MxBKR8sprKzNhvYPIaCrt",
+        "id": "2MxBKR8sprKzNhvYPIaCrt",
+        "is_local": false,
+        "name": "Heavy Metal Hunter (Part I)",
+        "popularity": 4,
+        "preview_url": "https://p.scdn.co/mp3-preview/555c7f3171b3c0ba63057926eac2e0cc302eed42?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2MxBKR8sprKzNhvYPIaCrt"
+    }
+}

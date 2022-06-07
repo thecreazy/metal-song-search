@@ -1,0 +1,251 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "The piercing radiant moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The storming of poor June",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All the life running through her hair",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Approaching guiding light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our shallow years in fright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dreams are made, winding through my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Before you know, you're awake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your lives are open wide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The V-chip gives them sight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of all the life running through her hair",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The spiders all in tune",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The evening of the moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dreams are made, winding through my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Before you know, awake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through my head, through my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Before you know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will be waiting, all awake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dreams are made, winding through her hair",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dreams are made, winding through her hair",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "782096",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1",
+                    "id": "5eAWCfyUhZtHHtBdNk56l1",
+                    "name": "System Of A Down",
+                    "type": "artist",
+                    "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+            },
+            "href": "https://api.spotify.com/v1/albums/3sSfjX4fhZonjyZ10x0l0f",
+            "id": "3sSfjX4fhZonjyZ10x0l0f",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732dc63e977bd5101072adcef6",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022dc63e977bd5101072adcef6",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512dc63e977bd5101072adcef6",
+                    "width": 64
+                }
+            ],
+            "name": "System Of A Down",
+            "release_date": "1998",
+            "release_date_precision": "year",
+            "total_tracks": 17,
+            "type": "album",
+            "uri": "spotify:album:3sSfjX4fhZonjyZ10x0l0f"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+                },
+                "href": "https://api.spotify.com/v1/artists/5eAWCfyUhZtHHtBdNk56l1",
+                "id": "5eAWCfyUhZtHHtBdNk56l1",
+                "name": "System Of A Down",
+                "type": "artist",
+                "uri": "spotify:artist:5eAWCfyUhZtHHtBdNk56l1"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 215440,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM19800755"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4vAHXnJ5YWLq5hbIVzZS1h"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4vAHXnJ5YWLq5hbIVzZS1h",
+        "id": "4vAHXnJ5YWLq5hbIVzZS1h",
+        "is_local": false,
+        "name": "Spiders",
+        "popularity": 65,
+        "preview_url": "https://p.scdn.co/mp3-preview/c714cae8d2c1007e69a9047f3a70c59db584cf3a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4vAHXnJ5YWLq5hbIVzZS1h"
+    }
+}

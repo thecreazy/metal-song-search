@@ -1,0 +1,161 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "In the evening rain, I was standing outside... the hell opera",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've been there before, a while ago... with Nosferatu",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Saw the execution of my tomorrow... saw it and bowed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the theater, of hellfire... the inferno is now!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am lost again, I lean against... the purgatory gates",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To ease my suffering, you're offering... to unlock my fate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The black rhapsody, I cannot breathe... inside my tomb",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The devil's centurion, my world goes boom... The Hammer of Doom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Hammer of Doom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ain't no sunshine where I go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I stand where no roses grow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Desperate in the Typhoon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Swinging the Hammer of Doom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "559163",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7zDtfSB0AOZWhpuAHZIOw5",
+                    "id": "7zDtfSB0AOZWhpuAHZIOw5",
+                    "name": "Candlemass",
+                    "type": "artist",
+                    "uri": "spotify:artist:7zDtfSB0AOZWhpuAHZIOw5"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3v6mdxizv4RUpeRr7TQHBx"
+            },
+            "href": "https://api.spotify.com/v1/albums/3v6mdxizv4RUpeRr7TQHBx",
+            "id": "3v6mdxizv4RUpeRr7TQHBx",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273211fc485367c163153c72eea",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02211fc485367c163153c72eea",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851211fc485367c163153c72eea",
+                    "width": 64
+                }
+            ],
+            "name": "Death Magic Doom",
+            "release_date": "2009-04-03",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:3v6mdxizv4RUpeRr7TQHBx"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7zDtfSB0AOZWhpuAHZIOw5"
+                },
+                "href": "https://api.spotify.com/v1/artists/7zDtfSB0AOZWhpuAHZIOw5",
+                "id": "7zDtfSB0AOZWhpuAHZIOw5",
+                "name": "Candlemass",
+                "type": "artist",
+                "uri": "spotify:artist:7zDtfSB0AOZWhpuAHZIOw5"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 376893,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED830801191"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1cS8fTy7VXUVrH93e2D2jp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1cS8fTy7VXUVrH93e2D2jp",
+        "id": "1cS8fTy7VXUVrH93e2D2jp",
+        "is_local": false,
+        "name": "Hammer of Doom",
+        "popularity": 18,
+        "preview_url": "https://p.scdn.co/mp3-preview/57ae1ac61d577db06e170e8bd7043c618ebaf1f2?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:1cS8fTy7VXUVrH93e2D2jp"
+    }
+}

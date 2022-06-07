@@ -1,0 +1,226 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Unto you I whisper",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The wildest dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the coldness of night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shrouded in crystals",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through a frosty dusk",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Souls of the fullmoon awaits",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their shadows ablaze",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are all bending",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our tired leaves over your empty shell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the sign of true esteem",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are you beloved lord",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sighing deep under these waterfalls?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The birds of the sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seperates these dark clouds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "While the winds of winter sleeps gently around",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am sworn to the oath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To breathe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "At the waters I dwell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The waves are still whispering",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ancient lullabies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "While our mystic brothers still seek",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Under your command I will obey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In my vision",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You are the embodiment of pure freedom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But through my eyes you are made of stone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1050234",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0ybFZ2Ab08V8hueghSXm6E",
+                    "id": "0ybFZ2Ab08V8hueghSXm6E",
+                    "name": "Opeth",
+                    "type": "artist",
+                    "uri": "spotify:artist:0ybFZ2Ab08V8hueghSXm6E"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5fAXq1gQeCRjmlAwQQO40Q"
+            },
+            "href": "https://api.spotify.com/v1/albums/5fAXq1gQeCRjmlAwQQO40Q",
+            "id": "5fAXq1gQeCRjmlAwQQO40Q",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27395704370c98478af0836c182",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0295704370c98478af0836c182",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485195704370c98478af0836c182",
+                    "width": 64
+                }
+            ],
+            "name": "Orchid",
+            "release_date": "1995-05-01",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:5fAXq1gQeCRjmlAwQQO40Q"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+                },
+                "href": "https://api.spotify.com/v1/artists/0ybFZ2Ab08V8hueghSXm6E",
+                "id": "0ybFZ2Ab08V8hueghSXm6E",
+                "name": "Opeth",
+                "type": "artist",
+                "uri": "spotify:artist:0ybFZ2Ab08V8hueghSXm6E"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 661893,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBADD0405305"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4iEdKcy40KeLrvTMEpX9sW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4iEdKcy40KeLrvTMEpX9sW",
+        "id": "4iEdKcy40KeLrvTMEpX9sW",
+        "is_local": false,
+        "name": "The Twilight Is My Robe",
+        "popularity": 28,
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:4iEdKcy40KeLrvTMEpX9sW"
+    }
+}

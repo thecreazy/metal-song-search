@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I bear the seed of ruin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A golden age turned to stone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Elysium ... to dust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For this, a tragic journey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A vision of a dying embrace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scattered earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Silence ...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where Echonia wept",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I sank into the silent desert",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fallen am I,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the solitude of a broken promise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "... I cried alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My empyrean is a scar",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From the memory of her beautiful life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forever was her name",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fulfilment lost in a lifetime of regret",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ornate peace would cover me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As I would die now ...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For one last wish",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1070582",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+                    "id": "0ZXKT0FCsLWkSLCjoBJgBX",
+                    "name": "Anathema",
+                    "type": "artist",
+                    "uri": "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1ByRLwzKcfrEll0hwCUI2I"
+            },
+            "href": "https://api.spotify.com/v1/albums/1ByRLwzKcfrEll0hwCUI2I",
+            "id": "1ByRLwzKcfrEll0hwCUI2I",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734b336455cf9e316f5f7bd549",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024b336455cf9e316f5f7bd549",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514b336455cf9e316f5f7bd549",
+                    "width": 64
+                }
+            ],
+            "name": "The Silent Enigma",
+            "release_date": "1995",
+            "release_date_precision": "year",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:1ByRLwzKcfrEll0hwCUI2I"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+                },
+                "href": "https://api.spotify.com/v1/artists/0ZXKT0FCsLWkSLCjoBJgBX",
+                "id": "0ZXKT0FCsLWkSLCjoBJgBX",
+                "name": "Anathema",
+                "type": "artist",
+                "uri": "spotify:artist:0ZXKT0FCsLWkSLCjoBJgBX"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 491680,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "GBCQV9500008"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2MwpQyiQAnR7b2PZtKs4ij"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2MwpQyiQAnR7b2PZtKs4ij",
+        "id": "2MwpQyiQAnR7b2PZtKs4ij",
+        "is_local": false,
+        "name": "A Dying Wish - Studio",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/5714400e91dc2ddaae1886b3f905f62fcc310a9e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2MwpQyiQAnR7b2PZtKs4ij"
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Darker and darker skylines of red grew my horizon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On the edge of my vision a giant grimfaced realm...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flaming suns crested the horizon shadows born a cloudless day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Believers of the rise and set of the moon darkened twilight into night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hardening claws of cold tell me we are closer to colder times",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through the days of bitterness still the tundra lay untouched",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the final of that day and all centuries after",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In eternity and time the same still the tundra lay untouched",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blacker and blacker blinded by shades from centuries behind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shadows of a dark that used to be under heavy winters reign...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The blackening sky never end as we stand the fall of time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yet winds of cold will always blow without tomorrow...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hardening claws of cold tell me we are closer to colder times",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through the days of bitterness still the tundra lay untouched",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the final of that day and all centuries after",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In eternity and time the same still the tundra lay untouched",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1383684",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2mVTkiwfm4ic6DnHpmFq8K",
+                    "id": "2mVTkiwfm4ic6DnHpmFq8K",
+                    "name": "Immortal",
+                    "type": "artist",
+                    "uri": "spotify:artist:2mVTkiwfm4ic6DnHpmFq8K"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma"
+            },
+            "href": "https://api.spotify.com/v1/albums/7cuQrfE3R8cX53zLoGF6Ma",
+            "id": "7cuQrfE3R8cX53zLoGF6Ma",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738feebd74559c0cb4e0d1061f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028feebd74559c0cb4e0d1061f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518feebd74559c0cb4e0d1061f",
+                    "width": 64
+                }
+            ],
+            "name": "At The Heart Of Winter",
+            "release_date": "1999",
+            "release_date_precision": "year",
+            "total_tracks": 6,
+            "type": "album",
+            "uri": "spotify:album:7cuQrfE3R8cX53zLoGF6Ma"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+                },
+                "href": "https://api.spotify.com/v1/artists/2mVTkiwfm4ic6DnHpmFq8K",
+                "id": "2mVTkiwfm4ic6DnHpmFq8K",
+                "name": "Immortal",
+                "type": "artist",
+                "uri": "spotify:artist:2mVTkiwfm4ic6DnHpmFq8K"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 509640,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "FR6V89900073"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5nCnSnLtotQ8eB4E189U91",
+        "id": "5nCnSnLtotQ8eB4E189U91",
+        "is_local": false,
+        "name": "Withstand The Fall Of Time",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/91fd660aaa8546b8d0b134b974de255bf544bb57?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:5nCnSnLtotQ8eB4E189U91"
+    }
+}

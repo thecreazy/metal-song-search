@@ -1,0 +1,281 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "One by one, doing the crime",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never thought twice, never did time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never turn back, never go home",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never get used to being alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One by one, into the sea",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too many eyes are staring at me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Two by two, watch as they go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who are you and what do you know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I got your heart in hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never let go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Make it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never let go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tell all you know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This is what you make it, pound the ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Make it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never let go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tell all you know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "How far can you take it as you go... Ironbound",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Two by two, iron to bend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Keeping the oath, right to the end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Three by three, breaking some bones",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Snapping some neck, never alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Here they come, rumble and pound",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never get used to hearing that sound",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There they go, fast as they came",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never go back, never the same",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All my friends are green and black",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All my friends are right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All my friends are automatic",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They all rule the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All my friends are think and thin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They've loyalty and heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Said all of them are green and black",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everyone is right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All my friends are automatic",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Born to rule the night",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1281346",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0NmYchKQ8JIR9QHYJA0FRe",
+                    "id": "0NmYchKQ8JIR9QHYJA0FRe",
+                    "name": "Overkill",
+                    "type": "artist",
+                    "uri": "spotify:artist:0NmYchKQ8JIR9QHYJA0FRe"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6TtSybRpSRzrabDH6ojM9N"
+            },
+            "href": "https://api.spotify.com/v1/albums/6TtSybRpSRzrabDH6ojM9N",
+            "id": "6TtSybRpSRzrabDH6ojM9N",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732bc093a8ca0f760f116870f4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022bc093a8ca0f760f116870f4",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512bc093a8ca0f760f116870f4",
+                    "width": 64
+                }
+            ],
+            "name": "Ironbound",
+            "release_date": "2010-01-29",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:6TtSybRpSRzrabDH6ojM9N"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+                },
+                "href": "https://api.spotify.com/v1/artists/0NmYchKQ8JIR9QHYJA0FRe",
+                "id": "0NmYchKQ8JIR9QHYJA0FRe",
+                "name": "Overkill",
+                "type": "artist",
+                "uri": "spotify:artist:0NmYchKQ8JIR9QHYJA0FRe"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 393040,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED830900871"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5Uh3gK6DLSUxQIadoA5vNB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5Uh3gK6DLSUxQIadoA5vNB",
+        "id": "5Uh3gK6DLSUxQIadoA5vNB",
+        "is_local": false,
+        "name": "Ironbound",
+        "popularity": 33,
+        "preview_url": "https://p.scdn.co/mp3-preview/f6f2ab4b46d8445e693c594a17d8f6751c70787b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5Uh3gK6DLSUxQIadoA5vNB"
+    }
+}

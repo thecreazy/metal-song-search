@@ -1,0 +1,161 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Let us have peace, let us have life,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let us escape the cruel night.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let us have time, let the sun shine,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let us beware the deadly sign.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The day is coming, armageddon's near,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inferno's coming, can we survive the blitzkrieg.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The blitzkrieg, the blitzkrieg.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Save us from fate, save us from hate,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Save ourselves before it's too late.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come to our need, hear our plea,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Save ourselves before the earth bleeds.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The day is dawning, the time is near,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Aliens calling, can we survive the blitzkrieg",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1761313",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/54vbdnaHSULmWN0qWSzACT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/54vbdnaHSULmWN0qWSzACT",
+                    "id": "54vbdnaHSULmWN0qWSzACT",
+                    "name": "Blitzkrieg",
+                    "type": "artist",
+                    "uri": "spotify:artist:54vbdnaHSULmWN0qWSzACT"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/67On08o0cKjvP0KD291DTU"
+            },
+            "href": "https://api.spotify.com/v1/albums/67On08o0cKjvP0KD291DTU",
+            "id": "67On08o0cKjvP0KD291DTU",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733c2608c7ec52a8b396cf0a90",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023c2608c7ec52a8b396cf0a90",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513c2608c7ec52a8b396cf0a90",
+                    "width": 64
+                }
+            ],
+            "name": "Theatre of the Damned",
+            "release_date": "2007-09-21",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:67On08o0cKjvP0KD291DTU"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/54vbdnaHSULmWN0qWSzACT"
+                },
+                "href": "https://api.spotify.com/v1/artists/54vbdnaHSULmWN0qWSzACT",
+                "id": "54vbdnaHSULmWN0qWSzACT",
+                "name": "Blitzkrieg",
+                "type": "artist",
+                "uri": "spotify:artist:54vbdnaHSULmWN0qWSzACT"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 375386,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DEZ650707095"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3VE7vUZ8Hcg4WtlrVwXwWl"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3VE7vUZ8Hcg4WtlrVwXwWl",
+        "id": "3VE7vUZ8Hcg4WtlrVwXwWl",
+        "is_local": false,
+        "name": "Blitzkrieg",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/f8991f2da5f3b2fd85db7c0928caf711fb14666d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 12,
+        "type": "track",
+        "uri": "spotify:track:3VE7vUZ8Hcg4WtlrVwXwWl"
+    }
+}

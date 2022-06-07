@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Know me broken by my master",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Teach thee on child of love hereafter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Into the flood again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Same old trip it was back then",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So I made a big mistake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Try to see it once my way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Drifting body, it's sole desertion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Flying not yet, quite the notion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Into the flood again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Same old trip it was back then",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So I made a big mistake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Try to see it once my way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Into the flood again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Same old trip it was back then",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So I made a big mistake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Try to see it once my way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Am I wrong?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Have I run too far to get home?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Have I gone?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And left you here alone?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Am I wrong?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Have I run too far to get home?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Have I gone?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And left you here alone?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If I would, could you?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "107605403",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+                    "id": "64tNsm6TnZe2zpcMVMOoHL",
+                    "name": "Alice In Chains",
+                    "type": "artist",
+                    "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+            },
+            "href": "https://api.spotify.com/v1/albums/58NXIEYqmq5dQHg9nV9duM",
+            "id": "58NXIEYqmq5dQHg9nV9duM",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27331ea2c36c5da3979177127b1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0231ea2c36c5da3979177127b1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485131ea2c36c5da3979177127b1",
+                    "width": 64
+                }
+            ],
+            "name": "Dirt",
+            "release_date": "1992-09-29",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:58NXIEYqmq5dQHg9nV9duM"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+                },
+                "href": "https://api.spotify.com/v1/artists/64tNsm6TnZe2zpcMVMOoHL",
+                "id": "64tNsm6TnZe2zpcMVMOoHL",
+                "name": "Alice In Chains",
+                "type": "artist",
+                "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 206773,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM19200805"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5sFDReWLrZHLFZFjHsjUTS",
+        "id": "5sFDReWLrZHLFZFjHsjUTS",
+        "is_local": false,
+        "name": "Would?",
+        "popularity": 71,
+        "preview_url": "https://p.scdn.co/mp3-preview/4481f81ad69cbd8ba10bc98bc07a920116ecf06c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 13,
+        "type": "track",
+        "uri": "spotify:track:5sFDReWLrZHLFZFjHsjUTS"
+    }
+}

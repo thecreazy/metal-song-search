@@ -1,0 +1,276 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I am Iron Man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Has he lost his mind?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can he see or is he blind?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can he walk at all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Or if he moves, will he fall?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Is he alive or dead?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Has he thoughts within his head?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We'll just pass him there",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Why should we even care?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He was turned to steel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the great magnetic field",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When he traveled time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For the future of mankind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nobody wants him",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He just stares at the world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Planning his vengeance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That he will soon unfurl",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now the time is here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For Iron Man to spread fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vengeance from the grave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kills the people he once saved",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nobody wants him",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They just turn their heads",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nobody helps him",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now he has his revenge",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heavy boots of lead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fills his victims full of dread",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Running as fast as they can",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Iron Man lives again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "212190",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                    "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                    "name": "Black Sabbath",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/132qAo1cDiEJdA3fv4xyNK"
+            },
+            "href": "https://api.spotify.com/v1/albums/132qAo1cDiEJdA3fv4xyNK",
+            "id": "132qAo1cDiEJdA3fv4xyNK",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739683e5d7361bb80bfb00f46d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029683e5d7361bb80bfb00f46d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519683e5d7361bb80bfb00f46d",
+                    "width": 64
+                }
+            ],
+            "name": "Paranoid (2009 Remastered Version)",
+            "release_date": "1970-09-18",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:132qAo1cDiEJdA3fv4xyNK"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                "name": "Black Sabbath",
+                "type": "artist",
+                "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 354773,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE7000085"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0TI8TP4FitVPoEHPTySx48"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0TI8TP4FitVPoEHPTySx48",
+        "id": "0TI8TP4FitVPoEHPTySx48",
+        "is_local": false,
+        "name": "Iron Man",
+        "popularity": 70,
+        "preview_url": "https://p.scdn.co/mp3-preview/307c6d41d8d5f301d4ad64d212a1e1fcd60bb1de?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:0TI8TP4FitVPoEHPTySx48"
+    }
+}

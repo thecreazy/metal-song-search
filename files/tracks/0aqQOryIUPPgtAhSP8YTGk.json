@@ -1,0 +1,176 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Your stinking corpse I desire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nothing can take me higher",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fucking you till your bones break",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another one has to die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cum dripping from my dick",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fucking you to the core",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't take this anymore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My brain is driving me insane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Necrolust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Necrolust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eating the flesh of a thousand corpses",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bloodsucking cuntless nuns",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Her guts were boiling out of her butt",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eating her slimey cunt as I hold her tits",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come posercorpse and die again!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Necrolust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1624532",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "single",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0dR10i73opHXuRuLbgxltM",
+                    "id": "0dR10i73opHXuRuLbgxltM",
+                    "name": "Mayhem",
+                    "type": "artist",
+                    "uri": "spotify:artist:0dR10i73opHXuRuLbgxltM"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2RxBdrvHKwgx57RKrNQ9hz"
+            },
+            "href": "https://api.spotify.com/v1/albums/2RxBdrvHKwgx57RKrNQ9hz",
+            "id": "2RxBdrvHKwgx57RKrNQ9hz",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d4574c5b72cc948ddd0eff10",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d4574c5b72cc948ddd0eff10",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d4574c5b72cc948ddd0eff10",
+                    "width": 64
+                }
+            ],
+            "name": "Deathcrush",
+            "release_date": "1993",
+            "release_date_precision": "year",
+            "total_tracks": 6,
+            "type": "album",
+            "uri": "spotify:album:2RxBdrvHKwgx57RKrNQ9hz"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM"
+                },
+                "href": "https://api.spotify.com/v1/artists/0dR10i73opHXuRuLbgxltM",
+                "id": "0dR10i73opHXuRuLbgxltM",
+                "name": "Mayhem",
+                "type": "artist",
+                "uri": "spotify:artist:0dR10i73opHXuRuLbgxltM"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 217720,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "NOFVV5806050"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0aqQOryIUPPgtAhSP8YTGk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0aqQOryIUPPgtAhSP8YTGk",
+        "id": "0aqQOryIUPPgtAhSP8YTGk",
+        "is_local": false,
+        "name": "Necrolust",
+        "popularity": 40,
+        "preview_url": "https://p.scdn.co/mp3-preview/5abe3852a1dbeebec0069a3492581f62b16447b4?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0aqQOryIUPPgtAhSP8YTGk"
+    }
+}

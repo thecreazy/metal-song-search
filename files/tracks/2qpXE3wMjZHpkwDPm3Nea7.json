@@ -1,0 +1,281 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Shining metal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Arc of light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Red eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Smell of fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deep cut",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Red stream",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On white skin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In slowmotion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stop time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Close your lips",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Keep the word",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lay down and sleep",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With bleeding heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll take you away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Save you from",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The claws of time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die by my hand,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die by my hand!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now you are",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A crystal rose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Frozen for",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eternity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Down on my knees",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Caress your body",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inside my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In slowmotion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stop time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Close your lips",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Keep the word",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lay down and sleep",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With bleeding heart",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll take you away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Save you from",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The claws of time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die by my hand,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die by my hand,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die by my hand!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1223171",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7lfdXL6PuTM5iWJNvI7PPV",
+                    "id": "7lfdXL6PuTM5iWJNvI7PPV",
+                    "name": "Coroner",
+                    "type": "artist",
+                    "uri": "spotify:artist:7lfdXL6PuTM5iWJNvI7PPV"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/34rhpcyllj7zO9ozE5Cf2M"
+            },
+            "href": "https://api.spotify.com/v1/albums/34rhpcyllj7zO9ozE5Cf2M",
+            "id": "34rhpcyllj7zO9ozE5Cf2M",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c98eff11fbf180cb7c121955",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c98eff11fbf180cb7c121955",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c98eff11fbf180cb7c121955",
+                    "width": 64
+                }
+            ],
+            "name": "No More Color",
+            "release_date": "1989-09-18",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:34rhpcyllj7zO9ozE5Cf2M"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+                },
+                "href": "https://api.spotify.com/v1/artists/7lfdXL6PuTM5iWJNvI7PPV",
+                "id": "7lfdXL6PuTM5iWJNvI7PPV",
+                "name": "Coroner",
+                "type": "artist",
+                "uri": "spotify:artist:7lfdXL6PuTM5iWJNvI7PPV"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 226226,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "CH0011600065"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2qpXE3wMjZHpkwDPm3Nea7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2qpXE3wMjZHpkwDPm3Nea7",
+        "id": "2qpXE3wMjZHpkwDPm3Nea7",
+        "is_local": false,
+        "name": "Die by My Hand",
+        "popularity": 23,
+        "preview_url": "https://p.scdn.co/mp3-preview/5059cc8b7ececd55d640f7d564dcb6620d22cb1c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2qpXE3wMjZHpkwDPm3Nea7"
+    }
+}

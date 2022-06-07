@@ -1,0 +1,251 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "She walk my way to fee",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I grut my teeth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's more like hundred milo",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I know more me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But you can make my teeth growl",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You can make my underwell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's a big dark world now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's a big dark Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Los sitar watch out for your tails",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like of course a timely man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a hog dance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a pig dare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mind warp deceptor wan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wait a minute I caught defouled",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I felt it groan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She meant to hold the bar down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And she cleaned my nose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I look so peaceful",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I look so underwell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I ain't got no mouthfull",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I ain't got no tail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You look like such a worldy man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a sinner tossed on the wind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a hotel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a piston",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a well old man a wan",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rock sides supports them would you wail",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a tosser timely man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a hard descend",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a cyst stone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a well worn dance stone why",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "14767541",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6aVjo0xHSiuW5hkasoYSR3",
+                    "id": "6aVjo0xHSiuW5hkasoYSR3",
+                    "name": "Melvins",
+                    "type": "artist",
+                    "uri": "spotify:artist:6aVjo0xHSiuW5hkasoYSR3"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0agYsmUl1uS32ZFHKQ8L8W"
+            },
+            "href": "https://api.spotify.com/v1/albums/0agYsmUl1uS32ZFHKQ8L8W",
+            "id": "0agYsmUl1uS32ZFHKQ8L8W",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273638404f3498c5c96c220cbf8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02638404f3498c5c96c220cbf8",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851638404f3498c5c96c220cbf8",
+                    "width": 64
+                }
+            ],
+            "name": "Houdini",
+            "release_date": "1993-08-31",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:0agYsmUl1uS32ZFHKQ8L8W"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
+                },
+                "href": "https://api.spotify.com/v1/artists/6aVjo0xHSiuW5hkasoYSR3",
+                "id": "6aVjo0xHSiuW5hkasoYSR3",
+                "name": "Melvins",
+                "type": "artist",
+                "uri": "spotify:artist:6aVjo0xHSiuW5hkasoYSR3"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 281066,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USAT20103376"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5JSk2ijn31XVo0x0wHyWTc"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5JSk2ijn31XVo0x0wHyWTc",
+        "id": "5JSk2ijn31XVo0x0wHyWTc",
+        "is_local": false,
+        "name": "Night Goat",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/bfbff9520d2174b4809e0bb10235e56629dfd742?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:5JSk2ijn31XVo0x0wHyWTc"
+    }
+}

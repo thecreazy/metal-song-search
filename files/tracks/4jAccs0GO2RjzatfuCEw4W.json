@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Come on turn it up!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Madness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stalking the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feeding fast on my prey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Draining the life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "'Till the dawn of the day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Drinking and sucking",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The blood rushing sweet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Half crazed with glory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Half crazed in the heat",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bloodlust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tearing the flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of the weak and the child",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sparing no one",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The meek and the mild",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I sink my fangs in your",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Neck as you dream",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am Count Cronos",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vampire Supreme",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bloodlust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bloodlust upon me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm biting the flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll take away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your God given breath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now I shall feast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On your life giving blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Leave you to die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On the land you once stood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bloodlust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "547090",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5fwaejlOHVBAw1KhIPPaQe",
+                    "id": "5fwaejlOHVBAw1KhIPPaQe",
+                    "name": "Venom",
+                    "type": "artist",
+                    "uri": "spotify:artist:5fwaejlOHVBAw1KhIPPaQe"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1e6Osda6t8UDFYQ29sFVlV"
+            },
+            "href": "https://api.spotify.com/v1/albums/1e6Osda6t8UDFYQ29sFVlV",
+            "id": "1e6Osda6t8UDFYQ29sFVlV",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27361383fe42756b74fb81ed769",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0261383fe42756b74fb81ed769",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485161383fe42756b74fb81ed769",
+                    "width": 64
+                }
+            ],
+            "name": "Black Metal",
+            "release_date": "1982-11-01",
+            "release_date_precision": "day",
+            "total_tracks": 20,
+            "type": "album",
+            "uri": "spotify:album:1e6Osda6t8UDFYQ29sFVlV"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe"
+                },
+                "href": "https://api.spotify.com/v1/artists/5fwaejlOHVBAw1KhIPPaQe",
+                "id": "5fwaejlOHVBAw1KhIPPaQe",
+                "name": "Venom",
+                "type": "artist",
+                "uri": "spotify:artist:5fwaejlOHVBAw1KhIPPaQe"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 155800,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE8200127"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4jAccs0GO2RjzatfuCEw4W"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4jAccs0GO2RjzatfuCEw4W",
+        "id": "4jAccs0GO2RjzatfuCEw4W",
+        "is_local": false,
+        "name": "Bloodlust - Radio 1 Session",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/2bcafccaad97cf6848fa9ceb1a9de0f2b228b0d4?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 16,
+        "type": "track",
+        "uri": "spotify:track:4jAccs0GO2RjzatfuCEw4W"
+    }
+}

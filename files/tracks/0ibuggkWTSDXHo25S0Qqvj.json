@@ -1,0 +1,211 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "You'd love to be so far away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's not a long way to go, it's gonna end in your pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Greet open handed stranger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Create the turmoil, you're not sane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I want the last one to go to embers will revive,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So stay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You want to live a life time each and every day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've struggled before, I swear to do it again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've told it before till I, until I'm weakened and sore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seek hallowed land",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You'd love to see right through my veins",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The pale reflection tells all, predominations sustain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Crawl over land or mountain in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sight the ultimate escape",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A silhouette subsiding, enticed unable to relate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You want to live a lifetime each and every day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've beckoned before, you'll never do it again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've prayed before who are the prayers for",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seek hallowed land",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Begone the fools that lead me - I need not to know",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Accept reclining spirit I need to endure",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You try to live a lifetime each and every day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In this short time of promise, you're a memory...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "301587",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0gIo6kGl4KsCeIbqtZVHYp",
+                    "id": "0gIo6kGl4KsCeIbqtZVHYp",
+                    "name": "Paradise Lost",
+                    "type": "artist",
+                    "uri": "spotify:artist:0gIo6kGl4KsCeIbqtZVHYp"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3dpkz0rBs1fkXhTTLlPY85"
+            },
+            "href": "https://api.spotify.com/v1/albums/3dpkz0rBs1fkXhTTLlPY85",
+            "id": "3dpkz0rBs1fkXhTTLlPY85",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fa8fe4ed61e19e094879d08d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fa8fe4ed61e19e094879d08d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851fa8fe4ed61e19e094879d08d",
+                    "width": 64
+                }
+            ],
+            "name": "Draconian Times",
+            "release_date": "1995-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:3dpkz0rBs1fkXhTTLlPY85"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp"
+                },
+                "href": "https://api.spotify.com/v1/artists/0gIo6kGl4KsCeIbqtZVHYp",
+                "id": "0gIo6kGl4KsCeIbqtZVHYp",
+                "name": "Paradise Lost",
+                "type": "artist",
+                "uri": "spotify:artist:0gIo6kGl4KsCeIbqtZVHYp"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 302560,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCKC0700121"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0ibuggkWTSDXHo25S0Qqvj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0ibuggkWTSDXHo25S0Qqvj",
+        "id": "0ibuggkWTSDXHo25S0Qqvj",
+        "is_local": false,
+        "name": "Hallowed Land",
+        "popularity": 32,
+        "preview_url": "https://p.scdn.co/mp3-preview/4866292a45e569ede673ae08db7d12543b92fea5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:0ibuggkWTSDXHo25S0Qqvj"
+    }
+}

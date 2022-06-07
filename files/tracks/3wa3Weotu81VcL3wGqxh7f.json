@@ -1,0 +1,276 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "If you wanted to,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...say you wanted to...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If you wanted to save the world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where could you start? How could you start?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If you wanted to feel like I feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...like I feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're running dry...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...I'm flying high",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're running on feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You wanted to be, what you've never been before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We worked hard for a living",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We worked hard for it all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You run and hide,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...don't run and hide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm starting to feel OK",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But I'm wasted",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And I'm failing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh Tracy please",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't you see?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's just me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I wanted to feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What I've never felt before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I was tired of the living",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I was tired of it all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Time, time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...it's only... time.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If we wanted to,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...say we wanted to...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If we wanted to save our world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm waiting here, waiting",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Waiting here baby please...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "STAY WITH ME",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We wanted to be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What we've never been before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But are we tired of the living?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...Are we tired of the war?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2598722",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/571aCWzg7bObPJl5RAs0ZZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/571aCWzg7bObPJl5RAs0ZZ",
+                    "id": "571aCWzg7bObPJl5RAs0ZZ",
+                    "name": "Devin Townsend Band",
+                    "type": "artist",
+                    "uri": "spotify:artist:571aCWzg7bObPJl5RAs0ZZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/49WiVhHrs9fhmp4MFkLD48"
+            },
+            "href": "https://api.spotify.com/v1/albums/49WiVhHrs9fhmp4MFkLD48",
+            "id": "49WiVhHrs9fhmp4MFkLD48",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735b23f59456002758d973b116",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025b23f59456002758d973b116",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515b23f59456002758d973b116",
+                    "width": 64
+                }
+            ],
+            "name": "Accelerated Evolution",
+            "release_date": "2003",
+            "release_date_precision": "year",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:49WiVhHrs9fhmp4MFkLD48"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/571aCWzg7bObPJl5RAs0ZZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/571aCWzg7bObPJl5RAs0ZZ",
+                "id": "571aCWzg7bObPJl5RAs0ZZ",
+                "name": "Devin Townsend Band",
+                "type": "artist",
+                "uri": "spotify:artist:571aCWzg7bObPJl5RAs0ZZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 278333,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBDHC0924102"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3wa3Weotu81VcL3wGqxh7f"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3wa3Weotu81VcL3wGqxh7f",
+        "id": "3wa3Weotu81VcL3wGqxh7f",
+        "is_local": false,
+        "name": "Storm",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/45d3d4f2941d754fb5736ca2dd0dfe5d304d58bd?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:3wa3Weotu81VcL3wGqxh7f"
+    }
+}

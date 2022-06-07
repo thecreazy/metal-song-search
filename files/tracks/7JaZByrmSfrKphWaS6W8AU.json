@@ -1,0 +1,216 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Leaving with twilight though I was chosen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To wander the way in the dakest of nights",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, in the summer sun how soon I came to stray",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A true damnation, when I turned away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So fell autumn rain, washed away all my pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel brighter somehow, lighter somehow to breathe once again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So fell autumn rain, washed my sorrows away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With the sunset behind somehow I find the dreams are to stay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So fell autumn rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blinded by dawning so you would take me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Further away, away from the fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, you told me I must never dream again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A true damnation, you left me the pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So fell autumn rain, but all things must pass",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So fell autumn rain, washed away all my pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel brighter somehow, lighter somehow to breathe once again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So fell autumn rain, washed my sorrows away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With the sunset behind somehow I find the dreams are to stay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So fell winter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1428757",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/13ltbymjg9upz4wOoF5TTs"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/13ltbymjg9upz4wOoF5TTs",
+                    "id": "13ltbymjg9upz4wOoF5TTs",
+                    "name": "Lake Of Tears",
+                    "type": "artist",
+                    "uri": "spotify:artist:13ltbymjg9upz4wOoF5TTs"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5lGGbH79R1xx0P6QfwXZlO"
+            },
+            "href": "https://api.spotify.com/v1/albums/5lGGbH79R1xx0P6QfwXZlO",
+            "id": "5lGGbH79R1xx0P6QfwXZlO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d6e36877a991e1e82546df77",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d6e36877a991e1e82546df77",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d6e36877a991e1e82546df77",
+                    "width": 64
+                }
+            ],
+            "name": "Forever Autumn",
+            "release_date": "1999-07-20",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:5lGGbH79R1xx0P6QfwXZlO"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/13ltbymjg9upz4wOoF5TTs"
+                },
+                "href": "https://api.spotify.com/v1/artists/13ltbymjg9upz4wOoF5TTs",
+                "id": "13ltbymjg9upz4wOoF5TTs",
+                "name": "Lake Of Tears",
+                "type": "artist",
+                "uri": "spotify:artist:13ltbymjg9upz4wOoF5TTs"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 322160,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "SEXHQ9900101"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7JaZByrmSfrKphWaS6W8AU"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7JaZByrmSfrKphWaS6W8AU",
+        "id": "7JaZByrmSfrKphWaS6W8AU",
+        "is_local": false,
+        "name": "So Fell Autumn Rain",
+        "popularity": 36,
+        "preview_url": "https://p.scdn.co/mp3-preview/1fa76c2ecf16801f211fb293a8c7e94b8e9a7ec0?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7JaZByrmSfrKphWaS6W8AU"
+    }
+}

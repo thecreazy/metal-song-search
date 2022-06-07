@@ -1,0 +1,226 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "It's alright to cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's alright to lean on everyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's alright to lie in the bed you've made for everyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And anytime you need someone,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anytime you heed someone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anytime you need me babe, I will be there.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's alright to die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's alright to bleed on everyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's alright this time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's all life, you learn from everyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With every single time you go",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...And every single line you blow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anytime you need it man, I won't be there",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Inside the picture of the huge, sterile black and white diner on a rainy Sunday afternoon in chinatown)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's all going away now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...All going away now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Going, going... gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Going, going... gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's alright to cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's alright to feed on everyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's alright to hide,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In your cozy bed from everyone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So if you ever you need it man,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Get inside and be it man...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anytime you call,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Suffer!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1430736",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6uejjWIOshliv2Ho0OJAQN",
+                    "id": "6uejjWIOshliv2Ho0OJAQN",
+                    "name": "Devin Townsend",
+                    "type": "artist",
+                    "uri": "spotify:artist:6uejjWIOshliv2Ho0OJAQN"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6w2kw48F3xyHLgY4GDwFRV"
+            },
+            "href": "https://api.spotify.com/v1/albums/6w2kw48F3xyHLgY4GDwFRV",
+            "id": "6w2kw48F3xyHLgY4GDwFRV",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27398bb355ab0e5833724b48288",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0298bb355ab0e5833724b48288",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485198bb355ab0e5833724b48288",
+                    "width": 64
+                }
+            ],
+            "name": "Terria",
+            "release_date": "2001-08-21",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:6w2kw48F3xyHLgY4GDwFRV"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+                },
+                "href": "https://api.spotify.com/v1/artists/6uejjWIOshliv2Ho0OJAQN",
+                "id": "6uejjWIOshliv2Ho0OJAQN",
+                "name": "Devin Townsend",
+                "type": "artist",
+                "uri": "spotify:artist:6uejjWIOshliv2Ho0OJAQN"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 454906,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBDHC0911804"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3u7TghtZRpducFZJyITANF"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3u7TghtZRpducFZJyITANF",
+        "id": "3u7TghtZRpducFZJyITANF",
+        "is_local": false,
+        "name": "Deep Peace",
+        "popularity": 25,
+        "preview_url": "https://p.scdn.co/mp3-preview/926d29032bac2eeb90710cfa3ced4b1c613f1271?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3u7TghtZRpducFZJyITANF"
+    }
+}

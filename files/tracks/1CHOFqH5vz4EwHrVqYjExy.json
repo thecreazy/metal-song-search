@@ -1,0 +1,181 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "One, two, three, four, Euthanasia OK",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kill 'em off if you can",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The gas is nice, but the needle's better,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Grandma.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh yeah Euthanasia OK,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All the way, Euthanasia.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come on oldies it's your momentous day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To be murdered in this way.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You could only life for 30 years more,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So what reason have you got to stay.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come into the chamber, it's really clean.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You won't catch any disease,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh Gran, we're not that mean.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forgive us but you will have to pay,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Riding on our backs 60 years of the way.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now close your eyes and hold your breath.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Open the gates, this is your final day.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1970595",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1MZ8NERIuOS610KBhr6yna",
+                    "id": "1MZ8NERIuOS610KBhr6yna",
+                    "name": "Tygers Of Pan Tang",
+                    "type": "artist",
+                    "uri": "spotify:artist:1MZ8NERIuOS610KBhr6yna"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6m8nWyfnSEkCIDbAQ8qMWH"
+            },
+            "href": "https://api.spotify.com/v1/albums/6m8nWyfnSEkCIDbAQ8qMWH",
+            "id": "6m8nWyfnSEkCIDbAQ8qMWH",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273daf8a0e9ad5758cc7cff62ab",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02daf8a0e9ad5758cc7cff62ab",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851daf8a0e9ad5758cc7cff62ab",
+                    "width": 64
+                }
+            ],
+            "name": "The MCA Years",
+            "release_date": "2017-05-19",
+            "release_date_precision": "day",
+            "total_tracks": 74,
+            "type": "album",
+            "uri": "spotify:album:6m8nWyfnSEkCIDbAQ8qMWH"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna"
+                },
+                "href": "https://api.spotify.com/v1/artists/1MZ8NERIuOS610KBhr6yna",
+                "id": "1MZ8NERIuOS610KBhr6yna",
+                "name": "Tygers Of Pan Tang",
+                "type": "artist",
+                "uri": "spotify:artist:1MZ8NERIuOS610KBhr6yna"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 226226,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USUM71616408"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1CHOFqH5vz4EwHrVqYjExy"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1CHOFqH5vz4EwHrVqYjExy",
+        "id": "1CHOFqH5vz4EwHrVqYjExy",
+        "is_local": false,
+        "name": "Euthanasia",
+        "popularity": 13,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1CHOFqH5vz4EwHrVqYjExy"
+    }
+}

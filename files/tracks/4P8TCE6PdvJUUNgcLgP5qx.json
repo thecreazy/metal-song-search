@@ -1,0 +1,201 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "The subjects of sleep",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their faces once awake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On sodomy and death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And smoke and laughter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their feet no longer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Underground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The snow hides the traces",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never set in a first place",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This negative kingdom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hey horrible and white",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The angels all stone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Passing their years",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hoping to be saved",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From oblivion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...by oblivion",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the miracle is that",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nothing has happened",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nothing has a history",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Or a name",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Only the voice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of falling snow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "980910",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0UGvFl1tJ49Co99gaXZH9Z"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0UGvFl1tJ49Co99gaXZH9Z",
+                    "id": "0UGvFl1tJ49Co99gaXZH9Z",
+                    "name": "Arcturus",
+                    "type": "artist",
+                    "uri": "spotify:artist:0UGvFl1tJ49Co99gaXZH9Z"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1KiEIlG1PyPkFekj1XcAiy"
+            },
+            "href": "https://api.spotify.com/v1/albums/1KiEIlG1PyPkFekj1XcAiy",
+            "id": "1KiEIlG1PyPkFekj1XcAiy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733709c691e86dffcf37ca22e1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023709c691e86dffcf37ca22e1",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513709c691e86dffcf37ca22e1",
+                    "width": 64
+                }
+            ],
+            "name": "The Sham Mirrors",
+            "release_date": "2002-04-22",
+            "release_date_precision": "day",
+            "total_tracks": 7,
+            "type": "album",
+            "uri": "spotify:album:1KiEIlG1PyPkFekj1XcAiy"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0UGvFl1tJ49Co99gaXZH9Z"
+                },
+                "href": "https://api.spotify.com/v1/artists/0UGvFl1tJ49Co99gaXZH9Z",
+                "id": "0UGvFl1tJ49Co99gaXZH9Z",
+                "name": "Arcturus",
+                "type": "artist",
+                "uri": "spotify:artist:0UGvFl1tJ49Co99gaXZH9Z"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 365853,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NOFVX0201020"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4P8TCE6PdvJUUNgcLgP5qx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4P8TCE6PdvJUUNgcLgP5qx",
+        "id": "4P8TCE6PdvJUUNgcLgP5qx",
+        "is_local": false,
+        "name": "Nightmare Heaven",
+        "popularity": 19,
+        "preview_url": "https://p.scdn.co/mp3-preview/594832030798f38c75c07b0a49912943458be15a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4P8TCE6PdvJUUNgcLgP5qx"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Hey you, come on!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll tell you something",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There is what it takes for you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mmh, you better follow me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gonna ease your pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ooh, you will remember me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That's it what they used to say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Seducing everybody for the money",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Slow down, back off",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tell him you don't pay the price",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He is a midnight mover",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Coming in the night, going with the light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He is a midnight mover",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He can't go on in the sunlight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You better use your brain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ooh, you are forever free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That's it, there's no place to stay",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For someone who is losing, it's not funny",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Slow down, back off",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tell him you don't pay the price",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He is a midnight mover",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Coming in the night, going with the light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He is a midnight mover",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Midnight mover, midnight mover)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He is a midnight mover",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Coming in the night, going with the light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He is a midnight mover",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He can't go on in the sunlight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He is a midnight mover",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Coming in the night, going with the light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He is a midnight mover",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He can't go on in the sunlight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Allright! Thank you, thank you so much",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "68210745",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3JDIAtVrJdQ7GFOX26LYpv",
+                    "id": "3JDIAtVrJdQ7GFOX26LYpv",
+                    "name": "Accept",
+                    "type": "artist",
+                    "uri": "spotify:artist:3JDIAtVrJdQ7GFOX26LYpv"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3aNoUWVxh05ahM2uHaEhKp"
+            },
+            "href": "https://api.spotify.com/v1/albums/3aNoUWVxh05ahM2uHaEhKp",
+            "id": "3aNoUWVxh05ahM2uHaEhKp",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ce182066116ba4cd8b0a9cfc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ce182066116ba4cd8b0a9cfc",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ce182066116ba4cd8b0a9cfc",
+                    "width": 64
+                }
+            ],
+            "name": "Metal Heart",
+            "release_date": "1985-05-24",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:3aNoUWVxh05ahM2uHaEhKp"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+                },
+                "href": "https://api.spotify.com/v1/artists/3JDIAtVrJdQ7GFOX26LYpv",
+                "id": "3JDIAtVrJdQ7GFOX26LYpv",
+                "name": "Accept",
+                "type": "artist",
+                "uri": "spotify:artist:3JDIAtVrJdQ7GFOX26LYpv"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 186493,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM18500741"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6fg7NZKoOH86nbtUzslrcQ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6fg7NZKoOH86nbtUzslrcQ",
+        "id": "6fg7NZKoOH86nbtUzslrcQ",
+        "is_local": false,
+        "name": "Midnight Mover",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/215dcdd441571a4e3a9ac1d0005e85771dc7ad8d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6fg7NZKoOH86nbtUzslrcQ"
+    }
+}

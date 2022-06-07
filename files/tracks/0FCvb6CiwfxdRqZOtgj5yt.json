@@ -1,0 +1,206 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Hello, how are you? Ready tonight?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm here to show you.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know your kind, I like you just fine,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anyway I choose.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hammerhead baby in plainsight, in lace and leather.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She wants me to feel just right,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wants to get together.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come on now lady, show me how you rock,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I wanna get to know you.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm hot, so give me what you've got,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My turn to go you.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Faster than the speed of light,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wham bam! I thank you, or...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All night pounding away, with more ways to please me.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Love for the taking, she talks with her eyes,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wants me to give her a ride.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spellbound she takes me way deep inside,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hammerhead baby tonight... Hold tight!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're all alone, my love has grown,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My time to show you.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're on your knees, you're ready to please,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give me the Hammer... Head.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "555753",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1ApBh0VSoxRjjT3kFQZrpz",
+                    "id": "1ApBh0VSoxRjjT3kFQZrpz",
+                    "name": "Flotsam & Jetsam",
+                    "type": "artist",
+                    "uri": "spotify:artist:1ApBh0VSoxRjjT3kFQZrpz"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1lXN7Nj1wGSQiPfGjCZHhf"
+            },
+            "href": "https://api.spotify.com/v1/albums/1lXN7Nj1wGSQiPfGjCZHhf",
+            "id": "1lXN7Nj1wGSQiPfGjCZHhf",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27387f90177d4152a09eee584a7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0287f90177d4152a09eee584a7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485187f90177d4152a09eee584a7",
+                    "width": 64
+                }
+            ],
+            "name": "Doomsday for the Deceiver",
+            "release_date": "1986",
+            "release_date_precision": "year",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:1lXN7Nj1wGSQiPfGjCZHhf"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz"
+                },
+                "href": "https://api.spotify.com/v1/artists/1ApBh0VSoxRjjT3kFQZrpz",
+                "id": "1ApBh0VSoxRjjT3kFQZrpz",
+                "name": "Flotsam & Jetsam",
+                "type": "artist",
+                "uri": "spotify:artist:1ApBh0VSoxRjjT3kFQZrpz"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 375400,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USMBR0400913"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0FCvb6CiwfxdRqZOtgj5yt"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0FCvb6CiwfxdRqZOtgj5yt",
+        "id": "0FCvb6CiwfxdRqZOtgj5yt",
+        "is_local": false,
+        "name": "Hammerhead",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/cc290e4b67da878c7d4832aec72a0fb02e093523?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:0FCvb6CiwfxdRqZOtgj5yt"
+    }
+}

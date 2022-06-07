@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Transilvanian Hunger... cold.soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your hands are cruel... to haunt.to haunt",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The mountains are cold... soul... soul...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Careful.pale... forever at Night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take me... can't you feel the Call",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Embrace Me Eternally in your daylight slumber",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To be Draped by the Shadow of your Morbid Palace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, Hate Living... The only heat is warm blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So Pure... So Cold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Transilvanian Hunger",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hail to the True, intense vampires",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A story made for Divine fulfillment",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To be the ones breathing a Wind of Sorrow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sorrow and fright the dearest catharsis",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beautiful Evil Self to be the Morbid Count",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A part of a Pact that is delightfully immortal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Feel the call freeze you with the uppermost desire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Transilvanian Hunger... my mountain is cold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So Pure... Evil, Cold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Transilvanian Hunger",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "20810784",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7kWnE981vITXDnAD2cZmCV",
+                    "id": "7kWnE981vITXDnAD2cZmCV",
+                    "name": "Darkthrone",
+                    "type": "artist",
+                    "uri": "spotify:artist:7kWnE981vITXDnAD2cZmCV"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4a4g7PAi7KRsCQykBFqE5E"
+            },
+            "href": "https://api.spotify.com/v1/albums/4a4g7PAi7KRsCQykBFqE5E",
+            "id": "4a4g7PAi7KRsCQykBFqE5E",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27314162dce63b77ff4d37a25d3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0214162dce63b77ff4d37a25d3",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485114162dce63b77ff4d37a25d3",
+                    "width": 64
+                }
+            ],
+            "name": "Transilvanian Hunger",
+            "release_date": "1994-02-17",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:4a4g7PAi7KRsCQykBFqE5E"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
+                },
+                "href": "https://api.spotify.com/v1/artists/7kWnE981vITXDnAD2cZmCV",
+                "id": "7kWnE981vITXDnAD2cZmCV",
+                "name": "Darkthrone",
+                "type": "artist",
+                "uri": "spotify:artist:7kWnE981vITXDnAD2cZmCV"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 369760,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "GBCQV9400015"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2JIRtFAIUkd86PQD12Hm7r"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2JIRtFAIUkd86PQD12Hm7r",
+        "id": "2JIRtFAIUkd86PQD12Hm7r",
+        "is_local": false,
+        "name": "Transilvanian Hunger - Studio",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/6b67ce7ffa21437bc56b9502735486d0363fb0c6?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2JIRtFAIUkd86PQD12Hm7r"
+    }
+}

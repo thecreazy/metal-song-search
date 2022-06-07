@@ -1,0 +1,186 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Total eclipse hides the Earth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The night of doom has come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Antichrist soldiers are proclaimed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To send souls to the Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Catastrophe, destruction",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mankind is slaughtered without mercy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sulfur clouds are in the air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Legion winds corrode the universe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Messiah, redeemer of mankind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chained in the valley of Hades",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Crowds blinded by evil",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Only death is real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The nuclear war announces the end of the world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The mankind is buried and forgotten",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Prophets foresee the doom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They foresee the triumph of your death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "307681",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6JW8wliOEwaDZ231ZY7cf4",
+                    "id": "6JW8wliOEwaDZ231ZY7cf4",
+                    "name": "Sepultura",
+                    "type": "artist",
+                    "uri": "spotify:artist:6JW8wliOEwaDZ231ZY7cf4"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6HKTApHHNPs9EmWrbPWnRl"
+            },
+            "href": "https://api.spotify.com/v1/albums/6HKTApHHNPs9EmWrbPWnRl",
+            "id": "6HKTApHHNPs9EmWrbPWnRl",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738efc95b1d1e04e06d6ff25e9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028efc95b1d1e04e06d6ff25e9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518efc95b1d1e04e06d6ff25e9",
+                    "width": 64
+                }
+            ],
+            "name": "Schizophrenia",
+            "release_date": "1987-10-30",
+            "release_date_precision": "day",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:6HKTApHHNPs9EmWrbPWnRl"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+                },
+                "href": "https://api.spotify.com/v1/artists/6JW8wliOEwaDZ231ZY7cf4",
+                "id": "6JW8wliOEwaDZ231ZY7cf4",
+                "name": "Sepultura",
+                "type": "artist",
+                "uri": "spotify:artist:6JW8wliOEwaDZ231ZY7cf4"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 199706,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NLA329780621"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1T5AxPlIqzg1TSgj1DRpML"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1T5AxPlIqzg1TSgj1DRpML",
+        "id": "1T5AxPlIqzg1TSgj1DRpML",
+        "is_local": false,
+        "name": "Troops of Doom",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/4b9a60d5096c5342321dd563995c575806a9e29d?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:1T5AxPlIqzg1TSgj1DRpML"
+    }
+}

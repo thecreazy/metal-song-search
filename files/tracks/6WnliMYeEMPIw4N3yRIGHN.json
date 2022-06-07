@@ -1,0 +1,181 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Ride against the wind shameless killer in the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rape another village before the break of light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Trample down the ashes grind them with your hate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take another heplpess life before it's too late",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Chorus:)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death rider you've taken the earth by storm",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Death rider out of sin and hatred you were born",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We all know the reason you haven't any soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "None can fight your power the key to hell you stole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Upon a flaming steed you ride sickle tight in hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In darkness you were born in darkness you make your stand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Chorus)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ride against the wind shameless killer in the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rape another village before the break of light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Trample down the ashes grind them with your hate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take another helpless life before it's too late",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Chorus)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "552494",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/31SU1GkApYNa5jdS0S5XIr"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/31SU1GkApYNa5jdS0S5XIr",
+                    "id": "31SU1GkApYNa5jdS0S5XIr",
+                    "name": "Omen",
+                    "type": "artist",
+                    "uri": "spotify:artist:31SU1GkApYNa5jdS0S5XIr"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7MSYL2jfE6XXdVpTv2SUux"
+            },
+            "href": "https://api.spotify.com/v1/albums/7MSYL2jfE6XXdVpTv2SUux",
+            "id": "7MSYL2jfE6XXdVpTv2SUux",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27326285bfb4c865d8791552afe",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0226285bfb4c865d8791552afe",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485126285bfb4c865d8791552afe",
+                    "width": 64
+                }
+            ],
+            "name": "Battle Cry",
+            "release_date": "1984",
+            "release_date_precision": "year",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:7MSYL2jfE6XXdVpTv2SUux"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/31SU1GkApYNa5jdS0S5XIr"
+                },
+                "href": "https://api.spotify.com/v1/artists/31SU1GkApYNa5jdS0S5XIr",
+                "id": "31SU1GkApYNa5jdS0S5XIr",
+                "name": "Omen",
+                "type": "artist",
+                "uri": "spotify:artist:31SU1GkApYNa5jdS0S5XIr"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 209453,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USMBR0401137"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6WnliMYeEMPIw4N3yRIGHN"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6WnliMYeEMPIw4N3yRIGHN",
+        "id": "6WnliMYeEMPIw4N3yRIGHN",
+        "is_local": false,
+        "name": "Death Rider",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/d8ae25131dba73f751264a10dfb4b0b7edad0229?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6WnliMYeEMPIw4N3yRIGHN"
+    }
+}

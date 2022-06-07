@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Sitting here wonderin' 'bout things",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That only the Lord knows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tryin' to feel all the pain you have inside",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Misery shows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It doesn't matter how hard you try",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It still shows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Please take his hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The time has come to learn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Please take my hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me take you to learn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I just want to show you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That you don't have to run anymore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can show you your life has just begun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So many people trying to be free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like the way it's meant to be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But our lives are filled with pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Pain and misery",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm so sorry it ended up this way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Soon the sun will shine on me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Please take his hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The time has come to learn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Please take my hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me take you to learn",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I just want to take you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To places you haven't been before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I can take you will you let me in",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "555366",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0eayuW5zGMgvXCEmcP7ivq"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0eayuW5zGMgvXCEmcP7ivq",
+                    "id": "0eayuW5zGMgvXCEmcP7ivq",
+                    "name": "Trouble",
+                    "type": "artist",
+                    "uri": "spotify:artist:0eayuW5zGMgvXCEmcP7ivq"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1mfLBLvPXHOls6L0RAige5"
+            },
+            "href": "https://api.spotify.com/v1/albums/1mfLBLvPXHOls6L0RAige5",
+            "id": "1mfLBLvPXHOls6L0RAige5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273319a59b8aff7b23060d80fc2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02319a59b8aff7b23060d80fc2",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851319a59b8aff7b23060d80fc2",
+                    "width": 64
+                }
+            ],
+            "name": "Trouble",
+            "release_date": "1990-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:1mfLBLvPXHOls6L0RAige5"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0eayuW5zGMgvXCEmcP7ivq"
+                },
+                "href": "https://api.spotify.com/v1/artists/0eayuW5zGMgvXCEmcP7ivq",
+                "id": "0eayuW5zGMgvXCEmcP7ivq",
+                "name": "Trouble",
+                "type": "artist",
+                "uri": "spotify:artist:0eayuW5zGMgvXCEmcP7ivq"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 440533,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM19918949"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2djGOotLWciu9Px2LnR0Ae"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2djGOotLWciu9Px2LnR0Ae",
+        "id": "2djGOotLWciu9Px2LnR0Ae",
+        "is_local": false,
+        "name": "The Misery Shows (Act 2)",
+        "popularity": 15,
+        "preview_url": null,
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:2djGOotLWciu9Px2LnR0Ae"
+    }
+}

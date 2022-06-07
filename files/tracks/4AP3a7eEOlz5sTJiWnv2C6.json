@@ -1,0 +1,206 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Everything here is so cold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Everything here is so dark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I remember it as from a dream",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the corner of this time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Diabolic Shapes float by",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Out from the dark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I remember it was here I died",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "By following the freezing moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's night again, night you beautiful",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I please my hunger on living humans",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Night of hunger, follow it's call",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Follow the freezing moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Darkness is growing, the eternity opens",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The cemetary lights up again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As in ancient times",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fallen souls, die behind my steps",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "By following the freezing moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1624505",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0dR10i73opHXuRuLbgxltM",
+                    "id": "0dR10i73opHXuRuLbgxltM",
+                    "name": "Mayhem",
+                    "type": "artist",
+                    "uri": "spotify:artist:0dR10i73opHXuRuLbgxltM"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE"
+            },
+            "href": "https://api.spotify.com/v1/albums/7mHVfSXtdzvPk7TkdhoekE",
+            "id": "7mHVfSXtdzvPk7TkdhoekE",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732b58dcaa52f824711a95ab1b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022b58dcaa52f824711a95ab1b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512b58dcaa52f824711a95ab1b",
+                    "width": 64
+                }
+            ],
+            "name": "De Mysteriis Dom Sathanas",
+            "release_date": "1994",
+            "release_date_precision": "year",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:7mHVfSXtdzvPk7TkdhoekE"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM"
+                },
+                "href": "https://api.spotify.com/v1/artists/0dR10i73opHXuRuLbgxltM",
+                "id": "0dR10i73opHXuRuLbgxltM",
+                "name": "Mayhem",
+                "type": "artist",
+                "uri": "spotify:artist:0dR10i73opHXuRuLbgxltM"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 383053,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NOFVD9406020"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4AP3a7eEOlz5sTJiWnv2C6"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4AP3a7eEOlz5sTJiWnv2C6",
+        "id": "4AP3a7eEOlz5sTJiWnv2C6",
+        "is_local": false,
+        "name": "Freezing Moon",
+        "popularity": 53,
+        "preview_url": "https://p.scdn.co/mp3-preview/e191464008685582d91fb4a3a33d064021beb96b?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4AP3a7eEOlz5sTJiWnv2C6"
+    }
+}

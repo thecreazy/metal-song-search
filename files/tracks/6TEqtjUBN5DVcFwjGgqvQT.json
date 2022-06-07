@@ -1,0 +1,216 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Alone I sit, I wonder why",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You dream of love and so do I",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But in your sleep you cannot see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This pain which is always haunting me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "What I need I'll never feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This world is for me unreal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So I drink to darkness with a candle lit",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And throught the whole night alone I sit",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Sleeping Beauty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She stops the bleeding",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She stops the bledding in my soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She is fresh air in this stinking world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The more I drink, the more I see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That suicide could be the key",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To the place called paradise",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Where pain not dwells, not hate nor lies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But if I look beyond all this",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I reckon something I would surely miss",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Because in my dream I rule my life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the sleeping beauty is my wife",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The Sleeping Beauty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She stops the bleeding",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She stops the bleeding in my dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She is fresh air in this stinking world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "309371",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5SwHKKNKYToC1YzWVNWAIN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5SwHKKNKYToC1YzWVNWAIN",
+                    "id": "5SwHKKNKYToC1YzWVNWAIN",
+                    "name": "Tiamat",
+                    "type": "artist",
+                    "uri": "spotify:artist:5SwHKKNKYToC1YzWVNWAIN"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0bgaKHMjQqTrQ0oSopxy93"
+            },
+            "href": "https://api.spotify.com/v1/albums/0bgaKHMjQqTrQ0oSopxy93",
+            "id": "0bgaKHMjQqTrQ0oSopxy93",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c7daced538b5a6ae4070a894",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c7daced538b5a6ae4070a894",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c7daced538b5a6ae4070a894",
+                    "width": 64
+                }
+            ],
+            "name": "The Musical History of Tiamat",
+            "release_date": "1990",
+            "release_date_precision": "year",
+            "total_tracks": 23,
+            "type": "album",
+            "uri": "spotify:album:0bgaKHMjQqTrQ0oSopxy93"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5SwHKKNKYToC1YzWVNWAIN"
+                },
+                "href": "https://api.spotify.com/v1/artists/5SwHKKNKYToC1YzWVNWAIN",
+                "id": "5SwHKKNKYToC1YzWVNWAIN",
+                "name": "Tiamat",
+                "type": "artist",
+                "uri": "spotify:artist:5SwHKKNKYToC1YzWVNWAIN"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 252040,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40473605"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6TEqtjUBN5DVcFwjGgqvQT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6TEqtjUBN5DVcFwjGgqvQT",
+        "id": "6TEqtjUBN5DVcFwjGgqvQT",
+        "is_local": false,
+        "name": "The Sleeping Beauty",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/1500ec80dc8f2d89101c176f54b79caa0c779fa0?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:6TEqtjUBN5DVcFwjGgqvQT"
+    }
+}

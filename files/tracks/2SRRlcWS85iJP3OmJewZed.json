@@ -1,0 +1,266 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Shut up, I've heard enough",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Daddy's boy, a well-dressed clown",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Why don't you kill yourself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The stock market just went down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've been much too passive much too long",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Looked the other way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When something was wrong",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beg to differ, hate to disagree",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But you stink fat hypocrisy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So quietly, I refuse to hum along",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't believe in your philosophy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Materialistic rivalry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So quietly, I refuse to hum along",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I refuse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sure thing, you got a groovy car",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The leather seats are so sublime",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let me set you free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll wreck it for you anytime",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Raise your middle fingers in the air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Screw your cell-phones",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Show me that you care",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Beg to differ, hate to disagree",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But you stink fat hypocrisy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So quietly, I refuse to hum along",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't believe in your philosophy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Materialistic rivalry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So quietly, I refuse to hum along",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I refuse",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your blind belief in new technology",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your way of life don't mean shit to me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quietly, I refuse to hum along",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A fancy suit is happiness to you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The symbolism of a polished shoe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Quietly, I refuse to hum along",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2091469",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0HtEZODdzPzZhdehDcF3fX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0HtEZODdzPzZhdehDcF3fX",
+                    "id": "0HtEZODdzPzZhdehDcF3fX",
+                    "name": "Freak Kitchen",
+                    "type": "artist",
+                    "uri": "spotify:artist:0HtEZODdzPzZhdehDcF3fX"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7mazY99SGeJN84OuqyEBy7"
+            },
+            "href": "https://api.spotify.com/v1/albums/7mazY99SGeJN84OuqyEBy7",
+            "id": "7mazY99SGeJN84OuqyEBy7",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c7ff19a8c250660198e4db50",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c7ff19a8c250660198e4db50",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c7ff19a8c250660198e4db50",
+                    "width": 64
+                }
+            ],
+            "name": "Dead Soul Men",
+            "release_date": "2000-02-02",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:7mazY99SGeJN84OuqyEBy7"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0HtEZODdzPzZhdehDcF3fX"
+                },
+                "href": "https://api.spotify.com/v1/artists/0HtEZODdzPzZhdehDcF3fX",
+                "id": "0HtEZODdzPzZhdehDcF3fX",
+                "name": "Freak Kitchen",
+                "type": "artist",
+                "uri": "spotify:artist:0HtEZODdzPzZhdehDcF3fX"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 259279,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DKK3A0000108"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2SRRlcWS85iJP3OmJewZed"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2SRRlcWS85iJP3OmJewZed",
+        "id": "2SRRlcWS85iJP3OmJewZed",
+        "is_local": false,
+        "name": "I Refuse",
+        "popularity": 6,
+        "preview_url": "https://p.scdn.co/mp3-preview/f05e434d522bc7358328298581a4af2e88378d9e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:2SRRlcWS85iJP3OmJewZed"
+    }
+}

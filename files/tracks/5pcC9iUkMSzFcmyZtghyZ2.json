@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I think about closing the door",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And lately I think of it more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm living well out of my time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel like I'm losing my mind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I should be at the table round",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A servant of the crown",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The keeper of the sign",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To sparkle and to shine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never, no, never again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Listen to me and believe what I say if you can",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Never, this is the end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know I've seen the faces of doom and I'm only a man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Help me, tell me I'm sane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel a change in the earth, in the wind and the rain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Save me, oh take me away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know I've seen some visions from hell and I've heard what they say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've got to be strong",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh I'm falling off the edge of the world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Think you're safe but you're wrong",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are falling off the edge of the world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look out, there's danger, nowhere to run",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It seems like desperate measures but sometimes it's got to be done",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Over, it's over at last",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And the message inside as we build a new life from the past",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're falling off the edge of the world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yes, the edge of the world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's the end of the world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "212149",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                    "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                    "name": "Black Sabbath",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2iaECLD2YLSEOkSfi7BRaC"
+            },
+            "href": "https://api.spotify.com/v1/albums/2iaECLD2YLSEOkSfi7BRaC",
+            "id": "2iaECLD2YLSEOkSfi7BRaC",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b309292845a47f6f30405016",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b309292845a47f6f30405016",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b309292845a47f6f30405016",
+                    "width": 64
+                }
+            ],
+            "name": "Mob Rules",
+            "release_date": "1981-11-04",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:2iaECLD2YLSEOkSfi7BRaC"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                "name": "Black Sabbath",
+                "type": "artist",
+                "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 303533,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBUM70900388"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5pcC9iUkMSzFcmyZtghyZ2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5pcC9iUkMSzFcmyZtghyZ2",
+        "id": "5pcC9iUkMSzFcmyZtghyZ2",
+        "is_local": false,
+        "name": "Falling Off the Edge of the World - 2009 Remaster",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/4f6b116b9991d873aa68e068f2d1dd633d97bef1?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 8,
+        "type": "track",
+        "uri": "spotify:track:5pcC9iUkMSzFcmyZtghyZ2"
+    }
+}

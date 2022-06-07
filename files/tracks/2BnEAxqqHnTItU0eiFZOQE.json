@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "A streak of lightning is shooting through the air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Electric sun lights the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "His face is frightening, so evil ones beware",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Men of disaster hear his cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And now at last we know he's real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The power of his sword we feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thundersteel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thundersteel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The earth it rumbles, death is in the air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The city crumbles, death is everywhere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And from the burning sky we see the soldier fly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He mounts his horse of steel and now he rides",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And now at last we know he's real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The power of his word we feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thundersteel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thundersteel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A streak of lightning is shooting through the air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Electric sun lights the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "His face is frightening, so evil ones beware",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Men of disaster hear his cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And now at last we know he's real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The power of his sword we feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thundersteel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thundersteel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thundersteel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "47630003",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "compilation",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                    "id": "0LyfQWJT6nXafLPZqxe9Of",
+                    "name": "Various Artists",
+                    "type": "artist",
+                    "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0bMdGqivmc0orRqcsOqCHu"
+            },
+            "href": "https://api.spotify.com/v1/albums/0bMdGqivmc0orRqcsOqCHu",
+            "id": "0bMdGqivmc0orRqcsOqCHu",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27399e2b1c792081a20e53e0c8b",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0299e2b1c792081a20e53e0c8b",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485199e2b1c792081a20e53e0c8b",
+                    "width": 64
+                }
+            ],
+            "name": "Pure... Metal",
+            "release_date": "2014-09-01",
+            "release_date_precision": "day",
+            "total_tracks": 61,
+            "type": "album",
+            "uri": "spotify:album:0bMdGqivmc0orRqcsOqCHu"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR"
+                },
+                "href": "https://api.spotify.com/v1/artists/2TTfkn3oA5dSvqmvVxjUxR",
+                "id": "2TTfkn3oA5dSvqmvVxjUxR",
+                "name": "Riot",
+                "type": "artist",
+                "uri": "spotify:artist:2TTfkn3oA5dSvqmvVxjUxR"
+            }
+        ],
+        "disc_number": 2,
+        "duration_ms": 230066,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM18700524"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2BnEAxqqHnTItU0eiFZOQE"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2BnEAxqqHnTItU0eiFZOQE",
+        "id": "2BnEAxqqHnTItU0eiFZOQE",
+        "is_local": false,
+        "name": "Thundersteel",
+        "popularity": 16,
+        "preview_url": "https://p.scdn.co/mp3-preview/eb399f1756d05b70b250ac56fab8ec3151f0ad6a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:2BnEAxqqHnTItU0eiFZOQE"
+    }
+}

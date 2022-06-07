@@ -1,0 +1,301 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I've waited too many times",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's got to be now, It's got to be right",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All night I've studied the signs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's got to be now, It's flight or fight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't back out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too much at stake I gotta get through",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No mistake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now is the time and I know what to do",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They ain't gonna take me away, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm gonna break, break the chain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They ain't gonna take me away, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm gonna break, break the chain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On the wire day after day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "See the difference I just can't believe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The grass is greener that's what they say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I know that it's true and I gotta leave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Inch by inch",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cutting through see the light of day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No mistake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now is the time and I know what to do",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They ain't gonna take me away, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm gonna break, break the chain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They ain't gonna take me away, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm gonna break, break the chain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cut the cable see the light of day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cut it higher I'll be on my way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't back out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Too much at stake I gotta get through",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No mistake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now is the time and I know what to do",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They ain't gonna take me away, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm gonna break, break the chain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They ain't gonna take me away, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm gonna break",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They ain't gonna take me away, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm gonna break, break the chain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They ain't gonna take me away, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm gonna break, break",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They ain't gonna take me away, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Break, break the chain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Break, break the chain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Break, break the chain",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "582794",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1EH9eSje47IiRyVsq3gfkl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1EH9eSje47IiRyVsq3gfkl",
+                    "id": "1EH9eSje47IiRyVsq3gfkl",
+                    "name": "Raven",
+                    "type": "artist",
+                    "uri": "spotify:artist:1EH9eSje47IiRyVsq3gfkl"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4dAPuRZ5gGqWHvW5Si91zy"
+            },
+            "href": "https://api.spotify.com/v1/albums/4dAPuRZ5gGqWHvW5Si91zy",
+            "id": "4dAPuRZ5gGqWHvW5Si91zy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27331af24b8ebbe7a420f601913",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0231af24b8ebbe7a420f601913",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485131af24b8ebbe7a420f601913",
+                    "width": 64
+                }
+            ],
+            "name": "All for One (Bonus Track Edition)",
+            "release_date": "1983-08-01",
+            "release_date_precision": "day",
+            "total_tracks": 15,
+            "type": "album",
+            "uri": "spotify:album:4dAPuRZ5gGqWHvW5Si91zy"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1EH9eSje47IiRyVsq3gfkl"
+                },
+                "href": "https://api.spotify.com/v1/artists/1EH9eSje47IiRyVsq3gfkl",
+                "id": "1EH9eSje47IiRyVsq3gfkl",
+                "name": "Raven",
+                "type": "artist",
+                "uri": "spotify:artist:1EH9eSje47IiRyVsq3gfkl"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 224840,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE8300042"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/47rBQDM4VD68i1evrBSFgx"
+        },
+        "href": "https://api.spotify.com/v1/tracks/47rBQDM4VD68i1evrBSFgx",
+        "id": "47rBQDM4VD68i1evrBSFgx",
+        "is_local": false,
+        "name": "Break the Chain",
+        "popularity": 17,
+        "preview_url": "https://p.scdn.co/mp3-preview/bc584c729a1b366b6904805db8badf854feca1ff?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:47rBQDM4VD68i1evrBSFgx"
+    }
+}

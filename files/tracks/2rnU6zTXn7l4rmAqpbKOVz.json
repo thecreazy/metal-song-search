@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Riding through the blackfires of endless time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The icy dawn lifts with an horizon like",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nordens on fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Still peace breathes throughout the realm...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This ride will be the one...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The morning sun gleam upon these",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Peaceful plains...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Far beyond the realms of fire and ice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The legions marches on...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now blow the mighty horns of war",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fly throughout the sky... set fire to the land",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fly throughout the sky... Sons of Northern Darkness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Anger rideth with the one that knows no fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who's eyes like fire - who's hearts like ice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spirits rideth with the ones that knows no fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They are the Sons of northern darkness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wisdom rideth with the ones that knows no fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As old as the northern wind blow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blow over grim moors...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Gathered we all storm the land...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The sound of triumph in the air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The legions marches on...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now hear the mighty battleblasts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fly throughout the sky... set fire to the land",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fly throughout the sky... Sons of northern darkness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1383657",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2mVTkiwfm4ic6DnHpmFq8K",
+                    "id": "2mVTkiwfm4ic6DnHpmFq8K",
+                    "name": "Immortal",
+                    "type": "artist",
+                    "uri": "spotify:artist:2mVTkiwfm4ic6DnHpmFq8K"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2CdmVpeV91e5nfN1kJ6hGj"
+            },
+            "href": "https://api.spotify.com/v1/albums/2CdmVpeV91e5nfN1kJ6hGj",
+            "id": "2CdmVpeV91e5nfN1kJ6hGj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734f10062a729138451ae03138",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024f10062a729138451ae03138",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514f10062a729138451ae03138",
+                    "width": 64
+                }
+            ],
+            "name": "Sons of Northern Darkness",
+            "release_date": "2002-02-04",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:2CdmVpeV91e5nfN1kJ6hGj"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+                },
+                "href": "https://api.spotify.com/v1/artists/2mVTkiwfm4ic6DnHpmFq8K",
+                "id": "2mVTkiwfm4ic6DnHpmFq8K",
+                "name": "Immortal",
+                "type": "artist",
+                "uri": "spotify:artist:2mVTkiwfm4ic6DnHpmFq8K"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 285280,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED830101382"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2rnU6zTXn7l4rmAqpbKOVz"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2rnU6zTXn7l4rmAqpbKOVz",
+        "id": "2rnU6zTXn7l4rmAqpbKOVz",
+        "is_local": false,
+        "name": "Sons of Northern Darkness",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/36e866599015958219c29db984e6631f8d5f0ce8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2rnU6zTXn7l4rmAqpbKOVz"
+    }
+}

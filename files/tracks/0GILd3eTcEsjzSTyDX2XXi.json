@@ -1,0 +1,261 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I told you once but I will say it again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When you live the flesh it's the beginning of the end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It will take you in, it will spit you out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Behold the flesh and the power it holds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Passion is a poison laced with pleasure bitter sweet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One of many faces that hides deep beneath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It will take you in, it will spit you out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Behold the flesh and the power it holds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Touch, taste, breathe, consumed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deja vu, already knew from the first encounter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But now I know to let go of words to speak no more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a wind upon your face you can't see it but you know it's there",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When beauty shows its ugly face, just be prepared",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Passion burns like fire carried by the wind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The end of a time, a time to begin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It will take you in, it will spit you out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Behold the flesh and the power it holds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's build you up one way and tears you right back down",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A time to begin the end of a time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It will take you in, it will spit you out",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Behold the flesh and the power it holds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Touch, taste, breathe, consumed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deja vu, already knew from the first encounter",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But now I know to let go of words to speak no more",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Like a wind upon your face you can't see it but you know it's there",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When beauty shows its ugly face, just be prepared",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "50474504",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4f5V3PQ66nIrBCqugJtaGn",
+                    "id": "4f5V3PQ66nIrBCqugJtaGn",
+                    "name": "Death",
+                    "type": "artist",
+                    "uri": "spotify:artist:4f5V3PQ66nIrBCqugJtaGn"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB"
+            },
+            "href": "https://api.spotify.com/v1/albums/0p6DxsQOhQ5qiBnUu9G1PB",
+            "id": "0p6DxsQOhQ5qiBnUu9G1PB",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27391fcdc499f2dbfbcd7e58b59",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0291fcdc499f2dbfbcd7e58b59",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485191fcdc499f2dbfbcd7e58b59",
+                    "width": 64
+                }
+            ],
+            "name": "The Sound of Perseverance - Reissue",
+            "release_date": "1998",
+            "release_date_precision": "year",
+            "total_tracks": 19,
+            "type": "album",
+            "uri": "spotify:album:0p6DxsQOhQ5qiBnUu9G1PB"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+                },
+                "href": "https://api.spotify.com/v1/artists/4f5V3PQ66nIrBCqugJtaGn",
+                "id": "4f5V3PQ66nIrBCqugJtaGn",
+                "name": "Death",
+                "type": "artist",
+                "uri": "spotify:artist:4f5V3PQ66nIrBCqugJtaGn"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 506813,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US2641115405"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/0GILd3eTcEsjzSTyDX2XXi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/0GILd3eTcEsjzSTyDX2XXi",
+        "id": "0GILd3eTcEsjzSTyDX2XXi",
+        "is_local": false,
+        "name": "Flesh and the Power It Holds",
+        "popularity": 46,
+        "preview_url": "https://p.scdn.co/mp3-preview/f3a448bccb7b8ee3442524915bb8593a85cb5d3a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 5,
+        "type": "track",
+        "uri": "spotify:track:0GILd3eTcEsjzSTyDX2XXi"
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Blind me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Erase what was",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stillborn I have become",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The feelings I once felt are now dead and gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've waited here for you for so very long",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So empty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just a shell of a man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stillborn, this I understand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The feelings I once felt are now dead and gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've waited here for you for so very long",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've been waiting here for you, for so long",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've waited here for you, for you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The feelings I once felt are now dead and gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've waited here for you for so very long",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've been waiting here for you, for so long",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've been waiting here for you, for so long",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've been waiting here for you, for so long",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've waited here for you, for you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1597464",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0zfT626RwO6zN3RDYeRit5",
+                    "id": "0zfT626RwO6zN3RDYeRit5",
+                    "name": "Black Label Society",
+                    "type": "artist",
+                    "uri": "spotify:artist:0zfT626RwO6zN3RDYeRit5"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2AO7lfXXz1nHfCJiETaxHo"
+            },
+            "href": "https://api.spotify.com/v1/albums/2AO7lfXXz1nHfCJiETaxHo",
+            "id": "2AO7lfXXz1nHfCJiETaxHo",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f99e29660d585bfcfa75346a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f99e29660d585bfcfa75346a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f99e29660d585bfcfa75346a",
+                    "width": 64
+                }
+            ],
+            "name": "The Blessed Hellride",
+            "release_date": "2003-04-22",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:2AO7lfXXz1nHfCJiETaxHo"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+                },
+                "href": "https://api.spotify.com/v1/artists/0zfT626RwO6zN3RDYeRit5",
+                "id": "0zfT626RwO6zN3RDYeRit5",
+                "name": "Black Label Society",
+                "type": "artist",
+                "uri": "spotify:artist:0zfT626RwO6zN3RDYeRit5"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 196040,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCBR0300034"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3tS1VMpxp9bLn46Cyh09el"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3tS1VMpxp9bLn46Cyh09el",
+        "id": "3tS1VMpxp9bLn46Cyh09el",
+        "is_local": false,
+        "name": "Stillborn",
+        "popularity": 66,
+        "preview_url": "https://p.scdn.co/mp3-preview/2ad80512322a52d9d93e9d8cb90537931460d767?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:3tS1VMpxp9bLn46Cyh09el"
+    }
+}

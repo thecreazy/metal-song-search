@@ -1,0 +1,276 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "C'mon yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've been looking so long for you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now you won't get away from my grasp",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've been living so long in hiding",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In hiding behind that false mask",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you know and I know that",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You ain't got long now to last",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your looks and your feelings",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are just the remains of your past",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're standing in the wings",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There you wait for the curtain to fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Knowing the terror and holding",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You have on us all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yeah, I know that you're gonna",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scratch me and maim me and maul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know I'm helpless",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From your mesmerizing cat call",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Keep your distance, walk away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't take his bait",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't you stray",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't fade away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Watch your step, he's out to get you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come what may",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't you stray",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From the narrow way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm running and hiding in my dreams",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're always there",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're the phantom of the opera",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're the devil, you're just out to scare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You damaged my mind and my soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It just floats through the air",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You haunt me, you taunt me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You torture me back at your lair",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "89575667",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6mdiAmATAx73kdxrNrnlao",
+                    "id": "6mdiAmATAx73kdxrNrnlao",
+                    "name": "Iron Maiden",
+                    "type": "artist",
+                    "uri": "spotify:artist:6mdiAmATAx73kdxrNrnlao"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+            },
+            "href": "https://api.spotify.com/v1/albums/3DNeMApEMCo4IDXNMYnlFi",
+            "id": "3DNeMApEMCo4IDXNMYnlFi",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736ac3ed972e1c181cd2ee8d55",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026ac3ed972e1c181cd2ee8d55",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516ac3ed972e1c181cd2ee8d55",
+                    "width": 64
+                }
+            ],
+            "name": "Iron Maiden (2015 Remaster)",
+            "release_date": "1980",
+            "release_date_precision": "year",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:3DNeMApEMCo4IDXNMYnlFi"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+                },
+                "href": "https://api.spotify.com/v1/artists/6mdiAmATAx73kdxrNrnlao",
+                "id": "6mdiAmATAx73kdxrNrnlao",
+                "name": "Iron Maiden",
+                "type": "artist",
+                "uri": "spotify:artist:6mdiAmATAx73kdxrNrnlao"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 441466,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBCHB1800005"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/14H2fE4WEdkEem0kjVeODT"
+        },
+        "href": "https://api.spotify.com/v1/tracks/14H2fE4WEdkEem0kjVeODT",
+        "id": "14H2fE4WEdkEem0kjVeODT",
+        "is_local": false,
+        "name": "Phantom of the Opera - 2015 Remaster",
+        "popularity": 57,
+        "preview_url": "https://p.scdn.co/mp3-preview/4fc9184aeda820db77b9d4b84cef647152d773fb?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:14H2fE4WEdkEem0kjVeODT"
+    }
+}

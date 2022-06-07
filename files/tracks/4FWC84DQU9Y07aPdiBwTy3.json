@@ -1,0 +1,181 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "A sword of fire and an axe of coal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vision of the sibyl has foretold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Armies gather on the battle-plain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All will fall and Earth will die in flames",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Here on the Battle-Plain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We will die in flames",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In Falcon's feathers soaring overhead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Choosing warriors among the dead",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Twilight written in the runes of crones",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Freya weeps upon her golden throne",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Upon her golden throne",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We wait for her alone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Call us unto your hall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Take us into your thrall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The battle rages, but they fight in vain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When all is done it must begin again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "8229705",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0q32a3GRCjDxS4EIrC7YVY",
+                    "id": "0q32a3GRCjDxS4EIrC7YVY",
+                    "name": "The Sword",
+                    "type": "artist",
+                    "uri": "spotify:artist:0q32a3GRCjDxS4EIrC7YVY"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O"
+            },
+            "href": "https://api.spotify.com/v1/albums/7khpp22Tu504KBWWEKNB6O",
+            "id": "7khpp22Tu504KBWWEKNB6O",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735db2eaf3233d5a6e84838aae",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025db2eaf3233d5a6e84838aae",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515db2eaf3233d5a6e84838aae",
+                    "width": 64
+                }
+            ],
+            "name": "Age of Winters",
+            "release_date": "2006",
+            "release_date_precision": "year",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:7khpp22Tu504KBWWEKNB6O"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+                },
+                "href": "https://api.spotify.com/v1/artists/0q32a3GRCjDxS4EIrC7YVY",
+                "id": "0q32a3GRCjDxS4EIrC7YVY",
+                "name": "The Sword",
+                "type": "artist",
+                "uri": "spotify:artist:0q32a3GRCjDxS4EIrC7YVY"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 274400,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USKDO0600003"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4FWC84DQU9Y07aPdiBwTy3",
+        "id": "4FWC84DQU9Y07aPdiBwTy3",
+        "is_local": false,
+        "name": "Freya",
+        "popularity": 44,
+        "preview_url": "https://p.scdn.co/mp3-preview/3de622ad66a054551358cf6f263ed252064531c8?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:4FWC84DQU9Y07aPdiBwTy3"
+    }
+}

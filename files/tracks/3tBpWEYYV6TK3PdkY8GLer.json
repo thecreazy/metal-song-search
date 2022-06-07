@@ -1,0 +1,216 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I'm looking through a hole in the sky",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm seeing nowhere through the eyes of a lie",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm getting closer to the end of the line",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm living easy where the sun doesn't shine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm living in a room without any view",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm living free because the rent's never due",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The synonyms of all the things that I've said",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Are just the riddles that are built in my head",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hole in the sky, gateway to heaven",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Window in time, through it I fly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've seen the stars disappear in the sun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The shooting's easy if you've got the right gun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And even though I'm sitting waiting for Mars",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I don't believe there's any future in cars",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hole in the sky, gateway to heaven",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Window in time, through it I fly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yeah!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've watched the dogs of war enjoying their feast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've seen the western world go down in the east",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The food of love became the greed of our time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But now I'm living on the profits of crime",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "212177",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                    "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                    "name": "Black Sabbath",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2hurj4babJXt1cIxmYFqqo"
+            },
+            "href": "https://api.spotify.com/v1/albums/2hurj4babJXt1cIxmYFqqo",
+            "id": "2hurj4babJXt1cIxmYFqqo",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733c5d0c9655047523aeb56af9",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023c5d0c9655047523aeb56af9",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513c5d0c9655047523aeb56af9",
+                    "width": 64
+                }
+            ],
+            "name": "Sabotage (2009 Remastered Version)",
+            "release_date": "1975-07-28",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:2hurj4babJXt1cIxmYFqqo"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                "name": "Black Sabbath",
+                "type": "artist",
+                "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 240226,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE7500016"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3tBpWEYYV6TK3PdkY8GLer"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3tBpWEYYV6TK3PdkY8GLer",
+        "id": "3tBpWEYYV6TK3PdkY8GLer",
+        "is_local": false,
+        "name": "Hole in the Sky",
+        "popularity": 44,
+        "preview_url": "https://p.scdn.co/mp3-preview/91d0aba93906224ebbff34c9d101eae021dfc888?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3tBpWEYYV6TK3PdkY8GLer"
+    }
+}

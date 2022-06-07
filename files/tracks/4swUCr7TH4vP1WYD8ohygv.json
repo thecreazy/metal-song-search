@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Hot wind burns me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burning as I fall",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cast away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Speechless in the holy way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I survive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The scourge and banishing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To scorching land",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am lord, I take command",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fall from grace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Forgive me not",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This knowledge makes me strong",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To resurrect",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The cities of the damned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All the treasures of Sodom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now belong to me - celebrate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fallen angels take my hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fall from grace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Whores long for my flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And my desire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lust anointing me now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Consume my soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I writhe in the flesh and the sins of hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I am Belial",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I bend my knees not before my selfish desire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "712833",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/35jmO5o3AhUV70kiR7u4Nw",
+                    "id": "35jmO5o3AhUV70kiR7u4Nw",
+                    "name": "Morbid Angel",
+                    "type": "artist",
+                    "uri": "spotify:artist:35jmO5o3AhUV70kiR7u4Nw"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/4y34C9YeavvuMTdMQzrPGG"
+            },
+            "href": "https://api.spotify.com/v1/albums/4y34C9YeavvuMTdMQzrPGG",
+            "id": "4y34C9YeavvuMTdMQzrPGG",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273583e07f59cfddec6760223ac",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02583e07f59cfddec6760223ac",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851583e07f59cfddec6760223ac",
+                    "width": 64
+                }
+            ],
+            "name": "Blessed Are the Sick",
+            "release_date": "1991",
+            "release_date_precision": "year",
+            "total_tracks": 13,
+            "type": "album",
+            "uri": "spotify:album:4y34C9YeavvuMTdMQzrPGG"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw"
+                },
+                "href": "https://api.spotify.com/v1/artists/35jmO5o3AhUV70kiR7u4Nw",
+                "id": "35jmO5o3AhUV70kiR7u4Nw",
+                "name": "Morbid Angel",
+                "type": "artist",
+                "uri": "spotify:artist:35jmO5o3AhUV70kiR7u4Nw"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 313440,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBPB0401592"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4swUCr7TH4vP1WYD8ohygv"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4swUCr7TH4vP1WYD8ohygv",
+        "id": "4swUCr7TH4vP1WYD8ohygv",
+        "is_local": false,
+        "name": "Fall from Grace",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/f2e1ec2c07254e1240e6fdbbd80244b3ccb31326?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4swUCr7TH4vP1WYD8ohygv"
+    }
+}

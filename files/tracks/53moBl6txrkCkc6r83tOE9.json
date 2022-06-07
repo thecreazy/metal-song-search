@@ -1,0 +1,186 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Welcoming the virgins fair, to live a noble life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the castle known to all - the count's internal wife",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She invites the peasants with endless lavish foods",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But, when evening spreads it wings, she rapes them of their blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Countess Bathory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Countess Bathory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All day long the virgins sit and feast on endless meals",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The countess laughs and sips her wine - her skin doth crack and peel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But when nighttime fills the air one must pay the price",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The countess takes her midnight bath with blood that once gave life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Countess Bathory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Countess Bathory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Living in her self styled Hell, the countess dressed in black",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Life's so distant - death's so near - no blood to fury time back",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The castle walls are closing in, she's crippled now with age",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Welcomes death with open arms - the reaper turns the page",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Countess Bathory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Countess Bathory",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "547117",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5fwaejlOHVBAw1KhIPPaQe",
+                    "id": "5fwaejlOHVBAw1KhIPPaQe",
+                    "name": "Venom",
+                    "type": "artist",
+                    "uri": "spotify:artist:5fwaejlOHVBAw1KhIPPaQe"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1e6Osda6t8UDFYQ29sFVlV"
+            },
+            "href": "https://api.spotify.com/v1/albums/1e6Osda6t8UDFYQ29sFVlV",
+            "id": "1e6Osda6t8UDFYQ29sFVlV",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27361383fe42756b74fb81ed769",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0261383fe42756b74fb81ed769",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485161383fe42756b74fb81ed769",
+                    "width": 64
+                }
+            ],
+            "name": "Black Metal",
+            "release_date": "1982-11-01",
+            "release_date_precision": "day",
+            "total_tracks": 20,
+            "type": "album",
+            "uri": "spotify:album:1e6Osda6t8UDFYQ29sFVlV"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe"
+                },
+                "href": "https://api.spotify.com/v1/artists/5fwaejlOHVBAw1KhIPPaQe",
+                "id": "5fwaejlOHVBAw1KhIPPaQe",
+                "name": "Venom",
+                "type": "artist",
+                "uri": "spotify:artist:5fwaejlOHVBAw1KhIPPaQe"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 224906,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE8200087"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/53moBl6txrkCkc6r83tOE9"
+        },
+        "href": "https://api.spotify.com/v1/tracks/53moBl6txrkCkc6r83tOE9",
+        "id": "53moBl6txrkCkc6r83tOE9",
+        "is_local": false,
+        "name": "Countess Bathory",
+        "popularity": 40,
+        "preview_url": "https://p.scdn.co/mp3-preview/aa8a8430d5f84bff5f59ccf66d9b0f18b44c7611?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:53moBl6txrkCkc6r83tOE9"
+    }
+}

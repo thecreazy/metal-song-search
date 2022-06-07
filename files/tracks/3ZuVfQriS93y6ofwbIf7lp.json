@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Revolution in their minds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The children start to march",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Against the world in which they have to live",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And all the hate that's in their hearts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They're tired of being pushed around",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And told just what to do",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They'll fight the world until they've won",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And love comes flowing through",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Children of tomorrow live in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The tears that fall today",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Will the sun rise up tomorrow bringing peace in any way?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Must the world live in the shadow",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of atomic fear?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can they win the fight for peace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Or will they disappear?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So you children of the world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Listen to what I say",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "If you want a better place to live in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spread the words today",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Show the world that love is still alive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You must be brave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Or you children of today are",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Children of the grave, Yeah!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "212107",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                    "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                    "name": "Black Sabbath",
+                    "type": "artist",
+                    "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3kBG6q0aXKxzn01wKTwZr5"
+            },
+            "href": "https://api.spotify.com/v1/albums/3kBG6q0aXKxzn01wKTwZr5",
+            "id": "3kBG6q0aXKxzn01wKTwZr5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b7ec2b4b9c76b3b737990a42",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b7ec2b4b9c76b3b737990a42",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b7ec2b4b9c76b3b737990a42",
+                    "width": 64
+                }
+            ],
+            "name": "Master of Reality (2009 Remastered Version)",
+            "release_date": "1971-07-21",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:3kBG6q0aXKxzn01wKTwZr5"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/5M52tdBnJaKSvOpJGz8mfZ",
+                "id": "5M52tdBnJaKSvOpJGz8mfZ",
+                "name": "Black Sabbath",
+                "type": "artist",
+                "uri": "spotify:artist:5M52tdBnJaKSvOpJGz8mfZ"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 314720,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE7100085"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3ZuVfQriS93y6ofwbIf7lp"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3ZuVfQriS93y6ofwbIf7lp",
+        "id": "3ZuVfQriS93y6ofwbIf7lp",
+        "is_local": false,
+        "name": "Children of the Grave",
+        "popularity": 62,
+        "preview_url": "https://p.scdn.co/mp3-preview/d818c42928e0807e8ce1decc5600a2ffc6bc8aa7?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:3ZuVfQriS93y6ofwbIf7lp"
+    }
+}

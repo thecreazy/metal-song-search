@@ -1,0 +1,276 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Come hear, the moon is calling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The witching hour draws near",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come hear the bell is tolling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mortals run in fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Prepare the altar now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And hear the virgins cry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hold fast the sacrifice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For now it's the time to die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hell breaks loose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell's breaking loose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Unveil the pentagram",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And feel the demons lust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come watch the holy men",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Who look on in disgust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come taste blood and feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The heat of Satan's breath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look in the skies and see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The warriors of death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hell breaks loose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell's breaking loose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Witching hour, move it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our work is now complete",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The blood runs fast and free",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And Satan takes his bride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And crys of blasphemy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hell rejoices at the child",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That she will bear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And Satan's only son",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Shall be the worlds despair",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hell breaks loose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hell's breaking loose",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Witching hour, witching hour",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "547348",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5fwaejlOHVBAw1KhIPPaQe",
+                    "id": "5fwaejlOHVBAw1KhIPPaQe",
+                    "name": "Venom",
+                    "type": "artist",
+                    "uri": "spotify:artist:5fwaejlOHVBAw1KhIPPaQe"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5oxowPycWCoLyE5nf0ZGmX"
+            },
+            "href": "https://api.spotify.com/v1/albums/5oxowPycWCoLyE5nf0ZGmX",
+            "id": "5oxowPycWCoLyE5nf0ZGmX",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737fe89832ca4d35b06fb36c26",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027fe89832ca4d35b06fb36c26",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517fe89832ca4d35b06fb36c26",
+                    "width": 64
+                }
+            ],
+            "name": "Welcome to Hell",
+            "release_date": "1981-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 22,
+            "type": "album",
+            "uri": "spotify:album:5oxowPycWCoLyE5nf0ZGmX"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5fwaejlOHVBAw1KhIPPaQe"
+                },
+                "href": "https://api.spotify.com/v1/artists/5fwaejlOHVBAw1KhIPPaQe",
+                "id": "5fwaejlOHVBAw1KhIPPaQe",
+                "name": "Venom",
+                "type": "artist",
+                "uri": "spotify:artist:5fwaejlOHVBAw1KhIPPaQe"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 220026,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAJE8100093"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4G20PYZNuL37a8zaaUV7Km"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4G20PYZNuL37a8zaaUV7Km",
+        "id": "4G20PYZNuL37a8zaaUV7Km",
+        "is_local": false,
+        "name": "Witching Hour",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/44d794607f4b27f9dcaaca1ca74ae5fcc12563fb?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:4G20PYZNuL37a8zaaUV7Km"
+    }
+}

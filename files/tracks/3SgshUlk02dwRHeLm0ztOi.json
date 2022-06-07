@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Out of the darkness the voices are calling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Riding the wings of a song",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The fury is screaming and Heaven is falling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel it coming on strong",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The lightning strikes, cracking the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It feels like never before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thunder and spark in the heart of the dark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I hear a rising force",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Searching my soul, now I find something else",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I take my life in my hands",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through the gates of Heaven to the altars of Hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The power is at my command",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The lightning strikes, cracking the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It feels like never before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thunder and spark in the heart of the dark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel a rising force",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burned by the glory of a sacred fire",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The rising force starts to shine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A burning inferno, it soars ever higher",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Leaving the demons behind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The lightning strikes, cracking the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It feels like never before",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thunder and spark in the heart of the dark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel a rising force",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The lightning strikes, cracking the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm not the same anymore, no",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thunder and spark in the heart of the dark",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I feel a rising force, oh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1000873",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5DpSoH5zCXNRqYai7pmcGG",
+                    "id": "5DpSoH5zCXNRqYai7pmcGG",
+                    "name": "Yngwie Malmsteen",
+                    "type": "artist",
+                    "uri": "spotify:artist:5DpSoH5zCXNRqYai7pmcGG"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2RRsSauHi9EYx8AUmJMwkL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2RRsSauHi9EYx8AUmJMwkL",
+                    "id": "2RRsSauHi9EYx8AUmJMwkL",
+                    "name": "Joe Lynn Turner",
+                    "type": "artist",
+                    "uri": "spotify:artist:2RRsSauHi9EYx8AUmJMwkL"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2Bgu9FC19pRP8O6ZY4QIWs"
+            },
+            "href": "https://api.spotify.com/v1/albums/2Bgu9FC19pRP8O6ZY4QIWs",
+            "id": "2Bgu9FC19pRP8O6ZY4QIWs",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fca6a26d626b192b9ffe4ae5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fca6a26d626b192b9ffe4ae5",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851fca6a26d626b192b9ffe4ae5",
+                    "width": 64
+                }
+            ],
+            "name": "Odyssey",
+            "release_date": "1988-01-01",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:2Bgu9FC19pRP8O6ZY4QIWs"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+                },
+                "href": "https://api.spotify.com/v1/artists/5DpSoH5zCXNRqYai7pmcGG",
+                "id": "5DpSoH5zCXNRqYai7pmcGG",
+                "name": "Yngwie Malmsteen",
+                "type": "artist",
+                "uri": "spotify:artist:5DpSoH5zCXNRqYai7pmcGG"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 264066,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USF068825490"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3SgshUlk02dwRHeLm0ztOi"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3SgshUlk02dwRHeLm0ztOi",
+        "id": "3SgshUlk02dwRHeLm0ztOi",
+        "is_local": false,
+        "name": "Rising Force",
+        "popularity": 49,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3SgshUlk02dwRHeLm0ztOi"
+    }
+}

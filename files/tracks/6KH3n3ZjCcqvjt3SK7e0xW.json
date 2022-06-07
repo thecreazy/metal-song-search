@@ -1,0 +1,156 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Lock' em up, very tight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Left alone, in the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Darkest dreams, we will paint",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In the minds, of the saint",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lock up your children",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "From Destruction found",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lurking in their minds",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The pain starts to pound",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "When at last, they awake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All sanity, we will take",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tortured souls, as they fell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Subject to, this living hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "7181320",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4jcj3BdKlh7LFhByepe02p",
+                    "id": "4jcj3BdKlh7LFhByepe02p",
+                    "name": "Morbid Saint",
+                    "type": "artist",
+                    "uri": "spotify:artist:4jcj3BdKlh7LFhByepe02p"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/7aTCuZbrpVleXKbdbFP1tx"
+            },
+            "href": "https://api.spotify.com/v1/albums/7aTCuZbrpVleXKbdbFP1tx",
+            "id": "7aTCuZbrpVleXKbdbFP1tx",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27338fa8a486d94535bb332c372",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0238fa8a486d94535bb332c372",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485138fa8a486d94535bb332c372",
+                    "width": 64
+                }
+            ],
+            "name": "Spectrum of Death (Extended Edition)",
+            "release_date": "2016-03-11",
+            "release_date_precision": "day",
+            "total_tracks": 26,
+            "type": "album",
+            "uri": "spotify:album:7aTCuZbrpVleXKbdbFP1tx"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p"
+                },
+                "href": "https://api.spotify.com/v1/artists/4jcj3BdKlh7LFhByepe02p",
+                "id": "4jcj3BdKlh7LFhByepe02p",
+                "name": "Morbid Saint",
+                "type": "artist",
+                "uri": "spotify:artist:4jcj3BdKlh7LFhByepe02p"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 211053,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E41633801"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6KH3n3ZjCcqvjt3SK7e0xW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6KH3n3ZjCcqvjt3SK7e0xW",
+        "id": "6KH3n3ZjCcqvjt3SK7e0xW",
+        "is_local": false,
+        "name": "Lock up Your Children",
+        "popularity": 31,
+        "preview_url": "https://p.scdn.co/mp3-preview/5bc5122a36ca5a31c7b071649a0c3979ffd58d63?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:6KH3n3ZjCcqvjt3SK7e0xW"
+    }
+}

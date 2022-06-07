@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "You're living in a lie, your tears, repentance fills your eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your life is not what it seems to be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For you breed agony",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your tortured mind will cry out, take my soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die for me, die for my sins for I've seen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My cold and bitter end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Trapped illusions of your fate",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your end is only what you've made",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Return and taste reality again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your sudden faith is all in vain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your withered voice is chanting",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm impure",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die for me, die for my sins for I've seen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My cold and bitter end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Standing at the altar, hands in prayer",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your crystal image shatters despair",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Suffering no one can help you now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Betrayed by your worn and tattered vows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're living in a lie, your tears, repentance fills your eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Your life stands for nothing but your shame",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one else will bear your blame",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My mortal life of anguish I've endured",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die for me, die for my sins for I've seen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My cold and bitter end",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As you feel the lies hypocrisy chokes the life from you",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Die for me, die only for me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now ... die.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1470180",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1XolQApHVLzp4L8AeOZ7nx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1XolQApHVLzp4L8AeOZ7nx",
+                    "id": "1XolQApHVLzp4L8AeOZ7nx",
+                    "name": "Sanctuary",
+                    "type": "artist",
+                    "uri": "spotify:artist:1XolQApHVLzp4L8AeOZ7nx"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/42CaIIwcrlWXJ6lYz46Tei"
+            },
+            "href": "https://api.spotify.com/v1/albums/42CaIIwcrlWXJ6lYz46Tei",
+            "id": "42CaIIwcrlWXJ6lYz46Tei",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27317ab6a91d7105c017144a9ec",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0217ab6a91d7105c017144a9ec",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485117ab6a91d7105c017144a9ec",
+                    "width": 64
+                }
+            ],
+            "name": "Refuge Denied",
+            "release_date": "1987",
+            "release_date_precision": "year",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:42CaIIwcrlWXJ6lYz46Tei"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1XolQApHVLzp4L8AeOZ7nx"
+                },
+                "href": "https://api.spotify.com/v1/artists/1XolQApHVLzp4L8AeOZ7nx",
+                "id": "1XolQApHVLzp4L8AeOZ7nx",
+                "name": "Sanctuary",
+                "type": "artist",
+                "uri": "spotify:artist:1XolQApHVLzp4L8AeOZ7nx"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 221506,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM10026141"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/33QH6EpkT2uSWzmatuRs0g"
+        },
+        "href": "https://api.spotify.com/v1/tracks/33QH6EpkT2uSWzmatuRs0g",
+        "id": "33QH6EpkT2uSWzmatuRs0g",
+        "is_local": false,
+        "name": "Die for My Sins",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/e8a5042f85aa3158ec6531b971b3ccae2be85b1a?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:33QH6EpkT2uSWzmatuRs0g"
+    }
+}

@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "When you feel the darkness calling out your name",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't try to fight the power surge",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't you laugh for this is not a game",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're powerless, don't resist the urge",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So many black hearts answering the call",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Legions of the musically possessed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Congregations joining in our free-for-all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Unleashing all the rage they've repressed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come to us, succumb to lust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give in to the ministry of sin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know the drill, do as you will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dance like the demons of the din",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All will yearn for our nocturne",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The dawning of our cult is at hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come and pray, we know the way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bow to the tempo of the damned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are all leaders of the horde",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Keeper of the apes of wrath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Heed the call of the volume, Lord",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "High priest of the bloodbath",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Serve unto us, surrender us your souls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Rewards you will receive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And when the tempo has taken control",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Even the heretic's will believe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come to us, succumb to lust",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give in to the ministry of sin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You know the drill, do as you will",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dance like the demons of the din",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All will yearn for our nocturne",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The dawning of our cult is at hand",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Come and pray, we know the way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bow, bow, bow to the tempo of the damned",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1797125",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/76S65NHJHrNy4JTrXHP2BH",
+                    "id": "76S65NHJHrNy4JTrXHP2BH",
+                    "name": "Exodus",
+                    "type": "artist",
+                    "uri": "spotify:artist:76S65NHJHrNy4JTrXHP2BH"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/3sNPwtcV7Xv9CixCk0PpqP"
+            },
+            "href": "https://api.spotify.com/v1/albums/3sNPwtcV7Xv9CixCk0PpqP",
+            "id": "3sNPwtcV7Xv9CixCk0PpqP",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273378c4ee63d4511e43d0398b8",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02378c4ee63d4511e43d0398b8",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851378c4ee63d4511e43d0398b8",
+                    "width": 64
+                }
+            ],
+            "name": "Tempo of the Damned",
+            "release_date": "2004-02-02",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:3sNPwtcV7Xv9CixCk0PpqP"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+                },
+                "href": "https://api.spotify.com/v1/artists/76S65NHJHrNy4JTrXHP2BH",
+                "id": "76S65NHJHrNy4JTrXHP2BH",
+                "name": "Exodus",
+                "type": "artist",
+                "uri": "spotify:artist:76S65NHJHrNy4JTrXHP2BH"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 261426,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED830369610"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4Vaf9hhzxwCKqduXGN5gV7"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4Vaf9hhzxwCKqduXGN5gV7",
+        "id": "4Vaf9hhzxwCKqduXGN5gV7",
+        "is_local": false,
+        "name": "Tempo of the Damned",
+        "popularity": 28,
+        "preview_url": "https://p.scdn.co/mp3-preview/81a8ee955e2f22f8127066e8e4e68d21cae0dd5c?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:4Vaf9hhzxwCKqduXGN5gV7"
+    }
+}

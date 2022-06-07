@@ -1,0 +1,261 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Screams break the silence",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Waking from the dead of night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Vengence is boiling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He's returned to kill the light",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Then when he's found who he's looking for",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Listen in awe and you'll hear him",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bark at the moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Years spent in torment",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Buried in a nameless grave",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now he has risen",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Miracles would have to save",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Those that the beast is looking for",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Listen in awe and you'll hear him",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bark at the moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hey yeah, bark at the moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They cursed and buried him along with shame",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And thought his timeless soul had gone (gone)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In empty burning hell, unholy one",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But he's returned to prove them wrong, so wrong",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, yeah baby",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Howling in shadows",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Living in a lunar spell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "He finds his heaven",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Spewing from the mouth of hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Those that the beast is looking for",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Listen in awe and you'll hear him",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bark at the moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hey yeah, bark at the moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hey yeah, bark at the moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh, oh yeah, bark at the moon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "50853",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6ZLTlhejhndI4Rh53vYhrY",
+                    "id": "6ZLTlhejhndI4Rh53vYhrY",
+                    "name": "Ozzy Osbourne",
+                    "type": "artist",
+                    "uri": "spotify:artist:6ZLTlhejhndI4Rh53vYhrY"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn"
+            },
+            "href": "https://api.spotify.com/v1/albums/537qKeG5gbEvKJpQ4Qmszn",
+            "id": "537qKeG5gbEvKJpQ4Qmszn",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273813b607b3b7e094c306af4fd",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02813b607b3b7e094c306af4fd",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851813b607b3b7e094c306af4fd",
+                    "width": 64
+                }
+            ],
+            "name": "Bark At The Moon (Expanded Edition)",
+            "release_date": "1983-12-10",
+            "release_date_precision": "day",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:537qKeG5gbEvKJpQ4Qmszn"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+                },
+                "href": "https://api.spotify.com/v1/artists/6ZLTlhejhndI4Rh53vYhrY",
+                "id": "6ZLTlhejhndI4Rh53vYhrY",
+                "name": "Ozzy Osbourne",
+                "type": "artist",
+                "uri": "spotify:artist:6ZLTlhejhndI4Rh53vYhrY"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 257120,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USSM18300021"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2E7W1X4maFFcjHrVrFA7Vs",
+        "id": "2E7W1X4maFFcjHrVrFA7Vs",
+        "is_local": false,
+        "name": "Bark at the Moon",
+        "popularity": 64,
+        "preview_url": "https://p.scdn.co/mp3-preview/4f6662f2b27484669446a5932d3ece7c1a8ff21f?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2E7W1X4maFFcjHrVrFA7Vs"
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Guide a truth",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Prevail and ride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Into the black hole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Searching for crystal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Making the veins bleed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The source of consciousness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Alive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Crystalline resonance",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Into the black hole",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Searching for crystal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Making the veins bleed",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A deep breath before the plunge",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One million voices",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Dispelling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A thousand faces",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Disarming",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Running through the darkness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Holding hearts in my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Falling short of gauntlet",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Covered in blood-sucking flies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The touch is cold",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I tore a path screaming through wind and blood",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will it all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Burning deep in my skull",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1968836",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Dvfqq39HxvCJ3GvfeIFuT",
+                    "id": "1Dvfqq39HxvCJ3GvfeIFuT",
+                    "name": "Mastodon",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
+            },
+            "href": "https://api.spotify.com/v1/albums/1n8QZFcwx5aQ2LIIlj0iYe",
+            "id": "1n8QZFcwx5aQ2LIIlj0iYe",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273abe244c2bab281947c3209cc",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02abe244c2bab281947c3209cc",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851abe244c2bab281947c3209cc",
+                    "width": 64
+                }
+            ],
+            "name": "Blood Mountain",
+            "release_date": "2006-09-08",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:1n8QZFcwx5aQ2LIIlj0iYe"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+                },
+                "href": "https://api.spotify.com/v1/artists/1Dvfqq39HxvCJ3GvfeIFuT",
+                "id": "1Dvfqq39HxvCJ3GvfeIFuT",
+                "name": "Mastodon",
+                "type": "artist",
+                "uri": "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 204866,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USRE10602058"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6H6jikiotP4Ygv5oxPGPDW"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6H6jikiotP4Ygv5oxPGPDW",
+        "id": "6H6jikiotP4Ygv5oxPGPDW",
+        "is_local": false,
+        "name": "Crystal Skull",
+        "popularity": 39,
+        "preview_url": "https://p.scdn.co/mp3-preview/97a734e8baabdde7749b0acd2271cc24c1ad8806?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6H6jikiotP4Ygv5oxPGPDW"
+    }
+}

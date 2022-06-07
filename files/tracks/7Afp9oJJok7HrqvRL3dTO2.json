@@ -1,0 +1,236 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Open up your veins",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I want into your blood let me in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The visions of the night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Reveal the truth of light we begin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Reality's the dream of things",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've never seen pulls you in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The guilty things you fear",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Have the means to reappear all the sin",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mainline riders oh buy it starting to fly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Give freedom to my brain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To allow my astral plain to exist",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The universal souls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Of ages yet untold don't resist",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I need some help this time",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To reach the other side let me in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Though i start to drift away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There's a price that you must pay don't give in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mainline riders oh but your getting too high",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Eagles learn't to fly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Buy now were up as high you can win",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Though the elders hold the key",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "To return through centuries let them in",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Mainline riders oh but your getting too high",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh gonna get you up even higher",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Scream in the night you called a liar",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Touch at the sky like a flier, i'm a...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A Mainline rider, i'm a mainline rider",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm a mainline rider...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2668944",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2caka9PPgIWJ7vcT6OHPHC"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2caka9PPgIWJ7vcT6OHPHC",
+                    "id": "2caka9PPgIWJ7vcT6OHPHC",
+                    "name": "Quartz",
+                    "type": "artist",
+                    "uri": "spotify:artist:2caka9PPgIWJ7vcT6OHPHC"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/23ZHqc8gbwmkOhkhhFmzsI"
+            },
+            "href": "https://api.spotify.com/v1/albums/23ZHqc8gbwmkOhkhhFmzsI",
+            "id": "23ZHqc8gbwmkOhkhhFmzsI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730b9c5bf1fc203287f8118ae0",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020b9c5bf1fc203287f8118ae0",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510b9c5bf1fc203287f8118ae0",
+                    "width": 64
+                }
+            ],
+            "name": "Quartz",
+            "release_date": "1977-12-31",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:23ZHqc8gbwmkOhkhhFmzsI"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2caka9PPgIWJ7vcT6OHPHC"
+                },
+                "href": "https://api.spotify.com/v1/artists/2caka9PPgIWJ7vcT6OHPHC",
+                "id": "2caka9PPgIWJ7vcT6OHPHC",
+                "name": "Quartz",
+                "type": "artist",
+                "uri": "spotify:artist:2caka9PPgIWJ7vcT6OHPHC"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 216746,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBLY2201934"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7Afp9oJJok7HrqvRL3dTO2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7Afp9oJJok7HrqvRL3dTO2",
+        "id": "7Afp9oJJok7HrqvRL3dTO2",
+        "is_local": false,
+        "name": "Mainline Riders",
+        "popularity": 6,
+        "preview_url": "https://p.scdn.co/mp3-preview/ec88857d7bc5a46cd5097e4f80302f0637307589?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:7Afp9oJJok7HrqvRL3dTO2"
+    }
+}

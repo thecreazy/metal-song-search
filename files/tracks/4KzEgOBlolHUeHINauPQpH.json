@@ -1,0 +1,241 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I fell deeper and deeper as light now was gone",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I could feel the dark embrace my soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Agony was no more, and so was pain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "At this point of solitude I knew I was there...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "There where I belong",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Thus far a long journey through my soul's infinity",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It has been a journey far beyond mortality",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have found what I wanted, tranquility",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll thrive on evil, eternally",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I flew over crystal ground",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "My existence numb",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Over orchards of grievance,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sorrow and tears",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This beautiful silence...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Calls me now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Black fog devours me but I can see it all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The monument of my past,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The land of the seven horizons' before my eyes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I reach the land of spiritual rest",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's the dawn of descending",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "-I am the Somberlain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Down to evil devine domain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lord of infernal, gather my strength",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Carry me through the gates",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's the dawn of descending",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "-I am the Somberlain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Down to evil divine domain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For I'm eternal night",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "-I'm the Somberlain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Precede my evil domain",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "125244405",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6qpmcQfxhmNxNMCJUrpHwe",
+                    "id": "6qpmcQfxhmNxNMCJUrpHwe",
+                    "name": "Dissection",
+                    "type": "artist",
+                    "uri": "spotify:artist:6qpmcQfxhmNxNMCJUrpHwe"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/1igxmVKLBCFgtwixi2WvY5"
+            },
+            "href": "https://api.spotify.com/v1/albums/1igxmVKLBCFgtwixi2WvY5",
+            "id": "1igxmVKLBCFgtwixi2WvY5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736b03aed4b01500dd199ee33d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026b03aed4b01500dd199ee33d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516b03aed4b01500dd199ee33d",
+                    "width": 64
+                }
+            ],
+            "name": "The Somberlain",
+            "release_date": "1993-04-27",
+            "release_date_precision": "day",
+            "total_tracks": 11,
+            "type": "album",
+            "uri": "spotify:album:1igxmVKLBCFgtwixi2WvY5"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+                },
+                "href": "https://api.spotify.com/v1/artists/6qpmcQfxhmNxNMCJUrpHwe",
+                "id": "6qpmcQfxhmNxNMCJUrpHwe",
+                "name": "Dissection",
+                "type": "artist",
+                "uri": "spotify:artist:6qpmcQfxhmNxNMCJUrpHwe"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 427650,
+        "explicit": true,
+        "external_ids": {
+            "isrc": "USLZJ2137022"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/4KzEgOBlolHUeHINauPQpH"
+        },
+        "href": "https://api.spotify.com/v1/tracks/4KzEgOBlolHUeHINauPQpH",
+        "id": "4KzEgOBlolHUeHINauPQpH",
+        "is_local": false,
+        "name": "The Somberlain",
+        "popularity": 35,
+        "preview_url": "https://p.scdn.co/mp3-preview/ebea3c03fea47a7d04a72b14dea402075f98e1d5?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:4KzEgOBlolHUeHINauPQpH"
+    }
+}

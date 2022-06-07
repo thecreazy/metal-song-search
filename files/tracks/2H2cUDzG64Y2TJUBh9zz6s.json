@@ -1,0 +1,181 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Hey man, I'm gonna fuck this shit up",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No fear, no compromise -- I want it all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I will never be afraid",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll die for what I believe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All of you assholes can stay rotting here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I do not care -- I will not be there",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have got to save myself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't tell me there's no-one else",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And all you are is all you are",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm so sorry for you -- sorry",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So all hail the new flesh",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cause it suits me fine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just get away, you motherfuck",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And we'll be back if you come",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For what this means to me, you piece of shit",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll see you pigs in hell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I want it all",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I want it all, motherfucker",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1489353",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/457qPvtiBTIl6LR4dZiKZy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/457qPvtiBTIl6LR4dZiKZy",
+                    "id": "457qPvtiBTIl6LR4dZiKZy",
+                    "name": "Strapping Young Lad",
+                    "type": "artist",
+                    "uri": "spotify:artist:457qPvtiBTIl6LR4dZiKZy"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/78Y2OaDAdvEqs3TRdCRdZc"
+            },
+            "href": "https://api.spotify.com/v1/albums/78Y2OaDAdvEqs3TRdCRdZc",
+            "id": "78Y2OaDAdvEqs3TRdCRdZc",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739e210b76b09fd006a43e02b4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029e210b76b09fd006a43e02b4",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519e210b76b09fd006a43e02b4",
+                    "width": 64
+                }
+            ],
+            "name": "City",
+            "release_date": "1997-07-13",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:78Y2OaDAdvEqs3TRdCRdZc"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/457qPvtiBTIl6LR4dZiKZy"
+                },
+                "href": "https://api.spotify.com/v1/artists/457qPvtiBTIl6LR4dZiKZy",
+                "id": "457qPvtiBTIl6LR4dZiKZy",
+                "name": "Strapping Young Lad",
+                "type": "artist",
+                "uri": "spotify:artist:457qPvtiBTIl6LR4dZiKZy"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 324693,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "US4E40585102"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2H2cUDzG64Y2TJUBh9zz6s"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2H2cUDzG64Y2TJUBh9zz6s",
+        "id": "2H2cUDzG64Y2TJUBh9zz6s",
+        "is_local": false,
+        "name": "All Hail The New Flesh",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/33f671891f38d2567b975ca30d1457c92ee85bf6?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:2H2cUDzG64Y2TJUBh9zz6s"
+    }
+}

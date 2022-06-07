@@ -1,0 +1,196 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Lies - and you fill their souls",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "With all oppressions of this world",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And all the glory you receive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So, what makes you supreme?",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Lies - and your crown is falling",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I offer fantasy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you, Creator",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blind with envy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So let the children come to me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Their mother loves me, so shall they",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Woman, bleeding, ate my gifts",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Man was close behind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just like a snake, I'm slithering",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Through my world divine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And like the cat I'm stalking",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'll take your soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you'll be like me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In emptiness",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bow to me faithfully",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Bow to me splendidly",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "712837",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/35jmO5o3AhUV70kiR7u4Nw",
+                    "id": "35jmO5o3AhUV70kiR7u4Nw",
+                    "name": "Morbid Angel",
+                    "type": "artist",
+                    "uri": "spotify:artist:35jmO5o3AhUV70kiR7u4Nw"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/2zcm0oh6wOoWR2IbZ9p41c"
+            },
+            "href": "https://api.spotify.com/v1/albums/2zcm0oh6wOoWR2IbZ9p41c",
+            "id": "2zcm0oh6wOoWR2IbZ9p41c",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736c829775bb2f68cd0c570e9f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026c829775bb2f68cd0c570e9f",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516c829775bb2f68cd0c570e9f",
+                    "width": 64
+                }
+            ],
+            "name": "Covenant (Full Dynamic Range Edition)",
+            "release_date": "1993",
+            "release_date_precision": "year",
+            "total_tracks": 10,
+            "type": "album",
+            "uri": "spotify:album:2zcm0oh6wOoWR2IbZ9p41c"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw"
+                },
+                "href": "https://api.spotify.com/v1/artists/35jmO5o3AhUV70kiR7u4Nw",
+                "id": "35jmO5o3AhUV70kiR7u4Nw",
+                "name": "Morbid Angel",
+                "type": "artist",
+                "uri": "spotify:artist:35jmO5o3AhUV70kiR7u4Nw"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 326933,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBPB1303000"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2Nk68SHgYc6rpAmYCfohe2"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2Nk68SHgYc6rpAmYCfohe2",
+        "id": "2Nk68SHgYc6rpAmYCfohe2",
+        "is_local": false,
+        "name": "God of Emptiness",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/6ca783044a784929e1ac49793d8b69e37602baa0?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 10,
+        "type": "track",
+        "uri": "spotify:track:2Nk68SHgYc6rpAmYCfohe2"
+    }
+}

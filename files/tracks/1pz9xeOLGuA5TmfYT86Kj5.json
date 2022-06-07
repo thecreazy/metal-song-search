@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Whiskey woman don't you know that you are drivin' me insane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The liquor you give stems your will to live and gets right to my brain",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't you know you're driving me insane",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're tryin' to find your way through life",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're tryin' to get some new direction",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another woman got her man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "She won't find no new connection",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Takes another drink or two, things look better when she's through",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Takes another look around, you're not goin' anywhere",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You've realized you're gettin' old and no one seems to care",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're tryin' to find your way again",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You're tryin' to find some new...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Another woman's got her man",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But she won't find a new...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Takes another drink or two, things look better when she's through",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You 'bin foolin' with some hot guy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I want to know why is it why",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Get up get out you know you really blew it",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I've had enough, I've had enough, good God pluck me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Once she was wonderful",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Once she was fine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Once she was beautiful",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Once she was mine... she was mine",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now change has come over her body, she doesn't see me anymore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now change has come over her body, she doesn't see me anymore",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Changes, changes, changes, changes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Victim of changes",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "42541354",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2tRsMl4eGxwoNabM08Dm4I",
+                    "id": "2tRsMl4eGxwoNabM08Dm4I",
+                    "name": "Judas Priest",
+                    "type": "artist",
+                    "uri": "spotify:artist:2tRsMl4eGxwoNabM08Dm4I"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6D7LIAfyX9u8ZtZhOnRfUp"
+            },
+            "href": "https://api.spotify.com/v1/albums/6D7LIAfyX9u8ZtZhOnRfUp",
+            "id": "6D7LIAfyX9u8ZtZhOnRfUp",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c5673464116e709c42ab5c1e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c5673464116e709c42ab5c1e",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c5673464116e709c42ab5c1e",
+                    "width": 64
+                }
+            ],
+            "name": "Sad Wings Of Destiny (Remastered)",
+            "release_date": "1976",
+            "release_date_precision": "year",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:6D7LIAfyX9u8ZtZhOnRfUp"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+                },
+                "href": "https://api.spotify.com/v1/artists/2tRsMl4eGxwoNabM08Dm4I",
+                "id": "2tRsMl4eGxwoNabM08Dm4I",
+                "name": "Judas Priest",
+                "type": "artist",
+                "uri": "spotify:artist:2tRsMl4eGxwoNabM08Dm4I"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 467440,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DED467600025"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/1pz9xeOLGuA5TmfYT86Kj5"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1pz9xeOLGuA5TmfYT86Kj5",
+        "id": "1pz9xeOLGuA5TmfYT86Kj5",
+        "is_local": false,
+        "name": "Victim of Changes - Remastered",
+        "popularity": 34,
+        "preview_url": "https://p.scdn.co/mp3-preview/dad45f2d4141bceb3e375cda699e2926739d7a49?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1pz9xeOLGuA5TmfYT86Kj5"
+    }
+}

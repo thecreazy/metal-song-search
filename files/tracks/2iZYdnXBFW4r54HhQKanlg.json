@@ -1,0 +1,256 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Sunrise, wrong side of another day",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Sky high and six thousand miles away",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't know how long I've been awake",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Wound up in an amazing state",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't get enough",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And you know it's the righteous stuff",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Goes up like prices at Christmas",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motörhead, you can call me now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motörhead, alright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Brain dead, total amnesia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Get some mental anesthesia",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't move, I'll shut the door and kill the lights",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I guess I'll see you all on the ice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All good clean fun",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Have another stick of gum",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Man, you look better already",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motörhead, remember me now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motörhead, alright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fourth day, five day marathon",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We're moving like a parallelogram",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't move, I'll shut the door and kill the lights",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I guess I'll see you all on the ice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I should be tired",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "And all I am is wired",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ain't felt this good for an hour",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motörhead, remember me now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motörhead, alright",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Yeah, yeah, yeah, yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motörhead, remember me now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motörhead, it's only you now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motörhead, only you now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Motörhead, yeah, yeah, yeah",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "457040",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                    "id": "1DFr97A9HnbV3SKTJFu62M",
+                    "name": "Motörhead",
+                    "type": "artist",
+                    "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5vYvX7jM5TAg7fzK1oKySe"
+            },
+            "href": "https://api.spotify.com/v1/albums/5vYvX7jM5TAg7fzK1oKySe",
+            "id": "5vYvX7jM5TAg7fzK1oKySe",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ef34cc55e57179462fd60aef",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ef34cc55e57179462fd60aef",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ef34cc55e57179462fd60aef",
+                    "width": 64
+                }
+            ],
+            "name": "Motorhead",
+            "release_date": "1977-08-21",
+            "release_date_precision": "day",
+            "total_tracks": 8,
+            "type": "album",
+            "uri": "spotify:album:5vYvX7jM5TAg7fzK1oKySe"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+                },
+                "href": "https://api.spotify.com/v1/artists/1DFr97A9HnbV3SKTJFu62M",
+                "id": "1DFr97A9HnbV3SKTJFu62M",
+                "name": "Motörhead",
+                "type": "artist",
+                "uri": "spotify:artist:1DFr97A9HnbV3SKTJFu62M"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 190173,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBBHN0100112"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/2iZYdnXBFW4r54HhQKanlg"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2iZYdnXBFW4r54HhQKanlg",
+        "id": "2iZYdnXBFW4r54HhQKanlg",
+        "is_local": false,
+        "name": "Motörhead",
+        "popularity": 41,
+        "preview_url": "https://p.scdn.co/mp3-preview/08ac8d6cfdeb765eef33a69911fca66f8fa167a2?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2iZYdnXBFW4r54HhQKanlg"
+    }
+}

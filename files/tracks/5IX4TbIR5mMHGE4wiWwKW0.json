@@ -1,0 +1,306 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I can't remember anything",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Can't tell if this is true or dream",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Deep down inside I feel to scream",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "This terrible silence stops me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now that the war is through with me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm waking up, I cannot see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "That there is not much left of me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Nothing is real but pain now",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hold my breath as I wish for death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh please God, wake me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Back in the womb it's much too real",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In pumps life that I must feel",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But can't look forward to reveal",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Look to the time when I'll live",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fed through the tube that sticks in me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Just like a wartime novelty",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Tied to machines that make me be",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Cut this life off from me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hold my breath as I wish for death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh please God, wake me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Now the world is gone, I'm just one",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh God help me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hold my breath as I wish for death",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oh please God, help me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Darkness imprisoning me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All that I see",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Absolute horror",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I cannot live",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I cannot die",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Trapped in myself",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Body my holding cell",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Landmine has taken my sight",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Taken my speech",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Taken my hearing",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Taken my arms",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Taken my legs",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Taken my soul",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Left me with life in hell.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "26786",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+                    "id": "2ye2Wgw4gimLv2eAKyk1NB",
+                    "name": "Metallica",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
+            },
+            "href": "https://api.spotify.com/v1/albums/6Eycw3dwcDMEFSqkUvLQ7g",
+            "id": "6Eycw3dwcDMEFSqkUvLQ7g",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737c05e69390ab7c628a83cee7",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027c05e69390ab7c628a83cee7",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517c05e69390ab7c628a83cee7",
+                    "width": 64
+                }
+            ],
+            "name": "...And Justice For All",
+            "release_date": "1988-08-25",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:6Eycw3dwcDMEFSqkUvLQ7g"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+                },
+                "href": "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+                "id": "2ye2Wgw4gimLv2eAKyk1NB",
+                "name": "Metallica",
+                "type": "artist",
+                "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 447440,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "GBAMC9400003"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/5IX4TbIR5mMHGE4wiWwKW0"
+        },
+        "href": "https://api.spotify.com/v1/tracks/5IX4TbIR5mMHGE4wiWwKW0",
+        "id": "5IX4TbIR5mMHGE4wiWwKW0",
+        "is_local": false,
+        "name": "One",
+        "popularity": 71,
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:5IX4TbIR5mMHGE4wiWwKW0"
+    }
+}

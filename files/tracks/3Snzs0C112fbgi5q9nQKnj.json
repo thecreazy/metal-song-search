@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "Pigen bad for sig",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Det maatte ey hende hielpe",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oc med det een nye Pige de rofvede",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Foer med hende som de vilde",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oc ey som de skulde",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Til der, hvor Skyggernes Huus hun saae",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Saa kolde oc evigblaae",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Fjeldet tog hende ind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Til sit haarde Graabergkind",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Igien herskede Natten dend sorte",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Oc nu er hun borte...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hun skriger med sidste Pust aff siin Stemme",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Een Epoche vi aldrig vil glemme",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "- Een forstened Krop",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "...Maanen er borte",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Ocsaa Stiernerne ere sluknede",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Hu! det regner og det bles;",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For langt nord I Fjellom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Djupt under Hellom",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Der leikar det...",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "24915250",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "da",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6bYFkBNvayh3nGqxcPp7Sv",
+                    "id": "6bYFkBNvayh3nGqxcPp7Sv",
+                    "name": "Ulver",
+                    "type": "artist",
+                    "uri": "spotify:artist:6bYFkBNvayh3nGqxcPp7Sv"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5OEz7YwAQyYvaSl1pmkPCI"
+            },
+            "href": "https://api.spotify.com/v1/albums/5OEz7YwAQyYvaSl1pmkPCI",
+            "id": "5OEz7YwAQyYvaSl1pmkPCI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27307689efddb1e40e440d76007",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0207689efddb1e40e440d76007",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485107689efddb1e40e440d76007",
+                    "width": 64
+                }
+            ],
+            "name": "Bergtatt",
+            "release_date": "1994",
+            "release_date_precision": "year",
+            "total_tracks": 5,
+            "type": "album",
+            "uri": "spotify:album:5OEz7YwAQyYvaSl1pmkPCI"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+                },
+                "href": "https://api.spotify.com/v1/artists/6bYFkBNvayh3nGqxcPp7Sv",
+                "id": "6bYFkBNvayh3nGqxcPp7Sv",
+                "name": "Ulver",
+                "type": "artist",
+                "uri": "spotify:artist:6bYFkBNvayh3nGqxcPp7Sv"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 471280,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "NOFVH9505010"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/3Snzs0C112fbgi5q9nQKnj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/3Snzs0C112fbgi5q9nQKnj",
+        "id": "3Snzs0C112fbgi5q9nQKnj",
+        "is_local": false,
+        "name": "I Troldskog Faren Vild",
+        "popularity": 38,
+        "preview_url": "https://p.scdn.co/mp3-preview/83266fc5370d2f2ec2516b8235c2ca017f10d5a3?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:3Snzs0C112fbgi5q9nQKnj"
+    }
+}

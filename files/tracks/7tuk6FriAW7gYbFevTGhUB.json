@@ -1,0 +1,231 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I rule the jungle, I rule it with pride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I'm judge and jury, your life I decide",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I have awakened for my nightly feast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A reign of terror, beware of the beast",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't try to run there's no way to survive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A vicious surrender I'll eat you alive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one is safe until I get my fill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hear my warning I'm king of the kill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stalking the level, the scent of my prey",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Stopping for nothing don't get in my way",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Left to the vultures your life is denied",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I rule the jungle, I rule it with pride",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't try to run there's no way to survive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A vicious surrender I'll eat you alive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one is safe until I get my fill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hear my warning I'm king of the kill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "♪",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't try to run there's no way to survive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A vicious surrender I'll eat you alive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one is safe until I get my fill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hear my warning I'm king of the kill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Don't try to run there's no way to survive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A vicious surrender I'll eat you alive",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "No one is safe until I get my fill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "All hear my warning I'm king of the kill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Kill",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1294402",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0L8QRAAuWjqvTM8FpQ1gYO",
+                    "id": "0L8QRAAuWjqvTM8FpQ1gYO",
+                    "name": "Annihilator",
+                    "type": "artist",
+                    "uri": "spotify:artist:0L8QRAAuWjqvTM8FpQ1gYO"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5GGfaOLrxK4U38Y6b2gLoY"
+            },
+            "href": "https://api.spotify.com/v1/albums/5GGfaOLrxK4U38Y6b2gLoY",
+            "id": "5GGfaOLrxK4U38Y6b2gLoY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f79ceecb67f8891add35869c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f79ceecb67f8891add35869c",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f79ceecb67f8891add35869c",
+                    "width": 64
+                }
+            ],
+            "name": "Feast",
+            "release_date": "2013-08-23",
+            "release_date_precision": "day",
+            "total_tracks": 24,
+            "type": "album",
+            "uri": "spotify:album:5GGfaOLrxK4U38Y6b2gLoY"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO"
+                },
+                "href": "https://api.spotify.com/v1/artists/0L8QRAAuWjqvTM8FpQ1gYO",
+                "id": "0L8QRAAuWjqvTM8FpQ1gYO",
+                "name": "Annihilator",
+                "type": "artist",
+                "uri": "spotify:artist:0L8QRAAuWjqvTM8FpQ1gYO"
+            }
+        ],
+        "disc_number": 2,
+        "duration_ms": 195320,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "DENV61000671"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7tuk6FriAW7gYbFevTGhUB"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7tuk6FriAW7gYbFevTGhUB",
+        "id": "7tuk6FriAW7gYbFevTGhUB",
+        "is_local": false,
+        "name": "King Of The Kill",
+        "popularity": 45,
+        "preview_url": "https://p.scdn.co/mp3-preview/ca5308e53f5eb701d69f6277fa0881a3eeea1fbb?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 3,
+        "type": "track",
+        "uri": "spotify:track:7tuk6FriAW7gYbFevTGhUB"
+    }
+}

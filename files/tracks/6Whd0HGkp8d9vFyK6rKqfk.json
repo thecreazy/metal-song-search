@@ -1,0 +1,191 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "I am a space pirate, you know my name",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Asteroid mining is a dangerous game",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Imperial navy can't keep up my pace",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Chasing a rock into Zhodani space",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "You heard about me in the frontier wars",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Psionic menace carrying alien spores",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A living legend in the asteroid mines",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Outvoting tarrifs and imperial fines",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "One-thousand credits is my humble price",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Whether it's nickel, iron, stone or ice",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Only the wayfaring patron would dare",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A merchant cruiser, a skyway corsair",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "It's not a mineral that I seek here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "High passage, low passage",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Any way I'm outta here",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "I was born in colonies",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "On fringe worlds of the galaxy",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Meanwhile in Zhodani space",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Imperial flagships follow me",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "2527343",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0VV7GNAJSRtAvWULgtRXCn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0VV7GNAJSRtAvWULgtRXCn",
+                    "id": "0VV7GNAJSRtAvWULgtRXCn",
+                    "name": "The Lord Weird Slough Feg",
+                    "type": "artist",
+                    "uri": "spotify:artist:0VV7GNAJSRtAvWULgtRXCn"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/6Xu3d11bIGZWIeo0E6xdHu"
+            },
+            "href": "https://api.spotify.com/v1/albums/6Xu3d11bIGZWIeo0E6xdHu",
+            "id": "6Xu3d11bIGZWIeo0E6xdHu",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273653b9c62cba6be9a094e662d",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02653b9c62cba6be9a094e662d",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851653b9c62cba6be9a094e662d",
+                    "width": 64
+                }
+            ],
+            "name": "Traveller",
+            "release_date": "2003-01-20",
+            "release_date_precision": "day",
+            "total_tracks": 12,
+            "type": "album",
+            "uri": "spotify:album:6Xu3d11bIGZWIeo0E6xdHu"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0VV7GNAJSRtAvWULgtRXCn"
+                },
+                "href": "https://api.spotify.com/v1/artists/0VV7GNAJSRtAvWULgtRXCn",
+                "id": "0VV7GNAJSRtAvWULgtRXCn",
+                "name": "The Lord Weird Slough Feg",
+                "type": "artist",
+                "uri": "spotify:artist:0VV7GNAJSRtAvWULgtRXCn"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 222373,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USA561235352"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/6Whd0HGkp8d9vFyK6rKqfk"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6Whd0HGkp8d9vFyK6rKqfk",
+        "id": "6Whd0HGkp8d9vFyK6rKqfk",
+        "is_local": false,
+        "name": "High Passage/Low Passage",
+        "popularity": 10,
+        "preview_url": "https://p.scdn.co/mp3-preview/23da0e553e235153060d72e3fb827dcc5a5dad2e?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:6Whd0HGkp8d9vFyK6rKqfk"
+    }
+}

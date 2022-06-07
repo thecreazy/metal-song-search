@@ -1,0 +1,221 @@
+{
+    "trackLyrics": {
+        "syncType": "UNSYNCED",
+        "lines": [
+            {
+                "startTimeMs": "0",
+                "words": "From the islands to the cities, from the ports into the sea.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "We are strong, we will always be...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blazing through the wreckage, burning all we see.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "The life we lead, committed to be free.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Our union is a fortress!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Together we are bound.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A common bound in freedom, and in sound!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So raise your voices high!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "For miles around to hear.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let them know, we are drawing near...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In union we stand,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "As they blaze across the land!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "In union, we make a final stand...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(Again)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "A peaceful co-existance, is droping out of sight.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "So band together, together we will fight.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Blasting the resistance, marching to the top.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They started this, we say when it stops.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Strike fear within their hearts!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Strike down those in your way.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Let them know, that we live, today!",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "They throw us into flames,",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "Did not hear our cries.",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "But now, from the ashes we arise...",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "(2 again)(4x)",
+                "syllables": []
+            },
+            {
+                "startTimeMs": "0",
+                "words": "",
+                "syllables": []
+            }
+        ],
+        "provider": "MusixMatch",
+        "providerLyricsId": "1281341",
+        "providerDisplayName": "Musixmatch",
+        "syncLyricsUri": "",
+        "isDenseTypeface": false,
+        "alternatives": [],
+        "language": "en",
+        "isRtlLanguage": false,
+        "fullscreenAction": "FULLSCREEN_LYRICS"
+    },
+    "trackInfo": {
+        "album": {
+            "album_type": "album",
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0NmYchKQ8JIR9QHYJA0FRe",
+                    "id": "0NmYchKQ8JIR9QHYJA0FRe",
+                    "name": "Overkill",
+                    "type": "artist",
+                    "uri": "spotify:artist:0NmYchKQ8JIR9QHYJA0FRe"
+                }
+            ],
+            "external_urls": {
+                "spotify": "https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N"
+            },
+            "href": "https://api.spotify.com/v1/albums/5o5qYy6hUQwHP2zSqqRC8N",
+            "id": "5o5qYy6hUQwHP2zSqqRC8N",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c796aa0fe995433d85749a7a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c796aa0fe995433d85749a7a",
+                    "width": 300
+                },
+                {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c796aa0fe995433d85749a7a",
+                    "width": 64
+                }
+            ],
+            "name": "Taking Over",
+            "release_date": "1987-09-01",
+            "release_date_precision": "day",
+            "total_tracks": 9,
+            "type": "album",
+            "uri": "spotify:album:5o5qYy6hUQwHP2zSqqRC8N"
+        },
+        "artists": [
+            {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+                },
+                "href": "https://api.spotify.com/v1/artists/0NmYchKQ8JIR9QHYJA0FRe",
+                "id": "0NmYchKQ8JIR9QHYJA0FRe",
+                "name": "Overkill",
+                "type": "artist",
+                "uri": "spotify:artist:0NmYchKQ8JIR9QHYJA0FRe"
+            }
+        ],
+        "disc_number": 1,
+        "duration_ms": 265840,
+        "explicit": false,
+        "external_ids": {
+            "isrc": "USAT20000915"
+        },
+        "external_urls": {
+            "spotify": "https://open.spotify.com/track/7LdXc5LT71NbznL0xXbMrs"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7LdXc5LT71NbznL0xXbMrs",
+        "id": "7LdXc5LT71NbznL0xXbMrs",
+        "is_local": false,
+        "name": "In Union We Stand",
+        "popularity": 26,
+        "preview_url": "https://p.scdn.co/mp3-preview/0b58e7eea9b2b74f9009c40aa83032e8e91b6dc1?cid=774b29d4f13844c495f206cafdad9c86",
+        "track_number": 7,
+        "type": "track",
+        "uri": "spotify:track:7LdXc5LT71NbznL0xXbMrs"
+    }
+}
