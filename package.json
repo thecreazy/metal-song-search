@@ -4,17 +4,24 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint ./src ./scripts",
     "script:downloadSong": "node ./scripts/downloadSongInformation.js",
-    "script:uploadIntoRedis": "node ./scripts/uploadIntoRedis.js"
+    "script:uploadIntoRedis": "node ./scripts/uploadIntoRedis.js",
+    "start:api": "node ./src/api/index.js"
   },
   "author": "thecreazy <canella_riccardo@icloud.com>",
   "license": "ISC",
   "dependencies": {
     "@node-redis/json": "^1.0.2",
+    "@node-redis/search": "^1.0.5",
     "axios": "^0.27.2",
     "better-logging": "^5.0.0",
     "csv-parser": "^3.0.0",
     "dotenv": "^16.0.1",
+    "express": "^4.18.1",
     "redis": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.17.0"
   }
 }
