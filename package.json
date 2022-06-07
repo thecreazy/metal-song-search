@@ -1,13 +1,14 @@
 {
   "name": "metal-songs-search",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Metal song search using RedisSearch and RedisJSON",
   "scripts": {
     "lint": "eslint ./src ./scripts",
     "script:downloadSong": "node ./scripts/downloadSongInformation.js",
     "script:uploadIntoRedis": "node ./scripts/uploadIntoRedis.js",
-    "start": "node ./src/api/index.js"
+    "start": "node ./src/api/index.js",
+    "app:dev": "npx parcel src/web/index.html",
+    "app:build": "rm -R docs && npx parcel build src/web/index.html --dist-dir docs/"
   },
   "author": "thecreazy <canella_riccardo@icloud.com>",
   "license": "ISC",
@@ -23,6 +24,7 @@
     "redis": "^4.1.0"
   },
   "devDependencies": {
-    "eslint": "^8.17.0"
+    "eslint": "^8.17.0",
+    "parcel": "^2.6.0"
   }
 }
