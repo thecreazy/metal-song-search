@@ -34,7 +34,7 @@ module.exports.search = async (q) => {
     return await client.ft.search(INDEX_NAME,q, {
         LIMIT: {
             from: 0,
-            size: 5
+            size: 10
         }
     });
 }
