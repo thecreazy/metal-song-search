@@ -16,6 +16,12 @@ function debounce(func, wait, immediate) {
 	};
   };
 
+  function millisToMinutesAndSeconds(millis) {
+	const minutes = Math.floor(millis / 60000);
+	const seconds = ((millis % 60000) / 1000).toFixed(0);
+	return minutes + ":" + (seconds < 10 ? '0' : '') + seconds;
+  }
+
 const inputType = document.querySelector("#type_input");
 const cardsContainer = document.querySelector("#cards");
 inputType.addEventListener("input", debounce((event) => {
@@ -37,6 +43,20 @@ inputType.addEventListener("input", debounce((event) => {
 			</div>`;
 			  cardsContainer.innerHTML += card;
 		  });
-		console.log(data)
 	  });
 }, 300))
+
+const albumsContainer = document.querySelector("#albums");
+const artistsContainer = document.querySelector("#artists");
+const durationContainer = document.querySelector("#duration");
+axios({
+	method: 'get',
+	url: `https://metal-song-search.vercel.app/stats`,
+}).then(response => {
+	const {data = {results : {}}} = response;
+	const [stats = {}] = data.results;
+	const {avgDuration = 0, numberOfAlbums = 0, numberOfArtists = 0} = stats;
+	albumsContainer.innerHTML = numberOfAlbums;
+	artistsContainer.innerHTML = numberOfArtists;
+	durationContainer.innerHTML = millisToMinutesAndSeconds(avgDuration);
+});
