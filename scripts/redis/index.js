@@ -9,7 +9,11 @@ const INDEX_NAME= "idx:metalmusic";
 
 const enableClient = async () => {
     await client.connect();
-    await client.ft.dropIndex(INDEX_NAME);
+    try{
+      await client.ft.dropIndex(INDEX_NAME);
+    }catch(_){
+      console.info("index not found")
+    }
     await client.ft.create(INDEX_NAME, {
             "$.lyrics": redis.SchemaFieldTypes.TEXT,
             "$.name": redis.SchemaFieldTypes.TEXT,
